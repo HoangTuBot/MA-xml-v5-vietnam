@@ -114,7 +114,7 @@
   <string name="app_factory_reset_dlg_text">Tất cả các bản cập nhật cho ứng dụng hệ thống Android này sẽ được gỡ cài đặt.s</string>
   <string name="app_factory_reset_dlg_title">Gỡ cài đặt bản cập nhật?</string>
   <string name="app_floating_window_dlg">Cho phép\"%1$s\" hiện pop-up</string>
-  <string name="app_forward_locked">Ứng dụng được bảo vệ khỏi sao chép.</string>
+  <string name="app_forward_locked">Ứng dụng được bảo vệ khỏi sao chép.</string>
   <string name="app_install_location_summary">Thay đổi vị trí cài đặt ưa thích cho ứng dụng mới</string>
   <string name="app_install_location_title">Vị trí cài đặt ưa thích</string>
   <string name="app_name_label">Ứng dụng</string>
@@ -250,7 +250,7 @@
   <string name="battery_sugg_bluetooth_basic">Tắt Bluetooth khi không sử dụng</string>
   <string name="battery_sugg_bluetooth_headset">Thử kết nối tới thiết bị Bluetooth khác</string>
   <string name="battery_sugg_display">Giảm độ sáng của màn hình và/hoặc thời gian chờ của màn hình</string>
-  <string name="battery_sugg_radio">Chuyển sang chế độ máy bay để tiết kiệm pin ở những khu vực không phủ sóng</string>
+  <string name="battery_sugg_radio">Chuyển sang chế độ máy bay để tiết kiệm pin ở những khu vực không phủ sóng</string>
   <string name="battery_sugg_wifi">Tắt WiFi khi không sử dụng hoặc khi không khả dụng</string>
   <string name="bearer">Trình chuyển</string>
   <string name="biometric_weak_improve_matching_title">Cải tiến tính năng khớp khuôn mặt</string>
@@ -344,7 +344,7 @@
   <string name="bluetooth_mas_acceptance_dialog_text">%1$s muốn truy cập vào tin nhắn của bạn. Cho phép %2$s truy cập?</string>
   <string name="bluetooth_mas_remember_choice">"Không hỏi lại"</string>
   <string name="bluetooth_mas_request">Yêu cầu cấp quyền truy cập vào tin nhắn</string>
-  <string name="bluetooth_menu_advanced">Nâng cao/string>
+  <string name="bluetooth_menu_advanced">Nâng cao</string>
   <string name="bluetooth_name_not_set">Không có tên nào được đặt, sử dụng tên tài khoản</string>
   <string name="bluetooth_no_devices_found">Không tìm thấy thiết bị Bluetooth lân cận nào.</string>
   <string name="bluetooth_not_discoverable">Đặt thiết bị ở chế độ có thể phát hiện</string>
