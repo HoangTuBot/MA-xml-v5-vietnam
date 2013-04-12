@@ -83,8 +83,8 @@
     <string-array name="baidu">
         <item>百度</item>
         <item>baidu.com</item>
-        <item>http://www.baidu.com/favicon.ico</item>
-        <item>http://www.baidu.com/s?wd={searchTerms}</item>
+        <item>http://m.baidu.com/favicon.ico</item>
+        <item>http://m.baidu.com/s?from=1269a&amp;word={searchTerms}</item>
         <item>GB2312</item>
         <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
     </string-array>
@@ -406,7 +406,7 @@
         <item>http://1.im.cz/szn/img/favicon.ico</item>
         <item>http://search.seznam.cz/?q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http:///suggest.fulltext.seznam.cz/?dict=fulltext_ff&amp;phrase={searchTerms}&amp;encoding={inputEncoding}&amp;response_encoding=utf-8</item>
+        <item>http://suggest.fulltext.seznam.cz/?dict=fulltext_ff&amp;phrase={searchTerms}&amp;encoding={inputEncoding}&amp;response_encoding=utf-8</item>
     </string-array>
     <string-array name="centrum_cz">
         <item>Centrum.cz</item>
@@ -758,18 +758,12 @@
         <item>OFF</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Current page</item>
-        <item>MIUI home</item>
-        <item>Blank page</item>
-        <item>Default page</item>
+        <item>Start page</item>
         <item>Most visited sites</item>
-        <item>Other</item>
+        <item>Custom</item>
     </string-array>
     <string-array name="pref_homepage_values">
-        <item>current</item>
         <item>miui_home</item>
-        <item>blank</item>
-        <item>default</item>
         <item>most_visited</item>
         <item>other</item>
     </string-array>
@@ -781,9 +775,9 @@
         <item>Huge</item>
     </string-array>
     <string-array name="pref_default_zoom_choices">
-        <item>Far</item>
+        <item>Small</item>
         <item>Medium</item>
-        <item>Close</item>
+        <item>Large</item>
     </string-array>
     <string-array name="pref_default_zoom_values">
         <item>FAR</item>
@@ -828,14 +822,34 @@
     </string-array>
     <string-array name="pref_data_preload_choices">
         <item>Never</item>
-        <item>Only on Wi-Fi</item>
+        <item>Only on WLAN</item>
         <item>Always</item>
     </string-array>
-    <array name="pref_data_preload_values">
+    <string-array name="pref_data_preload_values">
         <item>@string/pref_data_preload_value_never</item>
         <item>@string/pref_data_preload_value_wifi_only</item>
         <item>@string/pref_data_preload_value_always</item>
-    </array>
+    </string-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>Never</item>
+        <item>Only on WLAN</item>
+        <item>Always</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_values">
+        <item>@string/pref_link_prefetch_value_never</item>
+        <item>@string/pref_link_prefetch_value_wifi_only</item>
+        <item>@string/pref_link_prefetch_value_always</item>
+    </string-array>
+    <string-array name="pref_video_preload_choices">
+        <item>Never</item>
+        <item>Only on WLAN</item>
+        <item>Always</item>
+    </string-array>
+    <string-array name="pref_video_preload_values">
+        <item>@string/pref_video_preload_value_never</item>
+        <item>@string/pref_video_preload_value_wifi_only</item>
+        <item>@string/pref_video_preload_value_always</item>
+    </string-array>
     <string-array name="bookmarks">
         <item>Google</item>
         <item>http://www.google.com/</item>
@@ -866,6 +880,14 @@
         <item>BBC</item>
         <item>http://www.bbc.co.uk/</item>
     </string-array>
+    <string-array name="sogou">
+        <item>搜狗</item>
+        <item>sogou.com</item>
+        <item>http://wap.sogou.com/favicon.ico</item>
+        <item>http://wap.sogou.com/web/searchlist.jsp?keyword={searchTerms}&amp;pid=xiaomiyidong</item>
+        <item>UTF-8</item>
+        <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+    </string-array>
     <array name="bookmark_preloads_zh">
         <item>@raw/zh_favicon_xiaomi_bbs</item>
         <item>@raw/zh_thumb_xiaomi_bbs</item>
@@ -882,11 +904,26 @@
         <item>@raw/zh_favicon_163</item>
         <item>@raw/zh_thumb_163</item>
     </array>
+    <string-array name="google_in_list">
+        <item>search_google</item>
+        <item>ic_search_engine_google_list_item</item>
+        <item>google</item>
+    </string-array>
+    <string-array name="yahoo_in_list">
+        <item>search_yahoo</item>
+        <item>ic_search_engine_yahoo_list_item</item>
+        <item>yahoo</item>
+    </string-array>
+    <string-array name="bing_in_list">
+        <item>search_bing</item>
+        <item>ic_search_engine_bing_list_item</item>
+        <item>bing</item>
+    </string-array>
     <string-array name="bookmarks_zh">
         <item>小米论坛</item>
-        <item>http://bbs.xiaomi.com/</item>
+        <item>http://bbs.xiaomi.cn/</item>
         <item>百度</item>
-        <item>http://m.baidu.com/?from=1269a/</item>
+        <item>http://m.baidu.com/?from=1269a</item>
         <item>谷歌</item>
         <item>http://www.google.com.hk/</item>
         <item>新浪</item>
@@ -916,7 +953,7 @@
     </string-array>
     <string-array name="pref_volume_key_choices">
         <item>Page up/down</item>
-        <item>Switch tab</item>
+        <item>Switch window</item>
     </string-array>
     <string-array name="pref_volume_key_values">
         <item>0</item>
@@ -924,7 +961,7 @@
     </string-array>
     <string-array name="pref_fling_on_border_choices">
         <item>Page forward/backward</item>
-        <item>Switch tab</item>
+        <item>Switch window</item>
     </string-array>
     <string-array name="pref_fling_on_border_values">
         <item>0</item>

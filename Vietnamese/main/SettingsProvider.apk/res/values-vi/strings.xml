@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_label">Lưu trữ cài đặt</string>
+  <string name="app_label">Lưu trũ cài đặt</string>
   <string name="def_car_dock_sound">/system/media/audio/ui/Dock.ogg</string>
   <string name="def_car_undock_sound">/system/media/audio/ui/Undock.ogg</string>
   <string name="def_desk_dock_sound">/system/media/audio/ui/Dock.ogg</string>
