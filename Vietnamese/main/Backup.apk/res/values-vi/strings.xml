@@ -96,7 +96,7 @@
   <string name="local_no_backup">Không có dữ liệu sao lưu trên máy(s)</string>
   <string name="local_restore_window_title">Local Recovery</string>
   <string name="local_select_account_contact">Tài khoản / Danh bạ</string>
-  <string name="local_select_sysdata">Hệ thống/string>
+  <string name="local_select_sysdata">Hệ thống</string>
   <string name="local_select_userapp">Ứng dụng</string>
   <string name="menu_patch_delete">Xóa sao lưu(s)</string>
   <string name="miliao_account_guide">MiTalk account upgraded to Xiaomi account\n Enjoy all Xiaomi online services</string>
