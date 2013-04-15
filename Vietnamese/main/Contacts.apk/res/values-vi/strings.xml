@@ -87,7 +87,7 @@ Nếu bạn đang sử dụng các dịch vụ đồng bộ, các thông tin li�
   <string name="calllog_menu_send_sms">Gửi một tin nhắn SMS</string>
   <string name="callrecordview_item_newcontact">Liên lạc mới</string>
   <string name="callrecordview_item_op_time_minutes_seconds">%1$d phút %2$d giây</string>
-  <string name="callrecordview_item_op_time_missed">Chưa được kết nối/string>
+  <string name="callrecordview_item_op_time_missed">Chưa được kết nối</string>
   <string name="callrecordview_item_op_time_only_minutes">%d phút</string>
   <string name="callrecordview_item_op_time_only_seconds">%d giây</string>
   <string name="callrecordview_item_op_time_rejected">Đã từ chối</string>
