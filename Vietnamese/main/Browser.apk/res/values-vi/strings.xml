@@ -193,6 +193,7 @@
   <string name="import_bookmarks_wizard_next">Tiếp theo</string>
   <string name="import_bookmarks_wizard_previous">Trước</string>
   <string name="importing_favorite_files">Nhập dữ liệu ...</string>
+  <string name="in_incognito">Chế độ ẩn danh được kích hoạt, lịch sử trình duyệt sẽ không được lưu.</string>
   <string name="instant_search_label">Google with Instant (Labs)</string>
   <string name="is_first_history_item">Là khoản mục lịch sử đầu tiên</string>
   <string name="is_first_tab">Là thẻ đầu tiên</string>
@@ -222,6 +223,7 @@
   <string name="new_tab">Tab mới</string>
   <string name="no_subfolders">Không có thư mục con.</string>
   <string name="not_remind_again">Không nhắc nhở tôi nữa</string>
+  <string name="notif_install_successful">Tải về thành công</string>
   <string name="ok">OK</string>
   <string name="open_all_bookmarks">Mở tất cả</string>
   <string name="open_all_in_new_window">Mở tất cả dấu trang trong tab mới</string>
@@ -435,6 +437,7 @@
   <string name="tab_history">Lịch sử</string>
   <string name="tab_most_visited">Đã truy cập nhiều nhất</string>
   <string name="tab_opened_background">Tab đã mở trong nền.</string>
+  <string name="tab_opened_background_in_incognito">Cửa sổ ẩn danh mới mở</string>
   <string name="tab_quicklinks">Liên kết nhanh</string>
   <string name="tab_snapshots">Trang đã lưu</string>
   <string name="tab_yellowpage">Yellow page</string>

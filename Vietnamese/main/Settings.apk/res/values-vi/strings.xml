@@ -451,6 +451,7 @@
   <string name="camera_key_action_title">MI button</string>
   <string name="camera_key_action_toggle_title">Trigger toggle</string>
   <string name="cancel">Huỷ</string>
+  <string name="cancel_alert">Hủy thông báo?</string>
   <string name="cant_sync_dialog_message">Đồng bộ hóa cho mục này hiện đã bị vô hiệu hóa. Để thay đổi cài đặt này, hãy tạm thời bật dữ liệu nền và đồng bộ hóa tự động.</string>
   <string name="cant_sync_dialog_title">Không thể đồng bộ hóa theo cách thủ công</string>
   <string name="carrier_enabled">Bật/tắt APN</string>
