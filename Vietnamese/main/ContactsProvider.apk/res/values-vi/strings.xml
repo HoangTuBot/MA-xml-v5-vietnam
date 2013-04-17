@@ -1,15 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">Bộ nhớ Danh bạ</string>
-  <string name="create_contact">New contact</string>
-  <string name="default_directory">Danh bạ</string>
-  <string name="edit_contact">Add to contact</string>
+  <string name="call_log_provider_label">Nhật ký</string>
+  <string name="create_contact">Liên hệ mới</string>
+  <string name="default_directory">Liên hệ</string>
+  <string name="edit_contact">Thêm vào danh bạ</string>
   <string name="local_invisible_directory">Khác</string>
-  <string name="pound_search_tip">Input number after \"#\" to search contacts</string>
-  <string name="provider_label">Danh bạ</string>
+  <string name="pound_search_tip">Nhập số sau \"#\" để tìm liên hệ</string>
+  <string name="provider_label">Liên hệ</string>
   <string name="read_write_all_voicemail_description">Cho phép ứng dụng lưu trữ và truy xuất tất cả thư thoại mà thiết bị này có thể truy cập.</string>
   <string name="read_write_all_voicemail_label">Truy cập tất cả các thư thoại</string>
-  <string name="send_sms">Send message</string>
+  <string name="send_sms">Gửi tin nhắn</string>
   <string name="sharedUserLabel">Ứng dụng lõi Android</string>
   <string name="upgrade_msg">Đang nâng cấp cơ sở dữ liệu Danh bạ.</string>
   <string name="upgrade_out_of_memory_notification_text">Chọn để hoàn tất nâng cấp.</string>
