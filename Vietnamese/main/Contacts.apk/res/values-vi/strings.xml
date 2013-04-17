@@ -398,7 +398,7 @@ Nếu bạn đang sử dụng các dịch vụ đồng bộ, các thông tin li�
   <string name="import_from_other_phone">Nhập từ điện thoại khác</string>
   <string name="import_from_sdcard">Nhập từ bộ nhớ</string>
   <string name="import_from_sim">Nhập từ thẻ SIM</string>
-  <string name="import_multiple_vcard_string">Nhập nhiều tệp vCard</string>s
+  <string name="import_multiple_vcard_string">Nhập nhiều tệp vCard</string>
   <string name="import_name">tên</string>
   <string name="import_one_vcard_string">Nhập một tệp vCard</string>
   <string name="import_percent">0%</string>
