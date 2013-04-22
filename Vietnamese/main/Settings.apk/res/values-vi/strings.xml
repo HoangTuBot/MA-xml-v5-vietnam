@@ -77,6 +77,7 @@
   <string name="android_beam_off_summary">Tắt</string>
   <string name="android_beam_on_summary">Sẵn sàng truyền tải nội dung ứng dụng qua NFC</string>
   <string name="android_beam_settings_title">Android Beam</string>
+  <string name="android_beam_witch_label">Bật Android Beam</string>
   <string name="animator_duration_scale_title">Tốc độ hiệu ứng</string>
   <string name="apn_apn">APN (Tên điểm truy cập)</string>
   <string name="apn_auth_type">Loại xác nhận</string>
@@ -114,6 +115,8 @@
   <string name="app_factory_reset_dlg_text">Tất cả các bản cập nhật cho ứng dụng hệ thống Android này sẽ được gỡ cài đặt.s</string>
   <string name="app_factory_reset_dlg_title">Gỡ cài đặt bản cập nhật?</string>
   <string name="app_floating_window_dlg">Cho phép\"%1$s\" hiện pop-up</string>
+  <string name="app_floating_window_dlg_disable">"Tắt %1$s's cửa sổ cài đặt trôi nổi sẽ ngừng các ứng dụng. Bạn có chắc muốn vô hiệu hoá không?"</string>
+  <string name="app_floating_window_dlg_enable">"Bật %1$s's cửa sổ cài đặt trôi nổi yêu cầu ứng dụng khởi động lại. Bạn có chắc bạn muốn cho phép?"</string>
   <string name="app_forward_locked">Ứng dụng được bảo vệ khỏi sao chép.</string>
   <string name="app_install_location_summary">Thay đổi vị trí cài đặt ưa thích cho ứng dụng mới</string>
   <string name="app_install_location_title">Vị trí cài đặt ưa thích</string>
@@ -808,6 +811,7 @@ Một số tài khoản cũng tự động sao chép bất kỳ thay đổi nào
   <string name="finish_button_label">Hoàn thành</string>
   <string name="firmware_version">Phiên bản Android</string>
   <string name="floating_window_switch_label">Hiển thị cửa sổ bật lên</string>
+  <string name="floating_window_switch_label_disable">Ẩn cửa sổ bật lên</string>
   <string name="font_size_huge">Cực lớn</string>
   <string name="font_size_large">Lớn</string>
   <string name="font_size_medium">Vừa</string>
@@ -1687,6 +1691,7 @@ Có thể mã PIN không đúng."</string>
   <string name="sim_lock_settings">Cài đặt khoá thẻ SIM</string>
   <string name="sim_lock_settings_category">Thiết lập khoá thẻ SIM</string>
   <string name="sim_lock_settings_title">Khoá thẻ SIM</string>
+  <string name="sim_management_title">Quản lý SIM</string>
   <string name="sim_pin_attempts">"Số lần thử còn lại:"</string>
   <string name="sim_pin_change">T.đổi mã PIN của SIM</string>
   <string name="sim_pin_disabled">Đã vô hiệu hóa PIN1!</string>

@@ -46,6 +46,7 @@
   <string name="context_call">Cuộc gọi</string>
   <string name="context_ms">Gửi tin nhắn</string>
   <string name="context_new_contact">Liên lạc mới</string>
+  <string name="custom_mark_category">Tùy chỉnh</string>
   <string name="edit_blacklist">Chỉnh sửa ghi chú</string>
   <string name="edit_whitelist">Chỉnh sửa ghi chú</string>
   <string name="emptylist_fwlog_call">Tất cả các cuộc gọi bị chặn sẽ được ghi nhật ký ở đây</string>
@@ -108,6 +109,8 @@
   <string name="fw_whitelist">Danh sách ưu tiên</string>
   <string name="fw_whitelist_hint">Những thành viên trong danh sách ưu tiên sẽ không bị chặn</string>
   <string name="log_count">(%d)</string>
+  <string name="mark_number_dialog_maintitle">Đánh dấu số không biết và lưu</string>
+  <string name="mark_number_dialog_subtitle">Phát triển với Sogou</string>
   <string name="member_firewall_log" formatted="false">Đã bị chặn: Số %d chi tiết %d</string>
   <string name="menu_edit">Chỉnh sửa</string>
   <string name="mms_log_tab_title">SMS</string>
@@ -130,5 +133,10 @@
   <string name="save_button">Lưu</string>
   <string name="show_firewall_notification">Hiển thị thông báo tường lửa</string>
   <string name="show_notification">Hiển thị thông báo</string>
+  <string name="smart_antispam">Chống spam thông minh</string>
+  <string name="turn_on_smart_antispam_hint">Sau khi cho phép số sẽ được xác định, nhãn số và giúp đỡ xác định cuộc gọi lừa đảo.</string>
+  <string name="turn_on_smart_antispam_summary_off">Địa phương truy vấn cơ sở dữ liệu số</string>
+  <string name="turn_on_smart_antispam_summary_on">Chỉ hoạt động trên Wi-Fi và mạng 3G</string>
+  <string name="turn_on_smart_antispam_title">Xác định số lượng</string>
   <string name="whitelist_tab_title">Ưu tiên</string>
 </resources>

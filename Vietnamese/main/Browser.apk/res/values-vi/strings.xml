@@ -431,6 +431,7 @@
   <string name="ssl_untrusted">Chứng chỉ này không xuất phát từ tổ chức phát hành đáng tin cậy.</string>
   <string name="ssl_warnings_header">Xảy ra sự cố với chứng nhận bảo mật cho trang web này.</string>
   <string name="stop">Ngừng</string>
+  <string name="stop_loading">Ngừng</string>
   <string name="stopping">Đang ngừng...</string>
   <string name="tab_bookmarks">Sổ địa chỉ</string>
   <string name="tab_closed">Đã đóng tab.</string>
