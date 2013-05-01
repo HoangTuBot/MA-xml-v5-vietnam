@@ -157,6 +157,7 @@
   <string name="automatic_brightness">Tự động điều chỉnh độ sáng</string>
   <string name="available_size">%s (Khả dụng)</string>
   <string name="awake">Thời gian đánh thức thiết bị</string>
+  <string name="back_key">Phím Back</string>
   <string name="back_long_press">Phím Back</string>
   <string name="back_long_press_timeout">Thời gian trễ</string>
   <string name="background_data">Dữ liệu nền</string>
@@ -673,6 +674,9 @@ Một số tài khoản cũng tự động sao chép bất kỳ thay đổi nào
   <string name="device_status_summary">Trạng thái pin, dung lượng pin khả dụng, etc.</string>
   <string name="dialog_title_font_size">Kích thước phông chữ</string>
   <string name="dirac_control">Dirac Control</string>
+  <string name="dirac_mode_earbuds">Earbuds</string>
+  <string name="dirac_mode_earphones">Earphones</string>
+  <string name="dirac_mode_off">Dirac Off</string>
   <string name="disableNetwork">disableNetwork</string>
   <string name="disable_overlays">Disable HW overlays</string>
   <string name="disable_overlays_summary">Luôn luôn sử dụng GPU cho màn hình ghép</string>
@@ -865,6 +869,7 @@ Một số tài khoản cũng tự động sao chép bất kỳ thay đổi nào
   <string name="help_url_wifi"/>
   <string name="hidden_ssid_label">Hidden SSID:</string>
   <string name="history_details_title">Chi tiết lịch sử</string>
+  <string name="home_key">Phím Home</string>
   <string name="ime_security_warning">Phương thức nhập này có thể thu thập tất cả văn bản bạn nhập, bao gồm dữ liệu cá nhân như mật khẩu và số thẻ tín dụng. Phương thức nhập này đến từ ứng dụng %1$s. Sử dụng phương thức nhập này?</string>
   <string name="immediately_destroy_activities">Không tiếp tục các hoạt động</string>
   <string name="immediately_destroy_activities_summary">Hủy mọi hoạt động ngay khi người dùng rời khỏi</string>
@@ -1530,6 +1535,9 @@ please follow the steps to complete installation"</string>
   <string name="screen_color_temperature_adjust">Điều chỉnh nhiệt độ màu</string>
   <string name="screen_compatibility_label">Khả năng tương thích với màn hình</string>
   <string name="screen_compatibility_text">Có thể ứng dụng này không được thiết kế cho màn hình của bạn. Bạn có thể kiểm soát cách ứng dụng điều chỉnh phù hợp với màn hình của mình tại đây.</string>
+  <string name="screen_key_long_press">Bấm giữ phím ảo</string>
+  <string name="screen_key_long_press_action">Chức năng ẩn</string>
+  <string name="screen_key_long_press_timeout">Thời gian bấm giữ</string>
   <string name="screen_on_proximity_sensor_summary">Ngăn chặn việc vô ý sử dụng điện thoại khi đặt tróng túi(phát hiện qua cảm biến tiệm cận).</string>
   <string name="screen_on_proximity_sensor_title">Ngăn chặn lạm dụng</string>
   <string name="screen_saturation_adjust">Điều chỉnh độ bão hòa màu</string>
@@ -1826,6 +1834,7 @@ Một giải pháp đồng bộ hóa dữ liệu của Google cho phép truy c�
   <string name="tts_settings_title">Đầu ra của chuyển văn bản thành giọng nói</string>
   <string name="turn_off_radio">Tắt radio</string>
   <string name="turn_on_radio">Bật radio</string>
+  <string name="under_keyguard">Ở màn hình khóa</string>
   <string name="uninstall_text">Gỡ cài đặt</string>
   <string name="unknown">Không xác định</string>
   <string name="unlock_backup_info_summary">Khi Mở khóa bằng khuôn mặt không thể nhìn thấy bạn, bạn muốn mở khóa bằng cách nào?</string>

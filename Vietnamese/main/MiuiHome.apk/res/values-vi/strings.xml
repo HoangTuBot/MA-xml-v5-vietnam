@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_abnormal_state">Lỗi với thông tin tài khoản, vui lòng thử lại.</string>
-  <string name="activity_not_found">Ứng dụng không được cài đặt trên điện thoại của bạn.</string>
-  <string name="all_resources">Tất cả</string>
+  <string name="account_abnormal_state">Error in account information, please try logging in again.</string>
+  <string name="activity_not_found">Application is not installed on your phone.</string>
+  <string name="all_resources">All</string>
   <string name="application_name">MiuiHome</string>
-  <string name="aqi_quality_index_dangerous">Nguy hiểm</string>
-  <string name="aqi_quality_index_good">Tốt</string>
-  <string name="aqi_quality_index_hazardous">Nguy hiểm</string>
-  <string name="aqi_quality_index_light_pollution">Ô nhiễm ánh sáng</string>
-  <string name="aqi_quality_index_moderate">Vừa phải</string>
+  <string name="aqi_quality_index_dangerous">Dangerous</string>
+  <string name="aqi_quality_index_good">Good</string>
+  <string name="aqi_quality_index_hazardous">Hazardous</string>
+  <string name="aqi_quality_index_light_pollution">Light pollution</string>
+  <string name="aqi_quality_index_moderate">Moderate</string>
   <string name="aqi_quality_index_unhealthy">Unhealthy</string>
   <string name="buffering">Buffering...</string>
   <string name="cancel_action">Cancel</string>
