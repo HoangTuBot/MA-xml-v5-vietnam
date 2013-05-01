@@ -207,7 +207,9 @@
   <string name="mx_current_status">Tình trạng hiện tại: trực tuyến</string>
   <string name="mx_dspt">Gửi tin nhắn qua Internet giữa MIUI, bật để gửi qua các nhà điều hành một thất bại</string>
   <string name="mx_enable">Bật tin nhắn mây</string>
+  <string name="mx_enable_int_popup_msg">Nhắn tin đám mây cho phép bạn gửi tin nhắn giữa những người sủ dụng MIUI. Để kích hoạt cần phải gửi 1 tin nhắn quốc tế. Phí dịch vụ có thể được áp dụng.</string>
   <string name="mx_enable_popup_msg">Đám mây nhắn tin cho phép bạn gửi tin nhắn thông qua MIUI. Một tin nhắn SMS bình thường là cần thiết để kích hoạt các dịch vụ và nhà cung cấp chi phí có thể áp dụng. Bạn có muốn kích hoạt nó bây giờ?</string>
+  <string name="mx_int_warning_notice">Cần gửi 1 tin nhắn để kích hoạt nhắn tin đám mây, phí dịch vụ có thể được áp dụng</string>
   <string name="mx_msg">Tin nhắn mây</string>
   <string name="mx_offline">Ngoại tuyến</string>
   <string name="mx_online">Trực tuyến</string>
