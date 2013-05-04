@@ -781,6 +781,7 @@ Nếu bạn đang sử dụng các dịch vụ đồng bộ, các thông tin li�
   <string name="separatorJoinAggregateSuggestions">Liên hệ được đề xuất</string>
   <string name="service_provider">Yellow page</string>
   <string name="set_default">Đặt mặc định</string>
+  <string name="set_photo_failed_msg">Đặt hình ảnh đại diện thất bại</string>
   <string name="share_error">Không thể chia sẻ địa chỉ liên hệ này.</string>
   <string name="share_via">Chia sẻ liên hệ qua</string>
   <string name="share_visible_contacts">Chia sẻ liên hệ hiển thị</string>

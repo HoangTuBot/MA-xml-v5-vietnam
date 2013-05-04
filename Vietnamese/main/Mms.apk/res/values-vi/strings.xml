@@ -198,6 +198,9 @@
   <string name="mx_activate_hint_malformed_info">Hoạt động gián đoạn, kích hoạt của đám mây nhắn tin là cần thiết. Kích hoạt nó bây giờ?</string>
   <string name="mx_activate_hint_server">Kích hoạt máy chủ thất bại trong việc kích hoạt đám mây tin nhắn? Kích hoạt nó bây giờ?</string>
   <string name="mx_activate_hint_sim_change">Thẻ SIM thay đổi, kích hoạt của đám mây nhắn tin yêu cầu. Kích hoạt nó bây giờ?</string>
+  <string name="mx_activate_int_hint_malformed_info">Lỗi xử lý yêu cầu. Một tin nhắn SMS quốc tế là cần thiết để kích hoạt lại đám mây nhắn tin. Bạn có muốn kích hoạt nó bây giờ không?</string>
+  <string name="mx_activate_int_hint_server">Kích hoạt với máy chủ thất bại cho đám mây nhắn tin, tin nhắn SMS quốc tế là cần thiết để kích hoạt lại đám mây nhắn tin. Bạn có muốn kích hoạt nó bây giờ không?</string>
+  <string name="mx_activate_int_hint_sim_change">SIM thay đổi. Một tin nhắn SMS quốc tế là cần thiết để kích hoạt lại đám mây nhắn tin. Bạn có muốn kích hoạt nó bây giờ không?</string>
   <string name="mx_auto_resend_mms">Tự động gửi lại tin nhắn đa phương tiện</string>
   <string name="mx_auto_resend_mms_summary">Gửi MMS khi đám mây nhắn tin có sẵn. Các nhà cung cấp tin nhắn tỷ lệ có thể áp dụng</string>
   <string name="mx_auto_resend_sms">Gửi như tin nhắn SMS</string>
@@ -335,7 +338,7 @@
   <string name="send">Gửi</string>
   <string name="send_signature_confirm_dialog_message">Không có nội dung thư được tìm thấy. Bạn có chắc bạn muốn gửi chỉ chữ ký không?</string>
   <string name="send_signature_confirm_dialog_title">Xác nhận gửi</string>
-  <string name="send_to">Tới: %1$s</string>
+  <string name="send_to">Tới: </string>
   <string name="send_to_count">Đã gửi %1$s tin nhắn</string>
   <string name="send_to_index_contact">Đã gửi %1$s trong %2$s</string>
   <string name="sent_label">"Đã gửi: "</string>

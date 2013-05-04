@@ -412,6 +412,7 @@
   <string name="short_pincode_error_msg">Vui lòng điền 4–8 số</string>
   <string name="short_pukcode_error_msg">Vui lòng điền tối thiểu 8 số</string>
   <string name="sim_account_name">SIM</string>
+  <string name="sim_changed_reactivate_int_notice">Thẻ SIM hiện tại không được kích hoạt. Một tin nhắn SMS là cần thiết để kích hoạt dịch vụ. Kích hoạt lại bây giờ?</string>
   <string name="sim_changed_reactivate_notice">Thẻ SIM hiện tại không được kích hoạt. Một tin nhắn SMS là cần thiết để kích hoạt dịch vụ đồng bộ hóa Xiaomi. Kích hoạt lại bây giờ?</string>
   <string name="sim_in_airplane_mode">Vô hiệu hóa chế độ máy bay.</string>
   <string name="sim_locked">Thẻ SIM đã bị khóa</string>
