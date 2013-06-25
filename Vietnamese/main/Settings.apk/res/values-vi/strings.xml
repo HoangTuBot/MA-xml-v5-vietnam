@@ -114,7 +114,6 @@
   <string name="app_factory_reset">Gỡ cập nhật</string>
   <string name="app_factory_reset_dlg_text">Tất cả các bản cập nhật cho ứng dụng hệ thống Android này sẽ được gỡ cài đặt.s</string>
   <string name="app_factory_reset_dlg_title">Gỡ cài đặt bản cập nhật?</string>
-  <string name="app_floating_window_dlg">Cho phép\"%1$s\" hiện pop-up</string>
   <string name="app_floating_window_dlg_disable">"Tắt %1$s's cửa sổ cài đặt trôi nổi sẽ ngừng các ứng dụng. Bạn có chắc muốn vô hiệu hoá không?"</string>
   <string name="app_floating_window_dlg_enable">"Bật %1$s's cửa sổ cài đặt trôi nổi yêu cầu ứng dụng khởi động lại. Bạn có chắc bạn muốn cho phép?"</string>
   <string name="app_forward_locked">Ứng dụng được bảo vệ khỏi sao chép.</string>
@@ -158,8 +157,6 @@
   <string name="available_size">%s (Khả dụng)</string>
   <string name="awake">Thời gian đánh thức thiết bị</string>
   <string name="back_key">Phím Back</string>
-  <string name="back_long_press">Phím Back</string>
-  <string name="back_long_press_timeout">Thời gian trễ</string>
   <string name="background_data">Dữ liệu nền</string>
   <string name="background_data_dialog_message">Tắt dữ liệu nền sẽ kéo dài tuổi thọ pin và giảm mức sử dụng dữ liệu. Một số ứng dụng vẫn có thể sử dụng kết nối dữ liệu nền.</string>
   <string name="background_data_dialog_title">Tắt dữ liệu nền?</string>
@@ -387,7 +384,6 @@
   <string name="bluetooth_profile_dun">Truy nhập mạng quay số</string>
   <string name="bluetooth_profile_headset">Âm thanh điện thoại</string>
   <string name="bluetooth_profile_hid">Thiết bị đầu vào</string>
-  <string name="bluetooth_profile_name">"%1$s's MIUI Phone"</string>
   <string name="bluetooth_profile_opp">Chuyển tệp</string>
   <string name="bluetooth_profile_pan">Truy cập Internet</string>
   <string name="bluetooth_profile_pan_nap">Chia sẻ kết nối internet</string>
@@ -655,7 +651,6 @@ Một số tài khoản cũng tự động sao chép bất kỳ thay đổi nào
   <string name="device_cpu">CPU</string>
   <string name="device_cpu2_info">Hai nhân</string>
   <string name="device_cpu4_info">Bốn nhân</string>
-  <string name="device_default_name">Xiaomi phone</string>
   <string name="device_edit_title">Đổi tên thiết bị</string>
   <string name="device_info_default">Không xác định</string>
   <string name="device_info_label">Thông tin thiết bị</string>
@@ -768,8 +763,6 @@ Một số tài khoản cũng tự động sao chép bất kỳ thay đổi nào
   <string name="enableNetwork">enableNetwork</string>
   <string name="enable_adb">Gỡ rối USB</string>
   <string name="enable_adb_summary">Chế độ gỡ lỗi khi kết nối USB</string>
-  <string name="enable_assist_key_long_press">Giữ phím để bật trợ ly giọng nói</string>
-  <string name="enable_back_long_press">Giữ phím để tắt ứng dụng</string>
   <string name="enable_compatibility">Chia tỷ lệ ứng dụng</string>
   <string name="enable_drive_mode">Bật chế độ lái xe</string>
   <string name="enable_snapshot_screenlock">Giữ phím để chụp ảnh màn hình khóa</string>
@@ -1060,13 +1053,6 @@ Chú ý: Không thể hoàn tác khôi phục cài đặt gốc"</string>
   <string name="master_clear_personal_data_sdcard">"Bạn có muốn xóa hết thông tin cá nhân và định dạng lại thẻ SD? Thao tác này không thể khôi phục lại"</string>
   <string name="master_clear_summary">Xóa tất cả dữ liệu trên điện thoạis</string>
   <string name="master_clear_title">Cài lại dữ liệu của nhà SX</string>
-  <string name="mdb_entering">Đang vào...</string>
-  <string name="mdb_restore_cancel">Hủy bỏ</string>
-  <string name="mdb_restore_info1">"Khôi phục lại dữ liệu của điện thoại"</string>
-  <string name="mdb_restore_info2">"Vui lòng không ngắt kết nối USB"</string>
-  <string name="mdb_restore_label">Mdb Restore</string>
-  <string name="mdb_restore_mode">Chế độ khôi phục</string>
-  <string name="mdb_usb_disconnection_exit">Đã ngắt kết nối USB, đang hủy quá trình khôi phục</string>
   <string name="media_button">Media button</string>
   <string name="media_format_button_text">Xóa USB lưu trữ</string>
   <string name="media_format_desc">Xóa tất cả USB lưu trữ? Sẽ xóa </string>
@@ -1102,7 +1088,6 @@ Chú ý: Không thể hoàn tác khôi phục cài đặt gốc"</string>
   <string name="misc_files">Tệp tin khác</string>
   <string name="misc_files_selected_count">đã chọn %1$d trong tổng số %2$d</string>
   <string name="misc_files_selected_count_bytes">%1$s trong tổng số %2$s</string>
-  <string name="miui_device_default_name">Android</string>
   <string name="mms_vibrate_abbreviation">Messages</string>
   <string name="model_number">Số hiệu đời máy</string>
   <string name="move_app">Chuyển</string>
@@ -1294,7 +1279,6 @@ please follow the steps to complete installation"</string>
   <string name="perm_operating">Đang hoạt động...</string>
   <string name="perm_optimize">Tối ưu hóa</string>
   <string name="perm_privacy_app_count">%1$d lấy quyền truy cập</string>
-  <string name="perm_privacy_app_count_trust_summary">Ứng dụng tin cậy</string>
   <string name="perm_privacy_app_finish">Hoàn thành</string>
   <string name="perm_privacy_app_installed">Cài đặt thành công</string>
   <string name="perm_privacy_app_launch">Mở</string>
@@ -1362,7 +1346,6 @@ please follow the steps to complete installation"</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_cell">Điện thoại ở chế độ chờ</string>
   <string name="power_idle">Điện thoại ở chế độ rảnh</string>
-  <string name="power_key">Nút nguồn</string>
   <string name="power_mode">Chế độ nguồn</string>
   <string name="power_phone">Cuộc gọi thoại</string>
   <string name="power_screen">Màn hình</string>
@@ -1375,7 +1358,6 @@ please follow the steps to complete installation"</string>
   <string name="pref_button_light">Đèn bàn phím</string>
   <string name="pref_button_light_summary">Menu,Home and Back key indicator</string>
   <string name="pref_operational_key">Phím hoạt động</string>
-  <string name="pref_volume_category_title">Âm lượng</string>
   <string name="pref_volume_wake_summary">Nhấn nút âm lượng tăng hoặc giảm để mở điện thoại. Dành cho các điện thoại khó bấm nút nguồn</string>
   <string name="pref_volume_wake_title">Âm lượng mở khóa</string>
   <string name="preference_change_password_title">Thay đổi mật khẩu</string>
@@ -1527,7 +1509,6 @@ please follow the steps to complete installation"</string>
   <string name="runningservicedetails_stop_dlg_title">Ngừng dịch vụ hệ thống?</string>
   <string name="runningservices_settings_summary">Xem và kiểm soát các dịch vụ hiện đang chạy</string>
   <string name="runningservices_settings_title">Dịch vụ đang chạy</string>
-  <string name="safe_relative">Quyền an toàn</string>
   <string name="scan_list_label">Kết quả quét:</string>
   <string name="screen">Màn hình</string>
   <string name="screen_button_custom">Tùy chỉnh phím ảo trên màn hình</string>
@@ -1668,7 +1649,6 @@ please follow the steps to complete installation"</string>
   <string name="show_password">Hiển thị mật khẩu</string>
   <string name="show_password_summary"></string>
   <string name="show_rounded_corners">Làm bo tròn các góc màn hình</string>
-  <string name="show_rounded_corners_summary">Cần khởi động lại để có hiệu lực</string>
   <string name="show_running_services">Hiển thị dịch vụ đang chạy</string>
   <string name="show_screen_updates">H.thị t.tin cập nhật màn hình</string>
   <string name="show_screen_updates_summary">Vùng flash của màn hình khi chúng cập nhật</string>
@@ -1707,9 +1687,11 @@ Có thể mã PIN không đúng."</string>
   <string name="sim_pin_toggle">Khoá thẻ SIM</string>
   <string name="sim_pins_dont_match">Các mã PIN không khớp</string>
   <string name="sim_reenter_new">Nhập lại mã PIN mới</string>
+  <string name="sim_status_title">Trạng thái SIM</string>
   <string name="skip_button_label">Hủy</string>
   <string name="skip_label">Bỏ qua</string>
   <string name="skip_step">Bỏ qua bước này</string>
+  <string name="slot_status_title">Thông tin IMEI</string>
   <string name="small_font">Nhỏ</string>
   <string name="sms_delivered_sound_dialog_title">Chọn âm báo tin nhắn đã gửi</string>
   <string name="sms_delivered_sound_title">Âm báo tin nhắn đã nhận</string>

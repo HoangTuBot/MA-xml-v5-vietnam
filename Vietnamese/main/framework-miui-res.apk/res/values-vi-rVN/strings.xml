@@ -252,7 +252,9 @@
   <string name="country_name_zm">ZM</string>
   <string name="country_name_zw">ZW</string>
   <string name="day_of_month">" %d"</string>
+  <string name="days">ngày</string>
   <string name="delete">Xóa</string>
+  <string name="deprecated_alarm_message_12_hour_formate"/>
   <string name="device_xiaomi">Xiaomi phone</string>
   <string name="double_seventh_day">七夕</string>
   <string name="emergency_call_string">Cuộc gọi khẩn cấp</string>
@@ -293,6 +295,7 @@
   <string name="group_name_friends">Bạn bè</string>
   <string name="heavy_snow"/>
   <string name="hoar_frost_falls"/>
+  <string name="hours">%d giờ</string>
   <string name="incorrect_pincode">Sai mã PIN</string>
   <string name="incorrect_pincode_remaining_attempts">Sai mã PIN, bạn còn lại %d lần thử</string>
   <string name="incorrect_pukcode">Sai mã PUK</string>
@@ -345,6 +348,7 @@
   <string name="lunar_zheng"/>
   <string name="memory_clear_nothing_result">Không có ứng dụng nào chạy nền</string>
   <string name="memory_clear_result">"%1$s Free | %2$s khả dụng"</string>
+  <string name="minutes">%d phút</string>
   <string name="miui_copyright_title">Copyright</string>
   <string name="miui_device_name">Android</string>
   <string name="miui_mibi_license_title">Điều khoản về Mi Credit User</string>
@@ -390,6 +394,7 @@
   <string name="private_num">Số riêng tư</string>
   <string name="puk_operation_failed">PUK hoạt động không thành công.</string>
   <string name="reboot_confirm">Điện thoại sẽ được khởi động lại</string>
+  <string name="reboot_confirm_title">Bạn có chắc chắn muốn khởi động lại?</string>
   <string name="reboot_progress">Đang khởi động lại...</string>
   <string name="return_to_me_message">Xin vui lòng trả lại cho chủ sở hữu.</string>
   <string name="reverse_all">Xóa tắt cả</string>
@@ -411,6 +416,7 @@
   <string name="share">Chia sẻ</string>
   <string name="short_pincode_error_msg">Vui lòng điền 4–8 số</string>
   <string name="short_pukcode_error_msg">Vui lòng điền tối thiểu 8 số</string>
+  <string name="shutdown_confirm_title">Bạn có chắc chắn muốn tắt điện thoại?</string>
   <string name="sim_account_name">SIM</string>
   <string name="sim_changed_reactivate_int_notice">Thẻ SIM hiện tại không được kích hoạt. Một tin nhắn SMS là cần thiết để kích hoạt dịch vụ. Kích hoạt lại bây giờ?</string>
   <string name="sim_changed_reactivate_notice">Thẻ SIM hiện tại không được kích hoạt. Một tin nhắn SMS là cần thiết để kích hoạt dịch vụ đồng bộ hóa Xiaomi. Kích hoạt lại bây giờ?</string>

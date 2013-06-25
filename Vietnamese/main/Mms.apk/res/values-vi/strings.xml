@@ -14,7 +14,6 @@
   <string name="add_slide">Thêm trang trình bày</string>
   <string name="add_slide_hint">Chạm để tạo trang trình bày mới.</string>
   <string name="add_smiley">Smiley</string>
-  <string name="add_subject">Thêm chủ đề</string>
   <string name="add_timing">Timing</string>
   <string name="add_video">Thêm video</string>
   <string name="adding_attachments">Hãy đợi trong khi các mục được thêm vào trình chiếu.</string>
@@ -86,7 +85,6 @@
   <string name="delete_bookmark">Remove from Favorites</string>
   <string name="delete_message">Xóa</string>
   <string name="delete_phrase">Xóa cụm từ</string>
-  <string name="delete_subject">Xoá chủ đề</string>
   <string name="delete_unlocked">Xóa tin nhắn bị khóa</string>
   <string name="delivery_report_activity">Báo cáo gửi đi</string>
   <string name="delivery_toast_body">Tin nhắn được nhận bởi %s.</string>

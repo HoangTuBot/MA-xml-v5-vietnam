@@ -136,7 +136,6 @@ Nếu bạn đang sử dụng các dịch vụ đồng bộ, các thông tin li�
   <string name="clear_default">Xóa mặc định</string>
   <string name="click_close">Chạm vào màn hình để đóng</string>
   <string name="cloud_antispam_mark">Rác</string>
-  <string name="cloud_antispam_summary">Lọc cuộc gọi và tin nhắn trên mạng Wi-Fi và dữ liệu</string>
   <string name="cloud_antispam_title">Cloud Guard</string>
   <string name="composer_failed_to_get_database_infomation">"Không thể có được thông tin cơ sở dữ liệu."</string>
   <string name="composer_has_no_exportable_contact">Không có địa chỉ liên lạc có thể xuất. Nếu bạn có địa chỉ liên lạc trên điện thoại của bạn, một số nhà cung cấp dữ liệu có thể không cho phép các số liên lạc được xuất từ điện thoại.</string>
@@ -412,7 +411,6 @@ Nếu bạn đang sử dụng các dịch vụ đồng bộ, các thông tin li�
   <string name="import_weibo_fetch_followers">Retrieving Sina Weibo followers…</string>
   <string name="import_weibo_notification_title">Importing Sina weibo contacts…</string>
   <string name="import_weibo_notification_title_done">Nhập hoàn thành</string>
-  <string name="import_weibo_progress_hint">Đang nhập...</string>
   <string name="import_weibo_progress_name">%1$s</string>
   <string name="import_weibo_progress_percent">%1$d%%</string>
   <string name="importing_vcard_canceled_title">Quá trình nhập %s bị hủy</string>
@@ -429,7 +427,6 @@ Nếu bạn đang sử dụng các dịch vụ đồng bộ, các thông tin li�
   <string name="label_notes">Ghi chú</string>
   <string name="label_sip_address">Cuộc gọi qua internet</string>
   <string name="launcherDialer">Điện thoại</string>
-  <string name="listAllContactsInAccount">Danh bạ trong %s</string>
   <string name="listCustomView">Danh bạ ở chế độ xem tùy chỉnh</string>
   <string name="listFoundAllContactsZero">Không tìm thấy đ.chỉ l.hệ nào.</string>
   <string name="listSingleContact">Một liên hệ</string>
