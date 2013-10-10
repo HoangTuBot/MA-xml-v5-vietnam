@@ -281,7 +281,6 @@
   <string name="fools_day">Cá Tháng Tư</string>
   <string name="force_exit_message">Đóng thành công \"%1$s\"</string>
   <string name="forget_password_string">Quên mật khẩu</string>
-  <string name="format_time_in_12_hours">%1$s %2$s</string>
   <string name="global_action_privacy_mode_dialog_message">Trong chế độ bảo vệ, gọi điện, ghi chú, thư viện ảnh, dữ liệu và tin nhắn sẽ bị ẩn và hệ thống không thể truy cập vào chế độ chỉnh sửa. Bạn có thể cài đặt mật khẩu cho chế độ bảo vệ trong Thiết lập quyền truy cập</string>
   <string name="global_action_toggle_privacy_mode">Bảo vệ</string>
   <string name="grain_buds"/>
