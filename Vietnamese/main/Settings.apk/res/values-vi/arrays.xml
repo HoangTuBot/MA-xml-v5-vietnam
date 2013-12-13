@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="phone_call_noise_suppression_title">
+        <item>Single mic Noise Supression</item>
+        <item>Dual mic Noise Supression</item>
+    </string-array>
+    <string-array name="screen_key_long_press_action">
+        <item>None</item>
+        <item>Launch Recent panel</item>
+        <item>Launch Voice assist</item>
+        <item>Launch Google now</item>
+        <item>Close current app</item>
+    </string-array>
+    <string-array name="change_security_lock_picker">
+        <item>Face unlock</item>
+        <item>Pattern</item>
+        <item>Numerical password</item>
+        <item>Mixed password</item>
+    </string-array>
+</resources>
