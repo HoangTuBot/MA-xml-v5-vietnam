@@ -1054,7 +1054,6 @@ Một số tài khoản cũng tự động sao chép bất kỳ thay đổi nào
   <string name="heavy_weight_stop_description">Không thể dừng ứng dụng này một cách an toàn. Nếu dừng ứng dụng, bạn có thể mất một số công việc hiện tại.</string>
   <string name="help_label">Trợ giúp</string>
   <string name="hello_world">Xin chào!</string>
-  <string name="help_label">Trợ giúp</string>
   <string name="help_url_accounts"/>
   <string name="help_url_backup_reset"/>
   <string name="help_url_battery"/>
