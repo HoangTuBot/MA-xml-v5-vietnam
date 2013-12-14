@@ -1241,7 +1241,7 @@ Bạn đã sẵn sàng bắt đầu chưa? Hãy chạm vào Tiếp theo."</strin
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Quá nhiều lần thử không chính xác!</string>
   <string name="lockpattern_tutorial_cancel_label">Huỷ</string>
   <string name="lockpattern_tutorial_continue_label">Tiếp theo</string>
-  <string name="log_count">(%d)</string>s
+  <string name="log_count">(%d)</string>
   <string name="lte_ram_dump_off">Tắt lỗi ram lte</string>
   <string name="lte_ram_dump_on">Bật lỗi ram lte</string>
   <string name="macaddr_label">MAC addr:</string>
