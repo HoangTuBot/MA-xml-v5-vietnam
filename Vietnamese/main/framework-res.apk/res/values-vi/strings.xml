@@ -93,7 +93,7 @@
     <string name="day_of_week_short_thursday">Th 5</string>
     <string name="day_of_week_short_friday">Th 6</string>
     <string name="day_of_week_short_saturday">Th 7</string>
-    <string name="day_of_week_shortest_sunday">1</string>
+    <string name="day_of_week_shortest_sunday">CN</string>
     <string name="day_of_week_shortest_monday">2</string>
     <string name="day_of_week_shortest_tuesday">3</string>
     <string name="day_of_week_shortest_wednesday">4</string>
