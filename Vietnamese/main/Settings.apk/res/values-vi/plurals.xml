@@ -12,28 +12,32 @@
         <item quantity="other">%d phút</item>
         <item quantity="one">%d phút</item>
     </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Bây giờ bạn có %1$d bước từ nhà phát triển.</item>
+        <item quantity="one">Bây giờ bạn có %1$d bước từ nhà phát triển.</item>
+    </plurals>
     <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">Mật khẩu phải bao gồm ít nhất %d kí tự.</item>
-        <item quantity="one">Mật khẩu phải bao gồm ít nhất 1 kí tự.</item>
+        <item quantity="other">Mật khẩu phải chứa ít nhất %d chữ cái</item>
+        <item quantity="one">Mật khẩu phải chứa ít nhất 1 chữ cái</item>
     </plurals>
     <plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">Mật khẩu phải bao gồm ít nhất %d chữ cái thường.</item>
-        <item quantity="one">Mật khẩu phải bao gồm ít nhất 1 chữ cái thường.</item>
+        <item quantity="other">Mật khẩu phải chứa ít nhất %d chữ thường</item>
+        <item quantity="one">Mật khẩu phải chứa ít nhất 1 chữ thường</item>
     </plurals>
     <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">Mật khẩu phải bao gồm ít nhất %d chữ cái in hoa.</item>
-        <item quantity="one">Mật khẩu phải bao gồm ít nhất 1 chữ cái in hoa.</item>
+        <item quantity="other">Mật khẩu phải chứa ít nhất %d chữ hoa</item>
+        <item quantity="one">Mật khẩu phải chứa ít nhất 1 chữ hoa</item>
     </plurals>
     <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">Mật khẩu phải bao gồm ít nhất %d chữ số.</item>
-        <item quantity="one">Mật khẩu phải bao gồm ít nhất 1 chữ số.</item>
+        <item quantity="other">Mật khẩu phải chứa ít nhất %d chữ số</item>
+        <item quantity="one">Mật khẩu phải chứa ít nhất 1 chữ số</item>
     </plurals>
     <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">Mật khẩu phải bao gồm ít nhất %d kí tự đặc biệt.</item>
-        <item quantity="one">Mật khẩu phải bao gồm ít nhất 1 kí tự đặc biệt.</item>
+        <item quantity="other">Mật khẩu phải chứa ít nhất %d kí tự đặc biệt</item>
+        <item quantity="one">Mật khẩu phải chứa ít nhất 1 kí tự đặc biệt</item>
     </plurals>
     <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">Mật khẩu phải bao gồm ít nhất %d non-letter characters.</item>
-        <item quantity="one">Mật khẩu phải bao gồm ít nhất 1 non-letter character.</item>
+        <item quantity="other">Mật khẩu phải chứa ít nhất %d kí tự không phải chữ cái</item>
+        <item quantity="one">Mật khẩu phải chứa ít nhất 1 kí tự không phải chữ cái</item>
     </plurals>
 </resources>
