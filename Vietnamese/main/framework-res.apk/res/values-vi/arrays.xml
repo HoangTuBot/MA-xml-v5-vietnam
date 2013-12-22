@@ -23,7 +23,7 @@
     </string-array>
     <string-array name="phoneTypes">
         <item>Nhà riêng</item>
-        <item>Di động</item>
+        <item>ĐT di động</item>
         <item>Cơ quan</item>
         <item>Số fax Cơ quan</item>
         <item>Số fax Nhà riêng</item>

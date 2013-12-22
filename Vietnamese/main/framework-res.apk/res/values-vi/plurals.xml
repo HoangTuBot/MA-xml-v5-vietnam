@@ -67,18 +67,6 @@
         <item quantity="other">trong %d ngày</item>
         <item quantity="one">ngày mai</item>
     </plurals>
-    <plurals name="duration_seconds">
-        <item quantity="other">%d giây</item>
-        <item quantity="one">1 giây</item>
-    </plurals>
-    <plurals name="duration_minutes">
-        <item quantity="other">%d phút</item>
-        <item quantity="one">1 phút</item>
-    </plurals>
-    <plurals name="duration_hours">
-        <item quantity="other">%d giờ</item>
-        <item quantity="one">1 giờ</item>
-    </plurals>
     <plurals name="wifi_available">
         <item quantity="other">Mạng Wi-Fi khả dụng</item>
         <item quantity="one">Mạng Wi-Fi khả dụng</item>
@@ -88,7 +76,7 @@
         <item quantity="one">Mở mạng Wi-Fi khả dụng</item>
     </plurals>
     <plurals name="matches_found">
-        <item quantity="other">%1$d/%2$d</item>
+        <item quantity="other">%1$d trong tổng số %2$d</item>
         <item quantity="one">1 kết quả phù hợp</item>
     </plurals>
 </resources>
