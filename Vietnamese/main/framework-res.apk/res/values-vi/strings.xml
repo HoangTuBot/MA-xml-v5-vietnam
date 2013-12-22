@@ -200,12 +200,12 @@
     <string name="reboot_safemode_title">Khởi động lại ở chế độ an toàn</string>
     <string name="reboot_safemode_confirm">Bạn có muốn khởi động lại ở chế độ an toàn không? Thao tác này sẽ tắt tất cả ứng dụng của bên thứ ba mà bạn đã cài đặt. Những ứng dụng này sẽ được khôi phục khi bạn khởi động lại một lần nữa.</string>
     <string name="reboot_confirm">Điện thoại của bạn sẽ khởi động lại.</string>
-	<string name="recent_tasks_title">Gần đây</string>
+    <string name="recent_tasks_title">Gần đây</string>
     <string name="no_recent_tasks">Không có ứng dụng nào gần đây.</string>
     <string name="global_actions">Tùy chọn điện thoại</string>
     <string name="global_action_lock">Khoá màn hình</string>
     <string name="global_action_power_off">Tắt nguồn</string>
-	<string name="global_action_bug_report">Báo cáo lỗi</string>
+    <string name="global_action_bug_report">Báo cáo lỗi</string>
     <string name="bugreport_title">Báo cáo lỗi</string>
     <string name="bugreport_message">Điều này sẽ thu thập thông tin về tình trạng thiết bị hiện tại của bạn, để gửi đi như một tin nhắn e-mail. Nó sẽ mất một ít thời gian bắt đầu từ các báo cáo lỗi cho đến khi nó đã sẵn sàng để được gửi; hãy kiên nhẫn.</string>
     <string name="global_action_toggle_silent_mode">Chế độ im lặng</string>
@@ -214,7 +214,7 @@
     <string name="global_actions_toggle_airplane_mode">Chế độ trên máy bay</string>
     <string name="global_actions_airplane_mode_on_status">Chế độ trên máy bay BẬT</string>
     <string name="global_actions_airplane_mode_off_status">Chế độ trên máy bay TẮT</string>
-	<string name="factoryMode">Chế độ nhà máy</string>
+    <string name="factoryMode">Chế độ nhà máy</string>
     <string name="safeMode">Chế độ an toàn</string>
     <string name="android_system_label">Hệ thống Android</string>
     <string name="permgrouplab_costMoney">Dịch vụ tính tiền của bạn</string>
@@ -273,7 +273,7 @@
     <string name="permgroupdesc_developmentTools">Các tính năng chỉ cần cho nhà phát triển ứng dụng.</string>
     <string name="permgrouplab_display">Giao diện người dùng của ứng dụng khác</string>
     <string name="permgroupdesc_display">Tác động đến giao diện của các ứng dụng khác.</string>
-	<string name="permgrouplab_storage">Dung lượng</string>
+    <string name="permgrouplab_storage">Dung lượng</string>
     <string name="permgroupdesc_storage">Truy cập bộ nhớ USB.</string>
     <string name="permlab_statusBar">Vô hiệu hóa hoặc sửa đổi thanh trạng thái</string>
     <string name="permdesc_statusBar">Cho phép ứng dụng vô hiệu hóa thanh trạng thái hoặc thêm và xóa biểu tượng hệ thống.</string>
@@ -737,8 +737,8 @@
     <string name="lockscreen_missing_sim_instructions">Hãy lắp thẻ SIM.</string>
     <string name="lockscreen_missing_sim_instructions_long">Thẻ SIM bị thiếu hoặc không thể đọc được. Vui lòng lắp thẻ SIM.</string>
     <string name="lockscreen_permanent_disabled_sim_message_short">Thẻ SIM không sử dụng được.</string>
-    <string name="lockscreen_permanent_disabled_sim_instructions">"Thẻ SIM của bạn đã bị vô hiệu hóa vĩnh viễn .
- Hãy liên hệ với nhà cung cấp dịch vụ không dây của bạn để lấy thẻ SIM khác."</string>
+    <string name="lockscreen_permanent_disabled_sim_instructions">"Thẻ SIM của bạn đã bị vô hiệu hóa vĩnh viễn.
+Hãy liên hệ với nhà cung cấp dịch vụ không dây của bạn để lấy thẻ SIM khác."</string>
     <string name="lockscreen_transport_prev_description">Nút bài hát trước</string>
     <string name="lockscreen_transport_next_description">Nút bài hát tiếp theo</string>
     <string name="lockscreen_transport_pause_description">Nút tạm dừng</string>
@@ -783,7 +783,7 @@ Hãy truy cập "<b>google.com/accounts/recovery</b>.</string>
     <string name="lockscreen_access_pattern_cleared">Đã xóa hình mở khóa</string>
     <string name="lockscreen_access_pattern_cell_added">Đã thêm ô</string>
     <string name="lockscreen_access_pattern_detected">Đã vẽ xong hình mở khóa</string>
-	<string name="keyguard_accessibility_add_widget">Thêm tiện ích.</string>
+    <string name="keyguard_accessibility_add_widget">Thêm tiện ích.</string>
     <string name="keyguard_accessibility_widget_empty_slot">Trống</string>
     <string name="keyguard_accessibility_unlock_area_expanded">Mở khóa diện tích được mở rộng.</string>
     <string name="keyguard_accessibility_unlock_area_collapsed">Mở khóa diện tích thu gọn.</string>
@@ -986,8 +986,8 @@ Bạn có muốn đóng trang không?"</string>
     <string name="ringtone_picker_title">Nhạc chuông</string>
     <string name="ringtone_unknown">Nhạc chuông không xác định</string>
     <string name="wifi_available_sign_in">Đăng nhập vào mạng Wi-Fi</string>
-	<string name="network_available_sign_in">Đăng nhập vào mạng</string>
-	<string name="wifi_watchdog_network_disabled">Không thể kết nối với Wi-Fi</string>
+    <string name="network_available_sign_in">Đăng nhập vào mạng</string>
+    <string name="wifi_watchdog_network_disabled">Không thể kết nối với Wi-Fi</string>
     <string name="wifi_watchdog_network_disabled_detailed">" có kết nối Internet kém."</string>
     <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
     <string name="wifi_p2p_turnon_message">Khởi động Wi-Fi Direct. Việc này sẽ tắt hoạt động của ứng dụng khách/điểm phát sóng Wi-Fi.</string>
@@ -1002,7 +1002,7 @@ Bạn có muốn đóng trang không?"</string>
     <string name="wifi_p2p_to_message">Đến:</string>
     <string name="wifi_p2p_enter_pin_message">Nhập mã PIN bắt buộc:</string>
     <string name="wifi_p2p_show_pin_message">Mã PIN:</string>
-	<string name="wifi_p2p_frequency_conflict_message">"Điện thoại này sẽ tạm thời ngắt kết nối Wi-Fi trong khi nó kết nối với %1$s"</string>
+    <string name="wifi_p2p_frequency_conflict_message">"Điện thoại này sẽ tạm thời ngắt kết nối Wi-Fi trong khi nó kết nối với %1$s"</string>
     <string name="p2p_wifi_frequency_conflict_message">Wi-Fi Direct sẽ ngắt kết nối. Bạn có muốn tiếp tục?</string>
     <string name="select_character">Chèn ký tự</string>
     <string name="sms_control_title">Đang gửi tin nhắn SMS</string>
@@ -1032,7 +1032,7 @@ Bạn có muốn đóng trang không?"</string>
     <string name="perms_description_app">Được cung cấp bởi %1$s.</string>
     <string name="no_permissions">Không yêu cầu quyền</string>
     <string name="perm_costs_money">Điều này có thể khiến bạn tốn tiền</string>
-	<string name="usb_storage_activity_title">Bộ nhớ dung lượng lớn USB</string>
+    <string name="usb_storage_activity_title">Bộ nhớ dung lượng lớn USB</string>
     <string name="usb_storage_title">USB đã kết nối</string>
     <string name="usb_storage_message">Bạn đã kết nối với máy tính của mình qua USB. Hãy chạm vào nút bên dưới nếu bạn muốn sao chép các tệp giữa máy tính và bộ lưu trữ USB của Android của bạn.</string>
     <string name="usb_storage_button_mount">Bật bộ lưu trữ USB</string>
@@ -1139,11 +1139,11 @@ cho tài khoản %s."</string>
     <string name="no_matches">Không có kết quả nào phù hợp</string>
     <string name="find_on_page">Tìm kiếm trên trang</string>
     <string name="action_mode_done">Xong</string>
-	<string name="progress_unmounting_internal">Đang ngắt kết nối bộ lưu trữ nội bộ…</string>
+    <string name="progress_unmounting_internal">Đang ngắt kết nối bộ lưu trữ nội bộ…</string>
     <string name="progress_unmounting">Đang ngắt kết nối bộ lưu trữ USB…</string>
     <string name="progress_erasing_internal">Đang xóa lưu trữ nội bộ…</string>
     <string name="progress_erasing">Đang xóa bộ lưu trữ USB…</string>
-	<string name="format_error">Không thể xóa bộ lưu trữ USB.</string>
+    <string name="format_error">Không thể xóa bộ lưu trữ USB.</string>
     <string name="media_bad_removal">Thẻ SD bị tháo trước khi được ngắt kết nối.</string>
     <string name="media_checking">Bộ nhớ USB hiện đang được kiểm tra.</string>
     <string name="media_removed">Thẻ SD đã được tháo.</string>
@@ -1152,8 +1152,8 @@ cho tài khoản %s."</string>
     <string name="share">Chia sẻ</string>
     <string name="find">Tìm</string>
     <string name="websearch">Tìm kiếm trên web</string>
-	<string name="find_next">Tìm kế tiếp</string>
-	<string name="find_previous">Tìm kế trước</string>
+    <string name="find_next">Tìm kế tiếp</string>
+    <string name="find_previous">Tìm kế trước</string>
     <string name="gpsNotifTicker">Yêu cầu vị trí từ %s</string>
     <string name="gpsNotifTitle">Yêu cầu vị trí</string>
     <string name="gpsNotifMessage">Được yêu cầu bởi %1$s (%2$s)</string>
@@ -1254,7 +1254,7 @@ cho tài khoản %s."</string>
     <string name="default_audio_route_name">Điện thoại</string>
     <string name="default_audio_route_name_headphones">Tai nghe</string>
     <string name="default_audio_route_name_dock_speakers">Loa đế</string>
-	<string name="default_audio_route_name_hdmi">Âm thanh HDMI</string>
+    <string name="default_audio_route_name_hdmi">Âm thanh HDMI</string>
     <string name="default_audio_route_category_name">Hệ thống</string>
     <string name="bluetooth_a2dp_audio_route_name">Âm thanh Bluetooth</string>
     <string name="media_route_chooser_grouping_done">Xong</string>
