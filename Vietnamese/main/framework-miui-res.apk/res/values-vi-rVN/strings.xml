@@ -6,7 +6,13 @@
   <string name="alarm_message_12_hour_formate">aah:mm</string>
   <string name="alwaysUsePrompt">Cài đặt mặc định (Không hỏi lại vào lần sau)</string>
   <string name="android_lockscreen_glogin_instructions">Để mở khóa, đăng nhập với tài khoản của bạn</string>
+  <string name="anniversary_of_lifting_martial_law"/>
+  <string name="anti_aggression_day"/>
+  <string name="app_no_notification">Không có thông báo</string>
+  <string name="app_notificaiton_on_notificationBar">Thanh thông báo</string>
+  <string name="app_notificaiton_on_statusBar_and_notificationBar">Thanh thông báo và trạng thái</string>
   <string name="arbor_day">Arbor Day</string>
+  <string name="armed_forces_day"/>
   <string name="autumn_begins">Mùa thu bắt đầu</string>
   <string name="autumn_equinox">Fall Equinox</string>
   <string name="callNoAnswerTimeFormat">Chuông %s lần</string>
@@ -253,11 +259,17 @@
   <string name="country_name_zw">ZW</string>
   <string name="day_of_month">" %d"</string>
   <string name="days">ngày</string>
+  <string name="def_alarm_alert">/system/media/audio/alarms/GoodMorning.ogg</string>
+  <string name="def_notification_sound">/system/media/audio/notifications/FadeIn.ogg</string>
+  <string name="def_ringtone">/system/media/audio/ringtones/MI.ogg</string>
+  <string name="def_sms_delivered_sound">/system/media/audio/ui/MessageComplete.ogg</string>
+  <string name="def_sms_received_sound">/system/media/audio/notifications/FadeIn.ogg</string>
   <string name="delete">Xóa</string>
   <string name="deprecated_alarm_message_12_hour_formate"/>
+  <string name="device_hongmi">Hongmi phone</string>
   <string name="device_xiaomi">Xiaomi phone</string>
-  <string name="double_seventh_day">七夕</string>
   <string name="emergency_call_string">Cuộc gọi khẩn cấp</string>
+  <string name="err_resource_leak">Rất tiếc, %1$s đã dừng lại.</string>
   <string name="error_forbidden">Tài khoản của bạn bị lỗi. Chế độ đồng bộ hóa bị vô hiệu.s</string>
   <string name="error_not_acceptable">Máy chủ bị lỗi. Chế độ đồng bộ hóa bị vô hiệu.</string>
   <string name="error_title">Lỗi đồng bộ hóa %s</string>
@@ -281,11 +293,14 @@
   <string name="fools_day">Cá Tháng Tư</string>
   <string name="force_exit_message">Đóng thành công \"%1$s\"</string>
   <string name="forget_password_string">Quên mật khẩu</string>
+  <string name="format_time_in_12_hours">hh:mma</string>
   <string name="global_action_privacy_mode_dialog_message">Trong chế độ bảo vệ, gọi điện, ghi chú, thư viện ảnh, dữ liệu và tin nhắn sẽ bị ẩn và hệ thống không thể truy cập vào chế độ chỉnh sửa. Bạn có thể cài đặt mật khẩu cho chế độ bảo vệ trong Thiết lập quyền truy cập</string>
   <string name="global_action_toggle_privacy_mode">Bảo vệ</string>
   <string name="grain_buds"/>
   <string name="grain_in_ear"/>
   <string name="grain_rain"/>
+  <string name="grant_permissions_account">Cho phép truy cập tài khoản</string>
+  <string name="grant_permissions_apps">Cho phép truy cập ứng dụng</string>
   <string name="great_cold"/>
   <string name="great_heat"/>
   <string name="group_name_contacts">Danh bạ</string>
@@ -314,6 +329,9 @@
   <string name="lockscreen_access_pattern_detected">Pattern completed</string>
   <string name="lockscreen_access_pattern_start">Pattern started</string>
   <string name="lockscreen_emergency_call">Cuộc gọi khẩn cấp</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Bạn đã điền sai mật khẩu %d lần. Sau %d 3 lần nữa, bạn sẽ được hỏi để cung cấp thông tin tài khoản
+
+Thử lại trong vòng %d giây."</string>
   <string name="lockscreen_forgot_pattern_button_text">Quên mã pattern?</string>
   <string name="lockscreen_pattern_instructions">Vẽ pattern để mở khóa</string>
   <string name="lockscreen_pattern_wrong">Pattern không đúng! Vui lòng thử lại</string>
@@ -322,6 +340,7 @@
   <string name="lockscreen_transport_play_description">Chơi/Dừng</string>
   <string name="lockscreen_transport_prev_description">Bài phía trước</string>
   <string name="lockscreen_unlock_sim_via_puk">Điền mã PUK để mở khóa SIM</string>
+  <string name="login_website_in_case_forget_password">Vui lòng vào http://i.xiaomi.com để reset lại mật khẩu</string>
   <string name="lunar_ba"/>
   <string name="lunar_calendar"/>
   <string name="lunar_chu"/>
@@ -395,6 +414,7 @@
   <string name="reboot_confirm">Điện thoại sẽ được khởi động lại</string>
   <string name="reboot_confirm_title">Bạn có chắc chắn muốn khởi động lại?</string>
   <string name="reboot_progress">Đang khởi động lại...</string>
+  <string name="retrocession_day"/>
   <string name="return_to_me_message">Xin vui lòng trả lại cho chủ sở hữu.</string>
   <string name="reverse_all">Xóa tắt cả</string>
   <string name="safetylegal_activity_unreachable">Điện thoại của bạn không được kết nối với dịch vụ dữ liệu. Để xem thông tin này bây giờ, đi đến %s từ bất kỳ máy tính kết nối Internet.</string>
@@ -433,6 +453,8 @@
   <string name="summer_solstice"/>
   <string name="sync_one_time_sync">Chạm để đồng bộ (%1$s)</string>
   <string name="teachers_day"/>
+  <string name="text_copied">Văn bản đã được sao chép</string>
+  <string name="text_cut">Cắt văn bản</string>
   <string name="text_pastelist">Bảng tạm</string>
   <string name="the_armys_day"/>
   <string name="the_double_ninth_festival"/>
@@ -441,8 +463,12 @@
   <string name="the_mid_autumn_festival"/>
   <string name="the_rains"/>
   <string name="the_spring_festival"/>
+  <string name="toast_lockscreen_glogin_empty_password">Cần có mật khẩu.</string>
   <string name="today">Hôm nay</string>
   <string name="tomorrow">Ngày mai</string>
+  <string name="tw_childrens_day"/>
+  <string name="tw_youth_day"/>
+  <string name="united_nations_day"/>
   <string name="unknown">Số ẩn</string>
   <string name="unknown_caller">Không biết người gọi</string>
   <string name="unlock_string">OK</string>
@@ -458,12 +484,13 @@
   <string name="v5_date_picker_label_day"/>
   <string name="v5_date_picker_label_month"/>
   <string name="v5_date_picker_label_year"/>
+  <string name="v5_date_time_picker_dialog_title">Cài đặt nhắc nhở</string>
   <string name="v5_deselect_all">Bỏ chọn tất cả</string>
   <string name="v5_edit_mode_title_empty">Check Items</string>
   <string name="v5_icon_menu_bar_more_item_label">Thêm</string>
   <string name="v5_select_all">Chọn tất cả</string>
-  <string name="v5_time_picker_label_hour"/>
-  <string name="v5_time_picker_label_minute"/>
+  <string name="v5_time_picker_label_hour">Giờ</string>
+  <string name="v5_time_picker_label_minute">Phút</string>
   <string name="valentines_day"/>
   <string name="vernal_equinox"/>
   <string name="volume_alarm">Báo thức</string>
@@ -472,9 +499,15 @@
   <string name="volume_icon_description_media">Media</string>
   <string name="volume_icon_description_notification">Thông báo</string>
   <string name="volume_icon_description_ringer">Nhạc chuông</string>
+  <string name="volume_ring_description">Âm lượng nhạc chuông và thông báo</string>
   <string name="wake_alarm_message">Dừng báo thức. Nhắc nhở lại trong %s </string>
   <string name="white_dews"/>
   <string name="winter_begins"/>
   <string name="winter_solstice"/>
+  <string name="yellow_page_module_sms_sent">Tin nhắn SMS đã được gửi.</string>
+  <string name="yellow_page_sms_disabled_in_privacy_mode">Không thể gửi tin nhắn ở chế độ khách</string>
+  <string name="yellow_page_sms_send_failed">Gửi tin nhắn không thành công!</string>
+  <string name="yellow_page_sms_sending">Đang gửi</string>
+  <string name="yellow_page_unable_send_sms">Không thể gửi tin nhắn!</string>
   <string name="yesterday">Hôm qua</string>
 </resources>
