@@ -880,7 +880,6 @@ Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
   <string name="roaming_enable">Kết nối với dịch vụ dữ liệu khi chuyển vùng</string>
   <string name="roaming_reenable_message">Bạn đã mất kết nối dữ liệu vì bạn đã tắt chuyển vùng dữ liệu của mạng gia đình của mình.</string>
   <string name="roaming_warning">Cho phép chuyển vùng dữ liệu? Bạn có thể phải chịu phí chuyển vùng đáng kể!</string>
-  <string name="rsp_unlock_failed">Nhà cung cấp dịch vụ UIM mở khóa yêu cầu không thành công.</string>
   <string name="rsp_unlock_failed">UIM Service Provider unlock yêu cầu không thành công.</string>
   <string name="rsp_unlock_success">Nhà cung cấp dịch vụ UIM mở khóa yêu cầu thành công..</string>
   <string name="ruim_unlock_failed">UIM UIM mở khóa yêu cầu không thành công.</string>
