@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="uninstall_dialog_title_format">
+        <item quantity="other">Gỡ \"%1$s\" và %2$d  ứng dụng khác?</item>
+        <item quantity="one">Gỡ \"%s\"</item>
+        <item quantity="two">Gỡ \"%s\" và 1 ứng dụng khác?</item>
+    </plurals>
+    <plurals name="uninstall_result_succeeded">
+        <item quantity="other">Đã gỡ %1$</item>
+        <item quantity="one">Đã gỡ thành công</item>
+    </plurals>
+    <plurals name="uninstall_result_failed">
+        <item quantity="other">"Không thể gỡ cài đặt \"%1$s\" và %2$d ứng dụng khác"</item>
+        <item quantity="one">"Không thể gỡ cài đặt \"%s\""</item>
+        <item quantity="two">"Không thể gỡ cài đặt \"%s\" và 1 ứng dụng khác"</item>
+    </plurals>
+</resources>

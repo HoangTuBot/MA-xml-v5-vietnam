@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="transformation_entries">
+        <item>Trượt cổ điển</item>
+        <item>Classic slide (no overshoot)</item>
+        <item>Mờ dần</item>
+        <item>Tumble</item>
+        <item>Trang</item>
+        <item>Cascade</item>
+        <item>Xoay</item>
+        <item>Hộp</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_entries">
+        <item>Mặc định theo chủ đề</item>
+        <item>Căn giữa</item>
+        <item>Trái</item>
+        <item>Phải</item>
+    </string-array>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>Mặc định</item>
+        <item>Cổ điển</item>
+    </string-array>
+    <string-array name="gadget_weather_image">
+        <item>Trong xanh</item>
+        <item>Mây</item>
+        <item>Hazy</item>
+        <item>Sương mù</item>
+        <item>Cơn mưa nặng</item>
+        <item>Mưa</item>
+        <item>Mưa rất nặng hạt</item>
+        <item>Thunderstorm</item>
+        <item>Mưa nhỏ</item>
+        <item>Mưa to</item>
+        <item>Mưa</item>
+        <item>Mưa phùn</item>
+        <item>Mưa đá</item>
+        <item>Bão tuyết</item>
+        <item>Tuyết rơi vừa</item>
+        <item>Tuyết rơi nhiều</item>
+        <item>Tuyết tơi</item>
+        <item>Tuyết rơi nhẹ</item>
+        <item>Bão cát lớn</item>
+        <item>Bão cát</item>
+        <item>Bão cát nhỏ</item>
+        <item>Bão cát</item>
+        <item>Mưa đá</item>
+        <item>Bụi</item>
+        <item>Haze</item>
+    </string-array>
+</resources>
