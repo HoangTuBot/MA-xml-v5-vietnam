@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="general_preference_text_zoom_summary_array">
-        <item>Tiny text</item>
-        <item>Small text</item>
-        <item>Default text</item>
-        <item>Large text</item>
-        <item>Huge text</item>
+        <item>Chữ cực nhỏ</item>
+        <item>Chữ nhỏ</item>
+        <item>Chữ mặc định</item>
+        <item>Chữ lớn</item>
+        <item>Chữ cực lớn</item>
     </string-array>
     <string-array name="general_preference_auto_advance_summary_array">
-        <item>Go to newer message after you delete a message</item>
-        <item>Go to older message after you delete a message</item>
-        <item>Go to inbox after you delete a message</item>
+        <item>Tới thư mới hơn sau khi sau 1 thư</item>
+        <item>Tới thư cũ hơn sau khi sau 1 thư</item>
+        <item>Quay lại Hộp thư đến sau khi sau 1 thư</item>
     </string-array>
 </resources>

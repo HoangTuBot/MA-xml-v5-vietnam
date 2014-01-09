@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="all_downloads">Tất cả tải về</string>
+  <string name="app_downloads">Tải về %s</string>
   <string name="app_label">Trình quản lý Tải xuống</string>
   <string name="button_sort_by_date">Sắp xếp theo ngày</string>
   <string name="button_sort_by_size">Sắp xếp theo kích thước</string>
-  <string name="cancel_download_notice">Tắt thông báo tải xuống</string>
   <string name="cancel_running_download">Hủy</string>
   <string name="confirm_delete_downloads_message">Gỡ bỏ %d đã tải về!</string>
   <string name="confirm_delete_the_download_item_message">Vui lòng xác nhận xóa bỏ tải về!</string>
-  <string name="confirm_disable_download_only_in_wifi_message">Tắt chức năng "Chỉ tải qua Wifi" sẽ dẫn đến tăng chi phí cho 3G</string>
   <string name="delete_download">Xóa</string>
   <string name="delete_downloads_records">Xóa tải về</string>
   <string name="delete_the_downloaded_file">Xóa tệp tin đã tải về.</string>
@@ -23,7 +23,6 @@
   <string name="dialog_queued_body">Tập tin này được xếp hàng đợi để tải về sau này.</string>
   <string name="dialog_title_not_available">Tải về Không thành công</string>
   <string name="dialog_title_queued_body">Tập tin chưa khả dụng</string>
-  <string name="disable_download_only_in_wifi_title">Đang tắt “Chỉ tải qua Wifi”</string>
   <string name="download_complete">Đã tải về</string>
   <string name="download_error">Thất bại</string>
   <string name="download_error_insufficient_space">Thiếu bộ nhớ</string>
@@ -47,22 +46,19 @@
   <string name="keep_queued_download">Giữ</string>
   <string name="menu_enter_edit_mode">Người sửa</string>
   <string name="menu_preferences">Cài đặt</string>
-  <string name="might_lead_to_mobile_charge">"After cancelling, there will be no download prompt from your device. This may lead to traffic increased data charges."</string>
   <string name="missing_title">&lt;Không xác định&gt;</string>
   <string name="no_downloads">Không có bản tải về nào.</string>
   <string name="open_download">Mở</string>
   <string name="pause_download">Tạm dừng</string>
-  <string name="pause_download_when_wifi_disconnected">Chỉ tải về qua Wifi</string>
   <string name="paused_by_app">Tạm dừng thủ công</string>
   <string name="paused_queued_for_wifi">Chờ khi có Wifi</string>
   <string name="paused_unknown">Lỗi không xác định</string>
   <string name="paused_waiting_for_network">Đang chờ kết nối mạng</string>
   <string name="paused_waiting_to_retry">Đang chờ thử lại</string>
-  <string name="prefDefault_max_bytes_limit">1048576</string>
-  <string name="pref_dialog_title_max_bytes_limit">Giới hạn kích thước tệp tin</string>
-  <string name="pref_download_settings_title">Data usage prompt</string>
-  <string name="pref_summary_enable_max_bytes_popup">"Under the operator's network, prompt pops up if file size exceeds the limit"</string>
-  <string name="pref_summary_max_bytes_limit_format">Prompt pops-up if file size exceeds %s</string>
+  <string name="pref_download_settings_title">Dữ liệu sử dụng</string>
+  <string name="pref_summary_any_bytes_popup">Luôn luôn xếp hàng khi sử dụng mạng Wi-Fi</string>
+  <string name="pref_summary_enable_max_bytes_popup">"Khi sử dụng 3G, luôn luôn hỏi khi file quá lớn"</string>
+  <string name="pref_summary_max_bytes_limit_format">Luôn luôn hỏi khi file quá kích thước %s</string>
   <string name="pref_title_enable_max_bytes_popup">Giới hạn kích thước tệp tin</string>
   <string name="pref_title_max_bytes_limit">Giới hạn kích thước tệp tin</string>
   <string name="preferences_title">Cài đặt</string>
@@ -74,4 +70,6 @@
   <string name="select_all">Chọn Tất cả</string>
   <string name="select_operation_items">Vui lòng chọn</string>
   <string name="selected_count">Đã chọn %1$d trong tổng số %2$d</string>
+  <string name="xunlei_brand">Được tài trợ bởi Xunlei</string>
+  <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
 </resources>

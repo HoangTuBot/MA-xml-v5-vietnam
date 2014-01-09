@@ -1,79 +1,98 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="Ntracks_search_result_format">
+        <item quantity="other">%d bài hát liên quan</item>
+        <item quantity="one">%d bài hát liên quan</item>
+    </plurals>
+    <plurals name="Ntracks_total">
+        <item quantity="other">%d bài hát</item>
+        <item quantity="one">%d bài hát</item>
+    </plurals>
+    <plurals name="Ntracks_string">
+        <item quantity="other">%d bài hát</item>
+        <item quantity="one">%d bài hát</item>
+    </plurals>
     <plurals name="Ntracks_format">
-        <item quantity="other" formatted="false">%1$d songs</item>
-        <item quantity="one" formatted="false">%1$d song</item>
+        <item quantity="other">%d bài hát</item>
+        <item quantity="one">%d bài hát</item>
     </plurals>
     <plurals name="Nalbums_format">
-        <item quantity="other" formatted="false">%1$d albums</item>
-        <item quantity="one" formatted="false">%1$d album</item>
+        <item quantity="other">%d albums</item>
+        <item quantity="one">%d album</item>
     </plurals>
     <plurals name="Ntracks">
-        <item quantity="other">songs</item>
-        <item quantity="one">song</item>
+        <item quantity="other">bài hát</item>
+        <item quantity="one">bài hát</item>
     </plurals>
     <plurals name="Nalbums">
         <item quantity="other">albums</item>
         <item quantity="one">album</item>
     </plurals>
     <plurals name="Nartists">
-        <item quantity="other">artists</item>
-        <item quantity="one">artist</item>
+        <item quantity="other">nghệ sĩ</item>
+        <item quantity="one">nghệ sĩ</item>
     </plurals>
     <plurals name="Nplaylists">
         <item quantity="other">playlists</item>
         <item quantity="one">playlist</item>
     </plurals>
     <plurals name="Nfolders">
-        <item quantity="other">" folders"</item>
-        <item quantity="one">" folder"</item>
+        <item quantity="other">" thư mục"</item>
+        <item quantity="one">" thư mục"</item>
     </plurals>
-    <plurals name="Ntracks_batch_selection">
-        <item quantity="other" formatted="false">%1$d songs are selected</item>
-        <item quantity="one" formatted="false">%1$d song is selected</item>
-    </plurals>
-    <plurals name="Nalbums_batch_selection">
-        <item quantity="other" formatted="false">%1$d albums are selected</item>
-        <item quantity="one" formatted="false">%1$d album is selected</item>
-    </plurals>
-    <plurals name="Nartists_batch_selection">
-        <item quantity="other" formatted="false">%1$d artists are selected</item>
-        <item quantity="one" formatted="false">%1$d artist is selected</item>
-    </plurals>
-    <plurals name="Nfolders_batch_selection">
-        <item quantity="other" formatted="false">%1$d folders are selected</item>
-        <item quantity="one" formatted="false">%1$d folder is selected</item>
-    </plurals>
-    <plurals name="Nplaylists_batch_selection">
-        <item quantity="other" formatted="false">%1$d playlists are selected</item>
-        <item quantity="one" formatted="false">%1$d playlist is selected</item>
+    <plurals name="Nitems_batch_selection">
+        <item quantity="other">Đã chọn %d mục</item>
+        <item quantity="one">Đã chọn %d mục</item>
     </plurals>
     <plurals name="Ntrack_in_sdcard_format">
-        <item quantity="other" formatted="false">There are %1$d songs in SD card</item>
-        <item quantity="one" formatted="false">There is %1$d song in SD card</item>
+        <item quantity="other">Có %d bài hát trên thẻ nhớ</item>
+        <item quantity="one">Có %d bài hát trên thẻ nhớ</item>
     </plurals>
     <plurals name="NNNtrackstoplaylist">
-        <item quantity="other" formatted="false">%1$d songs added to playlist.</item>
-        <item quantity="one">1 song added to playlist.</item>
+        <item quantity="other">%d bài hát được thêm vào playlist.</item>
+        <item quantity="one">1 bài hát được thêm vào playlist.</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d bài hát xóa khỏi playlist</item>
+        <item quantity="one">1 bài hát xóa khỏi playlist</item>
     </plurals>
     <plurals name="NNNtrackstofavoriteplaylist">
-        <item quantity="other" formatted="false">%1$d songs added to playlist.</item>
-        <item quantity="one">1 song added to playlist.</item>
+        <item quantity="other">%d bài hát được thêm vào playlist.</item>
+        <item quantity="one">1 bài hát được thêm vào playlist.</item>
+    </plurals>
+    <plurals name="Nsearch_results">
+        <item quantity="other">%d kết quả</item>
+        <item quantity="one">%d kết quả</item>
     </plurals>
     <plurals name="Nonlinecategory">
-        <item quantity="other">" categories"</item>
-        <item quantity="one">" category"</item>
+        <item quantity="other">" Mục"</item>
+        <item quantity="one">" mục"</item>
+    </plurals>
+    <plurals name="Nexpiration_reminder">
+        <item quantity="other">%d ngày hết hạn</item>
+        <item quantity="one">%d ngày hết hạn</item>
     </plurals>
     <plurals name="album_details_format">
-        <item quantity="other">%1$s, %2$d songs</item>
-        <item quantity="one">%1$s, %2$d song</item>
+        <item quantity="other">%1$s, %2$d bài hát</item>
+        <item quantity="one">%1$s, %2$d bài hát</item>
     </plurals>
     <plurals name="NNNtracksdeleted">
-        <item quantity="other" formatted="false">%1$d songs were deleted!</item>
-        <item quantity="one">1 song was deleted!</item>
+        <item quantity="other">%d bài hát đã bị xóa.</item>
+        <item quantity="one">1 bài hát đã bị xóa.</item>
     </plurals>
-    <plurals name="Nnowplaying">
-        <item quantity="other">songs available</item>
-        <item quantity="one">song is available</item>
+    <plurals name="NTrackstoDownload">
+        <item quantity="other">%d bài hát sẽ được tải về.</item>
+        <item quantity="one">1 bài hát sẽ được tải về.</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_favorite_playlist">
+        <item quantity="other">%d bài hát xóa khỏi playlist.</item>
+        <item quantity="one">1 bài hát xóa khỏi playlist.</item>
+    </plurals>
+    <plurals name="Nhot_tracks_total">
+        <item quantity="other">%d bài hát được đánh giá cao</item>
+        <item quantity="one">%d bài hát được</item>
+    </plurals>
+    <plurals name="Nvip_expired_remind">
+        <item quantity="other">Dịch vụ âm nhạc chất lượng cao sắp hết hạn (%d ngày còn lại)</item>
     </plurals>
 </resources>

@@ -3,4 +3,3 @@
 # Credits
     ingbrzy - Builder of MultiRom, Bug reports.
     [HoangTuBot] - Leader of the Vietnam translation team
-	[belmont0238] - Member of the Vietnam translation team
