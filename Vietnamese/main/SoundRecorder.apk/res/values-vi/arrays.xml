@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="record_scenes_entries">
+        <item>Dành cho nhạc</item>
+        <item>Dành cho tiếng người nói</item>
+    </string-array>
+</resources>
