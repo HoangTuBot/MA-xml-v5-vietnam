@@ -10,14 +10,14 @@
   <string name="add_fdn_contact">Thêm số quay định sẵn</string>
   <string name="add_sip_account">Thêm tài khoản</string>
   <string name="add_vm_number_str">Thêm số điện thoại</string>
-  <string name="add_zero_prefix">Add 0 prefix while dialing mobile number</string>
+  <string name="add_zero_prefix">Thêm tiền tố 0 trong khi quay số điện thoại di động</string>
   <string name="adding_fdn_contact">Đang thêm số quay định sẵn…</string>
   <string name="additional_cdma_call_settings">Cài đặt cuộc gọi CDMA bổ sung</string>
   <string name="additional_gsm_call_settings">Cài đặt bổ sung</string>
   <string name="administrative_disable">Đã vô hiệu hóa quản trị</string>
   <string name="administrative_enable">Đã bật quản trị</string>
   <string name="advanced_settings">Cài đặt tùy chọn</string>
-  <string name="advanced_settings_container">advanced settings container</string>
+  <string name="advanced_settings_container">thiết đặt chuyên sâu container</string>
   <string name="advanced_settings_hide">▽ Chạm để ẩn tất cả</string>
   <string name="advanced_settings_show">▷ Chạm để hiển thị tất cả</string>
   <string name="advertisements_disable">Quảng cáo bị vô hiệu hoá</string>
@@ -45,6 +45,7 @@
   <string name="antispam_marked_count">%1$d đã từ chối</string>
   <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_notification_title">Không rõ</string>
+  <string name="antispam_provider">Nhận dạng bởi %s</string>
   <string name="apn_settings">Tên Điểm Truy cập</string>
   <string name="areacode_required_accept_miui">OK</string>
   <string name="areacode_required_for_emergency_number_miui">Mã khu vực miền địa phương cần thiết cho cuộc gọi khẩn cấp</string>
@@ -89,10 +90,12 @@
   <string name="auto_record_scenario_enteries_always_miui">Tự động thu âm cho tất cả các số</string>
   <string name="auto_record_scenario_enteries_whitelist_miui">Tự động thu âm cho các số đã chọn</string>
   <string name="auto_record_scenario_title_miui">Chế độ tự động thu âm</string>
+  <string name="auto_record_unknown_miui">Tự động ghi âm số l</string>
   <string name="auto_record_whitelist_miui">Cài đặt chọn một số</string>
   <string name="auto_record_whitelist_no_item_miui">Chạm vào nút phía dưới để thêm một số vào danh sách tự động thu âm</string>
   <string name="auto_record_whitelist_summary_for_one_miui">1</string>
   <string name="auto_record_whitelist_summary_miui">%d số</string>
+  <string name="auto_record_yellowpage_miui">Yellow pages</string>
   <string name="auto_redial_pref_summary_miui">Tự động quay số lại nếu đường truyền đang bận</string>
   <string name="auto_redial_pref_title_miui">Tự động quay số</string>
   <string name="auto_retry_mode_summary">Bật chế độ Tự động Thử lại</string>
@@ -112,7 +115,7 @@
   <string name="bf_news_settings">Tin tức Kinh doanh và Tài chính</string>
   <string name="callFailed_cb_enabled">Bạn không thể thực hiện cuộc gọi đi khi đang bật chế độ chặn cuộc gọi.</string>
   <string name="callFailed_congestion">Mạng bận</string>
-  <string name="callFailed_dialToDial">DIAL request modified to DIAL with different number.</string>
+  <string name="callFailed_dialToDial">Quay số yêu cầu sửa đổi để quay số với số khác.</string>
   <string name="callFailed_dialToSs">DIAL request modified to SS request.</string>
   <string name="callFailed_dialToUssd">DIAL request modified to USSD request.</string>
   <string name="callFailed_dsac_restricted">Tất cả các cuộc gọi bị giới hạn bởi kiểm soát truy cập.</string>
@@ -125,7 +128,7 @@
   <string name="callFailed_number_unreachable">Số không thể kết nối</string>
   <string name="callFailed_outOfService">Ra khỏi khu vực dịch vụ</string>
   <string name="callFailed_out_of_network">Called from out of network</string>
-  <string name="callFailed_powerOff">Radio off</string>
+  <string name="callFailed_powerOff">Tắt sóng</string>
   <string name="callFailed_server_error">Lỗi máy chủ. Thử lại sau.</string>
   <string name="callFailed_server_unreachable">Máy không thể kết nối</string>
   <string name="callFailed_simError">Không có SIM hoặc SIM lỗi</string>
@@ -140,15 +143,18 @@
   <string name="call_ind_services">Dịch vụ độc lập cuộc gọi</string>
   <string name="call_lost">Cuộc gọi đã bị mất.</string>
   <string name="call_number">Tới:</string>
+  <string name="call_record_button_label">Đang ghi âm %s</string>
   <string name="call_record_notification_message_low_space_miui">Ghi âm dừng lại do hết dung lượng thẻ nhớ, nhấn vào để xem %s.</string>
   <string name="call_record_notification_message_miui">Nhấn vào để xem %s.</string>
   <string name="call_record_notification_message_sd_unmounted_miui">Ghi âm dừng lại vì thẻ SD đã được gỡ ra.</string>
+  <string name="call_record_notification_message_start_failed">Thiết bị ghi âm đang được sử dụng bởi ứng dụng khác.</string>
   <string name="call_record_notification_title_error_miui">Ghi âm thất bại</string>
   <string name="call_record_notification_title_miui">Ghi âm thành công</string>
-  <string name="call_record_path_name_of_sdcard_miui">SD card</string>
+  <string name="call_record_path_name_of_sdcard_miui">Thẻ nhớ</string>
   <string name="call_record_sd_error_miui">Truy cập thẻ nhớ bị lỗi!</string>
   <string name="call_record_sd_space_low_miui">Thẻ nhớ gần đầy, vui lòng xóa bớt.</string>
   <string name="call_record_setting_miui">Cài đặt ghi âm cuộc gọi</string>
+  <string name="call_record_unknown_error">Lỗi không biết xảy ra trong thời gian ghi âm!</string>
   <string name="call_recording_notification_summary_miui">Hiển thị thông báo trên thanh trạng thái khi ghi âm hoàn thành</string>
   <string name="call_recording_notification_title_miui">Thông báo ghi âm cuộc gọi</string>
   <string name="call_recording_prompt_miui">Mở ghi âm cuộc gọi</string>
@@ -168,8 +174,7 @@
   <string name="caller_manage_manage_done_text">Quay lại cuộc gọi</string>
   <string name="callind">Cài đặt tính năng cuộc gọi</string>
   <string name="callind_multi_sim">Chọn đăng ký</string>
-  <string name="calling_via_template">"Gọi qua ^1
-"</string>
+  <string name="calling_via_template">"Gọi qua %s</string>
   <string name="calling_via_template_miui">"Gọi qua ^1
 "</string>
   <string name="cancel">Hủy</string>
@@ -190,7 +195,7 @@
   <string name="card_title_conditionalCF">Cuộc gọi chuyển tiếp điều kiện được kích hoạt</string>
   <string name="card_title_conf_call">Cuộc gọi hội nghị</string>
   <string name="card_title_cugcall">CUG Call</string>
-  <string name="card_title_deflectedcall">Deflected Call</string>
+  <string name="card_title_deflectedcall">Bên gọi</string>
   <string name="card_title_dialing">Đang gọi</string>
   <string name="card_title_forwardcheckreceived">Forward Check Received</string>
   <string name="card_title_forwarded_MTcall">Đã chuyển tiếp cuộc gọi đến</string>
@@ -296,6 +301,7 @@
   <string name="custom_location_location_no_item_miui">"Nhấp vào 'Thêm' dưới đây để thêm tùy chỉnh ghi"</string>
   <string name="custom_location_number_hint_miui">Mã khu vực chẳng hạn như 010, nhóm số chẳng hạn như 68 ###</string>
   <string name="cw_title_miui">Cuộc gọi chờ</string>
+  <string name="data_connected_change">Không thể thay đổi mạng trong khi dịch vụ dữ liệu đang sử dụng. Dừng dịch vụ dữ liệu hiện tại và chọn một mạng hiện có?</string>
   <string name="data_enable_summary">Bật truy cập dữ liệu qua mạng Di động</string>
   <string name="data_enabled">Đã bật dữ liệu</string>
   <string name="deact_all_sub_not_supported">Vô hiệu hóa của cả hai các mục đăng ký không được hỗ trợ.</string>
@@ -344,7 +350,7 @@
   <string name="description_target_send_sms">Gửi tin nhắn SMS</string>
   <string name="description_target_send_sms_miui">Gửi tin nhắn SMS</string>
   <string name="dial">Quay số</string>
-  <string name="dial_emergency_empty_error">Call not sent. Dial an emergency number!</string>
+  <string name="dial_emergency_empty_error">Cuộc gọi không được gửi. Quay số khẩn cấp!</string>
   <string name="dial_emergency_error">Cuộc gọi không được gửi đi. %s không phải là số khẩn cấp!</string>
   <string name="dial_related_setting_catory_miui">Quay số</string>
   <string name="dialerKeyboardHintText">Dùng bàn phím để quay số</string>
@@ -372,6 +378,7 @@
   <string name="dtmf_tones_summary_miui">Đặt độ dài của âm DTMF</string>
   <string name="dtmf_tones_title">Âm DTMF</string>
   <string name="dtmf_tones_title_miui">Âm DTMF</string>
+  <string name="duringcall">Thao tác không được phép trong khi gọi</string>
   <string name="ecm_exit_dialog">EcmExitDialog</string>
   <string name="editContact">Sửa</string>
   <string name="edit_custom_location_title_miui">Tùy chỉnh khu vực ghi số, ký tự đại diện # hỗ trợ</string>
@@ -379,7 +386,7 @@
   <string name="emergencyDialerIconLabel">Trình quay số Khẩn cấp</string>
   <string name="emergency_broadcast_disable">Đã vô hiệu hóa Phát thanh Khẩn cấp</string>
   <string name="emergency_broadcast_enable">Đã bật Phát thanh Khẩn cấp</string>
-  <string name="emergency_call_area_code_edit_dialog_button_miui">Call</string>
+  <string name="emergency_call_area_code_edit_dialog_button_miui">Cuộc gọi</string>
   <string name="emergency_call_area_code_edit_dialog_hint_miui">e.g: 112</string>
   <string name="emergency_enable_radio_dialog_message">Đang bật radio...</string>
   <string name="emergency_enable_radio_dialog_retry">Ngoài vùng dịch vụ, đang thử lại...</string>
@@ -387,6 +394,8 @@
   <string name="empty_alert">%s là bắt buộc, không thể để trống</string>
   <string name="empty_networks_list">Không tìm thấy mạng nào.</string>
   <string name="enable">Bật</string>
+  <string name="enable_antispam_strange_summary">Tắt tiếng cuộc gọi đầu tiên từ một số lượng không rõ</string>
+  <string name="enable_antispam_strange_title">Chống người lạ gọi</string>
   <string name="enable_disable_administrative">Quản trị</string>
   <string name="enable_disable_advertisements">Quảng cáo</string>
   <string name="enable_disable_atr">Báo cáo Lưu lượng truy cập của Khu vực</string>
@@ -502,6 +511,7 @@ Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
   <string name="incall_screen_background_summary_miui">"Sử dụng hình nền màn hình khóa khi không có không có ảnh đại diện"</string>
   <string name="incall_screen_background_title_miui">Nền hình cuộc gọi</string>
   <string name="incall_status_dialed_mmi">Đang khởi động chuỗi mã tính năng…</string>
+  <string name="information">Thông tin</string>
   <string name="international_disable">Đã vô hiệu hóa tin tức quốc tế</string>
   <string name="international_enable">Đã bật tin tức quốc tế</string>
   <string name="internet_phone">Cuộc gọi qua internet</string>
@@ -521,7 +531,7 @@ Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
   <string name="labelCDMAMore">Cài đặt cuộc gọi CDMA</string>
   <string name="labelCF">Chuyển tiếp cuộc gọi</string>
   <string name="labelCFB">Chuyển tiếp khi bận</string>
-  <string name="labelCFNRc">Chuyển tiếp khi không thể kết nối</string>
+  <string name="labelCFNRc">Chuyển tiếp khi không trả lời</string>
   <string name="labelCFNRy">Chuyển tiếp khi không trả lời</string>
   <string name="labelCFU">Luôn chuyển tiếp</string>
   <string name="labelCW">Chờ cuộc gọi</string>
@@ -545,8 +555,8 @@ Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
   <string name="label_sdp">SIM SIM unlock PIN</string>
   <string name="label_spdp">Nhà cung cấp dịch vụ SIM mở khóa mã PIN</string>
   <string name="label_subscription">cho thuê bao</string>
-  <string name="lafs_disable">Lịch trình chuyến bay sân bay địa phương bị vô hiệu hoá</string>
-  <string name="lafs_enable">Lịch trình chuyến bay sân bay địa phương bị vô hiệu hoá</string>
+  <string name="lafs_disable">Lịch trình chuyến bay vô hiệu hóa</string>
+  <string name="lafs_enable">Lịch trình chuyến bay được kích hoạt</string>
   <string name="list_language_dtitle">Ngôn ngữ</string>
   <string name="list_language_summary">Chọn ngôn ngữ mới</string>
   <string name="list_language_title">Ngôn ngữ</string>
@@ -622,7 +632,7 @@ Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
   <string name="no_wifi_available_title">Không có kết nối Wi-Fi</string>
   <string name="not_a_valid_port">Số cổng phải trong khoảng từ 1000 đến 65534</string>
   <string name="not_allowed">Thẻ SIM của bạn không cho phép kết nối với mạng này.</string>
-  <string name="not_connected_miui">Not connected</string>
+  <string name="not_connected_miui">Không được kết nối</string>
   <string name="not_voice_capable">Không hỗ trợ tính năng gọi thoại</string>
   <string name="notification_action_end_call">Cúp máy</string>
   <string name="notification_incoming_call">Cuộc gọi đến</string>
@@ -718,6 +728,7 @@ Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
   <string name="phone_entered_ecm_text">Đã vào Chế độ Gọi lại Khẩn cấp</string>
   <string name="phone_in_ecm_call_notification_text">Đã tắt kết nối mạng</string>
   <string name="phone_in_ecm_notification_title">Chế độ Gọi lại Khẩn cấp</string>
+  <string name="phone_info_divider">"  |  "</string>
   <string name="phone_numbers">Điền số điện thoại</string>
   <string name="pick_outgoing_call_phone_type">Thực hiện cuộc gọi</string>
   <string name="pick_outgoing_sip_phone">Sử dụng tài khoản gọi qua Internet:</string>
@@ -775,6 +786,7 @@ Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
   <string name="preferred_network_type_pref_entries_global_miui">Toàn cầu</string>
   <string name="preferred_network_type_pref_entries_only_2g_miui">Chỉ 2G (tiết kiệm pin)</string>
   <string name="preferred_network_type_pref_entries_only_3g_miui">Chỉ 3G</string>
+  <string name="preferred_network_type_tds_cdma_miui">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_title_miui">Lựa chọn loại mạng</string>
   <string name="primary_account_summary_with">Tài khoản chính. %s</string>
   <string name="private_num">Số cá nhân</string>
@@ -837,9 +849,9 @@ Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
   <string name="requesting_unlock">Đang yêu cầu mở khóa mạng...</string>
   <string name="reset_my_choice_hint">Bạn có thể sử dụng Cài đặt cuộc gọi để thay đổi tài khoản gọi qua Internet nào sử dụng theo mặc định khi thực hiện cuộc gọi, bằng cách chọn tài khoản khác trong cài đặt cuộc gọi qua Internet</string>
   <string name="respond_via_sms_canned_response_1">Giờ tôi ko thể nói chuyện. Gì vậy?</string>
-  <string name="respond_via_sms_canned_response_1_miui">"I'm sorry I can't answer the phone right now. I'll get back to you later."</string>
+  <string name="respond_via_sms_canned_response_1_miui">"Rất tiếc vì tôi không thể trả lời điện thoại ngay bây giờ. Tôi gọi lại cho bạn sau."</string>
   <string name="respond_via_sms_canned_response_2">Tôi sẽ gọi lại ngay.</string>
-  <string name="respond_via_sms_canned_response_2_miui">"I'm sorry I can't answer the phone right now. What can I do for you please?"</string>
+  <string name="respond_via_sms_canned_response_2_miui">"Rất tiếc vì tôi không thể trả lời điện thoại ngay bây giờ. Tôi có thể giúp gì cho bạn?"</string>
   <string name="respond_via_sms_canned_response_3">Tôi sẽ gọi lại sau.</string>
   <string name="respond_via_sms_canned_response_3_miui">"Tôi đang rất bận. Gọi cho bạn sau"</string>
   <string name="respond_via_sms_canned_response_4">Giờ tôi ko thể nói chuyện. Gọi sau nhé?</string>
@@ -869,6 +881,7 @@ Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
   <string name="roaming_reenable_message">Bạn đã mất kết nối dữ liệu vì bạn đã tắt chuyển vùng dữ liệu của mạng gia đình của mình.</string>
   <string name="roaming_warning">Cho phép chuyển vùng dữ liệu? Bạn có thể phải chịu phí chuyển vùng đáng kể!</string>
   <string name="rsp_unlock_failed">Nhà cung cấp dịch vụ UIM mở khóa yêu cầu không thành công.</string>
+  <string name="rsp_unlock_failed">UIM Service Provider unlock yêu cầu không thành công.</string>
   <string name="rsp_unlock_success">Nhà cung cấp dịch vụ UIM mở khóa yêu cầu thành công..</string>
   <string name="ruim_unlock_failed">UIM UIM mở khóa yêu cầu không thành công.</string>
   <string name="ruim_unlock_success">UIM UIM mở khóa yêu cầu thành công.</string>
@@ -881,7 +894,7 @@ Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
   <string name="send_button">Gửi</string>
   <string name="send_keepalive">SendKeepAlive</string>
   <string name="send_keepalive_title">Send keep-alive</string>
-  <string name="separate_from_conference_miui">Single Call</string>
+  <string name="separate_from_conference_miui">Cuộc gọi đơn</string>
   <string name="set_preferred_network_type_when_data_enabled_miui">Loại mạng ưa thích chỉ có sẵn khi dữ liệu bị vô hiệu hóa</string>
   <string name="set_primary">Thiết lập chính</string>
   <string name="set_primary_summary">Được sử dụng cho các cuộc gọi đi</string>
@@ -925,7 +938,7 @@ Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
   <string name="sim_unlock_failed">Yêu cầu mở khóa SIM thất bại.</string>
   <string name="sim_unlock_success">Mở khóa SIM thành công.</string>
   <string name="sip_account_list">Tài khoản SIP</string>
-  <string name="sip_accounts">Internet calling (SIP) accounts</string>
+  <string name="sip_accounts">Tài khoản gọi Internet(SIP)</string>
   <string name="sip_accounts_title">Tải khoản</string>
   <string name="sip_add_account_tip_text">Xin vui lòng thêm tài khoản SIP để sử dụng điện thoại Internet</string>
   <string name="sip_address_only">CHỈ ĐỊA CHỈ SIP</string>
@@ -965,8 +978,8 @@ Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
   <string name="sub2LineNumber">Sub2 Number :</string>
   <string name="sub_1">SUB 1</string>
   <string name="sub_2">SUB 2</string>
-  <string name="sub_one">Manage Subscription 1</string>
-  <string name="sub_two">Manage Subscription 2</string>
+  <string name="sub_one">Quản lý đăng kí 1</string>
+  <string name="sub_two">Quản lý đăng kí 2</string>
   <string name="subone">Đăng ký 1</string>
   <string name="subtwo">Đăng ký 2</string>
   <string name="sum_carrier_select">Chọn một nhà điều hành mạng</string>
@@ -992,16 +1005,17 @@ Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
   <string name="sum_loading_settings">Loading settings…</string>
   <string name="sum_search_networks">Tìm kiếm tất cả mạng khả dụng</string>
   <string name="sum_select_automatically">Tự động chọn mạng ưu thích</string>
-  <string name="sum_select_automatically_option_miui">Automatically select preferred network, %s</string>
+  <string name="sum_select_automatically_option_miui">Tự động chọn mang ưu tiên, %s</string>
   <string name="sum_show_caller_id">Số được hiển thị trong cuộc gọi đi</string>
   <string name="sum_voicemail_choose_provider">Chọn dịch vụ thư thoại</string>
   <string name="sum_xdivert_disabled">Tắt X-Divert</string>
   <string name="sum_xdivert_enabled">Bật X-Divert</string>
   <string name="summary_manage_subscriptions">Quản lý cài đặt mạng mỗi đăng ký</string>
+  <string name="suspect_info">"Không chấp nhận người gọi, có thể là gian lận!"</string>
   <string name="t9_indexing_method_pinyin">PinYin</string>
   <string name="t9_indexing_method_title_miui">T9 search setting</string>
   <string name="t9_indexing_method_zhuyin">ZhuYin</string>
-  <string name="t9_indexing_rebuilding_message">Rebuilding T9 Indexes, please wait...</string>
+  <string name="t9_indexing_rebuilding_message">Xây dựng lại các chỉ số T9, xin vui lòng chờ đợi...</string>
   <string name="technology_news_disable">Đã tắt Tin tức công nghệ</string>
   <string name="technology_news_enable">Đã bật Tin tức Công nghệ</string>
   <string name="telocation_setting_miui">Cài đặt vị trí</string>
@@ -1047,7 +1061,7 @@ Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
   <string name="updating_fdn_contact">Đang cập nhật số quay định sẵn...</string>
   <string name="updating_settings">Đang cập nhật cài đặt...</string>
   <string name="updating_title">Cài đặt cuộc gọi</string>
-  <string name="username">Username</string>
+  <string name="username">Tên người dùng</string>
   <string name="username_title">Tên người dùng</string>
   <string name="ussdRunning">Mã USSD đang chạy…</string>
   <string name="vibrate_on_ring_title">Báo rung khi chuông</string>

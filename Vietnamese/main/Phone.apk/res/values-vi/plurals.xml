@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Không có mạng trong %s phút</item>
+        <item quantity="one">Không có mạng trong %s phút</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Điện thoại sẽ trong trạng thái khẩn cấp trong %s phút. Trong khi ở chế độ này không có ứng dụng được sử dụng kết nối dữ liệu . Bạn có muốn thoát ra bây giờ?</item>
+        <item quantity="one">Điện thoại sẽ trong trạng thái khẩn cấp trong %s phút. Trong khi ở chế độ này không có ứng dụng được sử dụng kết nối dữ liệu . Bạn có muốn thoát ra bây giờ?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">"Không khả dụng trong chế độ khẩn cấp. Điện thoại sẽ trong trạng thái này %s phút. Bạn có muốn thoát ra bây giờ?"</item>
+        <item quantity="one">"Không khả dụng trong chế độ khẩn cấp. Điện thoại sẽ trong trạng thái này %s phút. Bạn có muốn thoát ra bây giờ?"</item>
+    </plurals>
+    <plurals name="numSelectedSimContacts">
+        <item quantity="other">"Đã chọn %1$d "</item>
+        <item quantity="zero">Đã chọn %1$d</item>
+        <item quantity="one">Đã chọn %1$d</item>
+    </plurals>
+</resources>

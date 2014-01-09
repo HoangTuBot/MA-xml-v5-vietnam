@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="app_name">Tìm kiếm</string>
-  <string name="apps_search_activity"></string>
-  <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
+  <string name="apps_search_activity"/>
   <string name="clear_shortcuts">Xóa lối tắt</string>
   <string name="clear_shortcuts_agree">Xóa lối tắt</string>
   <string name="clear_shortcuts_disagree">Không xóa lối tắt</string>
-  <string name="clear_shortcuts_prompt">"Thao tác này sẽ xóa tất cả lối tắt tới đề xuất tìm kiếm được chọn gần đây.
-
-(Để xóa lịch sử Trình duyệt, hãy sử dụng cài đặt của Trình duyệt)."</string>
+  <string name="clear_shortcuts_prompt">"Thao tác này sẽ xóa tất cả lối tắt tới đề xuất tìm kiếm được chọn gần đây.(Để xóa lịch sử Trình duyệt, hãy sử dụng cài đặt của Trình duyệt)."</string>
   <string name="clear_shortcuts_summary">Xóa lối tắt tới đề xuất tìm kiếm đã chọn gần đây</string>
   <string name="corpus_description_apps">Tên của các ứng dụng đã cài đặt</string>
   <string name="corpus_description_web">Tìm kiếm trên web, dấu trang và lịch sử trình duyệt</string>
@@ -27,11 +24,12 @@
   <string name="google_search_label">Google</string>
   <string name="google_settings_category_title">Tìm kiếm của Google</string>
   <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
-  <string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
   <string name="menu_help">Trợ giúp</string>
   <string name="menu_settings">Cài đặt tìm kiếm</string>
   <string name="remove_from_history">Xóa khỏi lịch sử tìm kiếm</string>
   <string name="remove_from_history_failed">Không thể xóa mục khỏi lịch sử</string>
+  <string name="search_in_app_store">Tìm trên chợ</string>
+  <string name="search_in_web">Tìm trên web</string>
   <string name="search_settings">Cài đặt tìm kiếm</string>
   <string name="search_sources">Mục có thể tìm kiếm</string>
   <string name="search_sources_summary">Chọn nội dung tìm kiếm trên điện thoại</string>
