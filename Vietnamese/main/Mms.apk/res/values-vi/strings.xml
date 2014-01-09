@@ -66,7 +66,6 @@
   <string name="confirm_dialog_title">Xóa?</string>
   <string name="confirm_export_dialog_description">Loại bỏ lựa chọn số liên lạc riêng, cuộc trò chuyện sẽ được chuyển đến tin nhắn SMS bình thường. Bạn có muốn tiếp tục?</string>
   <string name="confirm_export_dialog_title">Xóa số liên lạc riêng</string>
-  <string name="confirm_rate_limit">Một số lượng lớn tin nhắn đa phương tiện đang được gửi. Được chứ?</string>
   <string name="confirm_no_block_title">"Không chặn số và khôi phục lại tất cả các tin nhắn?"</string>
   <string name="confirm_rate_limit">Một số lượng lớn các tin nhắn đa phương tiện đang được gửi đi. OK?</string>
   <string name="confirm_restore_all_title">Khôi phục tất cả các tin nhắn từ số này？</string>
@@ -221,7 +220,6 @@
   <string name="mx_activate_int_popup_msg">MiMessaging cho phép người sử dụng MIUI để gửi tin nhắn với nhau mà không cần sử dụng dữ liệu di động.</string>
   <string name="mx_activate_popup_msg">MiMessaging cho phép người sử dụng MIUI để gửi tin nhắn với nhau mà không cần sử dụng dữ liệu di động..</string>
   <string name="mx_auto_resend_mms">Tự động gửi lại tin nhắn đa phương tiện</string>
-  <string name="mx_auto_resend_mms_summary">Gửi MMS khi đám mây nhắn tin có sẵn. Các nhà cung cấp tin nhắn tỷ lệ có thể áp dụng</string>
   <string name="mx_auto_resend_mms_summary">Gửi như tin nhắn MMS khi tin nhắn đám mây không khả dụng. Có thể bị tính cước sử dụng.</string>
   <string name="mx_auto_resend_sms">Gửi như tin nhắn SMS</string>
   <string name="mx_auto_resend_sms_summary">Gửi như tin nhắn SMS khi tin nhắn đám mây không khả dụng. Có thể bị tính cước sử dụng.</string>
@@ -411,7 +409,6 @@ Gửi báo lỗi và phản hồi tới Xiaomi.”</string>
   <string name="sms_full_title">Bộ nhớ tin nhắn văn bản đã đầy</string>
   <string name="sms_rejected_body">Tin nhắn đến đã bị từ chối vì lý do không xác định.</string>
   <string name="sms_rejected_title">Đã từ chối tin nhắn</string>
-  <string name="sms_rejected_title">Tin nhắn văn bản bị từ chối</string>
   <string name="sp_mark_as_read">Đánh dấu tất cả các tin nhắn là đã đọc?</string>
   <string name="sp_mark_as_read_progress">Đang đánh dấu tất cả tin nhắn...</string>
   <string name="sp_mark_as_read_title">Đánh dấu tất cả các tin nhắn là đã đọc</string>
@@ -444,11 +441,8 @@ Gửi báo lỗi và phản hồi tới Xiaomi.”</string>
   <string name="to_count">%d trong tất cả</string>
   <string name="to_label">"Tới "</string>
   <string name="to_send_wrapper">Sẽ gửi lúc %s</string>
-  <string name="too_many_attachments">Giới hạn là %1$s tệp đính kèm. Chỉ %2$s tệp đầu tiên được thêm.</string>
-  <string name="too_many_recipients">Tin nhắn này có quá nhiều người nhận (%1$s). Giới hạn là %2$s người nhận.</string>
-  <string name="too_many_unsent_mms">Không thể gửi tin nhắn ngay bây giờ. Có quá nhiều tin nhắn đa phương tiện chưa được gửi.</string>
   <string name="toast_feedback_start">Đang gửi phản hồi…</string>
-  <string name="too_many_attachments">Giới hạn %1$s tệp đính kèm. Chỉ có %2$s đều tiên được thêm vào.</string>
+  <string name="too_many_attachments">Giới hạn là %1$s tệp đính kèm. Chỉ %2$s tệp đầu tiên được thêm.</string>
   <string name="too_many_recipients">Tin nhắn này có quá nhiều người nhận (%1$s). Giới hạn %2$s người nhận.</string>
   <string name="too_many_unsent_mms">"Không thể gửi thư ngay bây giờ. Có quá nhiều thư đa phương tiện chưa được gửi."</string>
   <string name="try_to_send">Thử gửi lại</string>
