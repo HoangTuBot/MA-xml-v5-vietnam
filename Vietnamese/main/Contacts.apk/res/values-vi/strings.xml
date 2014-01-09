@@ -104,9 +104,7 @@ Nếu bạn đang sử dụng các dịch vụ đồng bộ, các thông tin li�
   <string name="callrecordview_menu_delete_called">Xóa nhật ký cho các cuộc đã gọi đi</string>
   <string name="callrecordview_menu_delete_confirm">Xác nhận %s?</string>
   <string name="callrecordview_menu_delete_missed">Xóa nhật ký cho các cuộc gọi nhỡ</string>
-  <string name="callrecordview_menu_delete_one">Xóa khỏi nhật ký cuộc gọi</string>
   <string name="callrecordview_menu_delete_one">Xóa khỏi nhật kí cuộc gọi</string>
-  <string name="callrecordview_menu_delete_stranger">Xóa nhật kí cuộc gọi cho các số lạ</string>
   <string name="callrecordview_menu_delete_stranger">Xóa nhật ký cuộc gọi từ các số lạ</string>
   <string name="callrecordview_menu_paste">Dán</string>
   <string name="callrecordview_menu_settings">Cài đặt</string>
@@ -117,7 +115,6 @@ Nếu bạn đang sử dụng các dịch vụ đồng bộ, các thông tin li�
   <string name="callrecordview_menu_show_missed">Hiển thị các cuộc gọi nhỡ</string>
   <string name="callrecordview_menu_show_stranger">Hiển thị các cuộc gọi từ số lạ</string>
   <string name="callrecordview_menu_show_title">Chọn loại cuộc gọi sẽ được hiển thị</string>
-  <string name="callrecordview_menu_show_title">Chọn loại nhật kí cuộc gọi sẽ được hiển thị</string>
   <string name="cancel_confirmation_dialog_message">Hủy các thay đổi của bạn?</string>
   <string name="cancel_export_confirmation_message">Hủy xuất liên lạc %s?</string>
   <string name="cancel_import_confirmation_message">Hủy nhạp liên lạc %s?</string>
@@ -142,7 +139,6 @@ Nếu bạn đang sử dụng các dịch vụ đồng bộ, các thông tin li�
   <string name="clearFrequentsConfirmation_title">Xóa liên hệ thường sử dụng</string>
   <string name="clearFrequentsProgress_title">Đang xóa danh sách liên hệ thường sử dụng...</string>
   <string name="clear_default">Xóa mặc định</string>
-  <string name="click_close">Chạm vào màn hình để đóng</string>
   <string name="click_close">Chạm màn hình để đóng</string>
   <string name="close_dial_pad">Đóng trình quay số</string>
   <string name="cloud_antispam_mark">Rác</string>
@@ -722,7 +718,6 @@ Nếu bạn đang sử dụng các dịch vụ đồng bộ, các thông tin li�
   <string name="preview_contact_card_title">Đang nhập liên hệ…</string>
   <string name="previous">trước đó</string>
   <string name="private_num">Số riêng tư</string>
-  <string name="profile_display_name">Cài đặt thông tin của tôi</string>
   <string name="processing">Đang xử lý...</string>
   <string name="profile_display_name">Thiết lập tiểu sử của tôi</string>
   <string name="progress_notifier_message" formatted="false">Đang nhập %s/%s: %s</string>
@@ -860,7 +855,6 @@ Nếu bạn đang sử dụng các dịch vụ đồng bộ, các thông tin li�
   <string name="resource_no_result">Không có kết quả</string>
   <string name="resource_notification_default">Thông báo</string>
   <string name="resource_online">Trực tuyến %1$s</string>
-  <string name="resource_online">Online %1$s</string>
   <string name="resource_pack_confirm">You have already purchased %1$d items, the current purchase price is better than purchase individually for left items, would you like to continue?</string>
   <string name="resource_pack_discount_info">%1$s saved</string>
   <string name="resource_pack_price_info">%1$s Original</string>
@@ -884,7 +878,6 @@ Nếu bạn đang sử dụng các dịch vụ đồng bộ, các thông tin li�
   <string name="resource_selected">Featured</string>
   <string name="resource_send">Send</string>
   <string name="resource_server_out_of_service">Máy chủ hiện không khả dụng, xin vui lòng thử lại sau.</string>
-  <string name="resource_server_out_of_service">Server currently unavailable, please try again later.</string>
   <string name="resource_share_subject">Share theme: %1$s</string>
   <string name="resource_share_text">Here is a theme I thought you might like: %1$s! Link: %2$s</string>
   <string name="resource_switch_account">Chuyển</string>
