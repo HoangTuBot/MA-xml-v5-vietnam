@@ -228,7 +228,7 @@
   <string name="cdma_system_select_dialogtitle">Chọn hệ thống</string>
   <string name="cdma_system_select_summary">Thay đổi chế độ chuyển vùng cdma</string>
   <string name="cdma_system_select_title">Chọn hệ thống</string>
-  <string name="cdma_three_way_calls_miui">Three-way Call</string>
+  <string name="cdma_three_way_calls_miui">Three-way call</string>
   <string name="cell_bc_sms_disable">Đã vô hiệu hóa SMS Phát trên Di động</string>
   <string name="cell_bc_sms_enable">Đã bật SMS Phát trên Di động</string>
   <string name="cell_broadcast_sms">SMS Phát trên Di động</string>
@@ -928,8 +928,6 @@ Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
   <string name="sim_lock_off_miui">Yêu cầu mã PIN sử dụng điện thoại</string>
   <string name="sim_lock_on_miui">Yêu cầu mã PIN sử dụng điện thoại</string>
   <string name="sim_lock_title_miui">Cài đặt khóa SIM</string>
-  <string name="sim_missing_continueView_text">Tiếp tục mà không có thẻ SIM</string>
-  <string name="sim_missing_msg_text">Không tìm thấy thẻ SIM nào. Hãy lắp thẻ SIM vào điện thoại.</string>
   <string name="sim_ndp_dismiss_text">Loại bỏ</string>
   <string name="sim_ndp_unlock_text">Mở khóa</string>
   <string name="sim_pin_change_miui">Đổi mã PIN SIM</string>

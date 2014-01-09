@@ -7,4 +7,47 @@
         <item>5 lần</item>
         <item>10 lần</item>
     </string-array>
+    <string-array name="contact_entries">
+        <item>Tên</item>
+        <item>Biệt danh</item>
+        <item>Số điện thoại</item>
+        <item>E-mail</item>
+        <item>Tổ chức</item>
+        <item>IM</item>
+        <item>SIP Phone</item>
+        <item>Sinh nhật</item>
+        <item>Website</item>
+        <item>Địa chỉ</item>
+        <item>Ghi chú</item>
+    </string-array>
+    <string-array name="entries_date_type">
+        <item>Thời gian nhận</item>
+        <item>Thời gian gửi</item>
+    </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>Qua tin nhắn</item>
+        <item>Qua tin nhắn miễn phí</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>Qua tin nhắn</item>
+        <item>Qua tin nhắn miễn phí</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 giây</item>
+        <item>2 giây</item>
+        <item>3 giây</item>
+        <item>4 giây</item>
+        <item>5 giây</item>
+        <item>6 giây</item>
+        <item>7 giây</item>
+        <item>8 giây</item>
+        <item>9 giây</item>
+        <item>10 giây</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Luôn luôn</item>
+        <item>Chỉ khi in lặng</item>
+        <item>Không bao giờ</item>
+    </string-array>
 </resources>
