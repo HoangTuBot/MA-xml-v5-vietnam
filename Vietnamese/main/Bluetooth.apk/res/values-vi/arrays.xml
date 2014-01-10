@@ -6,14 +6,14 @@
         <item>4 trang một bên</item>
     </string-array>
     <string-array name="orientation">
-        <item>Portrait</item>
-        <item>Landscape</item>
-        <item>Reverse Landscape</item>
-        <item>Reverse Portrait</item>
+        <item>Thẳng</item>
+        <item>Ngang</item>
+        <item>Ngang</item>
+        <item>Dọc</item>
     </string-array>
     <string-array name="sides">
-        <item>One Sided</item>
-        <item>Two Sided Long Edge</item>
-        <item>Two Sided Short Edge</item>
+        <item>1 bên</item>
+        <item>2 mặt mép dài</item>
+        <item>2 mặt mép ngắn</item>
     </string-array>
 </resources>
