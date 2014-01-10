@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="numberup">
-        <item>One page per side</item>
-        <item>Two page per side</item>
-        <item>Four page per side</item>
+        <item>1 trang một bên</item>
+        <item>2 trang một bên</item>
+        <item>4 trang một bên</item>
     </string-array>
     <string-array name="orientation">
         <item>Portrait</item>
