@@ -732,9 +732,6 @@ Một số tài khoản cũng tự động sao chép bất kỳ thay đổi nào
   <string name="deep_clean_tips_large_file">biểu tượng dọn dẹp chỉ đơn thuần chỉ ra tệp lớn (tức là lớn hơn 10MB) mà hiện đang được lưu trữ trên thiết bị của bạn. Chỉ bạn có thể quyết định có hay không bạn vẫn còn cần chúng.</string>
   <string name="deep_clean_tips_large_file_content">Tập tin lớn (10 MB +) chiếm không gian trên thiết bị của bạn.</string>
   <string name="deep_clean_tips_large_file_title">Tệp tin lớn</string>
-  <string name="deep_clean_tips_cache">"iconMột số ứng dụng sử dụng tệp tạm để tải về tài nguyên (v.d: lời bài hát, nhạc, ảnh, v.v...). Cẩn thận khi bạn xóa những file này."</string>
-  <string name="deep_clean_tips_large_file">iconXóa những tệp tin lớn (>10MB) đang được lưu ở trong máy. Chỉ có bạn được quyết định có giữ lại chúng hay không.</string>
-  <string name="deep_clean_tips_residual">"iconNhững file thừa do các chương trình đã bị gỡ bỏ tạo ra. Cẩn thận khi xóa những file này, vì có thể bạn vẫn cần đến nó."</string>
   <string name="deep_clean_title_cache">Tạm</string>
   <string name="deep_clean_title_large_file">Tệp tin lớn</string>
   <string name="deep_clean_title_residual">File thừa</string>
@@ -1124,7 +1121,6 @@ Một số tài khoản cũng tự động sao chép bất kỳ thay đổi nào
   <string name="internal_format">Xóa bộ nhớ trong</string>
   <string name="internal_format_summary">Xóa tất cả dữ liệu ở bộ nhớ trong, ví dụ như nhạc, hình ảnh, vv.</string>
   <string name="internal_media_format_desc">Xóa bộ nhớ trong? Bạn sẽ mất </string>
-  <string name="internal_media_format_desc">Xóa bộ nhớ trong? Bạn sẽ mất &lt;b&gt;all&lt;/b&gt; dữ liệu đã lưu và điện thoại sẽ khởi động lại!</string>
   <string name="internal_media_format_final_desc">"Xóa bộ nhớ trong, xóa tất cả dữ liệu đã được lưu? Bạn không thể hoàn tác xóa dữ liệu. Sau khi xóa hết dữ liệu, điện thoại sẽ khởi động lại"</string>
   <string name="internal_media_format_title">Xóa bộ nhớ trong</string>
   <string name="internal_memory">Bộ nhớ trong</string>
@@ -1307,7 +1303,6 @@ Bạn đang đăng nhập vào các tài khoản sau:
   <string name="master_clear_gesture_prompt">Vẽ mẫu mở khoá của bạn</string>
   <string name="master_clear_personal_data">"Xóa tất cả các thông tin cá nhân của bạn? Bạn không thể đảo ngược hành động này!"</string>
   <string name="master_clear_personal_data_application">"Xóa thông tin cá nhân của bạn và tải về apps? bạn không thể đảo ngược hành động này!"</string>
-  <string name="master_clear_personal_data">"Bạn có muốn xóa hết thông tin cá nhân? Thao tác này không thể khôi phục lại."</string>
   <string name="master_clear_summary">Xóa tất cả dữ liệu trên điện thoạis</string>
   <string name="master_clear_title">Cài lại dữ liệu của nhà SX</string>
   <string name="media_button">Media button</string>
@@ -2090,7 +2085,6 @@ Xin vui lòng chắc chắn bạn nắm rõ về ROOT."</string>
   <string name="screen_on_proximity_sensor_summary">Ngăn chặn việc vô ý sử dụng điện thoại khi đặt tróng túi(phát hiện qua cảm biến tiệm cận).</string>
   <string name="screen_on_proximity_sensor_title">Ngăn chặn lạm dụng</string>
   <string name="screen_saturation_adjust">Điều chỉnh độ bão hòa màu</string>
-  <string name="screen_saturation_adjust">Color saturation adjust</string>
   <string name="screen_timeout">Ngủ</string>
   <string name="screen_timeout_summary">Sau %1$s không hoạt động</string>
   <string name="screen_timeout_title">Thời gian màn hình tắt</string>
@@ -2368,7 +2362,6 @@ Số lần thử còn lại:"</string>
   <string name="sync_wifi_only">Wi-Fi only</string>
   <string name="system">Hệ thống</string>
   <string name="system_package">Không thể cài đặt bản cập nhật hệ thống trên phương tiện bên ngoài.</string>
-  <string name="system_package">"System updates can't be installed on external media."</string>
   <string name="system_update_settings_list_item_summary"></string>
   <string name="system_update_settings_list_item_title">Cập nhật hệ thống</string>
   <string name="terms_title">Điều khoản và điều kiện</string>
@@ -2608,7 +2601,6 @@ Bạn có thể thêm từ bằng cách chạm vào nút Thêm.</string>
   <string name="virus_scan_app_scanning">Đang quét ứng dụng...</string>
   <string name="virus_scan_app_solve">All the processing</string>
   <string name="virus_scan_app_stop_scan">Ngừng quét</string>
-  <string name="virus_scan_app_stop_scan">Stop scan</string>
   <string name="virus_scan_app_uninstall">Gỡ bỏ cài đặt (%d)</string>
   <string name="virus_scan_app_waiting">Chờ đợi</string>
   <string name="virus_scan_can_use_wifi">Use online definitions to scan</string>
