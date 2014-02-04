@@ -485,8 +485,8 @@ Thử lại trong %d giây."</string>
     <string name="day_following_good_friday" />
     <string name="easter" />
     <string name="v5_date_time_picker_dialog_title">Thiết lập thời gian nhắc nhở</string>
-	<string name="lockscreen_emergency_call">Cuộc gọi khẩn cấp</string>
-	<string name="lockscreen_forgot_pattern_button_text">Quên hình mở khóa?</string>
+    <string name="lockscreen_emergency_call">Cuộc gọi khẩn cấp</string>
+    <string name="lockscreen_forgot_pattern_button_text">Quên hình mở khóa?</string>
     <string name="lockscreen_transport_prev_description">Bài trước</string>
     <string name="lockscreen_transport_next_description">Bài tiếp theo</string>
     <string name="lockscreen_transport_play_description">Phát/Dừng</string>
