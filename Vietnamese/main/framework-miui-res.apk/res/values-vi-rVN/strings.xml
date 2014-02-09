@@ -447,7 +447,7 @@ Kích hoạt thông qua Cài đặt > Hệ thống > Cài đặt Phím"</string>
     <string name="sim_not_ready">Thẻ SIM đang được sử dụng. Vui lòng thử lại sau.</string>
     <string name="sim_in_airplane_mode">Vui lòng tắt chế độ máy bay.</string>
     <string name="sim_changed_reactivate_int_notice">Thẻ SIM hiện tại không được kích hoạt. Một tin nhắn SMS là cần thiết để kích hoạt dịch vụ. Kích hoạt lại bây giờ?</string>
-    <string name="days">ngày</string>
+    <string name="days">%d ngày</string>
     <string name="hours">%d giờ</string>
     <string name="minutes">%d phút</string>
     <string name="shutdown_confirm_title">Bạn có chắc chắn muốn tắt điện thoại?</string>
