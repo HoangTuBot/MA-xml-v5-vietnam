@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="general_preference_text_zoom_summary_array">
-        <item>Chữ cực nhỏ</item>
+        <item>Chữ bé</item>
         <item>Chữ nhỏ</item>
-        <item>Chữ mặc định</item>
+        <item>Chữ vừa</item>
         <item>Chữ lớn</item>
-        <item>Chữ cực lớn</item>
+        <item>Chữ đại</item>
     </string-array>
     <string-array name="general_preference_auto_advance_summary_array">
-        <item>Tới thư mới hơn sau khi sau 1 thư</item>
-        <item>Tới thư cũ hơn sau khi sau 1 thư</item>
-        <item>Quay lại Hộp thư đến sau khi sau 1 thư</item>
+        <item>Tới thư mới hơn sau khi xóa 1 thư</item>
+        <item>Tới thư cũ hơn sau khi xóa 1 thư</item>
+        <item>Quay lại Hộp thư đến sau khi xóa 1 thư</item>
     </string-array>
 </resources>
