@@ -170,5 +170,5 @@ Vui lòng gửi bình chọn một lần nữa vào thứ Ba tới."</string>
     <string name="comment_upload_not_logined">Đăng nhập để bình luận</string>
     <string name="fourgrid_hint_text">Cảm ơn bạn đã sử dụng các bản phát triển của MIUI. Hãy cho chúng tôi biết những gì bạn nghĩ và giúp chúng tôi thực hiện một bản ROM MIUI Android tốt hơn!</string>
     <string name="fourgrid_notificaiont">Hiển thị trên thanh trạng thái</string>
-    <string name="fourgrid_no_notificaiont">Không hiện thị trên thanh trạng thái</string>
+    <string name="fourgrid_no_notificaiont">Không hiển thị trên thanh trạng thái</string>
 </resources>
