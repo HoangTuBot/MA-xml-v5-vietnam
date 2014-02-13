@@ -2,7 +2,7 @@
 <resources>
     <string name="activate">Kích hoạt</string>
     <string name="activate_fail_notification_title">Vui lòng kích hoạt lại dịch vụ đồng bộ hóa của Xiaomi</string>
-    <string name="activating">Đang kích hoạt...</string>
+    <string name="activating">Đang kích hoạt…</string>
     <string name="deprecated_alarm_message_12_hour_formate" />
     <string name="alwaysUsePrompt">Cài đặt mặc định (Không hỏi lại vào lần sau)</string>
     <string name="android_lockscreen_glogin_instructions">Để mở khóa, đăng nhập với tài khoản của bạn</string>
@@ -264,7 +264,7 @@
     <string name="experimental_validate">Xác nhận</string>
     <string name="experimental_validate_fail">Xác nhận lỗi, vui lòng thử lại</string>
     <string name="experimental_validate_password">Mật khẩu</string>
-    <string name="experimental_validate_progress">Đang xác nhận...</string>
+    <string name="experimental_validate_progress">Đang xác nhận…</string>
     <string name="experimental_validate_thanks">Cảm ơn!</string>
     <string name="experimental_validate_username">Xiaomi ID</string>
     <string name="experimental_validate_warning">Mỗi báo cáo của bạn giúp MIUI trở nên tốt hơn!</string>
@@ -366,7 +366,7 @@ Kích hoạt thông qua Cài đặt > Hệ thống > Cài đặt Phím"</string>
     <string name="permlab_accessNote">Truy cập ghi chú</string>
     <string name="private_num">Số riêng tư</string>
     <string name="reboot_confirm">Điện thoại sẽ được khởi động lại</string>
-    <string name="reboot_progress">Đang khởi động lại...</string>
+    <string name="reboot_progress">Đang khởi động lại…</string>
     <string name="reverse_all">Xóa tất cả</string>
     <string name="safetylegal_activity_unreachable">Điện thoại của bạn không được kết nối với dịch vụ dữ liệu. Để xem thông tin này bây giờ, đi đến %s từ bất kỳ máy tính kết nối Internet.</string>
     <string name="screen_button_notification_text">"Nhấn đồng thời phím 'Home'+'Power' để kích hoạt"</string>
@@ -447,7 +447,7 @@ Kích hoạt thông qua Cài đặt > Hệ thống > Cài đặt Phím"</string>
     <string name="sim_not_ready">Thẻ SIM đang được sử dụng. Vui lòng thử lại sau.</string>
     <string name="sim_in_airplane_mode">Vui lòng tắt chế độ máy bay.</string>
     <string name="sim_changed_reactivate_int_notice">Thẻ SIM hiện tại không được kích hoạt. Một tin nhắn SMS là cần thiết để kích hoạt dịch vụ. Kích hoạt lại bây giờ?</string>
-    <string name="days">ngày</string>
+    <string name="days">%d ngày</string>
     <string name="hours">%d giờ</string>
     <string name="minutes">%d phút</string>
     <string name="shutdown_confirm_title">Bạn có chắc chắn muốn tắt điện thoại?</string>
@@ -517,5 +517,5 @@ Thử lại trong %d giây."</string>
     <string name="return_to_me_message">Xin vui lòng trả lại cho chủ sở hữu.</string>
     <string name="unlock_string">OK</string>
     <string name="open_wifi_settings">Mở cài đặt Wi-Fi</string>
-    <string name="lock_screen_date">EEE, d MMMM</string>
+    <string name="lock_screen_date">EEEE, d MMMM</string>
 </resources>
