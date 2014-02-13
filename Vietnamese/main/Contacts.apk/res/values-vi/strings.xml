@@ -33,7 +33,7 @@
   <string name="all_list_empty">Không có liên lạc nào</string>
   <string name="all_resources">Tất cả</string>
   <string name="antispam_mark_my_contribution">My contribution to the database</string>
-  <string name="antispam_provider_format">This marked number was added by %s</string>
+  <string name="antispam_provider_format">Số được đánh dấu này được thêm bởi %s</string>
   <string name="attach_photo_dialog_title">Ảnh của liên hệ</string>
   <string name="audio_chat">Trò chuyện thoại</string>
   <string name="auto_nickname">Tự động</string>
@@ -98,6 +98,7 @@ Nếu bạn đang sử dụng các dịch vụ đồng bộ, các thông tin li�
   <string name="callrecordview_item_op_time_short_incoming">"Đến: "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Đi: "</string>
   <string name="callrecordview_menu_add_call_note">Thêm ghi chú</string>
+  <string name="callrecordview_menu_batch_delete">Chọn và xóa</string>
   <string name="callrecordview_menu_delete">Xóa nhật ký cuộc gọi</string>
   <string name="callrecordview_menu_delete_accepted">Xóa nhật ký cho các cuộc gọi đã nhận</string>
   <string name="callrecordview_menu_delete_all">Xóa nhật ký cuộc gọi</string>
@@ -105,6 +106,8 @@ Nếu bạn đang sử dụng các dịch vụ đồng bộ, các thông tin li�
   <string name="callrecordview_menu_delete_confirm">Xác nhận %s?</string>
   <string name="callrecordview_menu_delete_missed">Xóa nhật ký cho các cuộc gọi nhỡ</string>
   <string name="callrecordview_menu_delete_one">Xóa khỏi nhật kí cuộc gọi</string>
+  <string name="callrecordview_menu_delete_one">Xóa khỏi l.sử cuộc gọi</string>
+  <string name="callrecordview_menu_delete_stranger">Xóa l.sử cuộc gọi của số chưa biết</string>
   <string name="callrecordview_menu_delete_stranger">Xóa nhật ký cuộc gọi từ các số lạ</string>
   <string name="callrecordview_menu_paste">Dán</string>
   <string name="callrecordview_menu_settings">Cài đặt</string>
@@ -115,6 +118,7 @@ Nếu bạn đang sử dụng các dịch vụ đồng bộ, các thông tin li�
   <string name="callrecordview_menu_show_missed">Hiển thị các cuộc gọi nhỡ</string>
   <string name="callrecordview_menu_show_stranger">Hiển thị các cuộc gọi từ số lạ</string>
   <string name="callrecordview_menu_show_title">Chọn loại cuộc gọi sẽ được hiển thị</string>
+  <string name="callrecordview_menu_show_title">Chọn loại l.sử cuộc gọi được hiển thị</string>
   <string name="cancel_confirmation_dialog_message">Hủy các thay đổi của bạn?</string>
   <string name="cancel_export_confirmation_message">Hủy xuất liên lạc %s?</string>
   <string name="cancel_import_confirmation_message">Hủy nhạp liên lạc %s?</string>
@@ -140,6 +144,7 @@ Nếu bạn đang sử dụng các dịch vụ đồng bộ, các thông tin li�
   <string name="clearFrequentsProgress_title">Đang xóa danh sách liên hệ thường sử dụng...</string>
   <string name="clear_default">Xóa mặc định</string>
   <string name="click_close">Chạm màn hình để đóng</string>
+  <string name="click_close">Chạm vào màn hình để đóng</string>
   <string name="close_dial_pad">Đóng trình quay số</string>
   <string name="cloud_antispam_mark">Rác</string>
   <string name="cloud_antispam_title">Cloud Guard</string>
@@ -206,8 +211,9 @@ Nếu bạn đang sử dụng các dịch vụ đồng bộ, các thông tin li�
   <string name="deleteConfirmation">Liên hệ này sẽ bị xóa.</string>
   <string name="deleteConfirmationDetail">\"%s\" sẽ được xóa.</string>
   <string name="deleteConfirmation_title">Xóa địa chỉ liên hệ?</string>
-  <string name="delete_call_log_title">Chọn nhật ký cuộc gọi để xóa?</string>
-  <string name="delete_contact_calllog_title">"Bạn có chắc bạn muốn xóa nhật ký cuộc gọi cho liên hệ này?"</string>
+  <string name="delete_call_log_selected_title">Xóa những l.sử cuộc gọi đã chọn?</string>
+  <string name="delete_call_log_title">Chọn l.sử cuộc gọi muốn xóa</string>
+  <string name="delete_contact_calllog_title">Xóa toàn bộ l.sử cuộc gọi?</string>
   <string name="delete_dial_input">Xóa</string>
   <string name="delete_duplicate">Kết hợp</string>
   <string name="delete_duplicate_message">"Đang kết hợp liên hệ..."</string>
@@ -332,10 +338,10 @@ Nếu bạn đang sử dụng các dịch vụ đồng bộ, các thông tin li�
   <string name="email">E-mail</string>
   <string name="emailLabelsGroup">E-mail</string>
   <string name="email_custom">E-mail %s</string>
-  <string name="email_home">E-mail home</string>
-  <string name="email_mobile">E-mail mobile</string>
+  <string name="email_home">E-mail nhà</string>
+  <string name="email_mobile">E-mail di động</string>
   <string name="email_other">E-mail</string>
-  <string name="email_work">E-mail work</string>
+  <string name="email_work">E-mail công việc</string>
   <string name="emptyGroup">Không có liên hệ trong nhóm này.</string>
   <string name="empty_divider_title">Bạn có thể</string>
   <string name="enter_contact_name">"Điền tên liên hệ"</string>
@@ -443,7 +449,7 @@ Nếu bạn đang sử dụng các dịch vụ đồng bộ, các thông tin li�
   <string name="import_weibo_error_unknown">Lỗi không xác định.</string>
   <string name="import_weibo_error_user_cancel">Hủy.</string>
   <string name="import_weibo_fetch_followers">Retrieving Sina Weibo followers…</string>
-  <string name="import_weibo_notification_title">Importing Sina weibo contacts…</string>
+  <string name="import_weibo_notification_title">Đang nhập liên hệ từ Sina Weibo…</string>
   <string name="import_weibo_notification_title_done">Nhập hoàn thành</string>
   <string name="import_weibo_progress_name">%1$s</string>
   <string name="import_weibo_progress_percent">%1$d%%</string>
@@ -718,6 +724,7 @@ Nếu bạn đang sử dụng các dịch vụ đồng bộ, các thông tin li�
   <string name="preview_contact_card_title">Đang nhập liên hệ…</string>
   <string name="previous">trước đó</string>
   <string name="private_num">Số riêng tư</string>
+  <string name="profile_display_name">Thêm t.tin cá nhân</string>
   <string name="processing">Đang xử lý...</string>
   <string name="profile_display_name">Thiết lập tiểu sử của tôi</string>
   <string name="progress_notifier_message" formatted="false">Đang nhập %s/%s: %s</string>
@@ -751,7 +758,9 @@ Nếu bạn đang sử dụng các dịch vụ đồng bộ, các thông tin li�
   <string name="remind_btn_sync_now">Đồng bộ ngay</string>
   <string name="removePhoto">Gỡ ảnh</string>
   <string name="remove_blacklist">Gỡ khỏi danh sách đen</string>
-  <string name="remove_duplicate">"MIUI sẽ giúp bạn tìm và kết hợp địa chỉ liên lạc trùng lặp, địa chỉ liên lạc sẽ không được kết hợp tự động. Để nhập địa chỉ liên hệ xin vui lòng làm điều này theo cách thủ công"</string>
+  <string name="remove_duplicate">"MIUI sẽ giúp bạn tìm và kết hợp địa chỉ liên lạc trùng lặp.
+  
+Chạm vào biểu tượng Nhập bên dưới để bắt đầu"</string>
   <string name="resource_account_abnormal_state">Tài khoản lỗi vui lòng thử lại.</string>
   <string name="resource_account_current">Tài khoản: %1$s</string>
   <string name="resource_account_fail_to_add">Thêm tài khoản thất bại!</string>
@@ -760,7 +769,7 @@ Nếu bạn đang sử dụng các dịch vụ đồng bộ, các thông tin li�
   <string name="resource_account_login_title">Đăng nhập</string>
   <string name="resource_account_switch">Đổi tài khoản</string>
   <string name="resource_alarm_default">Báo thức</string>
-  <string name="resource_app_name">Resource Browser</string>
+  <string name="resource_app_name">Tài nguyên trình duyệt</string>
   <string name="resource_apply">Áp dụng</string>
   <string name="resource_apply_trial">Thử ngay</string>
   <string name="resource_buy">Mua</string>
@@ -774,26 +783,26 @@ Nếu bạn đang sử dụng các dịch vụ đồng bộ, các thông tin li�
   <string name="resource_comment_all_comments">Tất cả</string>
   <string name="resource_comment_average_score">Xếp loại</string>
   <string name="resource_comment_bad_comments">Tiêu cực</string>
-  <string name="resource_comment_current_version">Current version</string>
-  <string name="resource_comment_edit_comment">Add comments</string>
-  <string name="resource_comment_edit_comment_waiting">Checking user history…</string>
-  <string name="resource_comment_edit_text_default">Add a comment</string>
-  <string name="resource_comment_edit_title">Edit comment: %1$s</string>
-  <string name="resource_comment_entry_tips">Show comments</string>
-  <string name="resource_comment_expand_full_text">Show all text ▼</string>
-  <string name="resource_comment_footer">Empty comments are not displayed.</string>
-  <string name="resource_comment_good_comments">Positive comments</string>
-  <string name="resource_comment_invalid">Touch stars to rate</string>
-  <string name="resource_comment_loading_list">Loading comments…</string>
-  <string name="resource_comment_name_default">User %1$s</string>
-  <string name="resource_comment_no_average_score">No score</string>
-  <string name="resource_comment_no_comment">No comments</string>
-  <string name="resource_comment_publish">Submit</string>
-  <string name="resource_comment_rate">Rating:</string>
-  <string name="resource_comment_score_count">%1$s users</string>
-  <string name="resource_comment_sending">Adding comment…</string>
-  <string name="resource_comment_title">Comments: %1$s</string>
-  <string name="resource_comment_upload_data_invalid">Comment invalid!</string>
+  <string name="resource_comment_current_version">Phiên bản hiện tại</string>
+  <string name="resource_comment_edit_comment">Thêm bình luận</string>
+  <string name="resource_comment_edit_comment_waiting">Đang kiểm tra lịch sử…</string>
+  <string name="resource_comment_edit_text_default">Thêm bình luận</string>
+  <string name="resource_comment_edit_title">Sửa bình luận: %1$s</string>
+  <string name="resource_comment_entry_tips">Hiện bình luận</string>
+  <string name="resource_comment_expand_full_text">Hiện thêm ▼</string>
+  <string name="resource_comment_footer">Bình luận trống sẽ không được hiển thị.</string>
+  <string name="resource_comment_good_comments">Bình luận tích cực</string>
+  <string name="resource_comment_invalid">Chạm vào ngôi sao để đánh giá</string>
+  <string name="resource_comment_loading_list">Đang tải bình luận…</string>
+  <string name="resource_comment_name_default">Người dùng %1$s</string>
+  <string name="resource_comment_no_average_score">Không có điểm</string>
+  <string name="resource_comment_no_comment">Không có bình luận</string>
+  <string name="resource_comment_publish">Đăng</string>
+  <string name="resource_comment_rate">Đánh giá:</string>
+  <string name="resource_comment_score_count">%1$s người dùng</string>
+  <string name="resource_comment_sending">Đang thêm bình luận…</string>
+  <string name="resource_comment_title">Bình luận: %1$s</string>
+  <string name="resource_comment_upload_data_invalid">Comment input is invalid</string>
   <string name="resource_comment_upload_failed">Failed add comments!</string>
   <string name="resource_comment_upload_hint">Comments will be displayed after being reviewed.</string>
   <string name="resource_comment_upload_not_bought">Please use this theme before leaving comments.</string>
