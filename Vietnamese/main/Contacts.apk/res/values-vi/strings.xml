@@ -106,9 +106,7 @@ Nếu bạn đang sử dụng các dịch vụ đồng bộ, các thông tin li�
   <string name="callrecordview_menu_delete_confirm">Xác nhận %s?</string>
   <string name="callrecordview_menu_delete_missed">Xóa nhật ký cho các cuộc gọi nhỡ</string>
   <string name="callrecordview_menu_delete_one">Xóa khỏi nhật kí cuộc gọi</string>
-  <string name="callrecordview_menu_delete_one">Xóa khỏi l.sử cuộc gọi</string>
   <string name="callrecordview_menu_delete_stranger">Xóa l.sử cuộc gọi của số chưa biết</string>
-  <string name="callrecordview_menu_delete_stranger">Xóa nhật ký cuộc gọi từ các số lạ</string>
   <string name="callrecordview_menu_paste">Dán</string>
   <string name="callrecordview_menu_settings">Cài đặt</string>
   <string name="callrecordview_menu_show">Bộ lọc nhật ký cuộc gọi</string>
@@ -117,7 +115,6 @@ Nếu bạn đang sử dụng các dịch vụ đồng bộ, các thông tin li�
   <string name="callrecordview_menu_show_called">Hiển thị các cuộc gọi đi</string>
   <string name="callrecordview_menu_show_missed">Hiển thị các cuộc gọi nhỡ</string>
   <string name="callrecordview_menu_show_stranger">Hiển thị các cuộc gọi từ số lạ</string>
-  <string name="callrecordview_menu_show_title">Chọn loại cuộc gọi sẽ được hiển thị</string>
   <string name="callrecordview_menu_show_title">Chọn loại l.sử cuộc gọi được hiển thị</string>
   <string name="cancel_confirmation_dialog_message">Hủy các thay đổi của bạn?</string>
   <string name="cancel_export_confirmation_message">Hủy xuất liên lạc %s?</string>
@@ -143,7 +140,6 @@ Nếu bạn đang sử dụng các dịch vụ đồng bộ, các thông tin li�
   <string name="clearFrequentsConfirmation_title">Xóa liên hệ thường sử dụng</string>
   <string name="clearFrequentsProgress_title">Đang xóa danh sách liên hệ thường sử dụng...</string>
   <string name="clear_default">Xóa mặc định</string>
-  <string name="click_close">Chạm màn hình để đóng</string>
   <string name="click_close">Chạm vào màn hình để đóng</string>
   <string name="close_dial_pad">Đóng trình quay số</string>
   <string name="cloud_antispam_mark">Rác</string>
@@ -726,7 +722,6 @@ Nếu bạn đang sử dụng các dịch vụ đồng bộ, các thông tin li�
   <string name="private_num">Số riêng tư</string>
   <string name="profile_display_name">Thêm t.tin cá nhân</string>
   <string name="processing">Đang xử lý...</string>
-  <string name="profile_display_name">Thiết lập tiểu sử của tôi</string>
   <string name="progress_notifier_message" formatted="false">Đang nhập %s/%s: %s</string>
   <string name="quickcontact_missing_app">Không tìm thấy ứng dụng nào để xử lý tác vụ này.</string>
   <string name="quit_dialog_confirm_title">Thoát kết hợp liên hệ?</string>
