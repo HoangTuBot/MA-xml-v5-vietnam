@@ -4,7 +4,7 @@
     <string name="activate_fail_notification_title">Vui lòng kích hoạt lại dịch vụ đồng bộ hóa của Xiaomi</string>
     <string name="activating">Đang kích hoạt…</string>
     <string name="deprecated_alarm_message_12_hour_formate" />
-    <string name="alwaysUsePrompt">Cài đặt mặc định (Không hỏi lại vào lần sau)</string>
+    <string name="alwaysUsePrompt">Không hỏi lại</string>
     <string name="android_lockscreen_glogin_instructions">Để mở khóa, đăng nhập với tài khoản của bạn</string>
     <string name="today">Hôm nay</string>
     <string name="tomorrow">Ngày mai</string>
@@ -279,11 +279,11 @@ Vui lòng tắt chế độ máy bay."</string>
     <string name="firewall_setting">Tường lửa</string>
     <string name="first_back_long_press_message">"Bạn có muốn kích hoạt chức năng giữ phím quay lại một lúc để tắt ứng dụng và ứng dụng chạy nền?
 
-Kích hoạt thông qua Cài đặt > Hệ thống > Cài đặt Phím"</string>
+Kích hoạt thông qua Cài đặt > Hệ thống > Phím"</string>
     <string name="fm_record_smaple_prefix_miui">Ghi âm FM</string>
     <string name="fools_day">Cá Tháng Tư</string>
     <string name="force_exit_message">Đóng thành công \"%1$s\"</string>
-    <string name="format_time_in_12_hours">hh:mma</string>
+    <string name="format_time_in_12_hours">hh:mm a</string>
     <string name="global_action_privacy_mode_dialog_message">Trong chế độ bảo vệ, gọi điện, ghi chú, thư viện ảnh, dữ liệu và tin nhắn sẽ bị ẩn và hệ thống không thể truy cập vào chế độ chỉnh sửa. Bạn có thể cài đặt mật khẩu cho chế độ bảo vệ trong Thiết lập quyền truy cập</string>
     <string name="global_action_toggle_privacy_mode">Bảo vệ</string>
     <string name="grain_buds" />
@@ -292,7 +292,7 @@ Kích hoạt thông qua Cài đặt > Hệ thống > Cài đặt Phím"</string>
     <string name="great_cold" />
     <string name="great_heat" />
     <string name="group_name_contacts">Danh bạ</string>
-    <string name="group_name_coworkers">Đại học</string>
+    <string name="group_name_coworkers">Đồng nghiệp</string>
     <string name="group_name_family">Gia đình</string>
     <string name="group_name_friends">Bạn bè</string>
     <string name="heavy_snow" />
@@ -333,18 +333,18 @@ Kích hoạt thông qua Cài đặt > Hệ thống > Cài đặt Phím"</string>
     <string name="miui_privacy_policy_title">Chính sách bảo mật</string>
     <string name="miui_user_agreement_title">Thỏa thuận người dùng</string>
     <string name="miui_user_manual_title">Hướng dẫn sử dụng</string>
-    <string name="month_of_april">Thg 4</string>
-    <string name="month_of_august">Thg 8</string>
-    <string name="month_of_december">Thg 12</string>
-    <string name="month_of_february">Thg 2</string>
-    <string name="month_of_january">Thg 1</string>
-    <string name="month_of_july">Thg 7</string>
-    <string name="month_of_june">Thg 6</string>
-    <string name="month_of_march">Thg 3</string>
-    <string name="month_of_may">Thg 5</string>
-    <string name="month_of_november">Thg 11</string>
-    <string name="month_of_october">Thg 10</string>
-    <string name="month_of_september">Thg 9</string>
+    <string name="month_of_april">tháng 4</string>
+    <string name="month_of_august">tháng 8</string>
+    <string name="month_of_december">tháng 12</string>
+    <string name="month_of_february">tháng 2</string>
+    <string name="month_of_january">tháng 1</string>
+    <string name="month_of_july">tháng 7</string>
+    <string name="month_of_june">tháng 6</string>
+    <string name="month_of_march">tháng 3</string>
+    <string name="month_of_may">tháng 5</string>
+    <string name="month_of_november">tháng 11</string>
+    <string name="month_of_october">tháng 10</string>
+    <string name="month_of_september">tháng 9</string>
     <string name="multi_select_title">Đã chọn %1$s mục</string>
     <string name="national_day" />
     <string name="national_father_day" />
@@ -408,16 +408,13 @@ Kích hoạt thông qua Cài đặt > Hệ thống > Cài đặt Phím"</string>
     <string name="user_agreement2">" Thỏa thuận người dùng"</string>
     <string name="user_agreement3">" và "</string>
     <string name="user_agreement4">Chính sách bảo mật</string>
-    <string name="user_agreement5">，Nhấp vào Đồng ý để xác nhận bạn đồng ý và sẵn sàng để phù hợp với nội dung trên, bấm Hủy bỏ để thoát khỏi.</string>
-    <string name="v5_date_picker_label_day" />
-    <string name="v5_date_picker_label_month" />
-    <string name="v5_date_picker_label_year" />
+    <string name="user_agreement5">，Nhấp vào OK để xác nhận bạn đồng ý và sẵn sàng để phù hợp với nội dung trên, bấm Hủy bỏ để thoát khỏi.</string>
     <string name="v5_deselect_all">Bỏ chọn tất cả</string>
     <string name="v5_edit_mode_title_empty">Chọn các mục</string>
     <string name="v5_icon_menu_bar_more_item_label">Thêm</string>
     <string name="v5_select_all">Chọn tất cả</string>
-    <string name="v5_time_picker_label_hour" />
-    <string name="v5_time_picker_label_minute" />
+    <string name="v5_time_picker_label_hour">giờ</string>
+    <string name="v5_time_picker_label_minute">phút</string>
     <string name="valentines_day" />
     <string name="vernal_equinox" />
     <string name="volume_alarm">Báo thức</string>
