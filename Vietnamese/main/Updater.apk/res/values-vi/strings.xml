@@ -28,14 +28,14 @@
     <string name="mione_update_success_title">Cập nhật hoàn tất</string>
     <string name="mione_update_fail_title">Cập nhật thất bại</string>
     <string name="mione_update_fail_description">Vui lòng cập nhật lại</string>
-    <string name="apply_unable_to_reboot_toast">Không thể khởi động lại để vào recovery</string>
+    <string name="apply_unable_to_reboot_toast">Không thể khởi động lại để vào Recovery</string>
     <string name="checking_for_updates">Đang kiểm tra…</string>
     <string name="downloading_description">Đang tải…</string>
     <string name="sdcard_is_not_present_dialog_body">Thẻ SD không chưa gắn hoặc không đọc được, hãy thử lại</string>
     <string name="sdcard_is_not_present_dialog_title">Không tìm thấy thẻ SD</string>
     <string name="sdcard_has_no_space_dialog_body">Thẻ SD không đủ dung lượng trống, cần nhiều dung lượng hơn cho hoạt động này</string>
     <string name="sdcard_has_no_space_dialog_title">Thẻ SD không đủ dung lượng</string>
-    <string name="current_version_text">Phiên bản hiện tại</string>
+    <string name="current_version_text">Phiên bản hiện tại </string>
     <string name="current_version_update_monthly_build">Phiên bản hiện tại (Cập nhật hàng tháng)</string>
     <string name="apply_update_dialog_update_button">Cập nhật</string>
     <string name="apply_update_dialog_cancel_button">Hủy</string>
@@ -127,7 +127,7 @@ Hơn %2$s người dùng đã cập nhật MIUI %3$s"</string>
     <string name="upgrade_close">Đóng</string>
     <string name="recommend_vote_title">Đội thăm dò ý kiến MIUI Beta</string>
     <string name="recommend">Được khuyến kích</string>
-    <string name="not_recommend">Không khuyến kh1ich</string>
+    <string name="not_recommend">Không khuyến khích</string>
     <string name="recommend_comment_hint">Lý do (không bắt buộc)</string>
     <string name="submit">Gửi</string>
     <string name="submit_success">Gửi thành công, cảm ơn bạn!</string>
