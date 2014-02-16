@@ -1076,7 +1076,7 @@ Lưu ý: ứng dụng có thể gây ra sự mất ổn định hệ thống, th
     <string name="roaming_reenable_message">Kết nối mạng dữ liệu di động bị mất, bởi vì bạn phải rời khỏi mạng lưới địa phương và tắt mạng dữ liệu di động khi chuyển vùng..</string>
     <string name="roaming_turn_it_on_button">Bật</string>
     <string name="roaming_warning">Khi bạn bật dữ liệu chuyển vùng, bạn có thể phải chịu các khoản phí chuyển vùng quốc tế đáng kể!</string>
-	<string name="roaming_warning_multiuser">"Nếu bạn bật dữ liệu chuyển vùng, bạn có thể cần phải trả phí chuyển vùng cao!
+    <string name="roaming_warning_multiuser">"Nếu bạn bật dữ liệu chuyển vùng, bạn có thể cần phải trả phí chuyển vùng cao!
 
 Thiết lập này ảnh hưởng đến tất cả người dùng của điện thoại này."</string>
     <string name="roaming_reenable_title">Cho phép bật dữ liệu chuyển vùng?</string>
@@ -1109,7 +1109,7 @@ Thiết lập này ảnh hưởng đến tất cả người dùng của điện
     <string name="owner_info_settings_title">Thông tin chủ sở hữu</string>
     <string name="owner_info_settings_summary" />
     <string name="owner_info_settings_edit_text_hint">Nhập văn bản để hiển thị trên màn hình khóa</string>
-	<string name="show_user_info_on_lockscreen_label">Thông tin người dùng hiển thị trên màn hình khóa</string>
+    <string name="show_user_info_on_lockscreen_label">Thông tin người dùng hiển thị trên màn hình khóa</string>
     <string name="user_info_settings_title">Thông tin người dùng</string>
     <string name="location_settings_title">Dịch vụ định vị</string>
     <string name="security_settings_title">Bảo mật</string>
@@ -2914,7 +2914,7 @@ Lưu ý: Thao tác này không thể khôi phục lại."</string>
     <string name="volume_restore_alert">Tất cả cài đặt âm lượng sẽ quay về mặc định, bạn có muốn?</string>
     <string name="sound_category_calls_and_notification_title">Nhạc chuông &amp; thông báo</string>
     <string name="font_size_preview">MIUI - ßel™</string>
-	<string name="font_size_summary">Điều chỉnh kích thước phông chữ hoặc cách trình bày của các ứng dụng chẳng như: Điện thoại, Tin nhắn, Danh bạ, vv…, để tăng khả năng đọc và khả năng sử dụng</string>
+    <string name="font_size_summary">Điều chỉnh kích thước phông chữ hoặc cách trình bày của các ứng dụng chẳng như: Điện thoại, Tin nhắn, Danh bạ, vv…, để tăng khả năng đọc và khả năng sử dụng</string>
     <string name="font_size_small">Nhỏ</string>
     <string name="font_size_normal">Thường</string>
     <string name="font_size_medium">Vừa</string>
@@ -2977,7 +2977,7 @@ Hãy thử như sau:
 "<li>1) Kết nối lại cáp USB.</li>"
 "<li>2) Cài đặt lại driver.</li></string>
     <string name="msd_install_retry_windows_vista">"Nếu máy tính không phát hiện thiết bị đúng cách.
-Hãy thử kết nối lại cáp USB"</li></string>
+"<li>"Hãy thử kết nối lại cáp USB"</li></string>
     <string name="msd_install_retry_mac">"Nếu máy tính không phát hiện thiết bị đúng cách.
 Hãy thử như sau:
 "<li>"Thực hiện tìm kiếm cho Android File Transfer, và chạy phần mềm."</li>"
