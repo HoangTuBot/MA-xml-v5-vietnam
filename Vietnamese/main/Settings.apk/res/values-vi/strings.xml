@@ -452,7 +452,7 @@ Lưu ý: ứng dụng có thể gây ra sự mất ổn định hệ thống, th
     <string name="power_mode_select_title">Chế độ năng lượng</string>
     <string name="power_mode_select_desc">Chọn chế độ đáp ứng nhu cầu cá nhân của bạn</string>
     <string name="power_used_prefix">Pin đã dùng</string>
-    <string name="power_used_hours"> giờ </string>
+    <string name="power_used_hours">giờ</string>
     <string name="power_used_mins">phút</string>
     <string name="power_battery_history_days">%1$d ngày %2$d giờ %3$d phút</string>
     <string name="power_battery_history_hours">%1$d giờ %2$d phút</string>
@@ -2982,7 +2982,7 @@ Hãy thử như sau:
 Hãy thử như sau:
 "<li>"Thực hiện tìm kiếm cho Android File Transfer, và chạy phần mềm."</li>"
 "<li>Kết nối lại cáp USB.</li>"
-"<li>Cài đặt lại trình điều khiển.</li></string>
+"<li>Cài đặt lại driver.</li></string>
     <string name="msd_install_retry_linux">"Nếu máy tính không phát hiện thiết bị đúng cách.
 Hãy thử như sau:
 1) Sử dụng công cụ cài đặt: \"sudo aptitude install mtpfs libfuse-dev libmad0-dev\"
