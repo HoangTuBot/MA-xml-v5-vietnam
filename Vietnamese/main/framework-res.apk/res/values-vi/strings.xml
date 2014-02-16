@@ -173,7 +173,7 @@
     <string name="mmiError">Sự cố kết nối hoặc mã MMI không hợp lệ.</string>
     <string name="mmiFdnError">Chỉ hạn chế thao tác đối với số quay số định sẵn.</string>
     <string name="serviceEnabled">Dịch vụ đã được bật.</string>
-    <string name="serviceEnabledFor">Dịch vụ đã được bật cho:</string>
+    <string name="serviceEnabledFor">Dịch vụ đã được bật cho: </string>
     <string name="serviceDisabled">Dịch vụ đã bị vô hiệu hóa.</string>
     <string name="serviceRegistered">Đăng ký thành công.</string>
     <string name="serviceErased">Xóa thành công.</string>
