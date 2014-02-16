@@ -138,7 +138,7 @@ dd MMMM, yyyy"</string>
     <string name="return_to_incall_screen">Nhấp vào để quay trở lại cuộc gọi</string>
     <string name="call_status_dialing">Đang quay số…</string>
     <string name="status_bar_style_settings">Cài đặt thanh trạng thái</string>
-    <string name="status_bar_and_notification_bar">Notification shade and status bar</string>
+    <string name="status_bar_and_notification_bar">Thanh trạng thái và thanh thông báo</string>
     <string name="settings_toggle_layout_style">Phong cách bố trí phím nhanh</string>
     <string name="settings_toggle_layout_style_compact">Gọn</string>
     <string name="settings_toggle_layout_style_single_page">Trang</string>
