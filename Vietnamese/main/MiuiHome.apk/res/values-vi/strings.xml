@@ -23,7 +23,7 @@
     <string name="menu_exit_scene">Thoát khỏi màn hình tự do</string>
     <string name="permlab_install_shortcut">Cài đặt lối tắt</string>
     <string name="permdesc_install_shortcut">Cho phép ứng dụng thêm lối tắt mà không cần sự can thiệp của người dùng</string>
-    <string name="permlab_uninstall_shortcut">Xóa bỏ lối tắt</string>
+    <string name="permlab_uninstall_shortcut">Xóa lối tắt</string>
     <string name="permdesc_uninstall_shortcut">Cho phép 1 ứng dụng được xóa lối tắt mà không cần sự thông qua của người dùng</string>
     <string name="permlab_install_widget">Cài đặt tiện ích</string>
     <string name="permdesc_install_widget">Cho phép ứng dụng thêm tiện ích mà không cần sự can thiệp của người dùng</string>
