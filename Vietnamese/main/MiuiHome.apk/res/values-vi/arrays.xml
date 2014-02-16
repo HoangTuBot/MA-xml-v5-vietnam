@@ -27,7 +27,7 @@
         <item>Sương</item>
         <item>Mưa nặng hạt</item>
         <item>Mưa</item>
-        <item>Mưa rất nặng hạt</item>
+        <item>Mưa rất to</item>
         <item>Có giông</item>
         <item>Mưa rào</item>
         <item>Mưa to</item>
@@ -45,5 +45,12 @@
         <item>Bão cát</item>
         <item>Mưa đá</item>
         <item>Bụi</item>
+        <item>Mù sương</item>
+    </string-array>
+    <string-array name="editing_mode_entries">
+        <item>Sắp xếp màn hình chính</item>
+        <item>Thêm tiện ích</item>
+        <item>Đổi hình nền</item>
+        <item>Hiệu ứng màn hình</item>
     </string-array>
 </resources>
