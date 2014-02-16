@@ -30,7 +30,7 @@
     <string name="toast_description_required">Mô tả là cần thiết</string>
     <string name="toast_pending_log_collection">Thu thập các bản ghi, vui lòng chờ</string>
     <string name="toast_feedback_submitted">Phản hồi của bạn đã được gửi thành công</string>
-    <string name="toast_feedback_pending_wlan">Phản hồi của bạn sẽ được gửi khi kết nối Wi-Fi</string>
+    <string name="toast_feedback_pending_wlan">Phản hồi của bạn sẽ được gửi khi có kết nối Wi-Fi</string>
     <string name="discard_draft_dialog_title">Hủy bản thảo</string>
     <string name="discard_draft_dialog_content">Bản báo cáo đã được sửa đổi, nhấp OK để loại bỏ các dự thảo.</string>
     <string name="discard_draft_dialog_button_discard">OK</string>
