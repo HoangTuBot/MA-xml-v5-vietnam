@@ -3,7 +3,7 @@
     <string name="application_name">MiuiHome</string>
     <string name="folder_name">Thư mục</string>
     <string name="unnamed_folder_name">Chưa đặt tên</string>
-    <string name="chooser_wallpaper">Chọn hình nền từ</string>
+    <string name="chooser_wallpaper">Chọn hình nền từ </string>
     <string name="activity_not_found">Ứng dụng không được cài đặt trên điện thoại của bạn.</string>
     <string name="cancel_action">Hủy</string>
     <string name="menu_item_add_item">Thêm vào màn hình chính</string>
