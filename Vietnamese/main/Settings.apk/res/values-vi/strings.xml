@@ -2903,8 +2903,8 @@ Lưu ý: Thao tác này không thể khôi phục lại."</string>
     <string name="bluetooth_device_searchable">Hiện thiết bị với thiết bị khác</string>
     <string name="usb_msd_title">Thiết bị lưu trữ USB</string>
     <string name="usb_msd_summary">Chuyển các tập tin trên Windows và Mac</string>
-    <string name="usb_msd_driver_installer_title">Đĩa cài đặt trình điều khiển (MSD)</string>
-    <string name="usb_msd_driver_installer_summary">Bạn có thể cài đặt trình điều khiển cho Windows và MAC ở đây</string>
+    <string name="usb_msd_driver_installer_title">Đĩa cài đặt drivers (MSD)</string>
+    <string name="usb_msd_driver_installer_summary">Bạn có thể cài đặt drivers cho Windows và MAC ở đây</string>
     <string name="input_settings">Cài đặt nhập liệu</string>
     <string name="show_magnifier_when_input">Hiển thị kính lúp</string>
     <string name="volume_voice_description">Âm lượng giọng nói</string>
@@ -2992,12 +2992,12 @@ Hãy thử như sau:
 5) Truy cập thiết bị đã gắn: mtpfs /media/mtp via File explorer; same as local directory
 6) Gỡ bỏ thiết bị: fusermount -u /media/mtp
  Lưu ý: Dùng cho ubuntu 8,04"</string>
-    <string name="msd_install_status_undo">Cài đặt trình điều khiển</string>
-    <string name="msd_install_status_done">Trình điều khiển đã được cài đặt</string>
-    <string name="msd_driver_download">Tải về trình điều khiển</string>
-    <string name="msd_driver_windows_xp_download">"Cho Windows, tải về trình điều khiển và chạy Setup.exe để cài đặt.
+    <string name="msd_install_status_undo">Cài đặt drivers</string>
+    <string name="msd_install_status_done">Drivers đã được cài đặt</string>
+    <string name="msd_driver_download">Tải về drivers</string>
+    <string name="msd_driver_windows_xp_download">"Cho Windows, tải về drivers và chạy Setup.exe để cài đặt.
 Tải về tại http://miui.com/win"</string>
-    <string name="msd_driver_mac_download">"Cho Macs, tải về trình điều khiển và chạy AndroidFileTransfer.dmg để cài đặt.
+    <string name="msd_driver_mac_download">"Cho Macs, tải về drivers và chạy AndroidFileTransfer.dmg để cài đặt.
 Tải về tại at http://miui.com/mac"</string>
     <string name="vpn_settings_password">Cài đặt Mật khẩu VPN</string>
     <string name="vpn_safe">Bảo mật</string>
