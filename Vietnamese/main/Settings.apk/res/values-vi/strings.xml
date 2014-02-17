@@ -749,12 +749,12 @@ Lưu ý: ứng dụng có thể gây ra sự mất ổn định hệ thống, th
     <string name="optimizing_virus">Đang loại bỏ virus…</string>
     <string name="finish_optimizing_virus">Đang hoàn tất…</string>
     <string name="menu_item_about_title">Giới thiệu</string>
-    <string name="menu_item_about_content">Bảo mật: %s</string>
+    <string name="menu_item_about_content">Phiên bản: %s</string>
     <string name="menu_item_about_summary">Phiên bản: %s</string>
     <string name="menu_item_shortcut">Tạo lối tắt</string>
     <string name="menu_item_shortcut_uninstall">Xóa lối tắt</string>
     <string name="menu_item_shortcut_title">Quản lý lối tắt</string>
-    <string name="menu_item_shortcut_summary">Nơi các tính năng thường xuyên được sử dụng trên Màn hình chính của bạn</string>
+    <string name="menu_item_shortcut_summary">Đặt các tính năng thường xuyên được sử dụng trên Màn hình chính của bạn</string>
     <string name="menu_item_settings_title">Cài đặt</string>
     <string name="activity_title_create_shortcut">Quản lý lối tắt</string>
     <string name="activity_title_settings">Cài đặt</string>
@@ -2771,7 +2771,7 @@ Bất kỳ người dùng nào cũng có thể thay mặt cho tất cả đượ
     <string name="battery_settings">Pin</string>
     <string name="battery_settings_title">Pin</string>
     <string name="battery_indicator_style">Dạng thông báo Pin</string>
-    <string name="power_usage_history">Pin sử dụng</string>
+    <string name="power_usage_history">Pin đã sử dụng</string>
     <string name="default_usb_mode">Loại kết nối USB mặc định</string>
     <string name="unlock_set_unlock_summary">Vui lòng kích hoạt màn hình mật khẩu để cho phép bảo vệ mật khẩu</string>
     <string name="lock_settings_picker_settings">Chọn màn hình khóa</string>
