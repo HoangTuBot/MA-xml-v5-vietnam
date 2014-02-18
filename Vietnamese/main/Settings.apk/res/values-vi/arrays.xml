@@ -1,31 +1,499 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="phone_call_noise_suppression_title">
-        <item>Single mic Noise Supression</item>
-        <item>Dual mic Noise Supression</item>
+    <string-array name="perm_hips_action">
+        <item>Cho phép</item>
+        <item>Hỏi lại</item>
+        <item>Từ chối</item>
+    </string-array>
+    <string-array name="power_mode_entries">
+        <item>Hiệu suất cao</item>
+        <item>Cân bằng</item>
+        <item>Tiết kiệm pin</item>
+    </string-array>
+    <string-array name="power_dialog_auto_clean_memory_items">
+        <item>Sau 1 phút</item>
+        <item>Sau 5 phút</item>
+        <item>Sau 10 phút</item>
+        <item>Không bao giờ</item>
+    </string-array>
+    <string-array name="power_dialog_sleep_items">
+        <item>15 giây</item>
+        <item>30 giây</item>
+        <item>1 phút</item>
+        <item>2 phút</item>
+        <item>5 phút</item>
+        <item>10 phút</item>
+        <item>Không bao giờ</item>
+    </string-array>
+    <string-array name="power_dialog_cpu_state_items">
+        <item>Hiệu suất cao</item>
+        <item>Cân bằng</item>
+        <item>Tiết kiệm pin</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items">
+        <item>Không rung</item>
+        <item>Rung khi im lặng</item>
+        <item>Luôn rung</item>
+    </string-array>
+    <string-array name="score_descriptions">
+        <item>Tắt Danh sách chặn</item>
+        <item>Tắt Quản lý Quyền</item>
+        <item>Thùng rác đầy</item>
+        <item>Cơ sở dữ liệu virus đã lỗi thời</item>
+        <item>Có quá nhiều tiến trình nền</item>
+    </string-array>
+    <string-array name="score_suggests">
+        <item>Bật Danh sách chặn</item>
+        <item>Bật Quản lý Quyền</item>
+        <item>Làm sạch thùng rác</item>
+        <item>Cập nhật thư viện virus</item>
+        <item>"Bạn đang dùng rất nhiều ứng dụng trong nền…"</item>
+    </string-array>
+    <string-array name="timezone_filters">
+        <item>Châu Mỹ</item>
+        <item>Châu Âu</item>
+        <item>Châu Phi</item>
+        <item>Châu Á</item>
+        <item>Châu Úc</item>
+        <item>Thái Bình Dương</item>
+        <item>Tất cả</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 giây</item>
+        <item>30 giây</item>
+        <item>1 phút</item>
+        <item>2 phút</item>
+        <item>5 phút</item>
+        <item>10 phút</item>
+        <item>Không bao giờ</item>
+    </string-array>
+    <string-array name="dream_timeout_entries">
+        <item>Không bao giờ</item>
+        <item>15 giây</item>
+        <item>30 giây</item>
+        <item>1 phút</item>
+        <item>2 phút</item>
+        <item>5 phút</item>
+        <item>10 phút</item>
+        <item>30 phút</item>
+    </string-array>
+    <string-array name="lock_after_timeout_entries">
+        <item>Ngay lập tức</item>
+        <item>5 giây</item>
+        <item>15 giây</item>
+        <item>30 giây</item>
+        <item>1 phút</item>
+        <item>2 phút</item>
+        <item>5 phút</item>
+        <item>10 phút</item>
+        <item>30 phút</item>
+    </string-array>
+    <string-array name="entries_font_size">
+        <item>Nhỏ</item>
+        <item>Vừa</item>
+        <item>Lớn</item>
+        <item>Đại</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Rất chậm</item>
+        <item>Chậm</item>
+        <item>Bình thường</item>
+        <item>Nhanh</item>
+        <item>Rất nhanh</item>
+    </string-array>
+    <string-array name="tts_pitch_entries">
+        <item>Rất thấp</item>
+        <item>Thấp</item>
+        <item>Bình thường</item>
+        <item>Cao</item>
+        <item>Rất cao</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Đang quét…</item>
+        <item>Đang kết nối…</item>
+        <item>Đang xác thực…</item>
+        <item>Đang lấy địa chỉ IP…</item>
+        <item>Đã kết nối</item>
+        <item>Đã tạm ngưng</item>
+        <item>Đang ngắt kết nối…</item>
+        <item>Đã ngắt kết nối</item>
+        <item>Không thành công</item>
+        <item>Đã chặn</item>
+        <item>Tạm thời tránh kết nối kém</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Đang quét…</item>
+        <item>Đang kết nối tới %1$s…</item>
+        <item>Đang xác thực với %1$s…</item>
+        <item>Đang lấy địa chỉ IP từ %1$s…</item>
+        <item>Đã kết nối tới %1$s</item>
+        <item>Đã tạm ngưng</item>
+        <item>Đang ngắt kết nối từ %1$s…</item>
+        <item>Đã ngắt kết nối</item>
+        <item>Không thành công</item>
+        <item>Đã chặn</item>
+        <item>Tạm thời tránh kết nối kém</item>
+    </string-array>
+    <string-array name="wifi_ap_security">
+        <item>Mở</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
+    <string-array name="wifi_p2p_wps_setup">
+        <item>Nhấn nút</item>
+        <item>Mã PIN từ thiết bị thứ hai</item>
+        <item>Mã PIN từ thiết bị này</item>
+    </string-array>
+    <string-array name="wifi_p2p_status">
+        <item>Đã kết nối</item>
+        <item>Đã mời</item>
+        <item>Không thành công</item>
+        <item>Khả dụng</item>
+        <item>Ngoài phạm vi</item>
+    </string-array>
+    <string-array name="bluetooth_visibility_timeout_entries">
+        <item>2 phút</item>
+        <item>5 phút</item>
+        <item>1 giờ</item>
+        <item>Luôn hiển thị</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Kém</item>
+        <item>Khá</item>
+        <item>Tốt</item>
+        <item>Rất tốt</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>Luôn luôn</item>
+        <item>Chỉ khi đã kết nối</item>
+        <item>Không bao giờ</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_wifi_only">
+        <item>Luôn luôn</item>
+        <item>Chỉ khi đã kết nối</item>
+        <item>Không bao giờ</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_entries">
+        <item>Tự động</item>
+        <item>Chỉ 5GHz</item>
+        <item>Chỉ 2.4GHz</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>Thời gian sử dụng</item>
+        <item>Số lần sử dụng</item>
+        <item>Tên ứng dụng</item>
+    </string-array>
+    <string-array name="wifi_eap_entries">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Không</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Tĩnh</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Không</item>
+        <item>Tùy chỉnh</item>
+    </string-array>
+    <string-array name="emergency_tone_entries">
+        <item>Tắt</item>
+        <item>Cảnh báo</item>
+        <item>Rung</item>
+    </string-array>
+    <string-array name="apn_auth_entries">
+        <item>Không</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP hoặc CHAP</item>
+    </string-array>
+    <string-array name="apn_protocol_entries">
+        <item>IPv4</item>
+        <item>IPv6</item>
+        <item>IPv4/IPv6</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>LTE</item>
+        <item>eHRPD</item>
+        <item>Không quy định</item>
+    </string-array>
+    <string-array name="app_install_location_entries">
+        <item>Bộ nhớ trong của thiết bị</item>
+        <item>Chuyển sang thẻ SD</item>
+        <item>Để hệ thống quyết định</item>
+    </string-array>
+    <string-array name="long_press_timeout_selector_titles">
+        <item>Ngắn</item>
+        <item>Vừa</item>
+        <item>Lâu</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Không bao giờ</item>
+        <item>Chỉ kiểm tra nội dung DRM</item>
+        <item>Luôn luôn</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Không bao giờ dùng kiểm tra HDCP</item>
+        <item>Dùng kiểm tra HDCP chỉ cho nội dung DRM</item>
+        <item>Luôn dùng kiểm tra HDCP</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Tắt hiệu ứng</item>
+        <item>Tốc độ hiệu ứng 0.5x</item>
+        <item>Tốc độ hiệu ứng 1x</item>
+        <item>Tốc độ hiệu ứng 1.5x</item>
+        <item>Tốc độ hiệu ứng 2x</item>
+        <item>Tốc độ hiệu ứng 5x</item>
+        <item>Tốc độ hiệu ứng 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Tắt hiệu ứng</item>
+        <item>Tốc độ hiệu ứng 0.5x</item>
+        <item>Tốc độ hiệu ứng 1x</item>
+        <item>Tốc độ hiệu ứng 1.5x</item>
+        <item>Tốc độ hiệu ứng 2x</item>
+        <item>Tốc độ hiệu ứng 5x</item>
+        <item>Tốc độ hiệu ứng 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Tắt hiệu ứng</item>
+        <item>Tốc độ hiệu ứng 0.5x</item>
+        <item>Tốc độ hiệu ứng 1x</item>
+        <item>Tốc độ hiệu ứng 1.5x</item>
+        <item>Tốc độ hiệu ứng 2x</item>
+        <item>Tốc độ hiệu ứng 5x</item>
+        <item>Tốc độ hiệu ứng 10x</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Không</item>
+        <item>720x480 mdpi</item>
+        <item>1280x720 tvdpi</item>
+        <item>1920x1080 xhdpi</item>
+        <item>1280x720 tvdpi và 1920x1080 xhdpi</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Không</item>
+        <item>Logcat</item>
+        <item>Systrace (Đồ họa)</item>
+        <item>Cuộc gọi ngăn xếp trên glGetError</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Giới hạn tiêu chuẩn</item>
+        <item>Không cho chạy nền</item>
+        <item>Nhiều nhất là 1 tiến trình</item>
+        <item>Nhiều nhất là 2 tiến trình</item>
+        <item>Nhiều nhất là 3 tiến trình</item>
+        <item>Nhiều nhất là 4 tiến trình</item>
+    </string-array>
+    <string-array name="vpn_types_long">
+        <item>PPTP VPN</item>
+        <item>L2TP/IPSec VPN với các khóa trước khi chia sẻ</item>
+        <item>L2TP/IPSec VPN với các chứng chỉ</item>
+        <item>IPSec VPN với các khóa trước khi chia sẻ và xác thực Xauth</item>
+        <item>IPSec VPN với các chứng chỉ và xác thực Xauth</item>
+        <item>IPSec VPN với các chứng chỉ và xác thực Hybrid</item>
+    </string-array>
+    <string-array name="vpn_states">
+        <item>Đã ngắt kết nối</item>
+        <item>Đang khởi tạo…</item>
+        <item>Đang kết nối…</item>
+        <item>Đã kết nối</item>
+        <item>Hết thời gian chờ</item>
+        <item>Không thành công</item>
+    </string-array>
+    <string-array name="user_content_ratings_entries">
+        <item>Chuyên sâu</item>
+        <item>Thành thạo</item>
+        <item>Biết vọc vạch</item>
+        <item>Biết chút ít</item>
+        <item>Mù công nghệ</item>
+    </string-array>
+    <string-array name="security_settings_premium_sms_values">
+        <item>Hỏi lại</item>
+        <item>Không bao giờ</item>
+        <item>Luôn luôn</item>
+    </string-array>
+    <string-array name="haptic_feedback_level_entries">
+        <item>Mạnh</item>
+        <item>Trung bình</item>
+        <item>Yếu</item>
+    </string-array>
+    <string-array name="media_feedback_level_entries">
+        <item>Mạnh</item>
+        <item>Trung bình</item>
+        <item>Yếu</item>
+    </string-array>
+    <string-array name="battery_indicator_style_entries">
+        <item>Đồ họa</item>
+        <item>Phần trăm</item>
+        <item>Thanh trên cùng</item>
+    </string-array>
+    <string-array name="usb_connection_mode_entries">
+        <item>Hỏi khi kết nối</item>
+        <item>Chỉ sạc</item>
+        <item>Gắn kết thẻ SD</item>
+    </string-array>
+    <string-array name="led_freq_entries">
+        <item>2 giây</item>
+        <item>3 giây</item>
+        <item>4 giây</item>
+        <item>5 giây</item>
+        <item>6 giây</item>
+        <item>7 giây</item>
+        <item>8 giây</item>
+        <item>9 giây</item>
+    </string-array>
+    <string-array name="mi1_led_color_entries">
+        <item>Xanh dương</item>
+        <item>Đỏ</item>
+        <item>Xanh lá</item>
+        <item>Hồng</item>
+        <item>Tím</item>
+        <item>Tím đỏ</item>
+    </string-array>
+    <string-array name="led_color_entries">
+        <item>Xanh dương</item>
+        <item>Đỏ</item>
+        <item>Vàng</item>
+        <item>Xanh lá</item>
+        <item>Xanh lơ</item>
+        <item>Trắng</item>
+        <item>Tím</item>
     </string-array>
     <string-array name="screen_key_long_press_action">
-        <item>None</item>
-        <item>Launch Recent panel</item>
-        <item>Launch Voice assist</item>
-        <item>Launch Google now</item>
-        <item>Close current app</item>
+        <item>Không</item>
+        <item>Hiện khay ứng dụng gần đây</item>
+        <item>Khởi động trình Trợ lý</item>
+        <item>Khởi động Google ngay</item>
+        <item>Đóng ứng dụng hiện tại</item>
+    </string-array>
+    <string-array name="screen_key_long_press_timeout">
+        <item>0.5 giây</item>
+        <item>1 giây</item>
+        <item>1.5 giây</item>
+        <item>2 giây</item>
+    </string-array>
+    <string-array name="button_light_timeout_entries">
+        <item>1 giây</item>
+        <item>2 giây</item>
+        <item>5 giây</item>
+        <item>10 giây</item>
+        <item>20 giây</item>
+        <item>Luôn luôn</item>
+    </string-array>
+    <string-array name="wfd_status">
+        <item>Thiết bị đã kết nối, đang tạo phiên…</item>
+        <item>Phiên đã được tạo</item>
+        <item>Phiên đang sụp…</item>
+        <item>Phiên đã thất bại</item>
+        <item>Hết thời gian, đang thử lại…</item>
+        <item>Thiết bị đã kết nối</item>
+    </string-array>
+    <string-array name="msd_pc_system">
+        <item>Windows XP và các phiên bản cũ hơn</item>
+        <item>Windows Vista và các phiên bản mới hơn</item>
+        <item>Mac OS</item>
+        <item>Linux</item>
+    </string-array>
+    <string-array name="msd_pc_system_install_start_summary">
+        <item>"Đối với Windows XP hoặc các phiên bản cũ hơn, driver cần phải được cài đặt bằng tay."</item>
+        <item>"Đối với Windows Vista hoặc phiên bản mới hơn, máy nghe nhạc MI-3 sẽ xuất hiện trên máy tính của bạn."</item>
+        <item>"Đối với hệ điều hành Mac OS, driver cần phải được cài đặt bằng tay."</item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_install_step_1_summary">
+        <item>"(Bỏ qua Setup Wizard)
+Khi kết nối, Xiaomi sẽ xuất hiện như một thiết bị lưu trữ USB.
+Mở và chọn Setup.exe để cài đặt."</item>
+        <item></item>
+        <item>"Khi kết nối, Xiaomi sẽ xuất hiện như một thiết bị lưu trữ USB.
+Mở và chọn AndroidFileTransfer.dmg để cài đặt."</item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_install_step_2_summary">
+        <item>"2.Thiết bị lưu trữ di động MI-3 sẽ xuất hiện trên máy tính của bạn.
+Bây giờ bạn có thể trao đổi dữ liệu"</item>
+        <item></item>
+        <item>"Máy tính sẽ tự động mở và đọc dữ liệu trên điện thoại.
+Bây giờ bạn có thể trao đổi dữ liệu"</item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_install_finish_summary">
+        <item>"Nếu bạn cài đặt trình điều khiển này.
+Thiết bị lưu trữ di động MI-3 sẽ xuất hiện trên máy tính"</item>
+        <item>"Đối với Windows Vista hoặc phiên bản mới hơn, máy nghe nhạc MI-3 sẽ xuất hiện trên máy tính của bạn"</item>
+        <item>"Nếu bạn cài đặt trình điều khiển này.
+Máy tính sẽ tự động mở và đọc dữ liệu trên điện thoại"</item>
+        <item></item>
+    </string-array>
+    <string-array name="screen_color_title">
+        <item>Ấm</item>
+        <item>Chuẩn</item>
+        <item>Lạnh</item>
+    </string-array>
+    <string-array name="screen_saturation_title">
+        <item>Rực rỡ</item>
+        <item>Chuẩn</item>
+    </string-array>
+    <string-array name="startup_hips_action">
+        <item>Cho phép</item>
+        <item>Từ chối</item>
+    </string-array>
+    <string-array name="entries_color_calibration">
+        <item>sRGB</item>
+        <item>Tự nhiên</item>
+    </string-array>
+    <string-array name="phone_call_noise_suppression_title">
+        <item>Loại bỏ tiếng ồn (Single-mic)</item>
+        <item>Loại bỏ tiếng ồn (Dual-mic)</item>
     </string-array>
     <string-array name="change_security_lock_picker">
-        <item>Face unlock</item>
-        <item>Pattern</item>
-        <item>Numerical password</item>
-        <item>Mixed password</item>
+        <item>Mở khóa bằng khuôn mặt</item>
+        <item>Hình mở khóa</item>
+        <item>Mã PIN</item>
+        <item>Mật khẩu</item>
+    </string-array>
+    <string-array name="wifi_connect_type_entries">
+        <item>Tự động kết nối</item>
+        <item>Kết nối bằng tay</item>
+        <item>Luôn hỏi</item>
+    </string-array>
+    <string-array name="slideshow_time_entries">
+        <item>5 phút</item>
+        <item>15 phút</item>
+        <item>30 phút</item>
+        <item>1 giờ</item>
+        <item>Không giới hạn</item>
     </string-array>
     <string-array name="preferred_app_entries">
-       <item>Desktop</item>
-       <item>Phone</item>
-       <item>SMS</item>
-       <item>Browser</item>
-       <item>Camera</item>
-       <item>Albums</item>
-       <item>Music</item>
-       <item>Video</item>
-       <item>E-mail</item>
-   </string-array>
+        <item>Trình khởi chạy</item>
+        <item>Quay số</item>
+        <item>Nhắn tin</item>
+        <item>Trình duyệt</item>
+        <item>Máy ảnh</item>
+        <item>Bộ sưu tập</item>
+        <item>Nghe nhạc</item>
+        <item>Email</item>
+    </string-array>
+    <string-array name="miracast_policies">
+        <item>Làm chậm ngắn hơn</item>
+        <item>Chuẩn</item>
+        <item>Chất lượng tốt hơn</item>
+    </string-array>
 </resources>
