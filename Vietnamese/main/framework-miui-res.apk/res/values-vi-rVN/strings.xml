@@ -438,7 +438,6 @@ Try again in %d seconds."</string>
   <string name="shutdown_confirm_title">Are you sure you want to shutdown your phone?</string>
   <string name="sim_account_name">SIM</string>
     <string name="sim_changed_reactivate_notice">Thẻ SIM hiện tại không được kích hoạt. Một tin nhắn SMS là cần thiết để kích hoạt dịch vụ đồng bộ hóa Xiaomi. Kích hoạt lại bây giờ?</string>
-  <string name="sim_changed_reactivate_notice">The current SIM card is not activated. An SMS is required to activate the Xiaomi Synchronisation service. Reactivate now?</string>
   <string name="sim_in_airplane_mode">Disable Airplane mode.</string>
   <string name="sim_locked">SIM card locked</string>
   <string name="sim_not_ready">SIM card in use, please try again.</string>
@@ -476,8 +475,7 @@ Try again in %d seconds."</string>
   <string name="unlockscreen_low_battery">Connect your charger</string>
   <string name="unlockscreen_recharge_completed">Charged</string>
   <string name="unlockscreen_recharging_message">Charging %d%%</string>
-  <string name="user_agreement1">You will use the system and online services provided by Xiaomi, please read</string>
-    <string name="user_agreement2">" Thỏa thuận người dùng"</string>
+<string name="user_agreement2">" Thỏa thuận người dùng"</string>
     <string name="user_agreement3">" và "</string>
     <string name="user_agreement4">Chính sách bảo mật</string>
     <string name="user_agreement5">，Nhấp vào OK để xác nhận bạn đồng ý và sẵn sàng để phù hợp với nội dung trên, bấm Hủy bỏ để thoát khỏi.</string>
