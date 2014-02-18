@@ -6,7 +6,7 @@
         <item>SMS</item>
         <item>Báo thức</item>
     </string-array>
-    <string-array name="reminder_phút_labels">
+    <string-array name="reminder_minutes_labels">
         <item>Không</item>
         <item>0 phút</item>
         <item>1 phút</item>
@@ -42,99 +42,13 @@
         <item>12 giờ</item>
         <item>24 giờ</item>
         <item>2 ngày</item>
-        <item>1 Tuần</item>
+        <item>1 tuần</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
-        <item>Chuẩn địa phương</item>
+        <item>Mặc định</item>
         <item>Thứ bảy</item>
         <item>Chủ nhật</item>
         <item>Thứ hai</item>
-    </string-array>
-    <string-array name="timezone_labels">
-        <item>Marshall Islands</item>
-        <item>Midway Island</item>
-        <item>Hawaii</item>
-        <item>Alaska</item>
-        <item>Pacific Time</item>
-        <item>Tijuana</item>
-        <item>Arizona</item>
-        <item>Chihuahua</item>
-        <item>Mountain Time</item>
-        <item>Central America</item>
-        <item>Central Time</item>
-        <item>Mexico City</item>
-        <item>Saskatchewan</item>
-        <item>Bogota</item>
-        <item>Eastern Time</item>
-        <item>Venezuela</item>
-        <item>Atlantic Time (Barbados)</item>
-        <item>Atlantic Time (Canada)</item>
-        <item>Manaus</item>
-        <item>Santiago</item>
-        <item>Newfoundland</item>
-        <item>Brasilia</item>
-        <item>Buenos Aires</item>
-        <item>Greenland</item>
-        <item>Montevideo</item>
-        <item>Mid-Atlantic</item>
-        <item>Azores</item>
-        <item>Cape Verde Islands</item>
-        <item>Casablanca</item>
-        <item>London, Dublin</item>
-        <item>Amsterdam, Berlin</item>
-        <item>Belgrade</item>
-        <item>Brussels</item>
-        <item>Sarajevo</item>
-        <item>Windhoek</item>
-        <item>W. Africa Time</item>
-        <item>Amman, Jordan</item>
-        <item>Athens, Istanbul</item>
-        <item>Beirut, Lebanon</item>
-        <item>Cairo</item>
-        <item>Helsinki</item>
-        <item>Jerusalem</item>
-        <item>Minsk</item>
-        <item>Harare</item>
-        <item>Baghdad</item>
-        <item>Moscow</item>
-        <item>Kuwait</item>
-        <item>Nairobi</item>
-        <item>Tehran</item>
-        <item>Baku</item>
-        <item>Tbilisi</item>
-        <item>Yerevan</item>
-        <item>Dubai</item>
-        <item>Kabul</item>
-        <item>Islamabad, Karachi</item>
-        <item>"Ural'sk"</item>
-        <item>Yekaterinburg</item>
-        <item>Kolkata</item>
-        <item>Sri Lanka</item>
-        <item>Kathmandu</item>
-        <item>Astana</item>
-        <item>Yangon</item>
-        <item>Krasnoyarsk</item>
-        <item>Bangkok</item>
-        <item>Beijing</item>
-        <item>Hà Nội</item>
-        <item>Irkutsk</item>
-        <item>Kuala Lumpur</item>
-        <item>Perth</item>
-        <item>Taipei</item>
-        <item>Seoul</item>
-        <item>Tokyo, Osaka</item>
-        <item>Yakutsk</item>
-        <item>Adelaide</item>
-        <item>Darwin</item>
-        <item>Brisbane</item>
-        <item>Hobart</item>
-        <item>Sydney, Canberra</item>
-        <item>Vladivostok</item>
-        <item>Guam</item>
-        <item>Magadan</item>
-        <item>Auckland</item>
-        <item>Fiji</item>
-        <item>Tonga</item>
     </string-array>
     <string-array name="availability">
         <item>Bận</item>
@@ -147,11 +61,11 @@
         <item>Công cộng</item>
     </string-array>
     <string-array name="ordinal_labels">
-        <item>đầu tiên</item>
-        <item>thứ hai</item>
-        <item>thứ ba</item>
-        <item>thứ tư</item>
-        <item>cuối cùng</item>
+        <item>tuần đầu tiên</item>
+        <item>tuần thứ hai</item>
+        <item>tuần thứ ba</item>
+        <item>tuần thứ tư</item>
+        <item>tuần cuối cùng</item>
     </string-array>
     <string-array name="response_labels1">
         <item>Không phản hồi</item>
@@ -162,10 +76,10 @@
     <string-array name="delete_repeating_labels">
         <item>Chỉ sự kiện này</item>
         <item>Sự kiện này và các sự kiện sau</item>
-        <item>Tất cả sự kiẹne</item>
+        <item>Tất cả sự kiện</item>
     </string-array>
     <string-array name="delete_repeating_labels_no_selected">
-        <item>Sự kiện này &amp; sự kiện sau</item>
+        <item>Sự kiện này &amp;amp; sự kiện sau</item>
         <item>Tất cả</item>
     </string-array>
     <string-array name="change_response_labels">
@@ -174,15 +88,15 @@
     </string-array>
     <string-array name="buttons_list">
         <item>Ngày</item>
-        <item>Năm</item>
+        <item>Tuần</item>
         <item>Tháng</item>
         <item>Lịch công việc</item>
     </string-array>
     <string-array name="quick_response_defaults">
         <item>Tôi sẽ trễ 1 vài phút thôi.</item>
-        <item>Tôi sẽ có mặt trong vào 10 phút nữa.</item>
+        <item>Tôi sẽ có mặt trong 10 phút nữa.</item>
         <item>Cứ bắt đầu trước mà không có tôi.</item>
-        <item>"Xin lỗi nhưng tôi không thể đến được. Hẹn bạn dịp khác."</item>
+        <item>Xin lỗi nhưng tôi không thể đến được. Hẹn bạn dịp khác.</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Luôn luôn</item>
