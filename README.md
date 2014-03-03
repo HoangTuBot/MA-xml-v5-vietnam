@@ -3,4 +3,3 @@
 # Credits
     ingbrzy - Builder of MultiRom, Bug reports.
     [HoangTuBot] - Leader of the Vietnam translation team
-    [Belmont] - Main translator for Mi-3 devices
