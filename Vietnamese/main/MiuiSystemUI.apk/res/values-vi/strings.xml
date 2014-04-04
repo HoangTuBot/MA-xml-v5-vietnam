@@ -127,7 +127,7 @@
   <string name="mount_storage">Đồng ý</string>
   <string name="move_data_to_sdcard_message">"Nó sẽ di chuyển dữ liệu chẳng hạn như ảnh chụp màn hình, hình ảnh và vv. từ lưu trữ nội bộ sang thẻ nhớ. "</string>
   <string name="move_data_to_sdcard_title">Xuất dữ liệu trong máy sang thẻ nhớ</string>
-  <string name="no_notification_tips">No notifications</string>
+  <string name="no_notification_tips">Không có thông báo</string>
   <string name="notification_icon_filter">Customize status bar notification</string>
   <string name="notification_icon_filter_hide">Don’t show notifications in status bar</string>
   <string name="notification_icon_filter_list_empty_summary">Current list is empty</string>
