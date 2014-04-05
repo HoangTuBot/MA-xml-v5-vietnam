@@ -282,12 +282,6 @@
   <string name="mailbox_name_display_sent">Sent</string>
   <string name="mailbox_name_display_trash">Trash</string>
   <string name="mailbox_name_display_unread">Unread</string>
-  <string name="mailbox_name_server_drafts">Drafts</string>
-  <string name="mailbox_name_server_inbox">Inbox</string>
-  <string name="mailbox_name_server_junk">Junk</string>
-  <string name="mailbox_name_server_outbox">Outbox</string>
-  <string name="mailbox_name_server_sent">Sent</string>
-  <string name="mailbox_name_server_trash">Trash</string>
   <string name="mailbox_preferences_header">Sync settings</string>
   <string name="mailbox_settings_action">Sync options</string>
   <string name="mailbox_settings_activity_title">Sync options</string>
