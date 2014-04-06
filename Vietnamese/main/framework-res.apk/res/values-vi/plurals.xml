@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="wifi_available">
-        <item quantity="other">Mạng Wi-Fi khả dụng</item>
-        <item quantity="one">Mạng Wi-Fi khả dụng</item>
-    </plurals>
-    <plurals name="wifi_available_detailed">
-        <item quantity="other">Cloud hotspots khả dụng</item>
-        <item quantity="one">Cloud hotspot khả dụng</item>
-    </plurals>
+  <plurals name="wifi_available">
+    <item quantity="other">Mạng Wi-Fi khả dụng</item>
+    <item quantity="one">Mạng Wi-Fi khả dụng</item>
+  </plurals>
+  <plurals name="wifi_available_detailed">
+    <item quantity="other">Cloud hotspots khả dụng</item>
+    <item quantity="one">Cloud hotspot khả dụng</item>
+  </plurals>
 </resources>
