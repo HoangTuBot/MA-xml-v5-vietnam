@@ -1,46 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string-array name="emailAddressTypes">
-    <item>Nhà riêng</item>
-    <item>Cơ quan</item>
-    <item>Khác</item>
-    <item>Tùy chỉnh</item>
-  </string-array>
-  <string-array name="imProtocols">
-    <item>AIM</item>
-    <item>Windows Live</item>
-    <item>Yahoo</item>
-    <item>Skype</item>
-    <item>QQ</item>
-    <item>Google Talk</item>
-    <item>ICQ</item>
-    <item>Jabber</item>
-  </string-array>
-  <string-array name="organizationTypes">
-    <item>Cơ quan</item>
-    <item>Khác</item>
-    <item>Tùy chỉnh</item>
-  </string-array>
-  <string-array name="phoneTypes">
-    <item>Nhà riêng</item>
-    <item>Di động</item>
-    <item>Cơ quan</item>
-    <item>Số fax Cơ quan</item>
-    <item>Số fax Nhà riêng</item>
-    <item>Số máy nhắn tin</item>
-    <item>Khác</item>
-    <item>Tùy chỉnh</item>
-  </string-array>
-  <string-array name="postalAddressTypes">
-    <item>Nhà riêng</item>
-    <item>Cơ quan</item>
-    <item>Khác</item>
-    <item>Tùy chỉnh</item>
-  </string-array>
-  <string-array name="imAddressTypes">
-    <item>Nhà riêng</item>
-    <item>Cơ quan</item>
-    <item>Khác</item>
-    <item>Tùy chỉnh</item>
-  </string-array>
+    <string-array name="emailAddressTypes">
+        <item>Nhà riêng</item>
+        <item>Cơ quan</item>
+        <item>Khác</item>
+        <item>Tùy chỉnh</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Cơ quan</item>
+        <item>Khác</item>
+        <item>Tùy chỉnh</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Nhà riêng</item>
+        <item>Di động</item>
+        <item>Cơ quan</item>
+        <item>Số fax Cơ quan</item>
+        <item>Số fax Nhà riêng</item>
+        <item>Số máy nhắn tin</item>
+        <item>Khác</item>
+        <item>Tùy chỉnh</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Nhà riêng</item>
+        <item>Cơ quan</item>
+        <item>Khác</item>
+        <item>Tùy chỉnh</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Đang cố gắng truy cập vị trí</item>
+        <item>Đang cố gắng truy cập vị trí</item>
+        <item>Đang cố gắng truy cập vị trí</item>
+        <item>Đang cố gắng sử dụng rung</item>
+        <item>Đang cố gắng đọc danh bạ</item>
+        <item>Đang cố gắng sửa đổi danh bạ</item>
+        <item>Đang cố gắng đọc nhật ký cuộc gọi</item>
+        <item>Đang cố gắng sửa nhật ký cuộc gọi</item>
+        <item>Đang cố gắng đọc Lịch</item>
+        <item>Đang cố gắng sửa Lịch</item>
+        <item>Đang cố gắng truy cập vị trí</item>
+        <item>Đang cố gắng gửi thông báo</item>
+        <item>Đang cố gắng truy cập vị trí</item>
+        <item>Đang cố gắng thực hiện cuộc gọi thoại</item>
+        <item>Đang cố gắng đọc SMS</item>
+        <item>Đang cố gắng ghi/sửa SMS</item>
+        <item>Đang cố gắng nhận SMS</item>
+        <item>Đang cố gắng nhận SMS</item>
+        <item>Đang cố gắng nhận MMS</item>
+        <item>Đang cố gắng nhận SMS</item>
+        <item>Đang cố gắng gửi SMS</item>
+        <item>Đang cố gắng đọc SMS</item>
+        <item>Đang cố gắng ghi/sửa SMS</item>
+        <item>Đang cố gắng sửa các cài đặt</item>
+        <item>Đang cố gắng lên trước</item>
+        <item>Đang cố gắng truy cập thông báo</item>
+        <item>Đang cố gắng truy cập Máy ảnh</item>
+        <item>Đang cố gắng ghi âm</item>
+        <item>Đang cố gắng phát âm thanh</item>
+        <item>Đang cố gắng đọc khay nhớ tạm</item>
+        <item>Đang cố gắng sửa khay nhớ tạm</item>
+        <item>Đang cố gắng bật/tắt Wifi</item>
+        <item>Đang cố gắng bật/tắt bluetooth</item>
+        <item>Đang cố gắng bật/tắt dữ liệu di động</item>
+        <item>Đang cố gắng gửi MMS</item>
+        <item>Đang cố gắng đọc MMS</item>
+        <item>Đang cố gắng ghi MMS</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Nhà riêng</item>
+        <item>Cơ quan</item>
+        <item>Khác</item>
+        <item>Tùy chỉnh</item>
+    </string-array>
 </resources>
