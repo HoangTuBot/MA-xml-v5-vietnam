@@ -12,6 +12,10 @@
         <item quantity="other">"%d phút "</item>
         <item quantity="one">"%d phút "</item>
     </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Bây giờ bạn có %1$d bước từ nhà phát triển.</item>
+        <item quantity="one">Bây giờ bạn có %1$d bước từ nhà phát triển.</item>
+    </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Mật khẩu phải chứa ít nhất %d chữ cái</item>
         <item quantity="one">Mật khẩu phải chứa ít nhất 1 chữ cái</item>
@@ -35,5 +39,9 @@
     <plurals name="lockpassword_password_requires_nonletter">
         <item quantity="other">Mật khẩu phải chứa ít nhất %d kí tự không phải chữ cái</item>
         <item quantity="one">Mật khẩu phải chứa ít nhất 1 kí tự không phải chữ cái</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d ứng dụng có thể đọc thông báo</item>
+        <item quantity="one">%d ứng dụng có thể đọc thông báo</item>
     </plurals>
 </resources>
