@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="search_engines">
-        <item>google</item>
-        <item>yahoo</item>
-        <item>bing</item>
-    </string-array>
-
     <string-array name="pref_homepage_choices">
         <item>Trang bắt đầu</item>
         <item>Tùy chỉnh</item>
@@ -22,15 +16,6 @@
         <item>Vừa</item>
         <item>Lớn</item>
     </string-array>
-    <string-array name="pref_development_ua_choices">
-        <item>Android</item>
-        <item>Desktop</item>
-        <item>iPhone</item>
-        <item>iPad</item>
-        <item>Froyo-N1</item>
-        <item>Honeycomb-Xoom</item>
-    </string-array>
-
     <string-array name="pref_data_preload_choices">
         <item>Không bao giờ</item>
         <item>Chỉ khi có Wi-Fi</item>
@@ -46,106 +31,6 @@
         <item>Chỉ khi có Wi-Fi</item>
         <item>Luôn luôn</item>
     </string-array>
-    <string-array name="bookmarks">
-        <item>Google</item>
-        <item>https://www.google.com/</item>
-        <item>Twitter</item>
-        <item>http://twitter.com/</item>
-        <item>Facebook</item>
-        <item>http://www.facebook.com/</item>
-        <item>Wikipedia</item>
-        <item>http://www.wikipedia.org/</item>
-        <item>eBay</item>
-        <item>http://www.ebay.com/</item>
-        <item>CNN</item>
-        <item>http://www.cnn.com/</item>
-        <item>NY Times</item>
-        <item>http://www.nytimes.com/</item>
-        <item>ESPN</item>
-        <item>http://espn.com/</item>
-        <item>Amazon</item>
-        <item>http://www.amazon.com/</item>
-        <item>Weather Channel</item>
-        <item>http://www.weather.com/</item>
-        <item>BBC</item>
-        <item>http://www.bbc.co.uk/</item>
-    </string-array>
-    <string-array name="search_engines_rCN">
-        <item>baidu</item>
-        <item>sogou</item>
-        <item>google</item>
-        <item>bing_zh_CN</item>
-    </string-array>
-    <string-array name="search_engines_default">
-        <item>google</item>
-        <item>yahoo</item>
-        <item>bing</item>
-    </string-array>
-    <string-array name="search_engines_cmcc">
-        <item>s139</item>
-        <item>baidu</item>
-        <item>sogou</item>
-        <item>bing_zh_CN</item>
-    </string-array>
-    <string-array name="search_bar_search_engines_rCN">
-        <item>baidu</item>
-        <item>sogou</item>
-        <item>taobao</item>
-        <item>yicha</item>
-        <item>easou</item>
-        <item>dianping</item>
-        <item>google</item>
-        <item>shipin</item>
-        <item>tupian</item>
-    </string-array>
-    <string-array name="search_bar_search_engines_default">
-        <item>google</item>
-        <item>yahoo</item>
-        <item>bing</item>
-    </string-array>
-    <string-array name="search_bar_search_engines_cmcc">
-        <item>s139</item>
-        <item>baidu</item>
-        <item>sogou</item>
-        <item>taobao</item>
-        <item>yicha</item>
-        <item>easou</item>
-        <item>dianping</item>
-        <item>shipin</item>
-        <item>tupian</item>
-    </string-array>
-    <integer-array name="readmode_content_font_size">
-        <item>16</item>
-        <item>18</item>
-        <item>20</item>
-        <item>24</item>
-        <item>28</item>
-    </integer-array>
-    <integer-array name="readmode_title_font_size">
-        <item>24</item>
-        <item>26</item>
-        <item>28</item>
-        <item>32</item>
-        <item>36</item>
-    </integer-array>
-    <integer-array name="readmode_theme_bgcolors">
-        <item>0xfff7f7f7</item>
-        <item>0xffe6ddd1</item>
-        <item>0xffd8d8d8</item>
-        <item>0xffcdc3b5</item>
-        <item>0xffb0c0b6</item>
-        <item>0xffbdc7d6</item>
-        <item>0xff333333</item>
-    </integer-array>
-    <integer-array name="readmode_theme_fontcolors">
-        <item>0xff000000</item>
-        <item>0xff000000</item>
-        <item>0xff3e4042</item>
-        <item>0xff543b20</item>
-        <item>0xff2e3833</item>
-        <item>0xff36495d</item>
-        <item>0xffbbbbbb</item>
-    </integer-array>
     <string-array name="menu_theme_setting">
         <item>Trắng</item>
         <item>Vàng</item>
@@ -154,27 +39,6 @@
         <item>Xanh lá cây</item>
         <item>Xanh nước biển</item>
         <item>Tối</item>
-    </string-array>
-    <string-array name="google_in_list">
-        <item>search_google</item>
-        <item>ic_search_engine_google</item>
-        <item>google</item>
-    </string-array>
-    <string-array name="yahoo_in_list">
-        <item>search_yahoo</item>
-        <item>ic_search_engine_yahoo</item>
-        <item>yahoo</item>
-    </string-array>
-    <string-array name="bing_in_list">
-        <item>search_bing</item>
-        <item>ic_search_engine_bing</item>
-        <item>bing</item>
-    </string-array>
-    <string-array name="pref_ua_choices">
-        <item>Android</item>
-        <item>Desktop</item>
-        <item>iPhone</item>
-        <item>iPad</item>
     </string-array>
     <string-array name="pref_fling_on_border_choices">
         <item>Trang trước/sau</item>
