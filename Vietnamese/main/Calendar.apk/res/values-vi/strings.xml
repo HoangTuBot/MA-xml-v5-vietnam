@@ -239,8 +239,8 @@
     <string name="delete_topic_success">Xóa \"%s\" thành công</string>
     <string name="calendar_server_error">Lỗi mạng</string>
     <string name="label_recent_events">Sự kiện sắp tới</string>
-    <string name="no_local_calendar">Không có sự kiện nào :)</string>
-    <string name="no_network">Không có mạng, hãy thử lại :)</string>
+    <string name="no_local_calendar">Không có sự kiện nào.</string>
+    <string name="no_network">Không có mạng, hãy thử lại!</string>
     <string name="refresh">Làm mới</string>
     <string name="movable_list_header_label">Tóm tắt</string>
     <string name="today_weather_unavailable">Không thể lấy thông tin thời tiết</string>
