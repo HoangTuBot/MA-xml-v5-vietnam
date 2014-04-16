@@ -5,25 +5,25 @@
         <item>Tất cả ứng dụng</item>
     </string-array>
     <string-array name="system_package_label">
-	<item>Trình duyệt</item>
-	<item>Thư viện</item>
-	<item>Quản lý quyền</item>
-	<item>Camera</item>
-	<item>Trợ lý mạng</item>
-	<item>Bộ nhớ thời tiết</item>
-	<item>Thời tiết</item>
+        <item>Trình duyệt</item>
+        <item>Thư viện</item>
+        <item>Quản lý quyền</item>
+        <item>Máy ảnh</item>
+        <item>Trợ lý mạng</item>
+        <item>Dữ liệu thời tiết</item>
+        <item>Thời tiết</item>
     </string-array>
     <string-array name="system_data_label">
         <item>Danh bạ</item>
         <item>Nhật kí cuộc gọi</item>
         <item>Tin nhắn</item>
-        <item>T.nhắn đa phương tiện</item>
+        <item>Tin nhắn đa phương tiện</item>
         <item>Cài đặt hệ thống</item>
         <item>Cài đặt Wi-Fi</item>
-        <item>Bố trí Desktop</item>
+        <item>Bố trí màn hình chính</item>
         <item>Báo thức</item>
         <item>Ghi chú</item>
-        <item>DND</item>
+        <item>Không làm phiền</item>
         <item>Tài khoản</item>
     </string-array>
     <string-array name="app_type_desc">
@@ -33,7 +33,7 @@
     </string-array>
     <string-array name="cloud_data_label">
         <item>Danh bạ</item>
-        <item>N.kí c.gọi</item>
+        <item>Nhật kí cuộc gọi</item>
         <item>Tin nhắn</item>
         <item>Cài đặt Wi-Fi</item>
         <item>Ghi chú</item>
