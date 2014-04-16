@@ -139,8 +139,8 @@
     <string name="autologin_bar_error">Không thể đăng nhập.</string>
     <string name="autofill_profile_editor_heading">Nhập văn bản bạn muốn tự động điền vào biểu mẫu web.</string>
     <string name="autofill_profile_editor_name">"Tên đầy đủ: "</string>
-    <string name="autofill_profile_editor_email_address">Email: "</string>
-    <string name="autofill_profile_editor_company_name">"Tên công ty:</string>
+    <string name="autofill_profile_editor_email_address">"Email: "</string>
+    <string name="autofill_profile_editor_company_name">Tên công ty:</string>
     <string name="autofill_profile_editor_address_line_1">"Dòng địa chỉ 1: "</string>
     <string name="autofill_profile_editor_address_line_1_hint">Địa chỉ đường phố, hộp thư bưu điện, c/o</string>
     <string name="autofill_profile_editor_address_line_2">"Dòng địa chỉ 2: "</string>
@@ -368,7 +368,7 @@
     <string name="readmode_already_add_to_bookshelf">Thêm vào kệ sách.</string>
     <string name="readmode_login_message">Bạn cần phải đăng nhập để đọc thêm.</string>
     <string name="readmode_pay_message">Bạn cần phải trả tiền để đọc các chương tiếp theo.</string>
-    <string name="readmode_recommend_message">"Bạn đã đọc cuốn sách này rồi. :)"</string>
+    <string name="readmode_recommend_message">Bạn đã đọc cuốn sách này rồi. :)</string>
     <string name="readmode_login">Đăng nhập</string>
     <string name="readmode_pay">Mua chương</string>
     <string name="readmode_recommend">Khuyến khích xem</string>
@@ -391,7 +391,7 @@
     <string name="multi_select_title">Đã chọn %1$s mục</string>
     <string name="delete_multi_bookmarks_alert_title">Bạn có chắc bạn muốn xóa %1$s mục?</string>
     <string name="add_bookmark">Thêm dấu trang</string>
-    <string name="add_bookmark_to_home_screen">Thêm vào màn hình chính</string>
+    <string name="send_bookmark_to_home_screen">Thêm vào màn hình chính</string>
     <string name="bookmark_title">Tên dấu trang</string>
     <string name="bookmark_url">Url http://</string>
     <string name="bookmark_add_to">Thêm vào</string>
@@ -452,7 +452,7 @@
     <string name="not_remind_again">Không nhắc tôi nữa</string>
     <string name="pref_general_exit_setting_title">Cài đặt Thoát</string>
     <string name="pref_confirm_for_exit">Xác nhận thoát</string>
-    <string name="pref_clear_cache_for_exit">Xóa cache khi thoát</string>
+    <string name="pref_clear_cache_for_exit">Xóa bô đệm khi thoát</string>
     <string name="pref_clear_history_for_exit">Xóa lịch sử khi thoát</string>
     <string name="recover_from_crash">Tiếp tục với phiên trình duyệt mới nhất</string>
     <string name="recover">Khôi phục</string>
@@ -592,5 +592,4 @@
     <string name="webapp_addtodeskpop_append">Đã thêm ứng dụng vào màn hình chính</string>
     <string name="dialog_geolocation_reject">Ẩn vị trí</string>
     <string name="dialog_geolocation_share">Chia sẻ vị trí</string>
-    <string name="webapp_bottom_bar_already_addtodesk">Đã thêm vào màn hình chính rồi</string>
 </resources>
