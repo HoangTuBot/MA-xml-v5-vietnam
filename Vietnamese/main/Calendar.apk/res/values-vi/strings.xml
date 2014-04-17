@@ -193,6 +193,8 @@
     <string name="default_reminder_mode">Chế độ nhắc nhở mặc định</string>
     <string name="time_zone">Múi giờ</string>
     <string name="event_lunar_month" />
+    <string name="huangli_label" />
+    <string name="holiday_label">Ngày lễ</string>
     <string name="huangli_good_type" />
     <string name="huangli_bad_type" />
     <string name="event_all_day_label">Trong ngày</string>
@@ -239,8 +241,8 @@
     <string name="delete_topic_success">Xóa \"%s\" thành công</string>
     <string name="calendar_server_error">Lỗi mạng</string>
     <string name="label_recent_events">Sự kiện sắp tới</string>
-    <string name="no_local_calendar">Không có sự kiện nào.</string>
-    <string name="no_network">Không có mạng, hãy thử lại!</string>
+    <string name="no_local_calendar">Không có sự kiện nào :)</string>
+    <string name="no_network">Không có mạng, hãy thử lại :)</string>
     <string name="refresh">Làm mới</string>
     <string name="movable_list_header_label">Tóm tắt</string>
     <string name="today_weather_unavailable">Không thể lấy thông tin thời tiết</string>
@@ -254,4 +256,18 @@
     <string name="copy_email">Sao chép địa chỉ email</string>
     <string name="copy_number">Sao chép số điện thoại</string>
     <string name="done">Xong</string>
+    <string name="gou_piao_event_title">Nhắc nhở tàu %s</string>
+    <string name="gou_piao_item1">Nhắc nhở tôi về thời gian cho các chuyến tàu</string>
+    <string name="gou_piao_item2">Cho các đặt chỗ gọi số 12306</string>
+    <string name="gou_piao_item3">Mua vé bằng cách gọi 12306</string>
+    <string name="gou_piao_website_start_time">Mua tại trang trực tuyến %s hoặc bằng điện thoại</string>
+    <string name="gou_piao_window_start_time">Vé có thể mua tại các trạm từ %s</string>
+    <string name="show_all_lunar">Hiển thị âm lịch</string>
+    <string name="show_almanac">Hiển thị niên lịch</string>
+    <string name="show_gou_piao">Hiển thị lịch vé lễ hội mùa xuân</string>
+    <string name="event_date_format">EEE, d MM</string>
+    <string name="event_full_date_format">dd/MM/yyyy</string>
+    <string name="accessibility_email_notification">Email thông báo</string>
+    <string name="email_organizer_label">Email tổ chức</string>
+    <string name="event_not_found">Không tìm thấy sự kiện.</string>
 </resources>
