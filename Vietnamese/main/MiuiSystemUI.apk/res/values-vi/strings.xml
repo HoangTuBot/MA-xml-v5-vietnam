@@ -44,7 +44,6 @@ Hãy sử dụng bộ sạc."</string>
     <string name="screenshot_saving_text">Ảnh chụp màn hình đang được lưu.</string>
     <string name="screenshot_saved_title">Đã chụp ảnh màn hình.</string>
     <string name="screenshot_saved_text">Chạm để xem ảnh chụp màn hình.</string>
-    <string name="screenshot_failed_title">Không thể chụp ảnh màn hình.</string>
     <string name="screenshot_failed_text">Không thể lưu ảnh chụp màn hình. Lưu trữ có thể đang được sử dụng.</string>
     <string name="accessibility_back">Back</string>
     <string name="accessibility_home">Home</string>
@@ -114,8 +113,6 @@ Nếu bạn kích hoạt lại dữ liệu, bạn có thể bị tính phí bở
     <string name="description_target_search">Tìm kiếm</string>
     <string name="tab_notifications_lable">Thông báo</string>
     <string name="tab_toggles_lable">Phím nhanh</string>
-    <string name="status_bar_time_format_12">h:mma</string>
-    <string name="status_bar_time_format_24">HH:mm</string>
     <string name="status_bar_date_format">"EEEE
 dd MMMM, yyyy"</string>
     <string name="status_bar_recent_memory_info">%1$s / %2$s</string>
@@ -148,7 +145,7 @@ dd MMMM, yyyy"</string>
     <string name="settings_show_notificationBar_notification">Hiện thị trên thanh thông báo</string>
     <string name="settings_show_statusBar_notification">Hiện thị trên thanh trạng thái</string>
     <string name="filter_item_preview_image">Xem trước</string>
-    <string name="filter_item_description">Bạn có thể \"Cài đặt > Cài đặt thanh thông báo > Tùy chỉnh thông báo\" loại thông báo thiết lập trong ứng dụng</string>
+    <string name="filter_item_description">Để cấu hình thông báo, vào Cài đặt > Thanh trạng thái > Quản lý thông báo</string>
     <string name="settings_notification_bar">Thanh thông báo</string>
     <string name="settings_toggle_position">Tùy chỉnh vị trí phím nhanh</string>
     <string name="settings_toggle_collapse_after_clicked">Đóng lại khi chọn</string>
@@ -258,8 +255,8 @@ dd MMMM, yyyy"</string>
     <string name="audio_effect_info">Tối ưu âm thanh</string>
     <string name="audio_effect_custom">Cấu hình</string>
     <string name="usb_share_net_info">Sử dụng Internet của máy tình qua USB</string>
-    <string name="status_bar_toggle_ac">Access</string>
-    <string name="status_bar_toggle_bluetooth">BlueTooth</string>
+    <string name="status_bar_toggle_ac">Truy cập</string>
+    <string name="status_bar_toggle_bluetooth">Bluetooth</string>
     <string name="status_bar_toggle_brightness">Độ sáng</string>
     <string name="status_bar_toggle_auto_brightness">Tự động</string>
     <string name="status_bar_toggle_data">Dữ liệu</string>
@@ -292,6 +289,6 @@ dd MMMM, yyyy"</string>
     <string name="status_bar_toggle_power_mid">Bình thường</string>
     <string name="status_bar_toggle_power_high">Hiệu suất</string>
     <string name="screen_rotation_freeze_message">Tự động xoay đã tắt.</string>
-    <string name="screen_button_disabled_message">Các nút điều hướng bị vô hiệu hóa. Để kích hoạt lại, nhấn Home và Power cùng một lúc.</string>
+    <string name="screen_button_disabled_message">Các nút điều hướng bị vô hiệu hóa. Để kích hoạt lại, nhấn \"Home\" và \"Power\" cùng một lúc.</string>
     <string name="screen_button_enabled_message">Các nút điều hướng được kích hoạt.</string>
 </resources>
