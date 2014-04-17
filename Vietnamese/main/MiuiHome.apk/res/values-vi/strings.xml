@@ -6,6 +6,10 @@
     <string name="chooser_wallpaper">Chọn hình nền từ </string>
     <string name="activity_not_found">Ứng dụng không được cài đặt trên điện thoại của bạn.</string>
     <string name="cancel_action">Hủy</string>
+    <string name="apply_as_lock_wallpaper">Áp dụng</string>
+    <string name="apply_as_lock_wallpaper_message">Áp dụng hình này làm hình nền màn hình khóa luôn?</string>
+    <string name="lock_screen_failed_message">Áp dụng thất bại</string>
+    <string name="lock_screen_success_message">Đã áp dụng</string>
     <string name="menu_item_add_item">Thêm vào màn hình chính</string>
     <string name="group_shortcuts">Lối tắt</string>
     <string name="group_folder">Thư mục mới</string>
