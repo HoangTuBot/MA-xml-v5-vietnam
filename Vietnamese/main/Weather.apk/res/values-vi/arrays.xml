@@ -4,6 +4,16 @@
         <item>SMS</item>
         <item>Email</item>
     </string-array>
+    <string-array name="act_weather_main_listview_json_key">
+        <item>wind1</item>
+        <item>Chỉ số UV: </item>
+        <item>Quần áo: </item>
+        <item>Thoải mái: </item>
+        <item>Rửa xe: </item>
+        <item>Chỉ số khô: </item>
+        <item>Tập thể dục buổi sáng: </item>
+        <item>Giải trí: </item>
+    </string-array>
     <string-array name="act_weather_main_listview_key">
         <item>Tốc độ gió: </item>
         <item>Chỉ số UV:　</item>
@@ -40,5 +50,248 @@
         <item>Mưa đá</item>
         <item>Bụi</item>
         <item>Mù sương</item>
+    </string-array>
+    <string-array name="weather_details_key">
+        <item>Không khả dụng</item>
+        <item>Phù hợp</item>
+        <item>Tốt</item>
+        <item>Tránh nếu có thể</item>
+        <item>Không khuyến nghị</item>
+        <item>Lý tưởng</item>
+        <item>Vừa phải</item>
+        <item>Yếu</item>
+        <item>Vừa</item>
+        <item>Mạnh</item>
+        <item>Rất mạnh</item>
+        <item>Mát</item>
+        <item>Thoải mái</item>
+        <item>Rất nóng</item>
+        <item>Nóng</item>
+        <item>Ấm</item>
+        <item>Mát</item>
+        <item>Mất mẻ</item>
+        <item>Lạnh</item>
+        <item>Đóng băng</item>
+        <item>Cao</item>
+        <item>Trung bình</item>
+        <item>Thấp</item>
+        <item>Trời quang</item>
+        <item>Có mây</item>
+        <item>Mưa</item>
+        <item>Bão cát</item>
+        <item>Tuyết</item>
+        <item>Tương đối phù hợp</item>
+        <item>Điều kiện thích hợp</item>
+        <item>Có mây</item>
+        <item>Gần lý tưởng</item>
+        <item>Điều kiện lý tưởng</item>
+        <item>Điều kiện xấu</item>
+        <item>Điều kiện trung bình</item>
+    </string-array>
+    <string-array name="weather_image_tips">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Nhớ mang theo dù!</item>
+        <item>Nhớ mang theo dù!</item>
+        <item>Nhớ mang theo dù!</item>
+        <item>Nhớ mang theo dù!</item>
+        <item>Nhớ mang theo dù!</item>
+        <item>Nhớ mang theo dù!</item>
+        <item>Nhớ mang theo dù!</item>
+        <item>Nhớ mang theo dù!</item>
+        <item>Nhớ mang theo dù!</item>
+        <item>Nhớ đội mũ và khăn choàng!</item>
+        <item>Nhớ đội mũ và khăn choàng!</item>
+        <item>Nhớ đội mũ và khăn choàng!</item>
+        <item>Nhớ đội mũ và khăn choàng!</item>
+        <item>Nhớ đội mũ và khăn choàng!</item>
+        <item>Cẩn thận khi ra ngoài!</item>
+        <item>Cẩn thận khi ra ngoài!</item>
+        <item>Cẩn thận khi ra ngoài!</item>
+        <item>Cẩn thận khi ra ngoài!</item>
+        <item>Cẩn thận! Đường rất trơn.</item>
+    </string-array>
+    <string-array name="weather_sms_content">
+        <item>Nhớ mang kem chống nắng.</item>
+        <item>Hôm nay trời có mây.</item>
+        <item>Cố gắng ở trong nhà.</item>
+        <item>Lái xe an toàn</item>
+        <item>Nhớ mang theo dù!</item>
+        <item>Nhớ mang theo dù!</item>
+        <item>Nhớ mang theo dù!</item>
+        <item>Nhớ mang theo dù!</item>
+        <item>Nhớ mang theo dù!</item>
+        <item>Nhớ mang theo dù!</item>
+        <item>Nhớ mang theo dù!</item>
+        <item>Nhớ mang theo dù!</item>
+        <item>Nhớ mang theo dù!</item>
+        <item>Trời sẽ có mưa!</item>
+        <item>Nhớ mang theo mũ và khăn choàng.</item>
+        <item>Nhớ đội mũ và khăn quàng!</item>
+        <item>Nhớ đội mũ và khăn quàng!</item>
+        <item>Nhớ đội mũ và khăn quàng!</item>
+        <item>Nhớ đeo khẩu trang.</item>
+        <item>Nhớ đeo khẩu trang.</item>
+        <item>Nhớ đeo khẩu trang.</item>
+        <item>Nhớ đeo khẩu trang.</item>
+        <item>Trời sẽ có mưa!</item>
+        <item>Nhớ đeo khẩu trang.</item>
+        <item>Cố gắng ở trong nhà.</item>
+    </string-array>
+    <string-array name="weather_sms_addons">
+        <item>Trời sẽ $ tại @."</item>
+        <item>Nhiệt độ: % độ.</item>
+        <item>Nhớ mang theo dù!</item>
+        <item>CỐ gắng giữ khô! :)</item>
+        <item>Nếu bạn đang phơi quần áo bên ngoài, hãy nhớ mang chúng vào!</item>
+        <item>Tránh lái xe nếu có thể.</item>
+        <item>Lái xe an toàn!</item>
+        <item>Cẩn thận khi ra ngoài, đường rất trơn.</item>
+        <item>Đừng vội vã. Cẩn thận khi ra ngoài.</item>
+        <item>Cẩn thận khi ra ngoài.</item>
+        <item>Cố gắng không ở ngoài trời.</item>
+        <item>Mang theo kính mát của bạn.</item>
+        <item>Dùng kem chống nắng và mang kính mát.</item>
+        <item>Ngoài trời có gió. Nhớ mặc áo khoác.</item>
+        <item>Nhớ đeo khẩu trang.</item>
+        <item>Nhớ mang theo áo khoác.</item>
+        <item>Nhớ đeo khẩu trang.</item>
+        <item>Nhớ mang theo găng tay và mũ.</item>
+        <item>Bên ngoài trời rất nóng!</item>
+        <item>Cố gắng giữ mát!</item>
+        <item>Nhớ đội mũ và khăn quàng!</item>
+        <item>Nhiệt độ có thể giảm…</item>
+        <item>Cố gắng giữ ấm!</item>
+        <item>Đeo bịt tai nếu bạn có!</item>
+        <item>Hãy ra ngoài và tận hưởng thời tiết.</item>
+        <item>Hãy ra ngoài vận động và tận hưởng ánh nắng!</item>
+        <item>Một ngày tốt để làm khô quần áo!</item>
+        <item>Nhớ mặc áo khoác!</item>
+    </string-array>
+    <string-array name="weather_info_uv">
+        <item>0</item>
+        <item>Không khả dụng</item>
+        <item>6</item>
+        <item>"Đừng quên sử dụng kem chống nắng."</item>
+        <item>7</item>
+        <item>"Đừng quên sử dụng kem chống nắng."</item>
+        <item>8</item>
+        <item>"Đừng quên sử dụng kem chống nắng."</item>
+        <item>9</item>
+        <item>Bôi kem chống nắng nếu bạn cần ra ngoài!</item>
+        <item>10</item>
+        <item>Bôi kem chống nắng nếu bạn cần ra ngoài!</item>
+    </string-array>
+    <string-array name="weather_info_dress">
+        <item>0</item>
+        <item>Không khả dụng</item>
+        <item>11</item>
+        <item>Áo khoác</item>
+        <item>12</item>
+        <item>Áo khoác</item>
+        <item>13</item>
+        <item>Quần áo mùa hè</item>
+        <item>14</item>
+        <item>Quần áo mùa hè</item>
+        <item>15</item>
+        <item>Áo khoác</item>
+        <item>16</item>
+        <item>Nhớ mang thêm áo len!</item>
+        <item>17</item>
+        <item>Hãy mang theo áo khoác!</item>
+        <item>18</item>
+        <item>Nhớ đội mũ và khăn quàng!</item>
+        <item>19</item>
+        <item>Nhớ đội mũ và khăn quàng!</item>
+    </string-array>
+    <string-array name="weather_info_msport">
+        <item>0</item>
+        <item>Không khả dụng</item>
+        <item>1</item>
+        <item>Một ngày tốt để tập thể dục buổi sáng</item>
+        <item>2</item>
+        <item>Hãy mang thêm ao len!</item>
+        <item>3</item>
+        <item>Hãy mang thêm ao len!</item>
+        <item>4</item>
+        <item>Tập thể dục trong nhà!</item>
+    </string-array>
+    <string-array name="weather_info_comfort">
+        <item>0</item>
+        <item>Không khả dụng</item>
+        <item>20</item>
+        <item>Nhiệt độ sẽ ổn định</item>
+        <item>21</item>
+        <item>Mát mẻ và thoải mái</item>
+        <item>22</item>
+        <item>Nhiệt độ sẽ biến động</item>
+        <item>23</item>
+        <item>Trời quang và nhiệt độ khó chịu</item>
+        <item>24</item>
+        <item>Nóng và ẩm ướt!</item>
+    </string-array>
+    <string-array name="weather_info_wcar">
+        <item>0</item>
+        <item>Không khả dụng</item>
+        <item>1</item>
+        <item>Một ngày tốt để rửa xe của bạn!</item>
+        <item>2</item>
+        <item>Một ngày tốt để rửa xe của bạn!</item>
+        <item>3</item>
+        <item>Trời sẽ đổ mưa! Hãy khoan rửa xe của bạn!</item>
+        <item>25</item>
+        <item>Trời sẽ đổ mưa! Hãy khoan rửa xe của bạn!</item>
+        <item>26</item>
+        <item>Dự báo sẽ có bão cát! Hãy khoan rửa xe của bạn!</item>
+        <item>27</item>
+        <item>Trời sẽ có tuyết! Hãy khoan rửa xe của bạn!</item>
+        <item>4</item>
+        <item>Hãy khoan rửa xe của bạn!</item>
+    </string-array>
+    <string-array name="weather_info_hung">
+        <item>0</item>
+        <item>Không khả dụng</item>
+        <item>28</item>
+        <item>Hãy phơi khô quần áo của bạn vào buổi trưa.</item>
+        <item>29</item>
+        <item>Hãy phơi khô quần áo của bạn bất cứ lúc nào.</item>
+        <item>30</item>
+        <item>Trời nhiều mây, nhưng với nhiệt độ cao, bạn vẫn có thể phơi khô quần áo.</item>
+        <item>1</item>
+        <item>Một ngày tuyệt vời để làm khô quần áo.</item>
+        <item>3</item>
+        <item>Mưa rả rích suốt cả ngày.</item>
+        <item>5</item>
+        <item>Điều kiện tốt để phơi quần áo.</item>
+        <item>4</item>
+        <item>Nên phơi quần áo trong nhà.</item>
+        <item>31</item>
+        <item>Nên phơi quần áo trong nhà.</item>
+    </string-array>
+    <string-array name="weather_info_travel">
+        <item>0</item>
+        <item>Không khả dụng</item>
+        <item>32</item>
+        <item>Trời quang và nhiều nắng với nhiệt độ tốt.</item>
+        <item>2</item>
+        <item>Nhiệt độ thoải mái và ổn định.</item>
+        <item>1</item>
+        <item>Nhiệt độ thoải mái và ổn định.</item>
+        <item>3</item>
+        <item>Hôm nay thời tiết sẽ biến động.</item>
+        <item>33</item>
+        <item>Hôm nay thời tiết sẽ biến động.</item>
+        <item>34</item>
+        <item>Trời trong và gió nhẹ.</item>
+    </string-array>
+    <string-array name="weather_info_fl">
+        <item></item>
+        <item>Nhớ đội mũ và khăn quàng!</item>
+        <item>Có gió</item>
+        <item>Thoải mái</item>
+        <item>Nóng</item>
+        <item>Không khả dụng</item>
     </string-array>
 </resources>
