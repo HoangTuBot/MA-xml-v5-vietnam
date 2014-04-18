@@ -173,7 +173,7 @@
     <string name="tab_all_text">Đặt cả hai</string>
     <string name="cloud_gallery_space_full">Tải lên bị lỗi, MiCould của bạn đã đầy.</string>
     <string name="share_album_space_full">Album được chia sẻ này đã đầy. Hãy xóa một số ảnh không cần thiết</string>
-	<string name="cloud_gallery_recyclebin_full">Thùng rác trên MiCloud đã đầy, vui lòng làm trống thùng rác bằng cách truy cập i.xiaomi.com.</string>
+    <string name="cloud_gallery_recyclebin_full">Thùng rác trên MiCloud đã đầy, vui lòng làm trống thùng rác bằng cách truy cập i.xiaomi.com.</string>
     <string name="sync_history_power_on">Đồng bộ khi sạc Pin</string>
     <string name="sync_only_in_wifi_alert">Tắt tùy chọn này có thể làm tăng việc sử dụng dữ liệu di động của bạn.</string>
     <string name="sync_only_in_wifi">Chỉ wifi</string>
@@ -182,7 +182,7 @@
     <string name="gallery_cloud_provider_name">Album MiCloud</string>
     <string name="sync_album">Đồng bộ album</string>
     <string name="sync_album_summary">Tải hình ảnh và hình chụp màn hình lên album lưu trữ MiCloud</string>
-	<string name="open_sync_title">Đồng bộ được yêu cầu</string>
+    <string name="open_sync_title">Đồng bộ được yêu cầu</string>
     <string name="alert_message_open_sync">Đồng bộ được yêu cầu, bạn muốn bật đồng bộ bây giờ?</string>
     <string name="open">Bật</string>
     <string name="cloud_gallery_no_pictures">Không tìm thấy ảnh trong MiCloud</string>
@@ -190,7 +190,7 @@
     <string name="initial_cloud_text">Lưu trữ và xem ảnh của bạn từ bất cứ đâu.</string>
     <string name="initial_cloud_button_text">Bắt đầu sử dụng MiCloud của bạn</string>
     <string name="storage_no_space">Không còn khoảng trống.</string>
-	<string name="add_to_cloud_album">Thêm vào MiCloud</string>
+    <string name="add_to_cloud_album">Thêm vào MiCloud</string>
     <string name="move_to_cloud_album">Chuyển tới MiCloud</string>
     <string name="move">Chuyển</string>
     <string name="add_to_cloud_successfully_message">Đã thêm vào MiCloud</string>
