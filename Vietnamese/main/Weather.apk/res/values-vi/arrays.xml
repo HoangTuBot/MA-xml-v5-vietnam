@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="send_item">
+        <item>SMS</item>
+        <item>Email</item>
+    </string-array>
+    <string-array name="act_weather_main_listview_key">
+        <item>Tốc độ gió: </item>
+        <item>Chỉ số UV:　</item>
+        <item>Quần áo: </item>
+        <item>Thoải mái: </item>
+        <item>Rửa xe: </item>
+        <item>Chỉ số khô: </item>
+        <item>Tập thể dục buổi sáng: </item>
+        <item>Giải trí: </item>
+    </string-array>
+    <string-array name="weather_image">
+        <item>Quang</item>
+        <item>Có mây</item>
+        <item>Mù sương</item>
+        <item>Sương</item>
+        <item>Mưa nặng hạt</item>
+        <item>Mưa</item>
+        <item>Mưa rất to</item>
+        <item>Có giông</item>
+        <item>Mưa rào</item>
+        <item>Mưa to</item>
+        <item>Mưa</item>
+        <item>Mưa phùn</item>
+        <item>Mưa tuyết</item>
+        <item>Bão tuyết</item>
+        <item>Tuyết rơi vừa</item>
+        <item>Tuyết rơi nhiều</item>
+        <item>Tuyết rơi</item>
+        <item>Tuyết rơi nhẹ</item>
+        <item>Bão cát lớn</item>
+        <item>Bão cát</item>
+        <item>Bão cát nhỏ</item>
+        <item>Bão cát</item>
+        <item>Mưa đá</item>
+        <item>Bụi</item>
+        <item>Mù sương</item>
+    </string-array>
+</resources>
