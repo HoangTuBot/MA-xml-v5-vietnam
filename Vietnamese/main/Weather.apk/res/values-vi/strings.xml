@@ -21,13 +21,15 @@
     <string name="menu_send_sms">Gửi</string>
     <string name="app_love_sms_title">Nội dung tin nhắn</string>
     <string name="app_love_view_title">Xem trước</string>
+    <string name="network_unavailable">Không thể kết nối vào mạng. Kiểm tra kết nối dữ liệu của bạn và thử lại.</string>
+    <string name="weather_data_unreachable">Không thể lấy thông tin thời tiết. Chờ một hoặc hai phút và thử lại.</string>
     <string name="app_unquiet_net">Kết nối mạng yếu</string>
     <string name="widget_loading">Không có dữ liệu thời tiết</string>
     <string name="act_find_city_hot_title">Thành phố nổi tiếng</string>
     <string name="act_find_city_title">Thêm địa điểm</string>
     <string name="act_find_city_null_data">Không có kết quả.</string>
     <string name="act_find_city_hint">Tìm kiếm</string>
-    <string name="act_set_city_find_side_on">Open location</string>
+    <string name="act_set_city_find_side_on">Mở định vị</string>
     <string name="act_set_city_find_side">Đang định vị…</string>
     <string name="local_city">Các thành phố địa phương</string>
     <string name="act_set_city_re_find_side">Đang định vị…</string>
@@ -54,9 +56,9 @@
     <string name="share_choice_titile">Chia sẻ thông tin thời tiết</string>
     <string name="share_content">\#MIUI thời tiết#</string>
     <string name="share_weather_content">"\#MIUI thời tiết#
-Hôm nay: Thời tiết %1$s %2$s, %3$s, %4$s. %5$s."</string>
+Hôm nay: Thời tiết tại %1$s là %2$s, %3$s độ, %4$s. %5$s."</string>
     <string name="share_aqi_content">"\#MIUI thời tiết#
-Hôm nay: Chất lượng không khí: %1$s %2$s, %3$s. %4$s %5$s."</string>
+Hôm nay: Chất lượng không khí tại %1$s là %2$s, %3$s. %4$s %5$s."</string>
     <string name="save_screen_shot_failed">Không thể lưu ảnh chụp màn hình.</string>
     <string name="trend_weather_today">Hôm nay</string>
     <string name="trend_weather_tomorrow">Ngày mai</string>
@@ -75,9 +77,9 @@ Hôm nay: Chất lượng không khí: %1$s %2$s, %3$s. %4$s %5$s."</string>
     <string name="send_weather_sms_main">%1$s %2$s,%3$s %4$s %5$s</string>
     <string name="send_weather_sms_error">Không có dữ liệu thời tiết</string>
     <string name="tip_weather">MIUI thời tiết thông báo</string>
-    <string name="tip_weather_info_title_1">%1$s sự khác biệt nhiệt độ dự kiến là %2$d độ</string>
-    <string name="tip_weather_info_content_1">Bring layers!</string>
-    <string name="tip_weather_info_title_2">%1$s nhiệt độ vào ngày hôm nay ước tính %2$s</string>
+    <string name="tip_weather_info_title_1">Sự khác biệt nhiệt độ dự kiến tại %1$s là %2$d độ</string>
+    <string name="tip_weather_info_content_1">Nhớ mang thêm áo len!</string>
+    <string name="tip_weather_info_title_2">Hôm nay dự kiến ​​sẽ có %2$s tại %1$s</string>
     <string name="alert_provider_title">Thông báo vị trí</string>
     <string name="alert_provider_message">Bạn cần phải kích hoạt truy cập vị trí thông qua mạng điện thoại di động của bạn.</string>
     <string name="button_allow">Cho phép</string>
@@ -110,12 +112,12 @@ Hôm nay: Chất lượng không khí: %1$s %2$s, %3$s. %4$s %5$s."</string>
     <string name="weather_unit_middle">~</string>
     <string name="weather_unit_with_c">°C</string>
     <string name="act_weather_find_city_searching">Đang tìm</string>
-    <string name="act_init_dialog_finish">Global weather info has been added.</string>
+    <string name="act_init_dialog_finish">Đã thêm thông tin thời tiết toàn cầu.</string>
     <string name="loading_weather">Đang tải thời tiết…</string>
-    <string name="act_weather_cycle_link_china">Chinese Weather Network</string>
+    <string name="act_weather_cycle_link_china">Mạng thời tiết</string>
     <string name="menu_add">Thêm thành phố</string>
     <string name="menu_more">Thông tin chi tiết</string>
-    <string name="install_tencent">Get Weibo app</string>
+    <string name="install_tencent">Tải ứng dụng Weibo</string>
     <string name="share_qq">Chia sẻ qua Tencent Weibo</string>
     <string name="share_sina">Chia sẻ qua Sina Weibo</string>
     <string name="app_nohave_net">Không tìm thấy mạng</string>
