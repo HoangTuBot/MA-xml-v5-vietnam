@@ -265,7 +265,7 @@
     <string name="show_all_lunar">Hiển thị âm lịch</string>
     <string name="show_almanac">Hiển thị niên lịch</string>
     <string name="show_gou_piao">Hiển thị lịch vé lễ hội mùa xuân</string>
-    <string name="event_date_format">EEE, d MM</string>
+    <string name="event_date_format">EEE, d MMM</string>
     <string name="event_full_date_format">dd/MM/yyyy</string>
     <string name="accessibility_email_notification">Email thông báo</string>
     <string name="email_organizer_label">Email tổ chức</string>
