@@ -59,8 +59,8 @@
   <string name="pref_summary_any_bytes_popup">Luôn luôn xếp hàng khi sử dụng mạng Wi-Fi</string>
   <string name="pref_summary_enable_max_bytes_popup">"Khi sử dụng 3G, luôn luôn hỏi khi file quá lớn"</string>
   <string name="pref_summary_max_bytes_limit_format">Luôn luôn hỏi khi file quá kích thước %s</string>
+  <string name="pref_summary_no_limit_popup">Không giới hạn dung lượng tệp tin tải về</string>
   <string name="pref_title_enable_max_bytes_popup">Giới hạn kích thước tệp tin</string>
-  <string name="pref_title_max_bytes_limit">Giới hạn kích thước tệp tin</string>
   <string name="preferences_title">Cài đặt</string>
   <string name="remove_download">Xoá</string>
   <string name="restart_download">Tải lại</string>
@@ -70,6 +70,9 @@
   <string name="select_all">Chọn Tất cả</string>
   <string name="select_operation_items">Vui lòng chọn</string>
   <string name="selected_count">Đã chọn %1$d trong tổng số %2$d</string>
+  <string name="turn_off_xunlei_message">Tốc độ tải về có thể giảm</string>
+  <string name="turn_off_xunlei_title">Vô hiệu hóa trình tăng tốc tải về Xunlei</string>
   <string name="xunlei_brand">Được tài trợ bởi Xunlei</string>
   <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
+  <string name="xunlei_switch">Trình tăng tốc tải về Xunlei</string>
 </resources>

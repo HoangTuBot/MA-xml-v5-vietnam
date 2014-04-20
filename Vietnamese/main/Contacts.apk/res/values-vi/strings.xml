@@ -105,8 +105,10 @@ Nếu bạn đang sử dụng các dịch vụ đồng bộ, các thông tin li�
   <string name="callrecordview_menu_delete_called">Xóa nhật ký cho các cuộc đã gọi đi</string>
   <string name="callrecordview_menu_delete_confirm">Xác nhận %s?</string>
   <string name="callrecordview_menu_delete_missed">Xóa nhật ký cho các cuộc gọi nhỡ</string>
+  <string name="callrecordview_menu_delete_new">Xóa nhật kí của liên hệ lạ</string>
   <string name="callrecordview_menu_delete_one">Xóa khỏi nhật kí cuộc gọi</string>
   <string name="callrecordview_menu_delete_stranger">Xóa l.sử cuộc gọi của số chưa biết</string>
+  <string name="callrecordview_menu_edit_call_note">Sửa ghi chú cuộc gọi</string>
   <string name="callrecordview_menu_paste">Dán</string>
   <string name="callrecordview_menu_settings">Cài đặt</string>
   <string name="callrecordview_menu_show">Bộ lọc nhật ký cuộc gọi</string>
@@ -114,6 +116,7 @@ Nếu bạn đang sử dụng các dịch vụ đồng bộ, các thông tin li�
   <string name="callrecordview_menu_show_all">Hiển thị tất cả các cuộc gọi</string>
   <string name="callrecordview_menu_show_called">Hiển thị các cuộc gọi đi</string>
   <string name="callrecordview_menu_show_missed">Hiển thị các cuộc gọi nhỡ</string>
+  <string name="callrecordview_menu_show_new">Liên lạc mới</string>
   <string name="callrecordview_menu_show_stranger">Hiển thị các cuộc gọi từ số lạ</string>
   <string name="callrecordview_menu_show_title">Chọn loại l.sử cuộc gọi được hiển thị</string>
   <string name="cancel_confirmation_dialog_message">Hủy các thay đổi của bạn?</string>
@@ -140,6 +143,7 @@ Nếu bạn đang sử dụng các dịch vụ đồng bộ, các thông tin li�
   <string name="clearFrequentsConfirmation_title">Xóa liên hệ thường sử dụng</string>
   <string name="clearFrequentsProgress_title">Đang xóa danh sách liên hệ thường sử dụng...</string>
   <string name="clear_default">Xóa mặc định</string>
+  <string name="clear_digits">Xóa số điện thoại</string>
   <string name="click_close">Chạm vào màn hình để đóng</string>
   <string name="close_dial_pad">Đóng trình quay số</string>
   <string name="cloud_antispam_mark">Rác</string>
@@ -722,6 +726,7 @@ Nếu bạn đang sử dụng các dịch vụ đồng bộ, các thông tin li�
   <string name="private_num">Số riêng tư</string>
   <string name="profile_display_name">Thêm t.tin cá nhân</string>
   <string name="processing">Đang xử lý...</string>
+  <string name="profile_name_photo">I</string>
   <string name="progress_notifier_message" formatted="false">Đang nhập %s/%s: %s</string>
   <string name="quickcontact_missing_app">Không tìm thấy ứng dụng nào để xử lý tác vụ này.</string>
   <string name="quit_dialog_confirm_title">Thoát kết hợp liên hệ?</string>
@@ -858,6 +863,7 @@ Chạm vào biểu tượng Nhập bên dưới để bắt đầu"</string>
   <string name="resource_my">Local</string>
   <string name="resource_no_result">Không có kết quả</string>
   <string name="resource_notification_default">Thông báo</string>
+  <string name="resource_on_trial">Trying: %1$s</string>
   <string name="resource_online">Trực tuyến %1$s</string>
   <string name="resource_pack_confirm">You have already purchased %1$d items, the current purchase price is better than purchase individually for left items, would you like to continue?</string>
   <string name="resource_pack_discount_info">%1$s saved</string>
@@ -881,6 +887,7 @@ Chạm vào biểu tượng Nhập bên dưới để bắt đầu"</string>
   <string name="resource_select">Chọn</string>
   <string name="resource_selected">Featured</string>
   <string name="resource_send">Send</string>
+  <string name="resource_server_alert_dialog_title">Dịch vụ tạm thời không khả dụng</string>
   <string name="resource_server_out_of_service">Máy chủ hiện không khả dụng, xin vui lòng thử lại sau.</string>
   <string name="resource_share_subject">Share theme: %1$s</string>
   <string name="resource_share_text">Here is a theme I thought you might like: %1$s! Link: %2$s</string>
@@ -1099,5 +1106,6 @@ the content you're looking for is not currently available in your region."</stri
   <string name="yellowpage_navigation_search_result_service_error">Service currently unavailable</string>
   <string name="yellowpage_navigation_search_result_unknown_error">Unknown error occurred!</string>
   <string name="yellowpage_navigation_search_select_city">Please select City</string>
+  <string name="yellowpage_navigation_send_to_desktop_succeeded">Đã thêm vào màn hình chính</string>
   <string name="zero_items_selected">Không mục nào được chọn</string>
 </resources>
