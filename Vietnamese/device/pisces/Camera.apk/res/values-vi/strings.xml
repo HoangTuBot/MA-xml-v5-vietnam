@@ -104,7 +104,7 @@
     <string name="pref_camera_default_suffix">(Mặc định)</string>
     <string name="pref_camera_multilevel_entry_middle">Trung bình (mặc định)</string>
     <string name="pref_camera_contrast_title">Độ tương phản</string>
-    <string name="pref_camera_saturation_title">Đo bão hòa</string>
+    <string name="pref_camera_saturation_title">Độ bão hòa</string>
     <string name="pref_camera_sharpness_title">Độ sắc nét</string>
     <string name="pref_camera_scenemode_title">Chế độ cảnh</string>
     <string name="pref_camera_scenemode_entry_off">Tắt</string>
@@ -127,6 +127,8 @@
     <string name="pref_camera_iso_title">Chọn ISO</string>
     <string name="pref_camera_iso_entry_auto">Tự động</string>
     <string name="pref_camera_antibanding_title">Chống nhấp nháy</string>
+    <string name="pref_camera_antibanding_entry_0">Tắt</string>
+    <string name="pref_camera_antibanding_entry_3">Tự động</string>
     <string name="dialog_ok">OK</string>
     <string name="spaceIsLow_content">Lưu trữ USB không đủ dung lượng</string>
     <string name="image_file_name_format">"'IMG'_ddMMyyyy_HHmmss"</string>
@@ -234,7 +236,7 @@
     <string name="pref_camera_volumekey_function_entry_zoom">Thu phóng</string>
     <string name="pref_camera_volumekey_function_entry_exposure">Phơi sáng</string>
     <string name="pref_camera_volumekey_function_title">Chức năng phím âm lượng</string>
-    <string name="pref_camera_long_pressing_burst_shooting_title">Nhấn và giử để chụp</string>
+    <string name="pref_camera_long_pressing_burst_shooting_title">Nhấn và giữ để chụp</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_off">Lấy tiêu cự</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_on">Chụp liên tục</string>
     <string name="pref_camera_current_k_value">Giá trị hiện tại</string>
@@ -448,7 +450,7 @@
     <string name="measure_whitebalance_text">Đặt một tờ giấy trắng 6 inch cách xa ống kính máy ảnh phía sau. Sau đó chụp ảnh.</string>
     <string name="pref_camera_hdr_type_title">Loại HDR</string>
     <string name="pref_camera_hdr_type_entry_normal">Bình thường</string>
-    <string name="pref_camera_hdr_type_entry_live">Live</string>
+    <string name="pref_camera_hdr_type_entry_live">Sống động</string>
     <string name="accessibility_ev_control">Điều khiển phơi sáng phụ trợ</string>
     <string name="face_analyze_info_gender">Giới tính： </string>
     <string name="face_analyze_info_age">Tuổi： </string>
