@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<<<<<<< HEAD
   <string name="accessibility_add_attendee">Thêm người tham dự</string>
   <string name="accessibility_add_reminder">Thêm nhắc nhở</string>
   <string name="accessibility_all_day">Sự kiện trong ngày</string>
@@ -267,7 +266,6 @@
   <string name="yearly">Hàng năm (vào %s)</string>
   <string name="yearly_plain">Hàng năm</string>
   <string name="zhushen" />
-=======
     <string name="app_label">Lịch</string>
     <string name="what_label">Điều gì</string>
     <string name="where_label">Ở đâu</string>
@@ -538,5 +536,4 @@
     <string name="accessibility_email_notification">Email thông báo</string>
     <string name="email_organizer_label">Email tổ chức</string>
     <string name="event_not_found">Không tìm thấy sự kiện.</string>
->>>>>>> b8e7748a33c875bd89da46d5384bf2c087a7723c
 </resources>
