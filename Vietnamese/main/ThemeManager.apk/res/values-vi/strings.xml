@@ -162,7 +162,7 @@
     <string name="resource_downloaded_title">Đã tải về</string>
     <string name="resource_see_more">Xem chi tiết</string>
     <string name="resource_no_result">Không có kết quả</string>
-    <string name="resource_unable_to_access">"Thật đang tiếc!!!
+    <string name="resource_unable_to_access">"Thật đáng tiếc!!!
 Nội dung bạn đang tìm kiếm hiện không có sẵn trong khu vực của bạn."</string>
     <string name="resource_list_title">Đã chọn mới nhất</string>
     <string name="resource_get_auth_checking">Đang kiểm tra ủy quyền…</string>
