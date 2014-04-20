@@ -1,13 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Xiaomi Sync</string>
-  <string name="find_device">Tìm thiết bị</string>
-  <string name="find_device_stop_noise">Chạm \"OK\" để dừng cảnh báo</string>
-  <string name="pref_summary_sync_display_photo_on_wifi_only">Đồng bộ hóa ảnh qua Wifi để tiết kiệm cước phí</string>
-  <string name="pref_title_sync_contacts_title">Đồng bộ danh bạ</string>
-  <string name="pref_title_sync_display_photo_on_wifi_only">Dùng Wi-Fi để hiện thị ảnh</string>
-  <string name="sub_sync_item_sms_summary">Đồng bộ hóa tin nhắn qua Wifi để tiết kiệm cước phí</string>
-  <string name="sub_sync_item_sms_title_wifi_only">Dùng Wi-Fi để đồng bộ tin nhắn</string>
-  <string name="sync_item_sms_summary">Tin nhắn sẽ được tự động đồng bộ</string>
-  <string name="sync_item_sms_title">Đồng bộ tin nhắn</string>
+    <string name="app_name">Đồng bộ Xiaomi</string>
+    <string name="sync_item_sms_title">Đồng bộ tin nhắn</string>
+    <string name="sync_item_sms_summary">Tin nhắn sẽ được tự động đồng bộ</string>
+    <string name="sub_sync_item_sms_title_wifi_only">Dùng Wi-Fi để đồng bộ tin nhắn</string>
+    <string name="sub_sync_item_sms_summary">Đồng bộ hóa tin nhắn qua Wifi để tiết kiệm cước phí</string>
+    <string name="pref_title_sync_my_profile_title">Đồng bộ hồ sơ của tôi</string>
+    <string name="pref_title_sync_contacts_title">Đồng bộ danh bạ</string>
+    <string name="pref_title_sync_display_photo_on_wifi_only">Dùng Wi-Fi để hiện thị ảnh</string>
+    <string name="pref_summary_sync_display_photo_on_wifi_only">Đồng bộ hóa ảnh qua Wifi để tiết kiệm cước phí</string>
+    <string name="find_device">Tìm thiết bị</string>
+    <string name="find_device_stop_noise">Chạm \"OK\" để dừng cảnh báo</string>
+    <string name="find_device_noise_title">Âm thanh xác định vị trí thiết bị</string>
+    <string name="sync_item_calllog_title">Đồng bộ nhật ký cuộc gọi</string>
+    <string name="sync_item_calllog_summary">Đồng bộ nhật ký các cuộc gọi đã thực hiện và đã nhận</string>
 </resources>
