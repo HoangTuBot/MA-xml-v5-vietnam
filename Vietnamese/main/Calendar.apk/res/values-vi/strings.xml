@@ -43,7 +43,6 @@
   <string name="birthday_notification_text_three_days_later">3 ngày nữa là đến sinh nhật (%3$s)</string>
   <string name="birthday_notification_title_today">"Sinh nhật %1$s"</string>
   <string name="birthday_notification_title_three_days_later">"Sinh nhật %1$s sắp tới"</string>
-  <string name="birthday_notification_title_today">"%1$s's birthday"</string>
   <string name="birthday_notification_type_term_lunar" />
   <string name="button_day">Ngày</string>
   <string name="button_month">Tháng</string>
