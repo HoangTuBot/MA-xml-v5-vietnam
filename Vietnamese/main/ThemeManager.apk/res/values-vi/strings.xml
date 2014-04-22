@@ -7,7 +7,7 @@
     <string name="theme_changed_failed_message">Không thể áp dụng chủ đề %1$s.</string>
     <string name="backup_preference_title">Sao lưu chủ đề</string>
     <string name="backup_theme_dialog_ok">Sao lưu</string>
-    <string name="backup_theme_dialog_message">Sao lưu các chủ đề hiện tại để %1$s</string>
+    <string name="backup_theme_dialog_message">Sao lưu chủ đề hiện tại?</string>
     <string name="backup_theme_progress_message">Đang sao lưu chủ đề, vui lòng chờ…</string>
     <string name="backup_theme_success_message">Chủ đề đã sao lưu thành công!</string>
     <string name="backup_theme_name">Sao lưu của tôi</string>
