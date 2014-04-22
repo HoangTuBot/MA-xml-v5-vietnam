@@ -64,7 +64,7 @@ Bạn có muốn vô hiệu hóa không?"</string>
     <string name="deep_clean_title_cache">Tập tin tạm</string>
     <string name="deep_clean_title_residual">Rác</string>
     <string name="deep_clean_title_large_file">Tập tin lớn</string>
-    <string name="deep_clean_title_uninstall_apps">Apps</string>
+    <string name="deep_clean_title_uninstall_apps">Ứng dụng</string>
     <string name="deep_clean_summary_install_apps_today">đã dùng hôm nay</string>
     <string name="deep_clean_summary_install_apps_interval">%d ngày không sử dụng</string>
     <string name="deep_clean_summary_install_apps_new">chưa bao giờ sử dụng</string>
