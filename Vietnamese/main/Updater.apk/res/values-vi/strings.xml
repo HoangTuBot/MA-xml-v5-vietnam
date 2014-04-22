@@ -135,7 +135,7 @@ Hơn %2$s người dùng đã cập nhật MIUI %3$s"</string>
     <string name="submit_progress">Đang gửi…</string>
     <string name="choose_recommend">Vui lòng chọn có hoặc không để khuyến khích</string>
     <string name="refuse_recommend_reason">Vui lòng nhập lý do</string>
-    <string name="update_feedback">Phản hổi cập nhật</string>
+    <string name="update_feedback">Phản hồi cập nhật</string>
     <string name="update_feedback_expired">"Đó là một thất vọng cho bạn đã bỏ lỡ Phản hồi Cập nhật!
 Vui lòng gửi bình chọn một lần nữa vào thứ Ba tới."</string>
     <string name="update_happy">Tuyệt</string>
