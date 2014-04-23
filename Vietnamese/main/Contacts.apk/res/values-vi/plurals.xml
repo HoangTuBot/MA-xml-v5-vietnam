@@ -17,8 +17,8 @@
         <item quantity="one">Tìm thấy 1</item>
     </plurals>
     <plurals name="merge_info">
-        <item quantity="other">ghép từ %0$d</item>
-        <item quantity="one">chưa được ghép</item>
+        <item quantity="other">đã gộp từ %0$d nguồn</item>
+        <item quantity="one">chưa được gộp</item>
     </plurals>
     <plurals name="num_groups_in_account">
         <item quantity="other">%0$d nhóm</item>
@@ -44,6 +44,34 @@
         <item quantity="other">%1$d mục được chọn</item>
         <item quantity="one">%1$d mục được chọn</item>
     </plurals>
+    <plurals name="pick_favorites_list_title">
+        <item quantity="other">%1$d mục yêu thích</item>
+        <item quantity="one">%1$d mục yêu thích</item>
+    </plurals>
+    <plurals name="pick_recent_list_title">
+        <item quantity="other">%1$d liên hệ gần đây</item>
+        <item quantity="one">1 liên hệ gần đây</item>
+    </plurals>
+    <plurals name="hint_search_contacts">
+        <item quantity="other">%1$d liên hệ</item>
+        <item quantity="one">%1$d liên hệ</item>
+    </plurals>
+    <plurals name="hint_search_phone_numbers">
+        <item quantity="other">%1$d số</item>
+        <item quantity="one">%1$d số</item>
+    </plurals>
+    <plurals name="hint_search_emails">
+        <item quantity="other">%1$d email liên hệ</item>
+        <item quantity="one">1 email liên hệ</item>
+    </plurals>
+    <plurals name="pick_favorites_contacts_list_title">
+        <item quantity="other">%1$d mục yêu thích</item>
+        <item quantity="one">%1$d mục yêu thích</item>
+    </plurals>
+    <plurals name="pick_recent_contacts_list_title">
+        <item quantity="other">%1$d liên hệ gần đây</item>
+        <item quantity="one">%1$d liên hệ gần đây</item>
+    </plurals>
     <plurals name="group_add_success_toast">
         <item quantity="other">Thêm thành công %1$d người</item>
         <item quantity="one">Thêm thành công %1$d người</item>
@@ -51,6 +79,10 @@
     <plurals name="smart_group_member_count">
         <item quantity="other">%d người</item>
         <item quantity="one">1 người</item>
+    </plurals>
+    <plurals name="device_import_done_toast">
+        <item quantity="other">%1$d liên hệ đã nhập</item>
+        <item quantity="one">%1$d liên hệ đã nhập</item>
     </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">" %1$d mục đã được chọn"</item>
