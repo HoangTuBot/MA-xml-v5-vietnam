@@ -17,7 +17,6 @@
   <string name="administrative_disable">Đã vô hiệu hóa quản trị</string>
   <string name="administrative_enable">Đã bật quản trị</string>
   <string name="advanced_settings">Cài đặt tùy chọn</string>
-  <string name="advanced_settings_container">thiết đặt chuyên sâu container</string>
   <string name="advanced_settings_hide">▽ Chạm để ẩn tất cả</string>
   <string name="advanced_settings_show">▷ Chạm để hiển thị tất cả</string>
   <string name="advertisements_disable">Quảng cáo bị vô hiệu hoá</string>
@@ -56,7 +55,6 @@
   <string name="audio_mode_earpiece">Tai nghe ĐTDĐ</string>
   <string name="audio_mode_speaker">Loa</string>
   <string name="audio_mode_wired_headset">Tai nghe có dây</string>
-  <string name="auth_username">AuthUserName</string>
   <string name="auth_username_summary">Tên người dùng được sử dụng để xác thực</string>
   <string name="auth_username_title">Tên người dùng xác thực</string>
   <string name="auto_answer_delay_entries_delay_10s_miui">10s</string>
@@ -365,10 +363,8 @@
   <string name="disable_pin_ok">Đã vô hiệu hóa mã PIN của SIM</string>
   <string name="disable_sim_pin">Vô hiệu hóa mã PIN của SIM</string>
   <string name="disable_sim_pin_miui">Đã vô hiệu hóa mã PIN</string>
-  <string name="display_name">Tên hiển thị</string>
   <string name="display_name_summary">&lt;Giống như tên người dùng&gt;</string>
   <string name="display_name_title">Tên hiển thị</string>
-  <string name="domain_address">SipDomain</string>
   <string name="domain_address_title">Máy chủ</string>
   <string name="doneButton">Xong</string>
   <string name="dtmf_tone_enable_title">Âm bàn phím</string>
@@ -717,7 +713,6 @@ Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
   <string name="ota_unsuccessful">"Điện thoại của bạn chưa được kích hoạt. Bạn có thể phải tìm khu vực có phạm vi phủ sóng tốt hơn (gần cửa sổ hoặc bên ngoài). Hãy thử lại hoặc gọi cho dịch vụ khách hàng để có tùy chọn khác."</string>
   <string name="other_settings">Cài đặt cuộc gọi khác</string>
   <string name="other_settings_miui">Other Call Settings</string>
-  <string name="password">Mật khẩu</string>
   <string name="password_title">Mật khẩu</string>
   <string name="pause_prompt_no">Không</string>
   <string name="pause_prompt_str">"Đang gửi Âm"</string>
@@ -753,7 +748,6 @@ Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
   <string name="pin_progress_unlock_icc_miui">Đang mở khóa SIM…</string>
   <string name="place_a_call1">Đăng ký 1</string>
   <string name="place_a_call2">Đăng ký 2</string>
-  <string name="port">Cổng</string>
   <string name="port_title">Số cổngs</string>
   <string name="pref_custom_location_summary_miui">Tùy chỉnh khu vực ghi và ghi số</string>
   <string name="pref_custom_location_title_miui">Tùy chỉnh ghi</string>
@@ -794,7 +788,6 @@ Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
   <string name="progress_dialog_exiting_ecm">Thoát Chế độ Gọi lại Khẩn cấp</string>
   <string name="prompt">Nhắc nhở</string>
   <string name="prompt_user">Nhắc nhở người dùng</string>
-  <string name="proxy_address">Địa chỉ proxy</string>
   <string name="proxy_address_title">Địa chỉ proxy đi</string>
   <string name="pstn_phone">Cuộc gọi qua điện thoại di động</string>
   <string name="puk2_blocked">PUK2 vĩnh viễn bị chặn.</string>
@@ -891,7 +884,6 @@ Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
   <string name="select_automatically">Chọn tự động</string>
   <string name="sendSms">Gửi tin nhắn SMS</string>
   <string name="send_button">Gửi</string>
-  <string name="send_keepalive">SendKeepAlive</string>
   <string name="send_keepalive_title">Send keep-alive</string>
   <string name="separate_from_conference_miui">Cuộc gọi đơn</string>
   <string name="set_preferred_network_type_when_data_enabled_miui">Loại mạng ưa thích chỉ có sẵn khi dữ liệu bị vô hiệu hóa</string>
@@ -938,10 +930,7 @@ Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
   <string name="sip_accounts">Tài khoản gọi Internet(SIP)</string>
   <string name="sip_accounts_title">Tải khoản</string>
   <string name="sip_add_account_tip_text">Xin vui lòng thêm tài khoản SIP để sử dụng điện thoại Internet</string>
-  <string name="sip_address_only">CHỈ ĐỊA CHỈ SIP</string>
-  <string name="sip_always">LUÔN LUÔN SIP</string>
   <string name="sip_always_send_keepalive">Luôn luôn gửi</string>
-  <string name="sip_ask_me_each_time">HỎI TÔI MỖI LẦN SIP</string>
   <string name="sip_call_options_entry_1">Cho tất cả các cuộc gọi khi mạng dữ liệu có sẵn</string>
   <string name="sip_call_options_entry_2">Chỉ cuộc gọi qua Internet</string>
   <string name="sip_call_options_entry_3">Nhắc nhở mỗi cuộc gọi</string>
@@ -1034,7 +1023,6 @@ Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
   <string name="throttle_time_frame">Thời gian sử dụng dữ liệu</string>
   <string name="throttle_time_frame_subtext">"%1$d٪ của chu kỳ đã qua Thời gian tiếp theo sẽ bắt đầu trong %2$d ngày (%3$s)"</string>
   <string name="title_data_settings">Cài đặt dữ liệu</string>
-  <string name="transport">Giao thức</string>
   <string name="transport_title">Loại truyền tải</string>
   <string name="tty_mode_entries_full_miui">TTY Full</string>
   <string name="tty_mode_entries_hco_miui">TTY HCO</string>
@@ -1058,7 +1046,6 @@ Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
   <string name="updating_fdn_contact">Đang cập nhật số quay định sẵn...</string>
   <string name="updating_settings">Đang cập nhật cài đặt...</string>
   <string name="updating_title">Cài đặt cuộc gọi</string>
-  <string name="username">Tên người dùng</string>
   <string name="username_title">Tên người dùng</string>
   <string name="ussdRunning">Mã USSD đang chạy…</string>
   <string name="vibrate_on_ring_title">Báo rung khi chuông</string>

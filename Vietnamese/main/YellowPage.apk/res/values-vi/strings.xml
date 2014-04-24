@@ -37,7 +37,6 @@
   <string name="express_inquiry_delivered">Đã gửi</string>
   <string name="express_inquiry_history">Lịch sử</string>
   <string name="express_inquiry_indication">Số theo dõi</string>
-  <string name="express_inquiry_internal_failure">@string/service_unavailiable</string>
   <string name="express_inquiry_logistics_indication">Courier name</string>
   <string name="express_inquiry_no_history">Không có lịch sử</string>
   <string name="express_inquiry_no_result">Không có kết quả.</string>

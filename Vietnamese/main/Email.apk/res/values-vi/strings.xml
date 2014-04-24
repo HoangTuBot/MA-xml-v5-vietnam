@@ -13,7 +13,6 @@
   <string name="abc_searchview_description_voice">Voice search</string>
   <string name="abc_shareactionprovider_share_with">Share with</string>
   <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
-  <string name="account_cache_provider">Account Cache Provider</string>
   <string name="account_duplicate_dlg_message_fmt">Bạn đã sử dụng tên người dùng cho tài khoản \"%s\".</string>
   <string name="account_duplicate_dlg_title">Tài khoản trùng lặp</string>
   <string name="account_folder_list_summary_drafts">Thư nháp</string>

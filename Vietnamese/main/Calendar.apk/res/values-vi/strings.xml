@@ -38,7 +38,6 @@
   <string name="birthday_event_description">"Hôm nay là sinh nhật %1$s!"</string>
   <string name="birthday_event_description_detail_leap" />
   <string name="birthday_event_description_detail_smart" />
-  <string name="birthday_event_title">@string/birthday_notification_title_today</string>
   <string name="birthday_notification_age_term" />
   <string name="birthday_notification_text_three_days_later">3 ngày nữa là đến sinh nhật (%3$s)</string>
   <string name="birthday_notification_title_today">"Sinh nhật %1$s"</string>
@@ -166,9 +165,6 @@
   <string name="not_synced">chưa đồng bộ</string>
   <string name="online_calendar_activity_label">Theo dõi lịch</string>
   <string name="pengzu">Peng zu</string>
-  <string name="prefDefault_alerts_vibrateWhen">Không bao giờ</string>
-  <string name="prefDefault_alerts_vibrate_false">Không bao giờ</string>
-  <string name="prefDefault_alerts_vibrate_true">Luôn luôn</string>
   <string name="prefDialogTitle_vibrateWhen">Rung</string>
   <string name="pref_title_alarm_remind">Nhắc nhở bằng báo thức</string>
   <string name="pref_title_alert_remind">Nhắc nhở bằng Pop-up</string>
