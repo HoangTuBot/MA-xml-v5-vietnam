@@ -7,9 +7,49 @@
         <item>Chữ lớn</item>
         <item>Chữ đại</item>
     </string-array>
+    <string-array name="compose_modes">
+        <item>Trả lời</item>
+        <item>Trả lời tất cả</item>
+        <item>Chuyển tiếp</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Thành công</item>
+        <item>Không có kết nối.</item>
+        <item>Không thể đăng nhập.</item>
+        <item>Lỗi bảo mật.</item>
+        <item>Không thể đồng bộ.</item>
+        <item>Lỗi nội bộ</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Hệ thống</item>
+        <item>Dùng thường xuyên</item>
+        <item>Tất cả thư mục</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Mới hơn</item>
+        <item>Cũ hơn</item>
+        <item>Danh sách thư</item>
+    </string-array>
     <string-array name="general_preference_auto_advance_summary_array">
-        <item>Tới thư mới hơn sau khi xóa 1 thư</item>
-        <item>Tới thư cũ hơn sau khi xóa 1 thư</item>
-        <item>Quay lại Hộp thư đến sau khi xóa 1 thư</item>
+        <item>Hiển thị thư mới hơn sau khi bạn xóa</item>
+        <item>Hiển thị thư cũ hơn sau khi bạn xóa</item>
+        <item>Hiển thị danh sách thư sau khi bạn xóa</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Chỉ hiện lưu trữ</item>
+        <item>Chỉ hiện đã xóa</item>
+        <item>Hiện lưu trữ &amp;amp; đã xóa</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Chỉ hiển thị lưu trữ</item>
+        <item>Chỉ hiện đã xóa</item>
+        <item>Hiện lưu trữ &amp;amp; đã xóa</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Mặc định</item>
+        <item>Định dạng</item>
+        <item>Tên</item>
+        <item>Người gửi</item>
+        <item>Ngày</item>
     </string-array>
 </resources>
