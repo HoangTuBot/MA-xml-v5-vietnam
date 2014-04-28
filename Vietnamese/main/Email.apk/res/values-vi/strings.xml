@@ -51,12 +51,20 @@
     <string name="policy_require_encryption">Yêu cầu mã hóa thiết bị</string>
     <string name="auth_error_notification_title">Lỗi xác thực</string>
     <string name="auth_error_notification_text">Chạm để chỉnh sửa cài đặt tài khoản cho %s</string>
+    <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
+    <string name="app_name">Email</string>
+    <string name="account_setup_options_mail_window_auto">Tự động</string>
+    <string name="account_setup_options_mail_window_1day">Một ngày</string>
+    <string name="account_setup_options_mail_window_3days">Ba ngày</string>
+    <string name="account_setup_options_mail_window_1week">Một tuần</string>
+    <string name="account_setup_options_mail_window_2weeks">Hai tuần</string>
+    <string name="account_setup_options_mail_window_1month">Một tháng</string>
+    <string name="account_setup_options_mail_window_all">Mỗi ngày</string>
     <string name="retry">Thử lại</string>
     <string name="search_hint">Tìm email</string>
     <string name="no_conversations">Không có thư nào.</string>
     <string name="photo_view_count" formatted="false">%d/%d</string>
     <string name="done">Quay lại</string>
-    <string name="app_name">Email</string>
     <string name="permission_read_attachment_label">Đọc tập tin đính kèm của email</string>
     <string name="permission_read_attachment_desc">Cho phép ứng dụng này đọc tập tin đính kèm email của bạn.</string>
     <string name="permission_access_provider_label">Truy cập dữ liệu nhà cung cấp Email</string>
@@ -183,13 +191,6 @@ CC: %4$s
     <string name="account_setup_options_background_attachments_label">Tự động tải đính kèm khi kết nối với Wi-Fi</string>
     <string name="account_setup_failed_dlg_title">Không thể hoàn tất</string>
     <string name="account_setup_options_mail_window_label">Ngày để đồng bộ</string>
-    <string name="account_setup_options_mail_window_auto">Tự động</string>
-    <string name="account_setup_options_mail_window_1day">Một ngày</string>
-    <string name="account_setup_options_mail_window_3days">Ba ngày</string>
-    <string name="account_setup_options_mail_window_1week">Một tuần</string>
-    <string name="account_setup_options_mail_window_2weeks">Hai tuần</string>
-    <string name="account_setup_options_mail_window_1month">Một tháng</string>
-    <string name="account_setup_options_mail_window_all">Mỗi ngày</string>
     <string name="account_setup_options_mail_window_default">Sử dụng mặc định của tài khoản</string>
     <string name="account_setup_failed_dlg_auth_message">Tên đăng nhập hoặc mật khẩu không chính xác.</string>
     <string name="account_setup_failed_dlg_auth_message_fmt">"Tên đăng nhập hoặc mật khẩu không chính xác.
@@ -236,7 +237,7 @@ CC: %4$s
     <string name="password_expired_dialog_title">Mật khẩu khóa màn hình đã hết hạn</string>
     <string name="password_expired_dialog_content_fmt">Dữ liệu cho %s đang được xóa từ điện thoại của bạn. Bạn có thể khôi phục lại nó bằng cách thay đổi PIN khóa màn hình hoặc mật khẩu của bạn. Thay đổi ngay bây giờ?</string>
     <string name="account_settings_exit_server_settings">Loại bỏ những thay đổi chưa được lưu?</string>
-    <string name="account_settings_login_dialog_title">"Không thể đăng nhập"</string>
+    <string name="account_settings_login_dialog_title">Không thể đăng nhập</string>
     <string name="account_settings_login_dialog_content_fmt">Tên người dùng hoặc mật khẩu cho %s không chính xác. Cập nhật ngay bây giờ?</string>
     <string name="account_settings_login_dialog_reason_fmt" formatted="false">Lỗi đăng nhập vào %s. Phản hồi máy chủ: %s .Bạn có muốn cập nhật tên đăng nhập và/hoặc mật khẩu của bạn?</string>
     <string name="account_settings_background_attachments_label">Tải xuống đính kèm</string>
@@ -289,7 +290,6 @@ CC: %4$s
     <string name="provider_note_live">Chỉ vài tài khoản \"Plus\" bao gồm truy cập POP cho phép chương trình này để kết nối. Nếu bạn không thể đăng nhập với địa chỉ email và mật khẩu đúng của bạn, bạn có thể không có một tài khoản \"Plus\". Khởi chạy trình duyệt web để truy cập các tài khoản email.</string>
     <string name="provider_note_t_online">Trước khi thiết lập tài khoản email, truy cập trang web của T-Online và tạo ra một mật khẩu để truy cập email POP3.</string>
     <string name="exchange_name">Công ty</string>
-    <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
     <string name="system_account_create_failed">Không thể tạo tài khoản. Hãy thử lại.</string>
     <string name="device_admin_label">Email</string>
     <string name="device_admin_description">Kích hoạt các chính sách bảo mật máy chủ xác định</string>
@@ -325,8 +325,8 @@ CC: %4$s
     <string name="account_waiting_for_folders_msg">Đang tải danh sách thư mục…</string>
     <string name="mock_content_provider">Trình cung cấp nội dung người gửi</string>
     <string name="conversation_content_provider">Trình cung cấp nội dung hội thoại</string>
-    <string name="contact_content_provider">Tr2inh cung cấp nội dung liên hệ</string>
-    <string name="account_cache_provider">Tr2inh cung cấp bộ đệm tài khoản</string>
+    <string name="contact_content_provider">Trình cung cấp nội dung liên hệ</string>
+    <string name="account_cache_provider">Trình cung cấp bộ đệm tài khoản</string>
     <string name="from">Từ</string>
     <string name="to">Tới</string>
     <string name="cc">Cc</string>
@@ -340,6 +340,7 @@ CC: %4$s
     <string name="save_draft">Lưu nháp</string>
     <string name="discard">Hủy</string>
     <string name="compose">Soạn</string>
+    <string name="contact_select">Chọn liên hệ</string>
     <string name="reply_subject_label">Re:</string>
     <string name="forward_subject_label">Fwd:</string>
     <string name="reply_attribution" formatted="false">Trong %s, %s đã viết:</string>
@@ -401,7 +402,7 @@ CC: %4$s
     <string name="help_and_info">Trợ giúp</string>
     <string name="quoted_text">Bao gồm văn bản trích dẫn</string>
     <string name="quoted_text_label">Văn bản trích dẫn</string>
-    <string name="respond_inline">Đáp ứng nội tuyến </string>
+    <string name="respond_inline">Đáp ứng nội tuyến</string>
     <string name="attachment_image">Ảnh</string>
     <string name="attachment_video">Video</string>
     <string name="attachment_audio">Âm thanh</string>
@@ -489,12 +490,13 @@ CC: %4$s
     <string name="message_invite_accept">Có</string>
     <string name="message_invite_tentative">Có thể</string>
     <string name="message_invite_decline">Không</string>
+    <string name="enumeration_comma">", "</string>
     <string name="yes">Có</string>
     <string name="no">Không</string>
     <string name="ok">OK</string>
     <string name="cancel">Hủy</string>
     <string name="clear">Xóa</string>
-    <string name="actionbar_title_mail_aggregation">Thư tập hợp: </string>
+    <string name="actionbar_title_mail_aggregation">Thư tập hợp:</string>
     <string name="tap_to_configure">Chạm để thiết lập</string>
     <string name="non_synced_folder_description">Để xem các cuộc hội thoại, hãy đồng bộ thư mục này.</string>
     <string name="tap_to_configure_folder_sync">Đồng bộ thư mục</string>
@@ -539,7 +541,7 @@ Chạm "<b>Đồng bộ ngay</b> để đồng bộ email một lần, hoặc <b
     <string name="auto_advance_summary">Chọn màn hình để hiển thị sau khi bạn xóa thư</string>
     <string name="auto_advance_help_title">"Thiết lập tự động chuyển ưu tiên
 (sau khi bạn xóa, vv.)"</string>
-    <string name="clear_display_images_whitelist_title">Xóa "Hiển thị ảnh"</string>
+    <string name="clear_display_images_whitelist_title">Xóa Hiển thị ảnh</string>
     <string name="clear_display_images_whitelist_dialog_title">Xóa hiển thị ảnh?</string>
     <string name="clear_display_images_whitelist_dialog_message">Dừng hiển thị ảnh trong thư từ những người gửi bạn đã cho phép trước đây.</string>
     <string name="sender_whitelist_cleared">Hình ảnh sẽ không được hiển thị tự động.</string>
@@ -610,14 +612,14 @@ Chạm "<b>Đồng bộ ngay</b> để đồng bộ email một lần, hoặc <b
     <string name="hint_quick_reply_all">Trả lời tất cả ở đây</string>
     <string name="Folders">Thư mục</string>
     <string name="account_setup_service_not_set">Cài đặt dịch vụ email của bạn chưa được thực hiện</string>
-    <string name="account_setup_need_password_verification">Tài khoản của bạn đã được mở xác thực mật khẩu thứ hai, yêu cầu xác nhận</string>
     <string name="name_or_number_is_error">Tên người dùng hoặc mật khẩu không đúng</string>
     <string name="account_set_up_notice">Chỉ cần một vài bước, bạn có thể thiết lập một tài khoản email cho phần lớn các</string>
-    <string name="please_fill_in_your_mailbox_information">Vui lòng điền các thông tin liên quan đến hộp thư %s của bạn: </string>
-    <string name="please_fill_in_your_mailbox_information2">Vui lòng điền các thông tin liên quan đến hộp thư của bạn: </string>
+    <string name="please_fill_in_your_mailbox_information">Vui lòng điền các thông tin liên quan đến hộp thư %s của bạn:</string>
+    <string name="please_fill_in_your_mailbox_information2">Vui lòng điền các thông tin liên quan đến hộp thư của bạn:</string>
     <string name="login">Đăng nhập</string>
+    <string name="account_setup_need_password_verification">Tài khoản của bạn đã được mở xác thực mật khẩu thứ hai, yêu cầu xác nhận</string>
     <string name="other_mail">Email khác</string>
-    <string name="account_settings_list_title">Vui lòng chọn nhà cung cấp dịch vụ Email cần thêm: </string>
+    <string name="account_settings_list_title">Vui lòng chọn nhà cung cấp dịch vụ Email cần thêm:</string>
     <string name="confirm">Xác nhận</string>
     <string name="annex_size">đính kèm</string>
     <string name="change_account_type">Thay đổi loại tài khoản</string>
@@ -660,10 +662,11 @@ Chạm "<b>Đồng bộ ngay</b> để đồng bộ email một lần, hoặc <b
     <string name="att_mgr_title_order_sender">Người gửi</string>
     <string name="att_mgr_title_order_rev_date">Thời gian</string>
     <string name="att_mgr_title_order_size">Kích thước tập tin</string>
-    <string name="input_password_prompt">Vui lòng nhập mật khẩu: </string>
+    <string name="input_password_prompt">Vui lòng nhập mật khẩu:</string>
     <string name="wrong_password">Sai mật khẩu!</string>
     <string name="file_rar_not_support">Không hỗ trợ tập tin rar được mã hóa!</string>
     <string name="file_not_found">Không tìm thấy tập tin trên máy chủ!</string>
+    <string name="request_entity_large">Yêu cầu tập tin quá lớn!</string>
     <string name="file_not_found_reDownload">Không tìm thấy tập tin, hãy thử lại!</string>
     <string name="file_deleted_success">Đã xoá tập tin thành công!</string>
     <string name="download_complete_not_cancel">Tải về hoàn tất, hủy bỏ thất bại!</string>
@@ -678,11 +681,14 @@ Chạm "<b>Đồng bộ ngay</b> để đồng bộ email một lần, hoặc <b
     <string name="no_matched_attachment">Không có đính kèm phù hợp!</string>
     <string name="always_bcc_myself">Mail Always Bcc Myself</string>
     <string name="local_search">Tìm kiếm trên máy</string>
+    <string name="conversation_item_mark_read">Đã đọc</string>
+    <string name="conversation_item_mark_unread">Chưa đọc</string>
     <string name="no_mails">Không có thư</string>
+    <string name="default_signature">Gửi từ Xiaomi</string>
     <string name="contact_list_add_btn">Thêm</string>
     <string name="validation_failed_prompt">Xác thực thất bại, xin vui lòng thiết lập máy chủ %s</string>
     <string name="spaceChar">" "</string>
-    <string name="search_result">Kết quả tìm kiếm: </string>
+    <string name="search_result">Kết quả tìm kiếm:</string>
     <string name="not_subject">Không có Tiêu đề</string>
     <string name="pull_to_refresh">Kéo để làm mới</string>
     <string name="release_to_refresh">Lập tức làm mới</string>
@@ -691,4 +697,8 @@ Chạm "<b>Đồng bộ ngay</b> để đồng bộ email một lần, hoặc <b
     <string name="updated_at">Cập nhật lần cuối: %1$s</string>
     <string name="updated_just_now">Vửa cập nhật</string>
     <string name="time_error">Vấn đề về thời gian</string>
+    <string name="outbox_alert_title_sent_failed">Không thể gửi email</string>
+    <string name="outbox_alert_description_sent_failed">Nguyên nhân: Kích thước đính kèm vượt quá giới hạn</string>
+    <string name="outbox_alert_button_confirm">Sửa</string>
+    <string name="blank_feedback_toast">Thông tin phản hồi trống, vui lòng nhập nội dung phản hồi!</string>
 </resources>
