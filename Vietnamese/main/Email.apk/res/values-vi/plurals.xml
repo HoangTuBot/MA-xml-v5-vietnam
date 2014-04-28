@@ -20,6 +20,10 @@
         <item quantity="other">%dGB</item>
         <item quantity="one">%dGB</item>
     </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">%d đã chọn</item>
+        <item quantity="one">1 đã chọn</item>
+    </plurals>
     <plurals name="num_selected">
         <item quantity="other">%d đã chọn</item>
         <item quantity="one">1 đã chọn</item>
@@ -53,16 +57,16 @@
         <item quantity="one">Bỏ dấu sao %1$d hội thoại này.</item>
     </plurals>
     <plurals name="conversation_muted">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> đã tắt âm.</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> đã tắt âm.</item>
+        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> được tắt âm.</item>
+        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> được tắt âm.</item>
     </plurals>
     <plurals name="conversation_spammed">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> đã báo cáo là thư rác.</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> đã báo cáo là thư rác.</item>
+        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> được báo cáo là thư rác.</item>
+        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> được báo cáo là thư rác.</item>
     </plurals>
     <plurals name="conversation_not_spam">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> đã báo cáo không phải thư rác.</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> đã báo cáo không phải thư rác.</item>
+        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> được báo cáo không phải thư rác.</item>
+        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> được báo cáo không phải thư rác.</item>
     </plurals>
     <plurals name="conversation_not_important">
         <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> được đánh dấu là không quan trọng.</item>
