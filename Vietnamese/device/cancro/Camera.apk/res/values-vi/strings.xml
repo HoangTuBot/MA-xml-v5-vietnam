@@ -466,7 +466,7 @@
     <string name="pref_camera_hdr_type_entry_normal">Bình thường</string>
     <string name="pref_camera_hdr_type_entry_live">Sống động</string>
     <string name="accessibility_ev_control">Điều khiển phơi sáng phụ trợ</string>
-    <string name="face_analyze_info_gender">Giới tính：</string>
-    <string name="face_analyze_info_age">Tuổi：</string>
-    <string name="face_analyze_info_years">Năm</string>
+    <string name="face_analyze_info_gender">Giới tính: </string>
+    <string name="face_analyze_info_age">Tuổi: </string>
+    <string name="face_analyze_info_years">Năm: </string>
 </resources>
