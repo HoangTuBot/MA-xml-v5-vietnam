@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="menu_theme_setting">
+        <item>Trắng</item>
+        <item>Vàng</item>
+        <item>Xám</item>
+        <item>Nâu</item>
+        <item>Lục</item>
+        <item>Lam</item>
+        <item>Đen</item>
+    </string-array>
     <string-array name="pref_content_plugins_choices">
         <item>Luôn bật</item>
         <item>Hỏi tôi trước</item>
         <item>Tắt</item>
-    </string-array>
-    <string-array name="pref_homepage_choices">
-        <item>Trang bắt đầu</item>
-        <item>Tùy chọn</item>
     </string-array>
     <string-array name="pref_text_size_choices">
         <item>Bé</item>
@@ -15,11 +20,6 @@
         <item>Vừa</item>
         <item>Lớn</item>
         <item>Đại</item>
-    </string-array>
-    <string-array name="pref_default_zoom_choices">
-        <item>Nhỏ</item>
-        <item>Vừa</item>
-        <item>Lớn</item>
     </string-array>
     <string-array name="pref_data_preload_choices">
         <item>Không bao giờ</item>
@@ -36,14 +36,9 @@
         <item>Chỉ với Wi-Fi</item>
         <item>Luôn luôn</item>
     </string-array>
-    <string-array name="menu_theme_setting">
-        <item>Trắng</item>
-        <item>Vàng</item>
-        <item>Xám</item>
-        <item>Nâu</item>
-        <item>Lục</item>
-        <item>Lam</item>
-        <item>Đen</item>
+    <string-array name="pref_homepage_choices">
+        <item>Trang bắt đầu</item>
+        <item>Tùy chọn</item>
     </string-array>
     <string-array name="pref_volume_key_choices">
         <item>Trang lên/xuống</item>
@@ -53,9 +48,20 @@
         <item>Trang trước/sau</item>
         <item>Chuyển cửa sổ</item>
     </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Nhỏ</item>
+        <item>Vừa</item>
+        <item>Lớn</item>
+    </string-array>
     <string-array name="pref_images_preload_choices">
         <item>Không bao giờ</item>
         <item>Chỉ với Wi-Fi</item>
         <item>Luôn luôn</item>
+    </string-array>
+    <string-array name="pre_webapp_text_sizes">
+        <item>Đại</item>
+        <item>Lớn</item>
+        <item>Vừa</item>
+        <item>Nhỏ</item>
     </string-array>
 </resources>
