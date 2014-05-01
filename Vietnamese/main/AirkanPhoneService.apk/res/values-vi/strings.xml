@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rcs_app_name">Dịch vụ điều khiển từ xa</string>
+    <string name="rcs_phoneact_name">Quản lý Điện thoại điều khiển từ xa</string>
+    <string name="rcs_service_start">Bắt đầu Quản lý Điện thoại điều khiển từ xa.</string>
+    <string name="app_name">Điện thoại Airkan</string>
+    <string name="phoneact_name">Quản lý Điện thoại Airkan</string>
+    <string name="mdnssdact_name">Quản lý Lắng nghe mDNSSD</string>
+    <string name="service_start">Bắt đầu Dịch vụ Điện thoại Airkan.</string>
+    <string name="listenservice_start">Bắt đầu Dịch vụ Lắng nghe mDNSSD.</string>
+</resources>
