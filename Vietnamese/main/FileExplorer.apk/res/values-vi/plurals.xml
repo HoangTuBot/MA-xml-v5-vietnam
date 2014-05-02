@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="delete_files_confirm">
+        <item quantity="other">Xóa %1$d tập tin</item>
+        <item quantity="one">Xóa 1 tập tin</item>
+    </plurals>
+    <plurals name="delete_folders_confirm">
+        <item quantity="other">" và %1$d thư mục?"</item>
+        <item quantity="one">" và 1 thư mục?"</item>
+    </plurals>
     <plurals name="directory_item_count">
         <item quantity="other">%d mục</item>
         <item quantity="one">1 mục</item>
+    </plurals>
+    <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">%1$d tập tin đang tải về</item>
+        <item quantity="one">1 tập tin đang tải về</item>
+    </plurals>
+    <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">%1$d tập tin đang tải lên</item>
+        <item quantity="one">1 tập tin đang tải lên</item>
     </plurals>
 </resources>
