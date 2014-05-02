@@ -279,7 +279,7 @@
   <string name="pref_sms_theme_title">Cài đặt chủ đề</string>
   <string name="pref_summary_allow_si_sl_push">Cho phép nhận được và thông báo tin nhắn qua WAP (SI/SL)</string>
   <string name="pref_summary_delete_limit">%1$s tin nhắn trong một cuộc hội thoại</string>
-  <string name="pref_summary_delivery_reports">Yêu cầu guiwt báo cáo cho mỗi tin nhắn bạn gửi</string>
+  <string name="pref_summary_delivery_reports">Yêu cầu gửi báo cáo cho mỗi tin nhắn bạn gửi</string>
   <string name="pref_summary_hide_festival">Ẩn đề nghị cho ngôn ngữ không phải Trung Quốc</string>
   <string name="pref_summary_manage_sim_messages">Quản lý tin nhắn được lưu trữ trên thẻ SIM của bạn</string>
   <string name="pref_summary_mms_auto_retrieval">Tự động tải tin nhắn</string>
