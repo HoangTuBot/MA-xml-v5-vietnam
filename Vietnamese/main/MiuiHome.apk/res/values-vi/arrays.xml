@@ -48,9 +48,9 @@
         <item>Mù sương</item>
     </string-array>
     <string-array name="editing_mode_entries">
-        <item>Sắp xếp màn hình chính</item>
-        <item>Thêm tiện ích</item>
-        <item>Đổi hình nền</item>
-        <item>Hiệu ứng màn hình</item>
+        <item>Sắp xếp ứng dụng</item>
+        <item>Tiện ích</item>
+        <item>Hình nền</item>
+        <item>Hiệu ứng</item>
     </string-array>
 </resources>
