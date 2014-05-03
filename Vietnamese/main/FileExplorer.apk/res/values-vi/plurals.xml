@@ -13,8 +13,8 @@
         <item quantity="one">1 mục</item>
     </plurals>
     <plurals name="ui_bar_txt_download_progress">
-        <item quantity="other">%1$d tập tin đang tải về</item>
-        <item quantity="one">1 tập tin đang tải về</item>
+        <item quantity="other">%1$d tập tin đang tải xuống</item>
+        <item quantity="one">1 tập tin đang tải xuống</item>
     </plurals>
     <plurals name="ui_bar_txt_upload_progress">
         <item quantity="other">%1$d tập tin đang tải lên</item>
