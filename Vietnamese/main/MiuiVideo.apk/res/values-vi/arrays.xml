@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="channel_tabs">
+        <item>Nóng nhất</item>
+        <item>Xếp hạng</item>
+        <item>Mới nhất</item>
+    </string-array>
+    <string-array name="channel_featured_tabs">
+        <item>Được chọn</item>
+        <item>Xếp hạng</item>
+        <item>Mới nhất</item>
+    </string-array>
+    <string-array name="home_tabs">
+        <item>Trưc tuyến</item>
+        <item>Trên máy</item>
+    </string-array>
+    <string-array name="series_detail_tabs">
+        <item>Tập</item>
+        <item>Tóm tắt</item>
+    </string-array>
+</resources>
