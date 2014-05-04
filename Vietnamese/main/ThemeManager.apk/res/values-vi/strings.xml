@@ -13,7 +13,7 @@
     <string name="backup_theme_name">Sao lưu của tôi</string>
     <string name="theme_description_title_default">Mặc định</string>
     <string name="theme_description_title_customized">Tùy chỉnh</string>
-    <string name="component_category_finest_title">Đặc trưng</string>
+    <string name="component_category_finest_title">Nổi bật</string>
     <string name="component_category_more_title">Thêm</string>
     <string name="theme_component_title_framework">Khuôn khổ</string>
     <string name="theme_component_title_mms">SMS</string>
@@ -111,7 +111,7 @@
     <string name="description_version_szie">Phiên bản: %1$s Kích thước: %2$s</string>
     <string name="resource_local">Trên máy %1$s</string>
     <string name="resource_online">Trực tuyến %1$s</string>
-    <string name="resource_selected">Đặc trưng</string>
+    <string name="resource_selected">Nổi bật</string>
     <string name="resource_ranking">Phổ biến</string>
     <string name="resource_ranking_free">Miễn phí</string>
     <string name="resource_ranking_purchase">Trả tiền</string>
