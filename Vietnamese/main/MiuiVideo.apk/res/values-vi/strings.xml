@@ -336,7 +336,7 @@
     <string name="menu_item_disable_audio_enhance">Tắt bộ tăng cường âm thanh</string>
     <string name="menu_item_enable_3d_mode">Bật chế độ 3D</string>
     <string name="menu_item_disable_3d_mode">Tắt chế độ 3D</string>
-    <string name="toast_message_set_misound">Vui lòng thiết lập âm thanh MI...</string>
+    <string name="toast_message_set_misound">Vui lòng thiết lập âm thanh MI…</string>
     <string name="vp_select_ci">Chọn</string>
     <string name="vp_offline">Ngoại tuyến</string>
     <string name="vp_next_ci">Tiếp theo</string>
