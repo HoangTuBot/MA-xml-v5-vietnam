@@ -679,7 +679,7 @@ Chạm "<b>Đồng bộ ngay</b> để đồng bộ email một lần, hoặc <b
     <string name="select_no_file">Không đính kèm nào được chọn để chia sẻ</string>
     <string name="download_before_sharing">" chưa được tải về, hãy tải về trước khi chia sẻ!"</string>
     <string name="no_matched_attachment">Không có đính kèm phù hợp!</string>
-    <string name="always_bcc_myself">Mail Always Bcc Myself</string>
+    <string name="always_bcc_myself">Luôn bật Bcc</string>
     <string name="local_search">Tìm kiếm trên máy</string>
     <string name="conversation_item_mark_read">Đã đọc</string>
     <string name="conversation_item_mark_unread">Chưa đọc</string>
