@@ -30,8 +30,8 @@
         <item>Z</item>
     </string-array>
     <string-array name="equalizer_presents">
-        <item>Normal</item>
-        <item>Classical</item>
+        <item>Bình thường</item>
+        <item>Classic</item>
         <item>Dance</item>
         <item>Folk</item>
         <item>Heavy metal</item>
