@@ -342,6 +342,6 @@
     <string name="vp_next_ci">Tiếp theo</string>
     <string name="vp_standard_definition">SD</string>
     <string name="vp_high_definition">HD</string>
-    <string name="vp_super_definition">Rõ nét</string>
-    <string name="vp_full_high_definition">1080P</string>
+    <string name="vp_super_definition">UHD</string>
+    <string name="vp_full_high_definition">FHD</string>
 </resources>
