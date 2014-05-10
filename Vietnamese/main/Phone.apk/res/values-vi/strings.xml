@@ -306,9 +306,7 @@
   <string name="default_contacts_countrycode_hint_miui">Ví dụ: 86</string>
   <string name="default_contacts_countrycode_miui">Mã quốc gia mặc định địa chỉ liên hệ</string>
   <string name="default_contacts_countrycode_sum_miui">Thiết lập mã quốc gia mặc định cho liên hệ của bạn</string>
-  <string name="default_port">5060</string>
   <string name="default_preference_summary">&lt;Chưa được đặt&gt;</string>
-  <string name="default_transport">UDP</string>
   <string name="delete">Xóa</string>
   <string name="deleteAllSimEntries">Xóa tất cả số liên lạc trên SIM</string>
   <string name="deleteSimContacts">Đang xóa liên hệ trên thẻ SIM...</string>
@@ -887,7 +885,6 @@ Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
   <string name="send_keepalive_title">Send keep-alive</string>
   <string name="separate_from_conference_miui">Cuộc gọi đơn</string>
   <string name="set_preferred_network_type_when_data_enabled_miui">Loại mạng ưa thích chỉ có sẵn khi dữ liệu bị vô hiệu hóa</string>
-  <string name="set_primary">Thiết lập chính</string>
   <string name="set_primary_summary">Được sử dụng cho các cuộc gọi đi</string>
   <string name="set_primary_title">Đặt làm tài khoản chính</string>
   <string name="set_smsc_address_error_miui">Thất bại khi đặt số trung taâm SMS, xin vui lòng thử lại sau.</string>
