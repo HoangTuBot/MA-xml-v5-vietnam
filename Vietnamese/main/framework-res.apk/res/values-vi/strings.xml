@@ -24,60 +24,11 @@
     <string name="VideoView_error_text_invalid_progressive_playback">Video này không hợp lệ cho dòng thiết bị này.</string>
     <string name="selectTextMode">Chọn văn bản</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="hour_minute_24" formatted="false">%-k:%M</string>
-    <string name="hour_minute_ampm" formatted="false">%-l:%M %p</string>
-    <string name="hour_minute_cap_ampm" formatted="false">%-l:%M %^p</string>
-    <string name="numeric_date" formatted="false">%d/%m/%Y</string>
-    <string name="numeric_date_format">d/M/yyyy</string>
     <string name="numeric_date_template" formatted="false">%s/%s/%s</string>
     <string name="month_day_year" formatted="false">Ngày %d tháng %-m năm %Y</string>
     <string name="time_of_day" formatted="false">%-l:%M:%S %p</string>
     <string name="date_and_time" formatted="false">%d-%m-%Y, %-l:%M:%S %p</string>
-    <string name="date_time">%1$s %2$s</string>
-    <string name="time_date">%3$s %1$s</string>
-    <string name="abbrev_month_day_year" formatted="false">%d-%m-%Y</string>
-    <string name="month_day" formatted="false">%-e %B</string>
-    <string name="month">%-B</string>
-    <string name="month_year" formatted="false">%B %Y</string>
-    <string name="abbrev_month_day" formatted="false">%-e %b</string>
-    <string name="abbrev_month">%b</string>
-    <string name="abbrev_month_year" formatted="false">%b %Y</string>
-    <string name="time1_time2">%1$s - %2$s</string>
-    <string name="date1_date2">%2$s - %5$s</string>
-    <string name="numeric_md1_md2">%3$s/%2$s - %8$s/%7$s</string>
-    <string name="numeric_wday1_md1_wday2_md2">%1$s, %3$s/%2$s - %6$s, %8$s/%7$s</string>
-    <string name="numeric_mdy1_mdy2">%3$s/%2$s/%4$s - %8$s/%7$s/%9$s</string>
-    <string name="numeric_wday1_mdy1_wday2_mdy2">%1$s, %3$s/%2$s/%4$s - %6$s, %8$s/%7$s/%9$s</string>
-    <string name="numeric_wday1_mdy1_time1_wday2_mdy2_time2">%1$s, %3$s-%2$s-%4$s %5$s - %6$s, %8$s-%7$s-%9$s %10$s</string>
-    <string name="numeric_md1_time1_md2_time2">%3$s-%2$s %5$s - %8$s-%7$s %10$s</string>
-    <string name="numeric_wday1_md1_time1_wday2_md2_time2">%1$s, %3$s-%2$s %5$s - %6$s, %8$s-%7$s %10$s</string>
-    <string name="numeric_mdy1_time1_mdy2_time2">%3$s/%2$s/%4$s %5$s - %8$s/%7$s/%9$s %10$s</string>
-    <string name="wday1_date1_time1_wday2_date2_time2">%1$s %2$s %3$s - %4$s %5$s %6$s</string>
-    <string name="wday1_date1_wday2_date2">%1$s %2$s - %4$s %5$s</string>
-    <string name="date1_time1_date2_time2">%2$s %3$s - %5$s %6$s</string>
-    <string name="time_wday_date">%2$s %3$s %1$s</string>
-    <string name="wday_date">%2$s %3$s</string>
-    <string name="time_wday">%2$s %1$s</string>
-    <string name="same_year_md1_md2">%3$s %2$s - %8$s %7$s</string>
-    <string name="same_year_wday1_md1_wday2_md2">%1$s %3$s %2$s - %6$s %8$s %7$s</string>
-    <string name="same_year_md1_time1_md2_time2">%3$s %2$s %5$s - %8$s %7$s %10$s</string>
-    <string name="same_month_md1_time1_md2_time2">%3$s %2$s %5$s - %8$s %7$s %10$s</string>
-    <string name="same_year_wday1_md1_time1_wday2_md2_time2">%1$s %3$s %2$s %5$s - %6$s %8$s %7$s %10$s</string>
-    <string name="same_month_wday1_md1_time1_wday2_md2_time2">%1$s %3$s %2$s %5$s - %6$s %8$s %7$s %10$s</string>
-    <string name="same_year_mdy1_time1_mdy2_time2">"Ngày %3$s tháng %2$s năm %4$s %5$s - 'Ngày %8$s tháng %7$s năm %9$s %10$s"</string>
-    <string name="same_month_mdy1_time1_mdy2_time2">"Ngày %3$s tháng %2$s năm %4$s %5$s - 'Ngày %8$s tháng %7$s năm %9$s %10$s"</string>
-    <string name="same_year_wday1_mdy1_time1_wday2_mdy2_time2">%1$s, %3$s %2$s %4$s %5$s - %6$s, %8$s %7$s %9$s %10$s</string>
-    <string name="same_month_wday1_mdy1_time1_wday2_mdy2_time2">%1$s, %3$s %2$s %4$s %5$s - %6$s, %8$s %7$s %9$s %10$s</string>
-    <string name="same_month_wday1_mdy1_wday2_mdy2">%1$s, %3$s %2$s %4$s - %6$s, %8$s %7$s %9$s</string>
-    <string name="same_month_md1_md2">Ngày %3$s tháng %2$s - Ngày %8$s tháng %7$s</string>
-    <string name="same_month_wday1_md1_wday2_md2">%1$s %3$s %2$s - %6$s %8$s %7$s</string>
-    <string name="same_year_mdy1_mdy2">Ngày %3$s tháng %2$s - Ngày %8$s tháng %7$s năm %9$s</string>
-    <string name="same_month_mdy1_mdy2">Ngày %3$s tháng %2$s - Ngày %8$s tháng %-m năm %9$s</string>
-    <string name="same_year_wday1_mdy1_wday2_mdy2">%1$s, ngày %3$s %2$s - %6$s, ngày %8$s %7$s năm %9$s</string>
-    <string name="short_format_month">%b</string>
-    <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
-    <string name="abbrev_wday_month_day_no_year">EEE d MMMM</string>
-    <string name="abbrev_wday_month_day_year">EEEE, d MMM y</string>
+    <string name="date_time">%1$s, %2$s</string>
     <string name="byteShort">B</string>
     <string name="kilobyteShort">KB</string>
     <string name="megabyteShort">MB</string>
@@ -182,6 +133,9 @@
     <string name="contentServiceSyncNotificationTitle">Đồng bộ hóa</string>
     <string name="contentServiceTooManyDeletesNotificationDesc">Quá nhiều lần xóa %s.</string>
     <string name="low_memory">Bộ nhớ điện thoại đã đầy. Hãy xóa một số tập tin để tạo thêm dung lượng.</string>
+    <string name="ssl_ca_cert_warning">Mạng có thể bị theo dõi</string>
+    <string name="ssl_ca_cert_noti_by_unknown">Bởi một bên thứ ba không rõ</string>
+    <string name="ssl_ca_cert_noti_managed">Bởi %s</string>
     <string name="me">Tôi</string>
     <string name="power_dialog">Tùy chọn điện thoại</string>
     <string name="silent_mode">Chế độ im lặng</string>
@@ -230,7 +184,7 @@
     <string name="permgrouplab_audioSettings">Cài đặt âm thanh</string>
     <string name="permgroupdesc_audioSettings">Thay đổi cài đặt âm thanh.</string>
     <string name="permgrouplab_affectsBattery">Tác động đến Pin</string>
-    <string name="permgroupdesc_affectsBattery">Sử dụng các tính năng mà có thể tiêu hao pin nhanh chóng.</string>
+    <string name="permgroupdesc_affectsBattery">Sử dụng các tính năng mà có thể tiêu hao Pin nhanh chóng.</string>
     <string name="permgrouplab_calendar">Lịch</string>
     <string name="permgroupdesc_calendar">Truy cập trực tiếp vào lịch và các sự kiện.</string>
     <string name="permgrouplab_dictionary">Đọc từ điển người dùng</string>
@@ -240,7 +194,7 @@
     <string name="permgrouplab_bookmarks">Dấu trang và lịch sử</string>
     <string name="permgroupdesc_bookmarks">Truy cập trực tiếp vào dấu trang và lịch sử trình duyệt.</string>
     <string name="permgrouplab_deviceAlarms">Báo thức</string>
-    <string name="permgroupdesc_deviceAlarms">Thiết lập đồng hồ báo thức.</string>
+    <string name="permgroupdesc_deviceAlarms">Đặt đồng hồ báo thức.</string>
     <string name="permgrouplab_voicemail">Hộp thư thoại</string>
     <string name="permgroupdesc_voicemail">Truy cập trực tiếp vào hộp thư thoại.</string>
     <string name="permgrouplab_microphone">Microphone</string>
@@ -256,13 +210,13 @@
     <string name="permgrouplab_systemClock">Đồng hồ</string>
     <string name="permgroupdesc_systemClock">Thay đổi giờ hoặc múi giờ của thiết bị.</string>
     <string name="permgrouplab_statusBar">Thanh trạng thái</string>
-    <string name="permgroupdesc_statusBar">Thay đổi các thiết lập thanh trạng thái của thiết bị.</string>
-    <string name="permgrouplab_syncSettings">Thiết lập Đồng bộ hóa</string>
-    <string name="permgroupdesc_syncSettings">Truy cập vào các thiết lập đồng bộ hóa.</string>
+    <string name="permgroupdesc_statusBar">Thay đổi cài đặt thanh trạng thái của thiết bị.</string>
+    <string name="permgrouplab_syncSettings">Cài đặt Đồng bộ hóa</string>
+    <string name="permgroupdesc_syncSettings">Truy cập vào cài đặt đồng bộ hóa.</string>
     <string name="permgrouplab_accounts">Tài khoản của bạn</string>
     <string name="permgroupdesc_accounts">Truy cập các tài khoản khả dụng.</string>
     <string name="permgrouplab_hardwareControls">Kiểm soát phần cứng</string>
-    <string name="permgroupdesc_hardwareControls">Quyền truy cập trực tiếp vào phần cứng trên điện thoại di động.</string>
+    <string name="permgroupdesc_hardwareControls">Quyền truy cập trực tiếp đến phần cứng trên thiết bị cầm tay.</string>
     <string name="permgrouplab_phoneCalls">Cuộc gọi điện thoại</string>
     <string name="permgroupdesc_phoneCalls">Giám sát, ghi lại và xử lý các cuộc gọi điện thoại.</string>
     <string name="permgrouplab_systemTools">Công cụ hệ thống</string>
@@ -276,7 +230,7 @@
     <string name="permgrouplab_accessibilityFeatures">Truy cập các tính năng</string>
     <string name="permgroupdesc_accessibilityFeatures">Có thể yêu cầu công nghệ hỗ trợ các tính năng.</string>
     <string name="capability_title_canRetrieveWindowContent">Lấy nội dung cửa sổ</string>
-    <string name="capability_desc_canRetrieveWindowContent">"Kiểm tra nội dung của cửa sổ bạn đang tương tác."</string>
+    <string name="capability_desc_canRetrieveWindowContent">Kiểm tra nội dung của cửa sổ bạn đang tương tác.</string>
     <string name="capability_title_canRequestTouchExploration">Bật Khám phá bằng cách chạm</string>
     <string name="capability_desc_canRequestTouchExploration">Các mục chạm vào sẽ được nói to và màn hình có thể được khám phá bằng cách sử dụng cử chỉ.</string>
     <string name="capability_title_canRequestEnhancedWebAccessibility">Bật khả năng tăng cường truy cập web</string>
@@ -289,6 +243,10 @@
     <string name="permdesc_statusBarService">Cho phép ứng dụng trở thành thanh trạng thái.</string>
     <string name="permlab_expandStatusBar">Mở rộng/thu gọn thanh trạng thái</string>
     <string name="permdesc_expandStatusBar">Cho phép ứng dụng mở rộng hoặc thu gọn thanh trạng thái.</string>
+    <string name="permlab_install_shortcut">Cài đặt lối tắt</string>
+    <string name="permdesc_install_shortcut">Cho phép ứng dụng thêm lối tắt trên màn hình chính mà không cần sự can thiệp của người dùng.</string>
+    <string name="permlab_uninstall_shortcut">Gỡ bỏ lối tắt</string>
+    <string name="permdesc_uninstall_shortcut">Cho phép ứng dụng xóa bỏ lối tắt trên màn hình chính mà không cần sự can thiệp của người dùng.</string>
     <string name="permlab_processOutgoingCalls">Định tuyến lại cuộc gọi đi</string>
     <string name="permdesc_processOutgoingCalls">Cho phép ứng dụng xử lý cuộc gọi đi và thay đổi số được gọi. Quyền này cho phép ứng dụng theo dõi, chuyển hướng hoặc chặn cuộc gọi đi.</string>
     <string name="permlab_receiveSms">Nhận tin nhắn văn bản (SMS)</string>
@@ -323,6 +281,8 @@
     <string name="permdesc_reorderTasks">Cho phép ứng dụng di chuyển công việc sang nền trước và nền sau. Ứng dụng có thể thực hiện việc này mà không cần bạn nhập.</string>
     <string name="permlab_removeTasks">Dừng các ứng dụng đang chạy</string>
     <string name="permdesc_removeTasks">Cho phép ứng dụng xóa công việc và loại bỏ các ứng dụng của chúng. Ứng dụng độc hại có thể làm gián đoạn hoạt động của các ứng dụng khác.</string>
+    <string name="permlab_manageActivityStacks">Quản lý ngăn xếp hoạt động</string>
+    <string name="permdesc_manageActivityStacks">Cho phép ứng dụng thêm, xóa, và chỉnh sửa ngăn xếp hoạt động mà các ứng dụng khác chạy. Ứng dụng độc hại có thể làm gián đoạn hành vi của các ứng dụng khác.</string>
     <string name="permlab_startAnyActivity">Bắt đầu mọi hoạt động</string>
     <string name="permdesc_startAnyActivity">Cho phép ứng dụng bắt đầu mọi hoạt động, bất kể tình trạng bảo vệ quyền hay trạng thái xuất.</string>
     <string name="permlab_setScreenCompatibility">Đặt độ tương thích màn hình</string>
@@ -399,16 +359,26 @@
     <string name="permdesc_bindInputMethod">Cho phép chủ sở hữu liên kết với giao diện cấp cao nhất của phương thức nhập. Không cần thiết cho các ứng dụng thông thường.</string>
     <string name="permlab_bindAccessibilityService">Liên kết với dịch vụ truy cập</string>
     <string name="permdesc_bindAccessibilityService">Cho phép chủ sở hữu liên kết với giao diện cấp cao nhất của dịch vụ truy cập. Không cần thiết cho các ứng dụng thông thường.</string>
+    <string name="permlab_bindPrintService">Liên kết với một dịch vụ in ấn</string>
+    <string name="permdesc_bindPrintService">Cho phép chủ sở hữu liên kết với giao diện cấp cao nhất của một dịch vụ in ấn. Không cần thiết cho các ứng dụng thông thường.</string>
+    <string name="permlab_bindPrintSpoolerService">Liên kết với một dịch vụ bộ đệm máy in ấn</string>
+    <string name="permdesc_bindPrintSpoolerService">Cho phép chủ sở hữu liên kết với giao diện cấp cao nhất của một dịch vụ bộ đệm máy in ấn. Không cần thiết cho các ứng dụng thông thường.</string>
+    <string name="permlab_bindNfcService">Liên kết với dịch vụ NFC</string>
+    <string name="permdesc_bindNfcService">Cho phép chủ sở hữu liên kết đến các ứng dụng đang mô phỏng thẻ NFC. Không cần thiết cho các ứng dụng thông thường.</string>
     <string name="permlab_bindTextService">Liên kết với dịch vụ văn bản</string>
     <string name="permdesc_bindTextService">Cho phép chủ sở hữu liên kết với giao diện cấp cao nhất của dịch vụ văn bản (ví dụ: SpellCheckerService). Không cần thiết cho các ứng dụng thông thường.</string>
     <string name="permlab_bindVpnService">Liên kết với dịch vụ VPN</string>
     <string name="permdesc_bindVpnService">Cho phép chủ sở hữu liên kết với giao diện cấp cao nhất của dịch vụ Vpn. Không cần thiết cho các ứng dụng thông thường.</string>
     <string name="permlab_bindWallpaper">Liên kết với hình nền</string>
     <string name="permdesc_bindWallpaper">Cho phép chủ sở hữu liên kết với giao diện cấp cao nhất của hình nền. Không cần thiết cho các ứng dụng thông thường.</string>
+    <string name="permlab_bindRemoteDisplay">bind to a remote display</string>
+    <string name="permdesc_bindRemoteDisplay">Allows the holder to bind to the top-level interface of a remote display. Không cần thiết cho các ứng dụng thông thường.</string>
     <string name="permlab_bindRemoteViews">Liên kết với dịch vụ tiện ích con</string>
     <string name="permdesc_bindRemoteViews">Cho phép chủ sở hữu liên kết với giao diện cấp cao nhất của dịch vụ tiện ích con. Không cần thiết cho các ứng dụng thông thường.</string>
     <string name="permlab_bindDeviceAdmin">Tương tác với quản trị viên thiết bị</string>
     <string name="permdesc_bindDeviceAdmin">Cho phép chủ sở hữu gửi các ý định đến quản trị viên thiết bị. Không cần thiết cho các ứng dụng thông thường.</string>
+    <string name="permlab_manageDeviceAdmins">Thêm hoặc xóa một quản trị viên thiết bị</string>
+    <string name="permdesc_manageDeviceAdmins">Cho phép chủ sở hữu thêm hoặc xóa các quản trị viên thiết bị đang hoạt động. Không cần thiết cho các ứng dụng thông thường.</string>
     <string name="permlab_setOrientation">Thay đổi hướng màn hình</string>
     <string name="permdesc_setOrientation">Cho phép ứng dụng thay đổi độ xoay màn hình bất cứ lúc nào. Không cần thiết cho các ứng dụng thông thường.</string>
     <string name="permlab_setPointerSpeed">Thay đổi tốc độ con trỏ</string>
@@ -437,6 +407,8 @@
     <string name="permdesc_readLogs">Cho phép ứng dụng đọc từ nhiều tập tin nhật ký khác nhau của hệ thống. Quyền này cho phép ứng dụng phát hiện thông tin chung về những gì bạn đang thực hiện với điện thoại, có thể bao gồm thông tin cá nhân hoặc riêng tư.</string>
     <string name="permlab_anyCodecForPlayback">Sử dụng bất kỳ bộ giải mã phương tiện nào để phát lại</string>
     <string name="permdesc_anyCodecForPlayback">Cho phép ứng dụng sử dụng bất kỳ trình giải mã phương tiện nào đã cài đặt nhằm giải mã để phát lại.</string>
+    <string name="permlab_manageCaCertificates">Quản lý chứng chỉ đáng tin cậy</string>
+    <string name="permdesc_manageCaCertificates">Cho phép ứng dụng cài đặt và gỡ bỏ chứng chỉ CA như là chứng chỉ đáng tin cậy.</string>
     <string name="permlab_diagnostic">Đọc/ghi vào tài nguyên do chẩn đoán sở hữu</string>
     <string name="permdesc_diagnostic">Cho phép ứng dụng đọc và ghi vào bất kỳ tài nguyên nào do nhóm chẩn đoán sở hữu; ví dụ: các tập tin trong /dev. Quyền này có thể ảnh hưởng đến sự ổn định và tính bảo mật của hệ thống. CHỈ nên sử dụng quyền này cho các chẩn đoán phần cứng cụ thể của nhà sản xuất hoặc nhà cung cấp.</string>
     <string name="permlab_changeComponentState">Bật hoặc tắt thành phần ứng dụng</string>
@@ -493,6 +465,16 @@
     <string name="permdesc_configureWifiDisplay">Cho phép ứng dụng cấu hình và kết nối với hiển thị Wi-fi.</string>
     <string name="permlab_controlWifiDisplay">Kiểm soát hiển thị Wi-fi</string>
     <string name="permdesc_controlWifiDisplay">Cho phép ứng dụng kiểm soát tính năng cấp thấp của hiển thị Wi-fi.</string>
+    <string name="permlab_captureAudioOutput">Nắm bắt đầu ra âm thanh</string>
+    <string name="permdesc_captureAudioOutput">Cho phép ứng dụng nắm bắt và chuyển hướng đầu ra âm thanh.</string>
+    <string name="permlab_captureAudioHotword">Phát hiện Các từ xúc phạm</string>
+    <string name="permdesc_captureAudioHotword">Cho phép ứng dụng nắm bắt âm thanh để phát hiện Các từ xúc phạm. Chụp có thể xảy ra trong nền nhưng không ngăn cản ghi âm khác (ví dụ như máy quay phim).</string>
+    <string name="permlab_captureVideoOutput">Nắm bắt đầu ra video</string>
+    <string name="permdesc_captureVideoOutput">Cho phép ứng dụng nắm bắt và chuyển hướng đầu ra video.</string>
+    <string name="permlab_captureSecureVideoOutput">Mắm bắt đầu ra video bảo mật</string>
+    <string name="permdesc_captureSecureVideoOutput">Cho phép ứng dụng nắm bắt và chuyển hướng đầu ra video bảo mật.</string>
+    <string name="permlab_mediaContentControl">Kiểm soát phát lại và truy cập siêu thông tin media</string>
+    <string name="permdesc_mediaContentControl">Cho phép ứng dụng kiểm soát phát lại media và truy cập thông tin media (tiêu đề, tác giả…).</string>
     <string name="permlab_modifyAudioSettings">Thay đổi cài đặt âm thanh của bạn</string>
     <string name="permdesc_modifyAudioSettings">Cho phép ứng dụng sửa đổi cài đặt âm thanh chung chẳng hạn như âm lượng và loa nào được sử dụng cho thiết bị ra.</string>
     <string name="permlab_recordAudio">Ghi âm</string>
@@ -593,6 +575,8 @@
     <string name="permdesc_changeWifiMulticastState">Cho phép ứng dụng nhận các gói được gửi đến tất cả các thiết bị trên mạng Wi-Fi các địa chỉ đa hướng, chứ không phải chỉ điện thoại của bạn. Chế độ này sử dụng nhiều năng lượng hơn chế độ không phát đa hướng.</string>
     <string name="permlab_bluetoothAdmin">Truy cập cài đặt Bluetooth</string>
     <string name="permdesc_bluetoothAdmin">Cho phép ứng dụng định cấu hình điện thoại Bluetooth cục bộ cũng như phát hiện và ghép nối với các thiết bị từ xa.</string>
+    <string name="permlab_bluetoothPriv">Cho phép ghép nối Bluetooth bằng ứng dụng</string>
+    <string name="permdesc_bluetoothPriv">Cho phép ứng dụng ghép nối với các thiết bị từ xa mà không cần tương tác người dùng.</string>
     <string name="permlab_accessWimaxState">Xem kết nối WiMAX</string>
     <string name="permdesc_accessWimaxState">Cho phép ứng dụng xác định liệu WiMAX đã được bật chưa và thông tin về bất kỳ mạng WiMAX nào được kết nối.</string>
     <string name="permlab_changeWimaxState">Thay đổi trạng thái WiMAX</string>
@@ -623,22 +607,32 @@
     <string name="permdesc_sdcardWrite">Cho phép ứng dụng ghi vào bộ lưu trữ USB.</string>
     <string name="permlab_mediaStorageWrite">Sửa đổi/xóa nội dung trên bộ nhớ phương tiện cục bộ</string>
     <string name="permdesc_mediaStorageWrite">Cho phép ứng dụng sửa đổi nội dung của bộ lưu trữ phương tiện nội bộ.</string>
+    <string name="permlab_manageDocs">Quản lý tài liệu lưu trữ</string>
+    <string name="permdesc_manageDocs">Cho phép ứng dụng quản lý tài liệu lưu trữ.</string>
     <string name="permlab_sdcardAccessAll">Truy cập lưu trữ ngoài của tất cả người dùng</string>
     <string name="permdesc_sdcardAccessAll">Cho phép ứng dụng truy cập lưu trữ ngoài cho tất cả người dùng.</string>
     <string name="permlab_cache_filesystem">Truy cập tập tin bộ nhớ đệm hệ thống</string>
     <string name="permdesc_cache_filesystem">Cho phép ứng dụng đọc và ghi tập tin bộ nhớ đệm hệ thống.</string>
     <string name="permlab_use_sip">Thực hiện/nhận cuộc gọi qua Internet</string>
-    <string name="permdesc_use_sip">"Cho phép ứng dụng sử dụng dịch vụ SIP để thực hiện/nhận cuộc gọi qua Internet."</string>
+    <string name="permdesc_use_sip">Cho phép ứng dụng sử dụng dịch vụ SIP để thực hiện/nhận cuộc gọi qua Internet.</string>
+    <string name="permlab_bind_call_service">Tương tác với trong màn hình cuộc gọi</string>
+    <string name="permdesc_bind_call_service">Cho phép ứng dụng kiểm soát thời gian và cách thức người sử dụng nhìn thấy trong màn hình cuộc gọi.</string>
     <string name="permlab_readNetworkUsageHistory">Đọc quá trình sử dụng mạng trước đây</string>
     <string name="permdesc_readNetworkUsageHistory">Cho phép ứng dụng đọc thông tin lịch sử sử dụng mạng của các mạng và ứng dụng cụ thể.</string>
     <string name="permlab_manageNetworkPolicy">Quản lý chính sách mạng</string>
     <string name="permdesc_manageNetworkPolicy">Cho phép ứng dụng quản lý chính sách mạng và xác định quy tắc dành riêng cho ứng dụng.</string>
     <string name="permlab_modifyNetworkAccounting">Sửa đổi hạch toán sử dụng mạng</string>
     <string name="permdesc_modifyNetworkAccounting">Cho phép ứng dụng sửa đổi cách tính mức sử dụng mạng so với ứng dụng. Không dành cho các ứng dụng thông thường.</string>
+    <string name="permlab_markNetworkSocket">Sửa đổi nhãn ổ cắm</string>
+    <string name="permdesc_markNetworkSocket">Cho phép ứng dụng sửa đổi nhãn ổ cắm cho định tuyến</string>
     <string name="permlab_accessNotifications">Truy cập thông báo</string>
     <string name="permdesc_accessNotifications">Cho phép ứng dụng truy xuất, kiểm tra, và thông báo rõ ràng, bao gồm những thứ được đăng bởi các ứng dụng khác.</string>
     <string name="permlab_bindNotificationListenerService">Liên kết với một dịch vụ thông báo người nghe</string>
-    <string name="permdesc_bindNotificationListenerService">Cho phép chủ sở hữu liên kết với giao diện cấp cao của một dịch vụ thông báo người nghe. Không bao giờ nên cần thiết cho các ứng dụng thông thường.</string>
+    <string name="permdesc_bindNotificationListenerService">Cho phép chủ sở hữu liên kết với giao diện cấp cao của một dịch vụ thông báo người nghe. Không cần thiết cho các ứng dụng thông thường.</string>
+    <string name="permlab_invokeCarrierSetup">Gọi ứng dụng cấu hình được cung cấp bởi nhà mạng</string>
+    <string name="permdesc_invokeCarrierSetup">Cho phép chủ sở hữu gọi ứng dụng cấu hình được cung cấp bởi nhà mạng. Không cần thiết cho các ứng dụng thông thường.</string>
+    <string name="permlab_accessNetworkConditions">Lắng nghe các quan sát về điều kiện mạng</string>
+    <string name="permdesc_accessNetworkConditions">Cho phép ứng dụng lắng nghe các quan sát về điều kiện mạng. Không cần thiết cho các ứng dụng thông thường.</string>
     <string name="policylab_limitPassword">Đặt quy tắc mật khẩu</string>
     <string name="policydesc_limitPassword">Kiểm soát độ dài và ký tự được phép trong mật khẩu mở khóa màn hình.</string>
     <string name="policylab_watchLogin">Giám sát những lần thử mở khóa màn hình</string>
@@ -737,10 +731,6 @@
     <string name="keyguard_password_enter_password_code">Nhập mật khẩu để mở khóa</string>
     <string name="keyguard_password_enter_pin_password_code">Nhập mã PIN để mở khóa</string>
     <string name="keyguard_password_wrong_pin_code">Mã PIN không chính xác!</string>
-    <string name="keyguard_password_wrong_puk_code">Mã PUK không chính xác!</string>
-    <string name="keyguard_password_pin_failed">Chạy mã PIN thất bại!</string>
-    <string name="keyguard_password_puk_failed">Chạy mã PUK thất bại!</string>
-    <string name="keyguard_pin_accepted">Mã được chấp nhận!</string>
     <string name="pinpuk_attempts">"
 Số lần thử còn lại: "</string>
     <string name="keyguard_label_text">Để mở khóa, hãy nhấn vào Trình đơn sau đó nhấn 0.</string>
@@ -774,11 +764,11 @@ Hãy liên hệ với nhà cung cấp dịch vụ không dây của bạn để 
     <string name="lockscreen_transport_stop_description">Nút dừng</string>
     <string name="emergency_calls_only">Chỉ cuộc gọi khẩn cấp</string>
     <string name="lockscreen_sim_error_message_short">Thẻ SIM không hợp lệ.</string>
-    <string name="lockscreen_sim_error_message">Thẻ SIM không hợp lệ.</string>
     <string name="lockscreen_network_locked_message">Mạng đã khóa</string>
-    <string name="lockscreen_perso_locked_message">Thẻ SIM đã khóa Perso</string>
     <string name="lockscreen_sim_puk_locked_message">Thẻ SIM đã bị khóa mã PUK.</string>
-    <string name="lockscreen_sim_puk_locked_instructions">Vui lòng xem Hướng dẫn người dùng hoặc liên hệ với Bộ phận chăm sóc khách hàng.</string>
+    <string name="lockscreen_sim_puk_locked_instructions">"Mã PIN1 đã bị KHÓA. Nhập mả PUK1
+
+Vui lòng xem Hướng dẫn người dùng hoặc liên hệ với Bộ phận chăm sóc khách hàng."</string>
     <string name="lockscreen_sim_locked_message">Thẻ SIM đã bị khóa.</string>
     <string name="lockscreen_sim_unlock_progress_dialog_message">Đang mở khóa thẻ SIM…</string>
     <string name="lockscreen_airplane_mode_on">Chế độ máy bay</string>
@@ -786,7 +776,7 @@ Hãy liên hệ với nhà cung cấp dịch vụ không dây của bạn để 
 
 Vui lòng thử lại sau %d giây."</string>
     <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"Bạn đã %d lần nhập sai mật khẩu. 
-	
+
 Vui lòng thử lại sau %d giây."</string>
     <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"Bạn đã nhập sai mã PIN %d lần. 
 
@@ -851,9 +841,9 @@ Hãy truy cập "<b>google.com/accounts/recovery</b>.</string>
     <string name="factorytest_reboot">Khởi động lại</string>
     <string name="js_dialog_title">Trang tại \"%s\" cho biết:</string>
     <string name="js_dialog_title_default">JavaScript</string>
-    <string name="js_dialog_before_unload_title">Confirm Navigation</string>
-    <string name="js_dialog_before_unload_positive_button">Leave this Page</string>
-    <string name="js_dialog_before_unload_negative_button">Stay on this Page</string>
+    <string name="js_dialog_before_unload_title">Xác nhận điều hướng</string>
+    <string name="js_dialog_before_unload_positive_button">Rời khỏi trang này</string>
+    <string name="js_dialog_before_unload_negative_button">Ở lại trang này</string>
     <string name="js_dialog_before_unload">"%s
 
 Chạm OK để tiếp tục hoặc Hủy để ở lại trang hiện tại."</string>
@@ -952,6 +942,7 @@ Chạm OK để tiếp tục hoặc Hủy để ở lại trang hiện tại."</
     <string name="capital_on">BẬT</string>
     <string name="capital_off">TẮT</string>
     <string name="whichApplication">Hoàn tất tác vụ đang sử dụng</string>
+    <string name="whichHomeApplication">Chọn trình khởi chạy</string>
     <string name="alwaysUse">Sử dụng theo mặc định đối với tác vụ này.</string>
     <string name="clearDefaultHintMsg">Xóa mặc định trong Cài đặt hệ thống > Ứng dụng > Đã tải.</string>
     <string name="chooseActivity">Chọn một tác vụ</string>
@@ -986,8 +977,8 @@ Bạn có muốn đóng trang không?"</string>
     <string name="smv_application">Ứng dụng %1$s (quá trình %2$s) đã vi phạm chính sách StrictMode tự thi hành của mình.</string>
     <string name="smv_process">Quá trình %1$s đã vi phạm chính sách StrictMode tự thi hành của mình.</string>
     <string name="android_upgrading_title">Android đang nâng cấp…</string>
-    <string name="android_upgrading_apk">Đang tối ưu hóa ứng dụng %1$d/%2$d.</string>
-    <string name="android_upgrading_starting_apps">Khởi động ứng dụng.</string>
+    <string name="android_upgrading_apk">Đang tối ưu hóa ứng dụng… (%1$d/%2$d)</string>
+    <string name="android_upgrading_starting_apps">Đang khởi động ứng dụng…</string>
     <string name="android_upgrading_complete">Hoàn tất khởi động.</string>
     <string name="heavy_weight_notification">%1$s đang hoạt động</string>
     <string name="heavy_weight_notification_detail">Chạm để chuyển sang ứng dụng</string>
@@ -1034,7 +1025,7 @@ Bạn có muốn đóng trang không?"</string>
     <string name="wifi_p2p_to_message">Đến:</string>
     <string name="wifi_p2p_enter_pin_message">Nhập mã PIN bắt buộc:</string>
     <string name="wifi_p2p_show_pin_message">Mã PIN:</string>
-    <string name="wifi_p2p_frequency_conflict_message">"Điện thoại này sẽ tạm thời ngắt kết nối Wi-Fi trong khi nó kết nối với %1$s"</string>
+    <string name="wifi_p2p_frequency_conflict_message">Điện thoại này sẽ tạm thời ngắt kết nối Wi-Fi trong khi nó kết nối với %1$s</string>
     <string name="select_character">Chèn ký tự</string>
     <string name="sms_control_title">Đang gửi tin nhắn SMS</string>
     <string name="sms_control_message">&lt;b>%1$s&lt;/b> đang gửi rất nhiều tin nhắn SMS. Bạn có muốn cho phép ứng dụng này tiếp tục gửi tin nhắn không?</string>
@@ -1118,6 +1109,10 @@ Bạn có muốn đóng trang không?"</string>
     <string name="permdesc_copyProtectedData">Cho phép ứng dụng gọi ra dịch vụ bộ chứa mặc định để sao chép nội dung. Không dành cho ứng dụng thông thường.</string>
     <string name="permlab_route_media_output">Định tuyến thiết bị ra phương tiện</string>
     <string name="permdesc_route_media_output">Cho phép ứng dụng định tuyến thiết bị ra phương tiện đến các thiết bị bên ngoài khác.</string>
+    <string name="permlab_access_keyguard_secure_storage">Truy cập mật khẩu bảo vệ lưu trữ bảo mật</string>
+    <string name="permdesc_access_keyguard_secure_storage">Cho phép ứng dụng truy cập mật khẩu bảo vệ lưu trữ bảo mật.</string>
+    <string name="permlab_control_keyguard">Kiểm soát hiển thị và ẩn mật khẩu bảo vệ</string>
+    <string name="permdesc_control_keyguard">Cho phép ứng dụng kiểm soát hiển thị và ẩn mật khẩu bảo vệ.</string>
     <string name="tutorial_double_tap_to_zoom_message_short">Chạm hai lần để kiểm soát thu phóng</string>
     <string name="gadget_host_error_inflating">Không thể thêm tiện ích.</string>
     <string name="ime_action_go">Đi</string>
@@ -1152,7 +1147,7 @@ cho tài khoản %s."</string>
     <string name="vpn_lockdown_connecting">Luôn luôn-trên VPN đang kết nối…</string>
     <string name="vpn_lockdown_connected">Luôn luôn-trên VPN đã kết nối</string>
     <string name="vpn_lockdown_error">Luôn luôn-trên VPN lỗi</string>
-    <string name="vpn_lockdown_reset">Chạm để thiết lập lại kết nối</string>
+    <string name="vpn_lockdown_config">Chạm để cấu hình</string>
     <string name="upload_file">Chọn tập tin</string>
     <string name="no_file_chosen">Không có tập tin nào được chọn</string>
     <string name="reset">Đặt lại</string>
@@ -1222,6 +1217,7 @@ cho tài khoản %s."</string>
     <string name="keyboardview_keycode_shift">Shift</string>
     <string name="keyboardview_keycode_enter">Enter</string>
     <string name="activitychooserview_choose_application">Chọn một ứng dụng</string>
+    <string name="activitychooserview_choose_application_error">"Không thể khởi chạy %s"</string>
     <string name="shareactionprovider_share_with">Chia sẻ với</string>
     <string name="shareactionprovider_share_with_application">Chia sẻ với %s</string>
     <string name="content_description_sliding_handle">Tay trượt. Chạm &amp; giữ.</string>
@@ -1242,7 +1238,8 @@ cho tài khoản %s."</string>
     <string name="action_menu_overflow_description">Tùy chọn khác</string>
     <string name="storage_internal">Bộ nhớ trong</string>
     <string name="storage_sd_card">Thẻ SD</string>
-    <string name="storage_usb">Bộ lưu trữ USB</string>
+    <string name="storage_usb">Lưu trữ USB</string>
+    <string name="storage_uicc">Lưu trữ UICC</string>
     <string name="extract_edit_menu_button">Chỉnh sửa</string>
     <string name="data_usage_warning_title">Cảnh báo sử dụng dữ liệu</string>
     <string name="data_usage_warning_body">Chạm để xem sử dụng và cài đặt.</string>
@@ -1269,13 +1266,12 @@ cho tài khoản %s."</string>
     <string name="issued_on">Cấp vào:</string>
     <string name="expires_on">Hết hạn vào:</string>
     <string name="serial_number">Số sê-ri:</string>
-    <string name="fingerprints">Mã nhận dạng: </string>
-    <string name="sha256_fingerprint">Mã nhận dạng SHA-256: </string>
-    <string name="sha1_fingerprint">Mã nhận dạng SHA-1: </string>
+    <string name="fingerprints">Mã nhận dạng:</string>
+    <string name="sha256_fingerprint">Mã nhận dạng SHA-256:</string>
+    <string name="sha1_fingerprint">Mã nhận dạng SHA-1:</string>
     <string name="activity_chooser_view_see_all">Xem tất cả</string>
     <string name="activity_chooser_view_dialog_title_default">Chọn hoạt động</string>
     <string name="share_action_provider_share_with">Chia sẻ với</string>
-    <string name="status_bar_device_locked">Thiết bị đã bị khóa.</string>
     <string name="list_delimeter">", "</string>
     <string name="sending">Đang gửi…</string>
     <string name="launchBrowserDefault">Khởi chạy trình duyệt?</string>
@@ -1289,18 +1285,26 @@ cho tài khoản %s."</string>
     <string name="default_audio_route_category_name">Hệ thống</string>
     <string name="bluetooth_a2dp_audio_route_name">Âm thanh Bluetooth</string>
     <string name="wireless_display_route_description">Hiển thị Wi-Fi</string>
-    <string name="media_route_chooser_grouping_done">Xong</string>
     <string name="media_route_button_content_description">Đầu ra Media</string>
+    <string name="media_route_chooser_title">Kết nối với thiết bị</string>
+    <string name="media_route_chooser_title_for_remote_display">Chiếu lên màn hình thiết bị</string>
+    <string name="media_route_chooser_searching">Đang tìm thiết bị…</string>
+    <string name="media_route_chooser_extended_settings">Cài đặt</string>
+    <string name="media_route_controller_disconnect">Ngắt kết nối</string>
     <string name="media_route_status_scanning">Đang quét…</string>
     <string name="media_route_status_connecting">Đang kết nối…</string>
     <string name="media_route_status_available">Khả dụng</string>
     <string name="media_route_status_not_available">Không khả dụng</string>
+    <string name="media_route_status_in_use">Đang sử dụng</string>
     <string name="display_manager_built_in_display_name">Tích hợp trong màn hình</string>
     <string name="display_manager_hdmi_display_name">Màn hình HDMI</string>
     <string name="display_manager_overlay_display_name">Che phủ #%1$d</string>
     <string name="display_manager_overlay_display_title">%1$s: %2$dx%3$d, %4$d dpi</string>
-    <string name="wifi_display_notification_title">Màn hình hiển thị không dây đã được kết nối</string>
-    <string name="wifi_display_notification_message">Màn hình này được hiển thị trên các thiết bị khác</string>
+    <string name="display_manager_overlay_display_secure_suffix">, bảo mật</string>
+    <string name="wifi_display_notification_connecting_title">Chiếu lên màn hình</string>
+    <string name="wifi_display_notification_connecting_message">Đang kết nối tới %1$s…</string>
+    <string name="wifi_display_notification_connected_title">Chiếu lên màn hình</string>
+    <string name="wifi_display_notification_connected_message">Đang kết nối tới %1$s…</string>
     <string name="wifi_display_notification_disconnect">Ngắt kết nối</string>
     <string name="kg_emergency_call_label">Cuộc gọi khẩn cấp</string>
     <string name="kg_forgot_pattern_button_text">Quên hình mở khóa</string>
@@ -1357,14 +1361,204 @@ Nghe ở âm lượng cao trong thời gian dài có thể gây tổn hại thí
     <string name="app_no_restricted_accounts">Ứng dụng này không hỗ trợ tài khoản cho các cấu hình bị hạn chế</string>
     <string name="app_not_found">Không tìm thấy ứng dụng để xử lý hành động này</string>
     <string name="revoke">Thu hồi</string>
+    <string name="mediasize_iso_a0">ISO A0</string>
+    <string name="mediasize_iso_a1">ISO A1</string>
+    <string name="mediasize_iso_a2">ISO A2</string>
+    <string name="mediasize_iso_a3">ISO A3</string>
+    <string name="mediasize_iso_a4">ISO A4</string>
+    <string name="mediasize_iso_a5">ISO A5</string>
+    <string name="mediasize_iso_a6">ISO A6</string>
+    <string name="mediasize_iso_a7">ISO A7</string>
+    <string name="mediasize_iso_a8">ISO A8</string>
+    <string name="mediasize_iso_a9">ISO A9</string>
+    <string name="mediasize_iso_a10">ISO A10</string>
+    <string name="mediasize_iso_b0">ISO B0</string>
+    <string name="mediasize_iso_b1">ISO B1</string>
+    <string name="mediasize_iso_b2">ISO B2</string>
+    <string name="mediasize_iso_b3">ISO B3</string>
+    <string name="mediasize_iso_b4">ISO B4</string>
+    <string name="mediasize_iso_b5">ISO B5</string>
+    <string name="mediasize_iso_b6">ISO B6</string>
+    <string name="mediasize_iso_b7">ISO B7</string>
+    <string name="mediasize_iso_b8">ISO B8</string>
+    <string name="mediasize_iso_b9">ISO B9</string>
+    <string name="mediasize_iso_b10">ISO B10</string>
+    <string name="mediasize_iso_c0">ISO C0</string>
+    <string name="mediasize_iso_c1">ISO C1</string>
+    <string name="mediasize_iso_c2">ISO C2</string>
+    <string name="mediasize_iso_c3">ISO C3</string>
+    <string name="mediasize_iso_c4">ISO C4</string>
+    <string name="mediasize_iso_c5">ISO C5</string>
+    <string name="mediasize_iso_c6">ISO C6</string>
+    <string name="mediasize_iso_c7">ISO C7</string>
+    <string name="mediasize_iso_c8">ISO C8</string>
+    <string name="mediasize_iso_c9">ISO C9</string>
+    <string name="mediasize_iso_c10">ISO C10</string>
+    <string name="mediasize_na_letter">Letter</string>
+    <string name="mediasize_na_gvrnmt_letter">Government Letter</string>
+    <string name="mediasize_na_legal">Legal</string>
+    <string name="mediasize_na_junior_legal">Junior Legal</string>
+    <string name="mediasize_na_ledger">Ledger</string>
+    <string name="mediasize_na_tabloid">Tabloid</string>
+    <string name="mediasize_na_index_3x5">Index Card 3x5</string>
+    <string name="mediasize_na_index_4x6">Index Card 4x6</string>
+    <string name="mediasize_na_index_5x8">Index Card 5x8</string>
+    <string name="mediasize_na_monarch">Monarch</string>
+    <string name="mediasize_na_quarto">Quarto</string>
+    <string name="mediasize_na_foolscap">Foolscap</string>
+    <string name="mediasize_chinese_roc_8k">ROC 8K</string>
+    <string name="mediasize_chinese_roc_16k">ROC 16K</string>
+    <string name="mediasize_chinese_prc_1">PRC 1</string>
+    <string name="mediasize_chinese_prc_2">PRC 2</string>
+    <string name="mediasize_chinese_prc_3">PRC 3</string>
+    <string name="mediasize_chinese_prc_4">PRC 4</string>
+    <string name="mediasize_chinese_prc_5">PRC 5</string>
+    <string name="mediasize_chinese_prc_6">PRC 6</string>
+    <string name="mediasize_chinese_prc_7">PRC 7</string>
+    <string name="mediasize_chinese_prc_8">PRC 8</string>
+    <string name="mediasize_chinese_prc_9">PRC 9</string>
+    <string name="mediasize_chinese_prc_10">PRC 10</string>
+    <string name="mediasize_chinese_prc_16k">PRC 16K</string>
+    <string name="mediasize_chinese_om_pa_kai">Pa Kai</string>
+    <string name="mediasize_chinese_om_dai_pa_kai">Dai Pa Kai</string>
+    <string name="mediasize_chinese_om_jurro_ku_kai">Jurro Ku Kai</string>
+    <string name="mediasize_japanese_jis_b10">JIS B10</string>
+    <string name="mediasize_japanese_jis_b9">JIS B9</string>
+    <string name="mediasize_japanese_jis_b8">JIS B8</string>
+    <string name="mediasize_japanese_jis_b7">JIS B7</string>
+    <string name="mediasize_japanese_jis_b6">JIS B6</string>
+    <string name="mediasize_japanese_jis_b5">JIS B5</string>
+    <string name="mediasize_japanese_jis_b4">JIS B4</string>
+    <string name="mediasize_japanese_jis_b3">JIS B3</string>
+    <string name="mediasize_japanese_jis_b2">JIS B2</string>
+    <string name="mediasize_japanese_jis_b1">JIS B1</string>
+    <string name="mediasize_japanese_jis_b0">JIS B0</string>
+    <string name="mediasize_japanese_jis_exec">JIS Exec</string>
+    <string name="mediasize_japanese_chou4">Chou4</string>
+    <string name="mediasize_japanese_chou3">Chou3</string>
+    <string name="mediasize_japanese_chou2">Chou2</string>
+    <string name="mediasize_japanese_hagaki">Hagaki</string>
+    <string name="mediasize_japanese_oufuku">Oufuku</string>
+    <string name="mediasize_japanese_kahu">Kahu</string>
+    <string name="mediasize_japanese_kaku2">Kaku2</string>
+    <string name="mediasize_japanese_you4">You4</string>
+    <string name="mediasize_unknown_portrait">Định dang nằm dọc không xác định</string>
+    <string name="mediasize_unknown_landscape">Định dang nằm ngang không xác định</string>
+    <string name="write_fail_reason_cancelled">Đã hủy</string>
+    <string name="write_fail_reason_cannot_write">Lỗi ghi nội dung</string>
+    <string name="reason_unknown">không xác định</string>
+    <string name="reason_service_unavailable">Dịch vụ in chưa bật</string>
+    <string name="print_service_installed_title">%s dịch vụ đã cài đặt</string>
+    <string name="print_service_installed_message">Bấm để bật</string>
+    <string name="restr_pin_enter_admin_pin">Nhập mã PIN quản trị</string>
+    <string name="restr_pin_enter_pin">Nhập mã PIN</string>
+    <string name="restr_pin_incorrect">Không chính xác</string>
+    <string name="restr_pin_enter_old_pin">Mã PIN hiện tại</string>
+    <string name="restr_pin_enter_new_pin">Mã PIN mới</string>
+    <string name="restr_pin_confirm_pin">Xác nhận mã PIN mới</string>
+    <string name="restr_pin_create_pin">Tạo một mã PIN để sửa các hạn chế</string>
+    <string name="restr_pin_error_doesnt_match">Mã PIN không khớp. Hãy thử lại.</string>
+    <string name="restr_pin_error_too_short">Mã PIN quá ngắn. Phải có ít nhất 4 chữ số.</string>
+    <string name="restr_pin_try_later">Hãy thử lại sau</string>
+    <string name="immersive_mode_confirmation">Trượt từ trên đỉnh xuống để thoát khỏi toàn màn hình.</string>
+    <string name="transient_navigation_confirmation_long">Trượt từ cạnh bên của màn hình để lộ thanh hệ thống</string>
     <string name="stk_cc_ussd_to_dial">Yêu cầu USSD được sửa đổi để yêu cầu Quay Số.</string>
     <string name="stk_cc_ussd_to_ss">Yêu cầu USSD được sửa đổi để yêu cầu SS.</string>
     <string name="stk_cc_ussd_to_ussd">Yêu cầu USSD được sửa đổi để yêu cầu USSD mới.</string>
     <string name="stk_cc_ss_to_dial">Yêu cầu SS được sửa đổi để yêu cầu Quay Số.</string>
     <string name="stk_cc_ss_to_ussd">Yêu cầu SS được sửa đổi để yêu cầu USSD.</string>
     <string name="stk_cc_ss_to_ss">Yêu cầu SS được sửa đổi để yêu cầu SS mới.</string>
-    <string name="msim_kg_sim_pin_msg_format" formatted="false">Thuê bao: %d : %s.</string>
-    <string name="msim_carrier_text_format" formatted="false">%s, %s</string>
     <string name="permission_remember_choice">Nhớ</string>
     <string name="permission">Quyền</string>
+    <string name="webviewchromium_actionbar_share">Chia sẻ</string>
+    <string name="webviewchromium_actionbar_web_search">Tìm Web</string>
+    <string name="webviewchromium_accessibility_content_view">Xem Web</string>
+    <string name="webviewchromium_date_picker_dialog_set">Đặt</string>
+    <string name="webviewchromium_date_picker_dialog_clear">Xóa</string>
+    <string name="webviewchromium_date_picker_dialog_title">Đặt giờ</string>
+    <string name="webviewchromium_date_time_picker_dialog_title">Đặt ngày và giờ</string>
+    <string name="webviewchromium_month_picker_dialog_title">Đặt tháng</string>
+    <string name="webviewchromium_week_picker_dialog_title">Đặt tuần</string>
+    <string name="webviewchromium_accessibility_datetime_picker_date">Ngày</string>
+    <string name="webviewchromium_accessibility_datetime_picker_time">Giờ</string>
+    <string name="webviewchromium_accessibility_date_picker_month">Tháng</string>
+    <string name="webviewchromium_accessibility_date_picker_week">Tuần</string>
+    <string name="webviewchromium_accessibility_date_picker_year">Năm</string>
+    <string name="webviewchromium_media_player_error_title">Không thể phát video</string>
+    <string name="webviewchromium_media_player_error_text_invalid_progressive_playback">Rất tiếc, video này không thích hợp để phát trên thiết bị này.</string>
+    <string name="webviewchromium_media_player_error_text_unknown">Xin lỗi, không thể phát video này.</string>
+    <string name="webviewchromium_media_player_error_button">OK</string>
+    <string name="webviewchromium_media_player_loading_video">Đang tải video…</string>
+    <string name="webviewchromium_color_picker_button_more">Thêm</string>
+    <string name="webviewchromium_color_picker_hue">Hue</string>
+    <string name="webviewchromium_color_picker_saturation">Độ bão hòa</string>
+    <string name="webviewchromium_color_picker_value">Giá trị</string>
+    <string name="webviewchromium_color_picker_button_set">Đặt</string>
+    <string name="webviewchromium_color_picker_button_cancel">Hủy</string>
+    <string name="webviewchromium_color_picker_dialog_title">Chọn màu</string>
+    <string name="webviewchromium_low_memory_error">Không thể hoàn tất hoạt động trước đó do thiếu bộ nhớ</string>
+    <string name="webviewchromium_opening_file_error">Không thể mở tập tin đã chọn</string>
+    <string name="webviewchromium_private_browsing_warning">Chức năng này không được hỗ trợ trong phiên bản này của Android.</string>
+    <string name="status_bar_device_locked">Thiết bị đã bị khóa.</string>
+    <string name="media_route_chooser_grouping_done">Xong</string>
+    <string name="abbrev_month">%b</string>
+    <string name="abbrev_month_day" formatted="false">%-e %b</string>
+    <string name="abbrev_month_day_year" formatted="false">%d-%m-%Y</string>
+    <string name="abbrev_month_year" formatted="false">%b %Y</string>
+    <string name="abbrev_wday_month_day_no_year">EEE d MMMM</string>
+    <string name="abbrev_wday_month_day_year">EEEE, d MMM y</string>
+    <string name="date1_date2">%2$s - %5$s</string>
+    <string name="date1_time1_date2_time2">%2$s %3$s - %5$s %6$s</string>
+    <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
+    <string name="hour_minute_24" formatted="false">%-k:%M</string>
+    <string name="hour_minute_ampm" formatted="false">%-l:%M %p</string>
+    <string name="hour_minute_cap_ampm" formatted="false">%-l:%M %^p</string>
+    <string name="month">%-B</string>
+    <string name="month_day" formatted="false">%-e %B</string>
+    <string name="month_year" formatted="false">%B %Y</string>
+    <string name="numeric_date" formatted="false">%d/%m/%Y</string>
+    <string name="numeric_date_format">d/M/yyyy</string>
+    <string name="numeric_md1_md2">%3$s/%2$s - %8$s/%7$s</string>
+    <string name="numeric_md1_time1_md2_time2">%3$s-%2$s %5$s - %8$s-%7$s %10$s</string>
+    <string name="numeric_mdy1_mdy2">%3$s/%2$s/%4$s - %8$s/%7$s/%9$s</string>
+    <string name="numeric_mdy1_time1_mdy2_time2">%3$s/%2$s/%4$s %5$s - %8$s/%7$s/%9$s %10$s</string>
+    <string name="numeric_wday1_md1_time1_wday2_md2_time2">%1$s, %3$s-%2$s %5$s - %6$s, %8$s-%7$s %10$s</string>
+    <string name="numeric_wday1_md1_wday2_md2">%1$s, %3$s/%2$s - %6$s, %8$s/%7$s</string>
+    <string name="numeric_wday1_mdy1_time1_wday2_mdy2_time2">%1$s, %3$s-%2$s-%4$s %5$s - %6$s, %8$s-%7$s-%9$s %10$s</string>
+    <string name="numeric_wday1_mdy1_wday2_mdy2">%1$s, %3$s/%2$s/%4$s - %6$s, %8$s/%7$s/%9$s</string>
+    <string name="same_month_md1_md2">Ngày %3$s tháng %2$s - Ngày %8$s tháng %7$s</string>
+    <string name="same_month_md1_time1_md2_time2">%3$s %2$s %5$s - %8$s %7$s %10$s</string>
+    <string name="same_month_mdy1_mdy2">Ngày %3$s tháng %2$s - Ngày %8$s tháng %-m năm %9$s</string>
+    <string name="same_month_mdy1_time1_mdy2_time2">"Ngày %3$s tháng %2$s năm %4$s %5$s - 'Ngày %8$s tháng %7$s năm %9$s %10$s"</string>
+    <string name="same_month_wday1_md1_time1_wday2_md2_time2">%1$s %3$s %2$s %5$s - %6$s %8$s %7$s %10$s</string>
+    <string name="same_month_wday1_md1_wday2_md2">%1$s %3$s %2$s - %6$s %8$s %7$s</string>
+    <string name="same_month_wday1_mdy1_time1_wday2_mdy2_time2">%1$s, %3$s %2$s %4$s %5$s - %6$s, %8$s %7$s %9$s %10$s</string>
+    <string name="same_month_wday1_mdy1_wday2_mdy2">%1$s, %3$s %2$s %4$s - %6$s, %8$s %7$s %9$s</string>
+    <string name="same_year_md1_md2">%3$s %2$s - %8$s %7$s</string>
+    <string name="same_year_md1_time1_md2_time2">%3$s %2$s %5$s - %8$s %7$s %10$s</string>
+    <string name="same_year_mdy1_mdy2">Ngày %3$s tháng %2$s - Ngày %8$s tháng %7$s năm %9$s</string>
+    <string name="same_year_mdy1_time1_mdy2_time2">"Ngày %3$s tháng %2$s năm %4$s %5$s - 'Ngày %8$s tháng %7$s năm %9$s %10$s"</string>
+    <string name="same_year_wday1_md1_time1_wday2_md2_time2">%1$s %3$s %2$s %5$s - %6$s %8$s %7$s %10$s</string>
+    <string name="same_year_wday1_md1_wday2_md2">%1$s %3$s %2$s - %6$s %8$s %7$s</string>
+    <string name="same_year_wday1_mdy1_time1_wday2_mdy2_time2">%1$s, %3$s %2$s %4$s %5$s - %6$s, %8$s %7$s %9$s %10$s</string>
+    <string name="same_year_wday1_mdy1_wday2_mdy2">%1$s, ngày %3$s %2$s - %6$s, ngày %8$s %7$s năm %9$s</string>
+    <string name="short_format_month">%b</string>
+    <string name="time1_time2">%1$s - %2$s</string>
+    <string name="time_date">%3$s %1$s</string>
+    <string name="time_wday">%2$s %1$s</string>
+    <string name="time_wday_date">%2$s %3$s %1$s</string>
+    <string name="wday1_date1_time1_wday2_date2_time2">%1$s %2$s %3$s - %4$s %5$s %6$s</string>
+    <string name="wday1_date1_wday2_date2">%1$s %2$s - %4$s %5$s</string>
+    <string name="wday_date">%2$s %3$s</string>
+    <string name="keyguard_password_pin_failed">Chạy mã PIN thất bại!</string>
+    <string name="keyguard_password_puk_failed">Chạy mã PUK thất bại!</string>
+    <string name="keyguard_password_wrong_puk_code">Mã PUK không chính xác!</string>
+    <string name="keyguard_pin_accepted">Mã được chấp nhận!</string>
+    <string name="lockscreen_sim_error_message">Thẻ SIM không hợp lệ.</string>
+    <string name="lockscreen_perso_locked_message">Thẻ SIM đã khóa Perso</string>
+    <string name="msim_carrier_text_format" formatted="false">%s, %s</string>
+    <string name="msim_kg_sim_pin_msg_format" formatted="false">Thuê bao: %d : %s.</string>
+    <string name="wifi_display_notification_message">Màn hình này được hiển thị trên các thiết bị khác</string>
+    <string name="wifi_display_notification_title">Màn hình hiển thị không dây đã được kết nối</string>
+    <string name="vpn_lockdown_reset">Chạm để thiết lập lại kết nối</string>
 </resources>
