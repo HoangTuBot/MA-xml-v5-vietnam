@@ -56,7 +56,7 @@
         <item>Đang cố gắng ghi/sửa SMS</item>
         <item>Đang cố gắng nhận SMS</item>
         <item>Đang cố gắng nhận SMS</item>
-        <item>Đang cố gắng nhận MMS</item>
+        <item>Đang cố gắng nhận SMS</item>
         <item>Đang cố gắng nhận SMS</item>
         <item>Đang cố gắng gửi SMS</item>
         <item>Đang cố gắng đọc SMS</item>
@@ -69,12 +69,25 @@
         <item>Đang cố gắng phát âm thanh</item>
         <item>Đang cố gắng đọc khay nhớ tạm</item>
         <item>Đang cố gắng sửa khay nhớ tạm</item>
+        <item>Đang cố gắng sử dụng phím media</item>
+        <item>Đang cố gắng sử dụng tập trung âm thanh</item>
+        <item>Đang cố gắng sử dụng âm lượng tổng thể</item>
+        <item>Đang cố gắng sử dụng âm lượng giọng nói</item>
+        <item>Đang cố gắng sử dụng âm lượng nhạc chuông</item>
+        <item>Đang cố gắng sử dụng âm lượng media</item>
+        <item>Đang cố gắng sử dụng âm lượng báo thức</item>
+        <item>Đang cố gắng sử dụng âm lượng thông báo</item>
+        <item>Đang cố gắng sử dụng âm lượng bluetooth</item>
+        <item>Đang cố gắng giữ điện thoại bật</item>
+        <item>Đang cố gắng truy cập vị trí</item>
+        <item>Đang cố gắng truy cập vị trí</item>
         <item>Đang cố gắng bật/tắt Wi-Fi</item>
         <item>Đang cố gắng bật/tắt Bluetooth</item>
         <item>Đang cố gắng bật/tắt dữ liệu di động</item>
         <item>Đang cố gắng gửi MMS</item>
         <item>Đang cố gắng đọc MMS</item>
         <item>Đang cố gắng ghi MMS</item>
+        <item>Đang cố gắng bắt đầu khởi động</item>
     </string-array>
     <string-array name="imAddressTypes">
         <item>Nhà riêng</item>
