@@ -5,7 +5,7 @@
         <item>Biệt danh</item>
         <item>Số điện thoại</item>
         <item>E-mail</item>
-        <item>Tổ chức</item>
+        <item>Công ty</item>
         <item>IM</item>
         <item>SIP Phone</item>
         <item>Sinh nhật</item>
@@ -15,8 +15,8 @@
     </string-array>
     <string-array name="font_size_names">
         <item>Nhỏ</item>
-        <item>Mặc định</item>
+        <item>Vừa</item>
         <item>Lớn</item>
-        <item>Cực lớn</item>
+        <item>Đại</item>
     </string-array>
 </resources>
