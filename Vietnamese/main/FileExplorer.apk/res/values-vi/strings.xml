@@ -25,10 +25,10 @@
     <string name="operation_show_sys">Hiện các tập tin ẩn</string>
     <string name="operation_hide_sys">Ẩn các tập tin ẩn</string>
     <string name="cancel">Hủy</string>
-	<string name="background">Tải xuống trong nền</string>
+    <string name="background">Tải xuống trong nền</string>
     <string name="no_file">Trống</string>
     <string name="tab_category">Phân loại</string>
-	<string name="tab_phone">Điện thoại</string>
+    <string name="tab_phone">Điện thoại</string>
     <string name="category_all">Tất cả</string>
     <string name="category_music">Nhạc</string>
     <string name="category_video">Video</string>
@@ -39,7 +39,7 @@
     <string name="category_apk">Ứng dụng</string>
     <string name="category_other">Khác</string>
     <string name="category_favorite">Ưa thích</string>
-	<string name="category_bluetooth">Bluetooth</string>
+    <string name="category_bluetooth">Bluetooth</string>
     <string name="category_log">Logs</string>
     <string name="operation_rename_message">Nhập tên một mới</string>
     <string name="operation_create_folder_message">Nhập tên thư mục</string>
@@ -111,14 +111,14 @@
     <string name="ui_main_menu_option_task_manage">Quản lý Chuyển giao</string>
     <string name="kuaipan_label">MiDrive</string>
     <string name="create_kuaipan_shortcut_pref">Tạo lối tắt trên màn hình chính</string>
-	<string name="login_reg_content0">MiDrive là ổ đĩa đám mây của bạn</string>
+    <string name="login_reg_content0">MiDrive là ổ đĩa đám mây của bạn</string>
     <string name="login_reg_content">MiDrive giúp bạn lưu trữ các tập tin và đồng bộ chúng giữa nhiều thiết bị.</string>
     <string name="start_use_xiaomi_account">Đăng nhập</string>
     <string name="pan_settting">Cài đặt MiDrive</string>
     <string name="xiaomi_account">Tài khoản Xiaomi</string>
     <string name="space_usage">Sử dụng</string>
     <string name="used">Đã dùng </string>
-	<string name="loading">Đang tải…</string>
+    <string name="loading">Đang tải…</string>
     <string name="load_err">Tải thất bại</string>
     <string name="local_cache_size">Kích thước bộ nhớ đệm: %s</string>
     <string name="net_lose_connected">Mạng không khả dụng, không thể lấy kích thước</string>
@@ -174,8 +174,8 @@
 Dung lượng miễn phí tăng thêm %1$s"</string>
     <string name="already_signin_description">Bạn đã đăng nhập rồi!</string>
     <string name="pull_to_signin">Trượt xuống để đăng nhập và nhận dung lượng miễn phí</string>
-    <string name="release_to_signin">Phát hành để đăng nhập</string>
-	<string name="server_control_settings">Cài đặt máy chủ</string>
+    <string name="release_to_signin">Thả ra để đăng nhập</string>
+    <string name="server_control_settings">Cài đặt máy chủ</string>
     <string name="server_control_advanced_settings">Cài đặt nâng cao</string>
     <string name="server_control_charset">Mã hóa chuyển giao</string>
     <string name="utf8_title">UTF-8</string>
@@ -195,7 +195,7 @@ Dung lượng miễn phí tăng thêm %1$s"</string>
     <string name="ftp_username_hint">Tên người dùng</string>
     <string name="ftp_password_hint">Mật khẩu</string>
     <string name="ftp_invalid_username_or_password">Lỗi xác thực</string>
-	<string name="add_task">Thêm tác vụ</string>
+    <string name="add_task">Thêm tác vụ</string>
     <string name="adding_upload_tasks">Thêm tác vụ tải lên.</string>
     <string name="create_new_folder_desctiption">Đang tạo thư mục mới…</string>
     <string name="create_share_link_description">Đang tạo liên kết chia sẻ…</string>
@@ -203,7 +203,7 @@ Dung lượng miễn phí tăng thêm %1$s"</string>
     <string name="share_link_failed">Tạo liên kết thất bại, vui lòng thử lại!</string>
     <string name="choose_send_type">Chọn kiểu gửi</string>
     <string name="download_link_completed">Tôi đã chia sẻ %1$s qua MiDrive. Nhấp vào liên kết dưới đây để xem:</string>
-	<string name="transing">Đang chuyển giao…</string>
+    <string name="transing">Đang chuyển giao…</string>
     <string name="finished">Hoàn tất</string>
     <string name="uploading">Đang tải lên…</string>
     <string name="downloading">Đang tải xuống…</string>
