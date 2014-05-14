@@ -41,7 +41,7 @@ Bạn có muốn vô hiệu hóa không?"</string>
     <string name="optimize_apk_header_left">Các gói cài đặt: %d</string>
     <string name="optimize_large_file_header_left">Tập tin lớn: %d</string>
     <string name="optimize_residual_header_left">Rác: %d</string>
-    <string name="optimize_installed_apps_header_left">Tải về ứng dụng: %d</string>
+    <string name="optimize_installed_apps_header_left">Ứng dụng đã cài: %d</string>
     <string name="optimize_cache_list_empty_content">Không có tập tin tạm nào</string>
     <string name="optimize_ad_list_empty_content">Không có tập tin quảng cáo nào</string>
     <string name="optimize_apk_list_empty_content">Không có gói cài đặt nào</string>
@@ -2293,7 +2293,7 @@ Một số ứng dụng có thể không làm việc cho đến khi được c�
     <string name="accessibility_settings_title">Cài đặt khả năng truy cập</string>
     <string name="accessibility_services_title">Dịch vụ</string>
     <string name="accessibility_system_title">Hệ thống</string>
-    <string name="accessibility_captioning_title">Chú thích</string>
+    <string name="accessibility_captioning_title">Phụ đề</string>
     <string name="accessibility_screen_magnification_title">Cử chỉ phóng đại</string>
     <string name="accessibility_screen_magnification_summary">"Khi tính năng này được bật, bạn có thể phóng to thu nhỏ bằng chách nhấp ba lần vào màn hình.
 
@@ -2328,7 +2328,7 @@ Nếu thiết bị có nhiều người sử dụng, sử dụng lối tắt tr�
     <string name="captioning_standard_options_title">Tùy chọn tiêu chuẩn</string>
     <string name="captioning_locale">Ngôn ngữ</string>
     <string name="captioning_text_size">kích thước văn bản</string>
-    <string name="captioning_preset">Phong cách chú thích</string>
+    <string name="captioning_preset">Phong cách phụ đề</string>
     <string name="captioning_custom_options_title">Tùy chọn tùy chỉnh</string>
     <string name="captioning_background_color">Màu nền</string>
     <string name="captioning_background_opacity">Độ mờ nền</string>
@@ -2336,7 +2336,7 @@ Nếu thiết bị có nhiều người sử dụng, sử dụng lối tắt tr�
     <string name="captioning_edge_color">Màu rìa</string>
     <string name="captioning_edge_type">Màu rìa</string>
     <string name="captioning_typeface">Font chữ</string>
-    <string name="captioning_preview_text">Chú thích sẽ như thế này</string>
+    <string name="captioning_preview_text">Phụ đề sẽ như thế này</string>
     <string name="captioning_preview_characters">♋๖ۣۜßεℓ™</string>
     <string name="locale_default">Mặc định</string>
     <string name="color_none">Không</string>
