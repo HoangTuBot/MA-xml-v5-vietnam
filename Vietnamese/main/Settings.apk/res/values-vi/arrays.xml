@@ -5,6 +5,10 @@
         <item>Hỏi lại</item>
         <item>Từ chối</item>
     </string-array>
+    <string-array name="perm_disable_keyguard_action">
+        <item>Cho phép</item>
+        <item>Từ chối</item>
+    </string-array>
     <string-array name="power_mode_entries">
         <item>Hiệu suất cao</item>
         <item>Cân bằng</item>
@@ -252,7 +256,9 @@
         <item>Vị trí</item>
         <item>Cá nhân</item>
         <item>Nhắn tin</item>
+        <item>Media</item>
         <item>Thiết bị</item>
+        <item>Khởi động</item>
     </string-array>
     <string-array name="app_ops_summaries">
         <item>vị trí gần đúng</item>
@@ -286,6 +292,25 @@
         <item>phát âm thanh</item>
         <item>đọc khay nhớ tạm</item>
         <item>sửa khay nhớ tạm</item>
+        <item>phím media</item>
+        <item>tập trung âm thanh</item>
+        <item>âm lượng tổng thể</item>
+        <item>âm lượng giọng nói</item>
+        <item>âm lượng nhạc chuông</item>
+        <item>âm lượng media</item>
+        <item>âm lượng báo thức</item>
+        <item>âm lượng thông báo</item>
+        <item>âm lượng bluetooth</item>
+        <item>giữ màn hình luôn bật</item>
+        <item>theo dõi vị trí</item>
+        <item>theo dõi vị trí</item>
+        <item>bật/tắt Wi-Fi</item>
+        <item>bật/tắt Bluetooth</item>
+        <item>bật/tắt dữ liệu</item>
+        <item>gửi MMS</item>
+        <item>đọc MMS</item>
+        <item>ghi MMS</item>
+        <item>tự khởi chạy</item>
     </string-array>
     <string-array name="app_ops_labels">
         <item>Vị trí</item>
@@ -319,11 +344,66 @@
         <item>Phát âm thanh</item>
         <item>Đọc khay nhớ tạm</item>
         <item>Sửa khay nhớ tạm</item>
+        <item>phím media</item>
+        <item>Tập trung âm thanh</item>
+        <item>Âm lượng tổng thể</item>
+        <item>Âm lượng giọng nói</item>
+        <item>Âm lượng nhạc chuông</item>
+        <item>Âm lượng media</item>
+        <item>Âm lượng báo thức</item>
+        <item>Âm lượng thông báo</item>
+        <item>Âm lượng bluetooth</item>
+        <item>Giữ màn hình luôn bật</item>
+        <item>Vị trí</item>
+        <item>Vị trí</item>
+        <item>Bật/tắt Wi-Fi</item>
+        <item>Bật/tắt Bluetooth</item>
+        <item>Bật/tắt dữ liệu</item>
+        <item>Gửi MMS</item>
+        <item>Đọc MMS</item>
+        <item>Ghi MMS</item>
+        <item>Tự khởi chạy</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Ngắn</item>
         <item>Vừa</item>
         <item>Lâu</item>
+    </string-array>
+    <string-array name="captioning_typeface_selector_titles">
+        <item>Mặc định</item>
+        <item>Sans-serif</item>
+        <item>Sans-serif được cô đọng</item>
+        <item>Serif</item>
+        <item>Monospace</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+        <item>Bé</item>
+        <item>Nhỏ</item>
+        <item>Vừa</item>
+        <item>Lớn</item>
+        <item>Đại</item>
+    </string-array>
+    <string-array name="captioning_edge_type_selector_titles">
+        <item>Không</item>
+        <item>Phác thảo</item>
+        <item>Tạo bóng</item>
+    </string-array>
+    <string-array name="captioning_preset_selector_titles">
+        <item>Trắng trên nền đen</item>
+        <item>Đen trên nền trắng</item>
+        <item>Vàng trên nền đen</item>
+        <item>Vàng trên nền xanh</item>
+        <item>Tùy chỉnh</item>
+    </string-array>
+    <string-array name="select_runtime_titles">
+        <item>Dalvik</item>
+        <item>ART</item>
+        <item>ART (gỡ lỗi)</item>
+    </string-array>
+    <string-array name="select_runtime_summaries">
+        <item>Dùng Dalvik</item>
+        <item>Dùng ART</item>
+        <item>Dùng bản gỡ lỗi ART</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Không bao giờ</item>
@@ -365,8 +445,11 @@
     <string-array name="overlay_display_devices_entries">
         <item>Không</item>
         <item>720x480 mdpi</item>
+        <item>720x480 mdpi (bảo mật)</item>
         <item>1280x720 tvdpi</item>
+        <item>1280x720 tvdpi (bảo mật)</item>
         <item>1920x1080 xhdpi</item>
+        <item>1920x1080 xhdpi (bảo mật)</item>
         <item>1280x720 tvdpi và 1920x1080 xhdpi</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
@@ -385,6 +468,12 @@
         <item>Như thanh trên màn hình</item>
         <item>Như dòng trên màn hình</item>
         <item>Trong adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Tắt</item>
+        <item>Hiện các khu vực chồng lấp</item>
+        <item>Hiện khu vực cho Deuteranomaly</item>
+        <item>Hiện đối lập chồng lấp</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Giới hạn tiêu chuẩn</item>
@@ -420,6 +509,19 @@
     <string-array name="security_settings_premium_sms_values">
         <item>Hỏi lại</item>
         <item>Không bao giờ</item>
+        <item>Luôn luôn</item>
+    </string-array>
+    <string-array name="multi_sim_entries">
+        <item>Subscription 1</item>
+        <item>Subscription 2</item>
+        <item>Subscription 3</item>
+    </string-array>
+    <string-array name="button_light_timeout_entries">
+        <item>1 giây</item>
+        <item>2 giây</item>
+        <item>5 giây</item>
+        <item>10 giây</item>
+        <item>20 giây</item>
         <item>Luôn luôn</item>
     </string-array>
     <string-array name="haptic_feedback_level_entries">
@@ -482,14 +584,6 @@
         <item>1.5 giây</item>
         <item>2 giây</item>
     </string-array>
-    <string-array name="button_light_timeout_entries">
-        <item>1 giây</item>
-        <item>2 giây</item>
-        <item>5 giây</item>
-        <item>10 giây</item>
-        <item>20 giây</item>
-        <item>Luôn luôn</item>
-    </string-array>
     <string-array name="wfd_status">
         <item>Thiết bị đã kết nối, đang tạo phiên…</item>
         <item>Phiên đã được tạo</item>
@@ -505,9 +599,9 @@
         <item>Linux</item>
     </string-array>
     <string-array name="msd_pc_system_install_start_summary">
-        <item>"Đối với Windows XP hoặc các phiên bản cũ hơn, driver cần phải được cài đặt bằng tay."</item>
-        <item>"Đối với Windows Vista hoặc phiên bản mới hơn, máy nghe nhạc MI-3 sẽ xuất hiện trên máy tính của bạn."</item>
-        <item>"Đối với hệ điều hành Mac OS, driver cần phải được cài đặt bằng tay."</item>
+        <item>Đối với Windows XP hoặc các phiên bản cũ hơn, driver cần phải được cài đặt bằng tay.</item>
+        <item>Đối với Windows Vista hoặc phiên bản mới hơn, máy nghe nhạc MI-3 sẽ xuất hiện trên máy tính của bạn.</item>
+        <item>Đối với hệ điều hành Mac OS, driver cần phải được cài đặt bằng tay.</item>
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_install_step_1_summary">
@@ -530,7 +624,7 @@ Bây giờ bạn có thể trao đổi dữ liệu"</item>
     <string-array name="msd_pc_system_install_finish_summary">
         <item>"Nếu bạn cài đặt trình điều khiển này.
 Thiết bị lưu trữ di động MI-3 sẽ xuất hiện trên máy tính"</item>
-        <item>"Đối với Windows Vista hoặc phiên bản mới hơn, máy nghe nhạc MI-3 sẽ xuất hiện trên máy tính của bạn"</item>
+        <item>Đối với Windows Vista hoặc phiên bản mới hơn, máy nghe nhạc MI-3 sẽ xuất hiện trên máy tính của bạn</item>
         <item>"Nếu bạn cài đặt trình điều khiển này.
 Máy tính sẽ tự động mở và đọc dữ liệu trên điện thoại"</item>
         <item></item>
