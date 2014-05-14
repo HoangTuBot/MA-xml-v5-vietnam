@@ -44,4 +44,12 @@
         <item quantity="other">%d ứng dụng có thể đọc thông báo</item>
         <item quantity="one">%d ứng dụng có thể đọc thông báo</item>
     </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Mã PIN của SIM không đúng, bạn còn %d lần thử.</item>
+        <item quantity="one">Mã PIN của SIM không đúng, bạn còn %d lần thử trước khi bạn phải liên hệ với nhà cung cấp để mở khóa điện thoại của bạn.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">%1$s máy in được tìm thấy</item>
+        <item quantity="one">%1$s máy in được tìm thấy</item>
+    </plurals>
 </resources>
