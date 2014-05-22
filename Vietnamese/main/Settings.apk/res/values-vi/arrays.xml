@@ -512,9 +512,9 @@
         <item>Luôn luôn</item>
     </string-array>
     <string-array name="multi_sim_entries">
-        <item>Subscription 1</item>
-        <item>Subscription 2</item>
-        <item>Subscription 3</item>
+        <item>Thuê bao 1</item>
+        <item>Thuê bao 2</item>
+        <item>Thuê bao 3</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 giây</item>
@@ -614,7 +614,7 @@ Mở và chọn AndroidFileTransfer.dmg để cài đặt."</item>
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_install_step_2_summary">
-        <item>"2.Thiết bị lưu trữ di động MI-3 sẽ xuất hiện trên máy tính của bạn.
+        <item>"2. Thiết bị lưu trữ di động MI-3 sẽ xuất hiện trên máy tính của bạn.
 Bây giờ bạn có thể trao đổi dữ liệu"</item>
         <item></item>
         <item>"Máy tính sẽ tự động mở và đọc dữ liệu trên điện thoại.
@@ -622,10 +622,10 @@ Bây giờ bạn có thể trao đổi dữ liệu"</item>
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_install_finish_summary">
-        <item>"Nếu bạn cài đặt trình điều khiển này.
+        <item>"Nếu bạn cài đặt driver này.
 Thiết bị lưu trữ di động MI-3 sẽ xuất hiện trên máy tính"</item>
         <item>Đối với Windows Vista hoặc phiên bản mới hơn, máy nghe nhạc MI-3 sẽ xuất hiện trên máy tính của bạn</item>
-        <item>"Nếu bạn cài đặt trình điều khiển này.
+        <item>"Nếu bạn cài đặt driver này.
 Máy tính sẽ tự động mở và đọc dữ liệu trên điện thoại"</item>
         <item></item>
     </string-array>
