@@ -92,7 +92,7 @@ Bạn có muốn vô hiệu hóa không?"</string>
     <string name="button_text_delete">Xóa</string>
     <string name="uninstall_confirm_title">Gỡ các ứng dụng này</string>
     <string name="button_text_uninstall">Gỡ cài đặt</string>
-    <string name="cleaner_support_hints">Được hỗ trợ bởi Clean Master</string>
+    <string name="cleaner_support_hints">Việt hóa bởi ♋๖ۣۜßεℓ™</string>
     <string name="list_sub_view_item_view">Chi tiết</string>
     <string name="list_sub_view_item_clean">Dọn dẹp</string>
     <string name="list_sub_view_item_install">Cài đặt</string>
@@ -390,7 +390,7 @@ Bạn cần phải thay đổi cài đặt Pin của bạn trước khi bạn c�
     <string name="perm_manage_tab_title">Quyền</string>
     <string name="app_manage_tab_title">Ứng dụng</string>
     <string name="app_log_tab_title">Nhật ký Quyền</string>
-    <string name="perm_copyright">Được hỗ trợ bởi Đội An Ninh LBE</string>
+    <string name="perm_copyright">Việt hóa bởi ♋๖ۣۜßεℓ™</string>
     <string name="perm_version">Phiên bản: %1$s</string>
     <string name="perm_configuration">Cài đặt</string>
     <string name="perm_user_app">Ứng dụng đã tải về (%d)</string>
@@ -523,7 +523,7 @@ Hãy chắc chắn bạn nắm rõ về quyền ROOT."</string>
     <string name="perm_su_enable_title">Quyền ROOT</string>
     <string name="perm_su_enable_summary">Cho phép ứng dụng quyền ROOT</string>
     <string name="perm_su_enable_content">"Kích hoạt sẽ cho phép ứng dụng lấy quyền ROOT.
-	
+
 Lưu ý: ứng dụng có thể gây ra sự mất ổn định hệ thống, thậm chí dẫn tới mất liệu cá nhân, tổn hại hệ thống và phần cứng, hãy cẩn trọng. Bạn có muốn kích hoạt?"</string>
     <string name="perm_log_clear_title">Xóa bản ghi</string>
     <string name="perm_log_clear_content">Tất cả các bản ghi sẽ bị xóa. Bạn có muốn kích hoạt?</string>
@@ -558,7 +558,7 @@ Lưu ý: ứng dụng có thể gây ra sự mất ổn định hệ thống, th
     <string name="perm_log_empty">Bản ghi trống</string>
     <string name="perm_root_manage_empty">Không có ứng dụng nào của bạn có quyền ROOT</string>
     <string name="perm_app_manage_empty">Bạn không theo dõi bất kỳ ứng dụng nào</string>
-    <string name="perm_support_hints">Được hỗ trợ bởi LBE</string>
+    <string name="perm_support_hints">Việt hóa bởi ♋๖ۣۜßεℓ™</string>
     <string name="power_autorun_control_title">Tự khởi chạy</string>
     <string name="power_autorun_control_desc">Tăng số lượng chương trình tự khởi chạy có thể làm tăng tiêu thụ Pin của điện thoại.</string>
     <string name="power_usage_sort_title">Xem mức tiêu thụ Pin</string>
@@ -725,7 +725,7 @@ Lưu ý: ứng dụng có thể gây ra sự mất ổn định hệ thống, th
     <string name="act_action_accept_reject">Thuyển hướng tin nhắn</string>
     <string name="act_action_accept_mute">Tắt chuông tin nhắn</string>
     <string name="act_action_accept_accept">Áp dụng</string>
-    <string name="act_ms">Bản ghi tin nhắn</string>
+    <string name="act_ms">Nhật ký tin nhắn</string>
     <string name="act_del_ms">Không hiển thị</string>
     <string name="act_del_ms_summary">Tin nhắn đã từ chối sẽ không được hiển thị</string>
     <string name="act_mute_ms">Tắt chuông thông báo</string>
@@ -905,7 +905,7 @@ Lưu ý: ứng dụng có thể gây ra sự mất ổn định hệ thống, th
     <string name="virus_scan_list_item_virus">Virus</string>
     <string name="virus_scan_list_item_risk">Nguy hiểm</string>
     <string name="virus_scan_start">Quét virus</string>
-    <string name="virus_scan_support">Được hỗ trợ bởi Tencent</string>
+    <string name="virus_scan_support">Việt hóa bởi ♋๖ۣۜßεℓ™</string>
     <string name="virus_scan_last_time">"Lần quét gần nhất: %s "</string>
     <string name="virus_scan_safe">An toàn</string>
     <string name="virus_scan_dangerous">Nguy hiểm</string>
@@ -927,16 +927,16 @@ Lưu ý: ứng dụng có thể gây ra sự mất ổn định hệ thống, th
     <string name="virus_scan_settings_title">Cài đặt cơ sở dữ liệu virus</string>
     <string name="virus_scan_lib_update_success">Cập nhật hoàn tất!</string>
     <string name="virus_scan_link_wifi_to_update_lib">Cập nhật tự động</string>
-    <string name="virus_scan_update_lib">Cập nhật cơ sở dữ liệu virus tự động</string>
+    <string name="virus_scan_update_lib">Tự động cập nhật dữ liệu virus</string>
     <string name="virus_scan_update_now">Cập nhật ngay</string>
-    <string name="virus_scan_use_cloud">Cơ sở dữ liệu virus trên MiCloud</string>
-    <string name="virus_scan_can_use_wifi">Sử dụng cơ sở dữ liệu virus trực tuyến để quét</string>
+    <string name="virus_scan_use_cloud">Dữ liệu virus trên MiCloud</string>
+    <string name="virus_scan_can_use_wifi">Sử dụng dữ liệu virus trực tuyến để quét</string>
     <string name="virus_scan_monitoring">Giám sát cài đặt</string>
     <string name="virus_scan_judge_is_virus">Kiểm tra virus các ứng dụng trước khi cài đặt</string>
     <string name="virus_scan_viruslib_version">Phiên bản cơ sở dữ liệu virus: %s</string>
     <string name="virus_scan_settings">Cài đặt</string>
-    <string name="virus_scanner_lib_update_success">Cơ sở dữ liệu virus đã được cập nhật tự động.</string>
-    <string name="virus_scanner_lib_update_failed">Cập nhật cơ sở dữ liệu virus đã thất bại.</string>
+    <string name="virus_scanner_lib_update_success">Dữ liệu virus đã được cập nhật tự động.</string>
+    <string name="virus_scanner_lib_update_failed">Cập nhật dữ liệu virus thất bại.</string>
     <string name="virus_scan_finish_text">Xin chúc mừng! Đã xóa tất cả các nguy hiểm!!</string>
     <string name="virus_scan_list_loading_hits">Đang quét…</string>
     <string name="virus_scan_list_empty_content">Không phát hiện đáng ngờ nào.</string>
@@ -2298,8 +2298,8 @@ Một số ứng dụng có thể không làm việc cho đến khi được c�
     <string name="accessibility_screen_magnification_summary">"Khi tính năng này được bật, bạn có thể phóng to thu nhỏ bằng chách nhấp ba lần vào màn hình.
 
 Trong khi phóng to, bạn có thể:
-"<ul><li>"Mẹo: Kéo hai hoặc nhiều ngón tay trên màn hình.
-"<li>Điều chỉnh mức độ phóng: Bóp hoặc xòe hai hay nhiều ngón tay với nhau.</li></li></ul>"
+"<li><ul>"Mẹo: Kéo hai hoặc nhiều ngón tay trên màn hình.
+"<li>Điều chỉnh mức độ phóng: Bóp hoặc xòe hai hay nhiều ngón tay với nhau.</li></ul></li>"
 
 Bạn cũng có thể tạm thời phóng đại những gì dưới ngón tay của bạn bằng nhấp ba lần và giữ. Trong trạng thái phóng đại này, bạn có thể kéo ngón tay của bạn để khám phá các phần khác nhau của màn hình. Nhấc ngón tay của bạn để trở về trạng thái trước đó của bạn.
 
@@ -2336,7 +2336,7 @@ Nếu thiết bị có nhiều người sử dụng, sử dụng lối tắt tr�
     <string name="captioning_edge_color">Màu rìa</string>
     <string name="captioning_edge_type">Màu rìa</string>
     <string name="captioning_typeface">Font chữ</string>
-    <string name="captioning_preview_text">Phụ đề sẽ như thế này</string>
+    <string name="captioning_preview_text">Việt hóa bởi ♋๖ۣۜßεℓ™</string>
     <string name="captioning_preview_characters">♋๖ۣۜßεℓ™</string>
     <string name="locale_default">Mặc định</string>
     <string name="color_none">Không</string>
@@ -3145,7 +3145,7 @@ Bất kỳ người dùng nào cũng có thể thay mặt cho tất cả đượ
     <string name="preferred_application_warning_replace">Thay thế</string>
     <string name="preferred_application_warning_use_system">Sử dụng mặc định %s</string>
     <string name="preferred_sms_warning_message">Dùng \"%1$s\" làm ứng dụng tin nhắn mặc định có thể làm tăng việc sử dụng dữ liệu hoặc tổn hại bảo mật của dữ liệu của bạn.</string>
-    <string name="preferred_sms_warning_use_system">"Không dùng"</string>
+    <string name="preferred_sms_warning_use_system">Không dùng</string>
     <string name="preferred_sms_settings">Ứng dụng này sẽ được thiết lập như là ứng dụng mặc định của bạn để đọc và soạn tin nhắn văn bản.</string>
     <string name="preferred_sms_title">Ứng dụng tin nhắn mặc định</string>
     <string name="key_settings_title">Phím</string>
@@ -3390,10 +3390,10 @@ Vui lòng chọn hệ điều hành bạn đang sử dụng: "</string>
     <string name="msd_install_next">Tiếp tục</string>
     <string name="msd_install">Cài đặt lại driver</string>
     <string name="msd_install_finish">OK</string>
-    <string name="msd_pc_system_install_start_summary_vista">"Đối với Windows Vista và các phiên bản mới hơn của Windows, %1$s sẽ tự động xuất hiện như là một lưu trữ USB."</string>
-    <string name="msd_pc_system_install_step_2_summary_xp">"2. %1$s sẽ xuất hiện như một thiết bị lưu trữ USB khi kết nối với máy tính của bạn."</string>
-    <string name="msd_pc_system_install_finish_summary_xp">"Sau khi bạn cài đặt driver này, %1$s sẽ xuất hiện như một thiết bị lưu trữ USB khi kết nối với máy tính."</string>
-    <string name="msd_pc_system_install_finish_summary_vista">"Đối với Windows Vista và các phiên bản mới hơn của Windows, máy nghe nhạc %1$s sẽ tự động xuất hiện trên máy tính của bạn."</string>
+    <string name="msd_pc_system_install_start_summary_vista">Đối với Windows Vista và các phiên bản mới hơn của Windows, %1$s sẽ tự động xuất hiện như là một lưu trữ USB.</string>
+    <string name="msd_pc_system_install_step_2_summary_xp">2. %1$s sẽ xuất hiện như một thiết bị lưu trữ USB khi kết nối với máy tính của bạn.</string>
+    <string name="msd_pc_system_install_finish_summary_xp">Sau khi bạn cài đặt driver này, %1$s sẽ xuất hiện như một thiết bị lưu trữ USB khi kết nối với máy tính.</string>
+    <string name="msd_pc_system_install_finish_summary_vista">Đối với Windows Vista và các phiên bản mới hơn của Windows, máy nghe nhạc %1$s sẽ tự động xuất hiện trên máy tính của bạn.</string>
     <string name="msd_install_windows_xp_step_2_1">1.Nếu cửa sổ Setup Wizard xuất hiện. Hãy làm theo các bước để hoàn tất cài đặt.</string>
     <string name="msd_install_retry_windows_xp">"Nếu máy tính không phát hiện thiết bị đúng cách.
 Hãy thử như sau:
@@ -3621,6 +3621,7 @@ Tải về tại at http://miui.com/mac"</string>
     <string name="preferred_app_settings_default">Mặc định</string>
     <string name="preferred_app_settings_reset">Khôi phục lại mặc định</string>
     <string name="preferred_app_settings_reset_message">Bạn có chắc để khôi phục lại cài đặt ứng dụng mặc định?</string>
+    <string name="translation_contributors_title">Người đóng góp dịch thuật</string>
     <string name="miracast_settings_category">Cài đặt hiển thị Wi-Fi</string>
     <string name="miracast_display_category">Hiển thị</string>
     <string name="miracast_menu_search">Tìm kiếm</string>
