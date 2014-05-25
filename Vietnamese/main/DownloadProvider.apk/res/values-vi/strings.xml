@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_insufficient_space_on_external">Không đủ dung lượng lưu trữ ngoài</string>
+    <string name="dialog_insufficient_space_on_cache">Không đủ dung lượng lưu trữ trong</string>
+    <string name="auto_restart_under_wifi">Tự động tải tập tin này băng Wi-Fi</string>
+    <string name="task_already_exist">Tác vụ đã tồn tại</string>
+    <string name="app_label">Trình quản lý tải về</string>
+    <string name="permlab_downloadManager">Truy cập trình quản lý tải về.</string>
+    <string name="permdesc_downloadManager">Cho phép ứng dụng truy cập vào trình quản lý tải về và sử dụng nó để tải các tập tin. Ứng dụng độc hại có thể sử dụng điều này làm gián đoạn tải về và truy cập thông tin cá nhân.</string>
+    <string name="permlab_downloadManagerAdvanced">Chức năng trình quản lý tải về nâng cao.</string>
+    <string name="permdesc_downloadManagerAdvanced">Cho phép ứng dụng truy cập vào các chức năng nâng cao của trình quản lý tải về. Ứng dụng độc hại có thể sử dụng điều này làm gián đoạn tải về và truy cập thông tin cá nhân.</string>
+    <string name="permlab_downloadCompletedIntent">Gửi thông báo tải về.</string>
+    <string name="permdesc_downloadCompletedIntent">Cho phép ứng dụng gửi thông báo tải về hoàn tất. Ứng dụng độc hại có thể sử dụng điều này để gây nhầm lẫn các ứng dụng khác mà tải các tập tin.</string>
+    <string name="permlab_seeAllExternal">Xem tất cả các tải về trong lưu trữ USB</string>
+    <string name="permdesc_seeAllExternal">Cho phép ứng dụng xem tất cả tải xuống trên thẻ SD, bất kể là ứng dụng tải về chúng.</string>
+    <string name="permlab_downloadCacheNonPurgeable">Dung lượng dự trữ trong bộ nhớ đệm tải về</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Cho phép ứng dụng tải các tập tin vào bộ nhớ đệm tải về, mà có thể không được tự động xóa khi trình quản lý tải về cần nhiều dung lượng hơn.</string>
+    <string name="permlab_downloadWithoutNotification">Tải các tập tin mà không cần thông báo</string>
+    <string name="permdesc_downloadWithoutNotification">Cho phép ứng dụng tải các tập tin thông qua trình quản lý tải về mà không có bất kỳ thông báo nào được hiển thị cho người dùng.</string>
+    <string name="permlab_accessAllDownloads">Truy cập tất cả tải xuống hệ thống</string>
+    <string name="permdesc_accessAllDownloads">Cho phép ứng dụng xem và chỉnh sửa tất cả tải về được khởi xướng bởi bất kỳ ứng dụng nào trên hệ thống.</string>
+    <string name="download_unknown_title">&lt;Không có tiêu đề></string>
+    <string name="notification_filename_separator">", "</string>
+    <string name="notification_filename_extras">" và %d nữa"</string>
+    <string name="notification_download_complete">Tải về hoàn tất.</string>
+    <string name="notification_download_failed">Tải về thất bại.</string>
+    <string name="notification_need_wifi_for_size">Kích thước tải về đòi hỏi phải có Wi-Fi.</string>
+    <string name="notification_paused_in_background">Tạm dừng trong nền.</string>
+    <string name="wifi_required_title">Tải về quá lớn đối với mạng di động</string>
+    <string name="wifi_required_body" formatted="false">"Bạn cần sử dụng Wi-Fi để hoàn tất tải về %s này. 
+
+Chạm %s để bắt đầu tải về này sau khi bạn đã kết nối với Wi-Fi."</string>
+    <string name="wifi_recommended_title">Nhắc nhở lưu lượng</string>
+    <string name="wifi_recommended_body" formatted="false">"Tải về thông qua mạng di động:
+
+ %s（%s）
+
+ Tải về các tập tin có thể phát sinh phí lưu lượng cao hơn."</string>
+    <string name="button_queue_for_wifi">Chờ Wi-Fi</string>
+    <string name="button_cancel_download">Hủy</string>
+    <string name="button_start_now">Bắt đầu ngay</string>
+    <string name="download_percent">%d%%</string>
+</resources>
