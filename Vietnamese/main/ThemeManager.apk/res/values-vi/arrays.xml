@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="audio_effect_file_names">
+        <item>Lock.ogg</item>
+        <item>Unlock.ogg</item>
+        <item>EffectTick.ogg</item>
+        <item>KeypressDelete.ogg</item>
+        <item>KeypressReturn.ogg</item>
+        <item>KeypressStandard.ogg</item>
+        <item>KeypressSpacebar.ogg</item>
+        <item>CameraClick.ogg</item>
+        <item>VideoRecord.ogg</item>
+        <item>CameraCountDown.ogg</item>
+        <item>CameraBeepSuccess.ogg</item>
+        <item>CameraBeepFail.ogg</item>
+        <item>CameraBeepInProgress.ogg</item>
+        <item>CameraBeepInProgress1.ogg</item>
+        <item>CameraBeepInProgress2.ogg</item>
+        <item>MusicShake.ogg</item>
+        <item>MessageComplete.ogg</item>
+        <item>SoundRecorderPlay.ogg</item>
+        <item>SoundRecorderPause.ogg</item>
+        <item>SoundRecorderRewind.ogg</item>
+        <item>LowBattery.ogg</item>
+    </string-array>
+    <string-array name="audio_effect_file_showing_names">
+        <item>Khóa</item>
+        <item>Mở khóa</item>
+        <item>Đánh dấu</item>
+        <item>Bấm phím Xóa</item>
+        <item>Bấm phím Quay lại</item>
+        <item>Bấm phím tiêu chuẩn</item>
+        <item>Bấm phím Khoảng cách</item>
+        <item>Âm chụp</item>
+        <item>Quay Video</item>
+        <item>Máy ảnh đếm ngược</item>
+        <item>Âm báo máy ảnh thành công</item>
+        <item>Âm báo máy ảnh thất bại</item>
+        <item>Âm báo máy ảnh đang xử lý</item>
+        <item>Âm báo máy ảnh đang xử lý 1</item>
+        <item>Âm báo máy ảnh đang xử lý 2</item>
+        <item>Lắc nhạc</item>
+        <item>Tin nhắn hoàn tất</item>
+        <item>Phát ghi âm</item>
+        <item>Dừng ghi âm</item>
+        <item>Tua lại ghi âm</item>
+        <item>Pin Yếu</item>
+    </string-array>
+    <string-array name="disable_package_replacement">
+        <item>vô hiệu hóa tên gói</item>
+    </string-array>
+</resources>
