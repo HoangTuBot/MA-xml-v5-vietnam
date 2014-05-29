@@ -87,12 +87,13 @@
     <string name="history">Lịch sử</string>
     <string name="menu_save_snapshot">Lưu để đọc ngoại tuyến</string>
     <string name="saving_snapshot">Đang lưu…</string>
-    <string name="snapshot_failed">Không thể lưu để đọc ngoại tuyến.</string>
+    <string name="snapshot_failed">Lưu để đọc ngoại tuyến thất bại.</string>
+    <string name="snapshot_successed">Lưu để đọc ngoại tuyến thành công.</string>
     <string name="contextmenu_openlink">Mở</string>
     <string name="contextmenu_savelink">Lưu liên kết</string>
     <string name="contextmenu_sharelink">Chia sẻ liên kết</string>
     <string name="contextmenu_copy">Sao chép</string>
-    <string name="contextmenu_copylink">Sao chép URL của liên kết</string>
+    <string name="contextmenu_copylink">Sao chép URL</string>
     <string name="contextmenu_download_image">Lưu hình ảnh</string>
     <string name="contextmenu_view_image">Xem hình ảnh</string>
     <string name="contextmenu_set_wallpaper">Cài làm hình nền</string>
@@ -105,7 +106,8 @@
     <string name="replace">Thay thế</string>
     <string name="menu_preferences">Cài đặt</string>
     <string name="pref_content_title">Nội dung trang</string>
-    <string name="pref_content_block_popups">Chặn cửa sổ bật lên</string>
+    <string name="pref_content_block_popups">Chặn pop-up</string>
+    <string name="pref_content_cloud_speedup">Tải nội dung nhanh hơn bằng cách sử dụng máy chủ proxy</string>
     <string name="pref_content_javascript">Kích hoạt JavaScript</string>
     <string name="pref_content_open_in_background">Mở chạy nền</string>
     <string name="pref_content_plugins">Kích hoạt plugins</string>
@@ -236,7 +238,7 @@
     <string name="download_sdcard_busy_dlg_msg">Thẻ SD đang bận. Để cho phép tải xuống, chọn \"Tắt thiết bị lưu trữ USB\" trong thông báo.</string>
     <string name="cannot_download">Chỉ có thể tải xuống URL \"http\" hoặc \"https\".</string>
     <string name="download_pending">Đang bắt đầu tải xuống…</string>
-    <string name="dump_nav">Dump navigation cache</string>
+    <string name="dump_nav">Đổ bộ nhớ đệm chuyển hướng</string>
     <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
     <string name="webstorage_outofspace_notification_title">Bộ nhớ của trình duyệt đã đầy</string>
     <string name="webstorage_outofspace_notification_text">Chạm để giải phóng dung lượng.</string>
@@ -478,7 +480,9 @@
     <string name="network_show_wifi_setting_tip_dialog_setting_title">Nếu bạn đang sử dụng dữ liệu di động để truy cập Internet, MIUI sẽ thông báo cho bạn nếu một kết nối Wi-Fi gần đó khả dụng</string>
     <string name="network_show_wifi_setting_tip_dialog_title">Kết nối Wi-Fi khả dụng</string>
     <string name="network_show_wifi_setting_tip_dialog_description">Tìm thấy kết nối Wi-Fi, bạn có muốn kết nối?</string>
-    <string name="network_show_wifi_setting_tip_dialog_notshow">Remember my choice</string>
+    <string name="dont_remind_again">Nhớ lựa chọn này</string>
+    <string name="use_cellular_network_alert_title">Cảnh báo mạng</string>
+    <string name="use_cellular_network_alert_message">Wi-Fi không có sẵn, bạn có muốn sử dụng mạng di động?</string>
     <string name="user_defined_webpage">Thêm vào trang bắt đầu</string>
     <string name="quicklink_user_define_webpage_title">Tên</string>
     <string name="quicklink_user_define_webpage_url">URL</string>
@@ -504,6 +508,9 @@
     <string name="sub_sync_item_browser_title_novel_summary">Đồng bộ tiểu thuyết của Trình duyệt</string>
     <string name="sub_sync_item_browser_title_cloud_tab">Đồng bộ các thẻ</string>
     <string name="sub_sync_item_browser_title_cloud_tab_summary">Đồng bộ các thẻ đang mở của Trình duyệt trên các thiết bị khác nhau</string>
+    <string name="xiaomi_bookmark_title">Xiaomi</string>
+    <string name="ssl_certificate">Chứng chỉ bảo mật</string>
+    <string name="ssl_certificate_is_valid">Chứng chỉ này là hợp lệ.</string>
     <string name="actionbar_share">Chia sẻ</string>
     <string name="actionbar_web_search">Tìm kiếm web</string>
     <string name="accessibility_content_view">Xem web</string>
@@ -575,7 +582,7 @@
 Bạn có chắc bạn muốn di chuyển khỏi trang này?"</string>
     <string name="webview_ok">OK</string>
     <string name="webview_cancel">Hủy</string>
-    <string name="webview_js_dialog_title">Trang tại \"%s\" cho biết: </string>
+    <string name="webview_js_dialog_title">Trang tại \"%s\" cho biết:</string>
     <string name="webview_js_dialog_title_default">JavaScript</string>
     <string name="webview_no_matches">Không có kết quả phù hợp</string>
     <string name="webview_find_on_page">Tìm trên trang</string>
