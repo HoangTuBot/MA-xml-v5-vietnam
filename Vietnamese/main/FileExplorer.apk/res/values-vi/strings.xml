@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="delete_folder">Bạn có chắc muốn xóa thư mục này?</string>
+    <string name="delete_folders">Bạn có chắc muốn xóa %1$d thư mục đã chọn?</string>
+    <string name="delete_file">Xóa?</string>
+    <string name="delete_files">Bạn có chắc muốn xóa %1$d tập tin đã chọn?</string>
     <string name="app_name">Quản lý Tập tin</string>
     <string name="confirm">OK</string>
     <string name="menu_item_ftp">FTP</string>
@@ -40,24 +44,22 @@
     <string name="category_other">Khác</string>
     <string name="category_favorite">Ưa thích</string>
     <string name="category_bluetooth">Bluetooth</string>
-    <string name="category_log">Logs</string>
+    <string name="category_log">Bản ghi</string>
+    <string name="category_mirouter">Router</string>
+    <string name="colon">": "</string>
     <string name="operation_rename_message">Nhập tên một mới</string>
     <string name="operation_create_folder_message">Nhập tên thư mục</string>
     <string name="operation_delete_confirm_message">Xác nhận xóa?</string>
     <string name="operation_delete_confirm_message_folder">Xóa thư mục cũng sẽ xóa tất cả các tập tin bên trong nó.</string>
-    <string name="delete_folder">Bạn có chắc muốn xóa thư mục này?</string>
-    <string name="delete_folders">Bạn có chắc muốn xóa %1$d thư mục đã chọn?</string>
-    <string name="delete_file">Xóa?</string>
-    <string name="delete_files">Bạn có chắc muốn xóa %1$d tập tin đã chọn?</string>
     <string name="new_folder_name">Thư mục mới</string>
     <string name="sd_card_size">Thẻ SD: %1$s</string>
     <string name="sd_card_available">Trống: %1$s</string>
-    <string name="file_info_location">Đường dẫn: </string>
-    <string name="file_info_size">Kích thước: </string>
-    <string name="file_info_modified">Được thay đổi: </string>
-    <string name="file_info_canread">Có thể đọc: </string>
-    <string name="file_info_canwrite">Có thể ghi: </string>
-    <string name="file_info_ishidden">Ẩn: </string>
+    <string name="file_info_location">Đường dẫn:</string>
+    <string name="file_info_size">Kích thước:</string>
+    <string name="file_info_modified">Được thay đổi:</string>
+    <string name="file_info_canread">Có thể đọc:</string>
+    <string name="file_info_canwrite">Có thể ghi:</string>
+    <string name="file_info_ishidden">Ẩn:</string>
     <string name="yes">Có</string>
     <string name="no">Không</string>
     <string name="operation_deleting">Đang xóa…</string>
@@ -101,11 +103,10 @@
     <string name="ui_main_toast_favorite_removed">Ưa thích đã xóa</string>
     <string name="ui_main_toast_operation_failed">Xóa ưa thích %1$s thất bại.</string>
     <string name="user_guide">Hướng dẫn sử dụng</string>
-    <string name="user_guide_summary">Làm thế nào để sử dụng MiDrive</string>
     <string name="rename_failed">Đổi tên 《%1$s》 thất bại</string>
     <string name="directory_no_item">Thư mục trống</string>
     <string name="error_open_file_failed_no_app_found">Không tìm thấy ứng dụng nào để mở tập tin</string>
-    <string name="no_enough_space">Không đủ dung lượng</string>
+    <string name="directory_info_divider">"  |  "</string>
     <string name="no_enough_storage_title">Không đủ dung lượng trống</string>
     <string name="no_enough_storage_indication">Không đủ dung lượng trống. Vui lòng xóa các tập tin không cần thiết và thử lại, hoặc sử dụng trình Dọn dẹp để làm trống.</string>
     <string name="ui_main_menu_option_task_manage">Quản lý Chuyển giao</string>
@@ -117,14 +118,13 @@
     <string name="pan_settting">Cài đặt MiDrive</string>
     <string name="xiaomi_account">Tài khoản Xiaomi</string>
     <string name="space_usage">Sử dụng</string>
-    <string name="used">Đã dùng </string>
+    <string name="used">"Đã dùng: "</string>
     <string name="loading">Đang tải…</string>
     <string name="load_err">Tải thất bại</string>
-    <string name="local_cache_size">Kích thước bộ nhớ đệm: %s</string>
     <string name="net_lose_connected">Mạng không khả dụng, không thể lấy kích thước</string>
     <string name="wangpan_root_path">Ổ đĩa của tôi</string>
     <string name="kuaipan_over_space">MiDrive của bạn không còn khoảng trống.</string>
-    <string name="kuaipan_tech_support">Hỗ trợ kỹ thuật được cung cấp bởi Xiaomi</string>
+    <string name="kuaipan_tech_support">Việt hóa bởi ♋๖ۣۜßεℓ™</string>
     <string name="no_tasks">Không có tác vụ nào</string>
     <string name="no_more_space">Không đủ bộ nhớ</string>
     <string name="sd_full">Bộ lưu trữ trên máy đã đầy</string>
@@ -132,7 +132,7 @@
     <string name="create_new_folder_failed">Tạo thư mục %1$s thất bại</string>
     <string name="user_guide_kuaipan_copy">Dùng MiDrive để chia sẻ tập tin của bạn giữa nhiều thiết bị</string>
     <string name="user_guide_upload_to_kuaipan">Sao chép và dán tập tin tới MiDrive</string>
-    <string name="user_guide_download_other_version">Tải MiDrive ho PC hoặc Mac</string>
+    <string name="user_guide_download_other_version">Tải MiDrive cho PC hoặc Mac</string>
     <string name="user_guide_other_version">Tải xuống phiên bản thay thế MiDrive</string>
     <string name="upload_file_toolarge_message">%1$d tập tin lớn hơn 300M không thể được tải lên. Vui lòng kiểm tra Quản lý Chuyển giao để biết chi tiết.</string>
     <string name="cution">Mẹo</string>
@@ -157,7 +157,7 @@
     <string name="operation_decompressing">Đang giải nén…</string>
     <string name="decompress_success">Giải nén thành công!</string>
     <string name="decompress_fail">Giải nén thất bại!</string>
-    <string name="decompress_to_here">Giải nén tới: </string>
+    <string name="decompress_to_here">Giải nén tới:</string>
     <string name="decompress_to">Đang giải nén…</string>
     <string name="decompress_confirm">Giải nén?</string>
     <string name="decompress_cancel">Hủy</string>
@@ -221,7 +221,6 @@ Dung lượng miễn phí tăng thêm %1$s"</string>
     <string name="operating">Đang chạy…</string>
     <string name="trans_task">Chuyển mạng</string>
     <string name="des_running_trans">Có %1$d tập tin vẫn cần được chuyển giao</string>
-    <string name="trans_task_delete_confirm_message">Bạn có chắc muốn xóa %1$d tác vụ đã chọn?</string>
     <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\">Nhấp vào đây&lt;/a> để mở thùng rác MiDrive</string>
     <string name="storage_internal">Bộ nhớ máy</string>
     <string name="storage_sd_card">Thẻ SD</string>
@@ -230,55 +229,7 @@ Dung lượng miễn phí tăng thêm %1$s"</string>
     <string name="bind_account_summary">Nếu bạn đã có tài khoản MiDrive bạn có thể thêm nó để lấy dữ liệu cá nhân của bạn</string>
     <string name="binded_accout_title">Tài khoản MiDrive</string>
     <string name="binded_accout_description">Tài khoản được sáp nhập, sử dụng một tài khoản Xiaomi khác hoặc tài khoản MiDrive của bạn để đăng nhập, cả hai đều có thể đọc dữ liệu của bạn</string>
-    <string name="file_cleanup">Dọn dẹp tập tin</string>
-    <string name="scanning_on_going">Đang quét…</string>
-    <string name="scanning" formatted="false">Đang quét %d ứng dụng… (tổng %d ứng dụng)</string>
-    <string name="sys_size_title">Tổng dung lượng</string>
-    <string name="sys_size">Tổng dung lượng %1$s</string>
-    <string name="application_size_label">Ứng dụng</string>
-    <string name="data_size_label">Dữ liệu</string>
-    <string name="cache_size_label">Bộ nhớ đệm</string>
-    <string name="sd_size_label">Dung lượng thẻ SD</string>
-    <string name="version_text">Phiên bản: %1$s</string>
-    <string name="uninstall_app_data">Xóa ứng dụng và dữ liệu</string>
-    <string name="start_cleanup">Bắt đầu dọn dẹp</string>
-    <string name="header_text_scanning">Đang quét tập tin rác…</string>
-    <string name="header_text_scanned">Đã tìm thấy tập tin rác để xóa</string>
-    <string name="header_text_cleaning">Làm sạch rác còn sót lại</string>
-    <string name="header_text_cleaned">Đã xóa rác</string>
-    <string name="waiting_for_cleaning">Đang chờ làm sạch…</string>
-    <string name="item_name">Chưa đặt tên</string>
-    <string name="waiting_for_scanning">Đang chờ làm sạch…</string>
-    <string name="scanned">Quét hoàn tất</string>
     <string name="cleaning">Đang làm sạch…</string>
-    <string name="cleaned">Hoàn tất!</string>
-    <string name="cleanup_stopped">Dọn dẹp đã ngừng lại</string>
-    <string name="temp_file_title">Tập tin tạm</string>
-    <string name="thumbnail_title">Tập tin thumbnail</string>
-    <string name="app_cache_title">Bộ nhớ đệm ứng dụng</string>
-    <string name="empty_dir_title">Thư mục trống</string>
-    <string name="app_garbage_title">Rác ứng dụng</string>
-    <string name="temp_file_cleanup_indication">%s tập tin tạm</string>
-    <string name="thumbnail_cleanup_indication">%s thumbnails</string>
-    <string name="app_cache_cleanup_indication">%s bộ nhớ đệm</string>
-    <string name="empty_dir_cleanup_indication">%s tập tin rác</string>
-    <string name="app_garbage_cleanup_indication">%s rác ứng dụng</string>
-    <string name="no_temp_file_indication">Không có tập tin tạm</string>
-    <string name="no_thumbnail_indication">Không có thumbnail</string>
-    <string name="no_app_cache_indication">Không có bộ nhớ đệm ứng dụng</string>
-    <string name="no_empty_dir_indication">Không có thư mục rỗng</string>
-    <string name="no_app_garbage_indication">Không có rác ứng dụng</string>
-    <string name="cancel_app_garbage_cleanup">Hủy dọn dẹp ứng dụng</string>
-    <string name="clean_app_garbage">Xóa %d mục</string>
-    <string name="app_garbage_path">Vị trí: </string>
-    <string name="give_up_cleaning">Hủy dọn dẹp</string>
-    <string name="restart_cleaning">Khởi động lại</string>
-    <string name="cleanup_complete">Dọn dẹp thành công</string>
-    <string name="count_down_time">Bắt đầu sau %d giây</string>
-    <string name="cancel_with_count_down">Hủy (%d)</string>
-    <string name="garbage_size_metric">%s Rác</string>
-    <string name="garbage_item_name_format" formatted="false">%s ( %s )</string>
-    <string name="garbage_item_path_format" formatted="false">%s %s</string>
     <string name="account_bind_prompt">Đang di chuyển dữ liệu người dùng, tài khoản của bạn sẽ tạm thời bị khóa, vui lòng chờ…</string>
     <string name="migrate_announcement_title">Di chuyển tài khoản</string>
     <string name="migrate_announcement_msg">Nếu bạn có một tài khoản, bạn có thể liên kết nó trong cài đặt và truy cập ưu tiên</string>
@@ -296,7 +247,4 @@ Dung lượng miễn phí tăng thêm %1$s"</string>
     <string name="folder_exist">Thư mục đã tồn tại</string>
     <string name="unmount_inform_text">Lưu trữ USB sẽ được ngắt kết nối.</string>
     <string name="dlg_error_unmount_text">Không thể ngắt kết nối lưu trữ USB. Hãy thử lại sau.</string>
-    <string name="ui_bar_txt_upload_progress">Đang tải lên…</string>
-    <string name="delete_files_and_folders">Bạn có chắc muốn xóa %1$d tập tin và %2$d thư mục đã chọn?</string>
-    <string name="ui_bar_txt_download_progress">Đang tải xuống…</string>
 </resources>
