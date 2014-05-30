@@ -69,8 +69,8 @@
     <string name="create_shortcut_bookmark">Thêm lối tắt vào màn hình</string>
     <string name="open_bookmark">Mở</string>
     <string name="remove_bookmark">Xoá địa chỉ</string>
-    <string name="remove_from_bookmarks">Xoá khỏi dấu trang</string>
-    <string name="remove_history_item">Xoá khỏi lịch sử</string>
+    <string name="remove_from_bookmarks">Xóa khỏi dấu trang</string>
+    <string name="remove_history_item">Xóa khỏi lịch sử</string>
     <string name="set_as_homepage">Đặt làm trang chủ</string>
     <string name="bookmark_saved">Đã lưu vào dấu trang</string>
     <string name="bookmark_not_saved">Không thể lưu dấu trang.</string>
@@ -81,7 +81,7 @@
     <string name="bookmark_cannot_save_url">Đường dẫn URL này không thể lưu dấu trang.</string>
     <string name="bookmark_page">Dấu trang xem gần đây nhất</string>
     <string name="bookmark_list_view">Danh sách</string>
-    <string name="delete_bookmark_warning">Xoá \"%s\"?</string>
+    <string name="delete_bookmark_warning">Xóa \"%s\"?</string>
     <string name="select_dot">Chọn văn bản</string>
     <string name="bookmarks">Dấu trang</string>
     <string name="history">Lịch sử</string>
@@ -153,11 +153,11 @@
     <string name="pref_privacy_clear_cache_summary">Xóa nội dung và cơ sở dữ liệu đã lưu</string>
     <string name="pref_privacy_clear_cache_dlg">Xóa nội dung và cơ sở dữ liệu đã lưu?</string>
     <string name="pref_privacy_cookies_title">Cookie</string>
-    <string name="pref_privacy_clear_cookies">Xoá tất cả dữ liệu cookie</string>
-    <string name="pref_privacy_clear_cookies_summary">Xoá tất cả các cookie của trình duyệt</string>
+    <string name="pref_privacy_clear_cookies">Xóa tất cả dữ liệu cookie</string>
+    <string name="pref_privacy_clear_cookies_summary">Xóa tất cả các cookie của trình duyệt</string>
     <string name="pref_privacy_clear_cookies_dlg">Xóa tất cả cookie?</string>
     <string name="pref_privacy_clear_history">Xóa lịch sử</string>
-    <string name="pref_privacy_clear_history_summary">Xoá lịch sử trình duyệt</string>
+    <string name="pref_privacy_clear_history_summary">Xóa lịch sử trình duyệt</string>
     <string name="pref_privacy_formdata_title">Dữ liệu biểu mẫu</string>
     <string name="pref_privacy_clear_form_data">Xóa dữ liệu biểu mẫu</string>
     <string name="pref_privacy_clear_form_data_summary">Xóa tất cả dữ liệu biểu mẫu đã lưu</string>
@@ -168,8 +168,8 @@
     <string name="pref_privacy_location_title">Vị trí</string>
     <string name="pref_privacy_enable_geolocation">Kích hoạt vị trí</string>
     <string name="pref_privacy_enable_geolocation_summary">Cho phép các trang web yêu cầu quyền truy cập vào vị trí của bạn</string>
-    <string name="pref_privacy_clear_geolocation_access">Xoá quyền truy cập vị trí</string>
-    <string name="pref_privacy_clear_geolocation_access_summary">Xoá quyền truy cập vị trí cho tất cả các web</string>
+    <string name="pref_privacy_clear_geolocation_access">Xóa quyền truy cập vị trí</string>
+    <string name="pref_privacy_clear_geolocation_access_summary">Xóa quyền truy cập vị trí cho tất cả các web</string>
     <string name="pref_privacy_clear_geolocation_access_dlg">Xóa truy cập vị trí của trang web?</string>
     <string name="pref_security_passwords_title">Mật khẩu</string>
     <string name="pref_security_remember_passwords">Nhớ mật khẩu</string>
