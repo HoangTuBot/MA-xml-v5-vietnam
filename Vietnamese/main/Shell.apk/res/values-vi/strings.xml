@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_label">Shell</string>
-  <string name="bugreport_confirm">Báo cáo lỗi chứa dữ liệu từ các bản ghi khác nhau của hệ thống, bao gồm cả thông tin cá nhân và riêng tư. Chỉ chia sẻ báo cáo lỗi với các ứng dụng và những người bạn tin tưởng.</string>
-  <string name="bugreport_confirm_repeat">Hiện thông báo này lần sau</string>
-  <string name="bugreport_finished_text">Chạm để chia sẻ báo cáo lỗi của bạn</string>
-  <string name="bugreport_finished_title">Báo cáo lỗi được ghi nhận</string>
+    <string name="app_label">Shell</string>
+    <string name="bugreport_finished_title">Báo cáo lỗi đã được chụp</string>
+    <string name="bugreport_finished_text">Chạm để chia sẻ báo cáo lỗi của bạn</string>
+    <string name="bugreport_confirm">Các báo cáo lỗi chứa dữ liệu từ nhiều tập tin nhật ký khác nhau của hệ thống, bao gồm cả thông tin cá nhân và riêng tư. Chỉ chia sẻ báo cáo lỗi với các ứng dụng và những người mà bạn tin tưởng.</string>
+    <string name="bugreport_confirm_repeat">Hiển thị thông báo này vào lần tới</string>
 </resources>
