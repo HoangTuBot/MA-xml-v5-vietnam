@@ -186,8 +186,8 @@
     </string-array>
     <string-array name="wifi_frequency_band_entries">
         <item>Tự động</item>
-        <item>Chỉ 5GHz</item>
-        <item>Chỉ 2.4GHz</item>
+        <item>Chỉ 5 GHz</item>
+        <item>Chỉ 2.4 GHz</item>
     </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>Thời gian sử dụng</item>
@@ -222,7 +222,7 @@
     </string-array>
     <string-array name="emergency_tone_entries">
         <item>Tắt</item>
-        <item>Cảnh báo</item>
+        <item>Thông báo</item>
         <item>Rung</item>
     </string-array>
     <string-array name="apn_auth_entries">
@@ -256,7 +256,7 @@
         <item>Vị trí</item>
         <item>Cá nhân</item>
         <item>Nhắn tin</item>
-        <item>Media</item>
+        <item>Phương tiện</item>
         <item>Thiết bị</item>
         <item>Khởi động</item>
     </string-array>
@@ -276,15 +276,15 @@
         <item>quét tín hiệu</item>
         <item>cuộc gọi điện thoại</item>
         <item>đọc SMS</item>
-        <item>ghi SMS</item>
+        <item>soạn SMS</item>
         <item>nhận SMS</item>
         <item>nhận SMS khẩn cấp</item>
         <item>nhận MMS</item>
         <item>nhận WAP</item>
         <item>gửi SMS</item>
         <item>đọc ICC SMS</item>
-        <item>ghi ICC SMS</item>
-        <item>sửa đổi cài đặt</item>
+        <item>soạn ICC SMS</item>
+        <item>sửa cài đặt</item>
         <item>vẽ lên trước</item>
         <item>truy cập thông báo</item>
         <item>máy ảnh</item>
@@ -292,31 +292,31 @@
         <item>phát âm thanh</item>
         <item>đọc khay nhớ tạm</item>
         <item>sửa khay nhớ tạm</item>
-        <item>phím media</item>
+        <item>các nút phương tiện</item>
         <item>tập trung âm thanh</item>
-        <item>âm lượng tổng thể</item>
-        <item>âm lượng giọng nói</item>
-        <item>âm lượng nhạc chuông</item>
-        <item>âm lượng media</item>
+        <item>âm lượng chính</item>
+        <item>âm lượng thoại</item>
+        <item>âm lượng chuông</item>
+        <item>âm lượng phương tiện</item>
         <item>âm lượng báo thức</item>
         <item>âm lượng thông báo</item>
         <item>âm lượng bluetooth</item>
-        <item>giữ màn hình luôn bật</item>
+        <item>không khóa màn hình</item>
         <item>theo dõi vị trí</item>
-        <item>theo dõi vị trí</item>
+        <item>theo dõi vị trí dùng điện năng cao</item>
         <item>bật/tắt Wi-Fi</item>
         <item>bật/tắt Bluetooth</item>
         <item>bật/tắt dữ liệu</item>
         <item>gửi MMS</item>
         <item>đọc MMS</item>
-        <item>ghi MMS</item>
+        <item>soạn MMS</item>
         <item>tự khởi chạy</item>
     </string-array>
     <string-array name="app_ops_labels">
         <item>Vị trí</item>
         <item>Vị trí</item>
         <item>Vị trí</item>
-        <item>Vibrate</item>
+        <item>Rung</item>
         <item>Đọc danh bạ</item>
         <item>Sửa danh bạ</item>
         <item>Đọc nhật ký cuộc gọi</item>
@@ -326,17 +326,17 @@
         <item>Vị trí</item>
         <item>Đăng thông báo</item>
         <item>Vị trí</item>
-        <item>Cuộc gọi diện thoại</item>
+        <item>Gọi điện thoại</item>
+        <item>Đọc SMS/MMS</item>
+        <item>Soạn SMS/MMS</item>
+        <item>Nhận SMS/MMS</item>
+        <item>Nhận SMS/MMS</item>
+        <item>Nhận SMS/MMS</item>
         <item>Nhận SMS/MMS</item>
         <item>Gửi SMS/MMS</item>
-        <item>Nhận SMS/MMS</item>
-        <item>Nhận SMS/MMS</item>
-        <item>Nhận SMS/MMS</item>
-        <item>Nhận SMS/MMS</item>
-        <item>Gửi SMS/MMS</item>
-        <item>Nhận SMS/MMS</item>
-        <item>Gửi SMS/MMS</item>
-        <item>Sửa đổi cài đặt</item>
+        <item>Đọc SMS/MMS</item>
+        <item>Soạn SMS/MMS</item>
+        <item>Sửa cài đặt</item>
         <item>Vẽ lên trước</item>
         <item>Truy cập thông báo</item>
         <item>Máy ảnh</item>
@@ -344,16 +344,16 @@
         <item>Phát âm thanh</item>
         <item>Đọc khay nhớ tạm</item>
         <item>Sửa khay nhớ tạm</item>
-        <item>phím media</item>
+        <item>Các nút phương tiện</item>
         <item>Tập trung âm thanh</item>
-        <item>Âm lượng tổng thể</item>
-        <item>Âm lượng giọng nói</item>
-        <item>Âm lượng nhạc chuông</item>
-        <item>Âm lượng media</item>
+        <item>Âm lượng chính</item>
+        <item>Âm lượng thoại</item>
+        <item>Âm lượng chuông</item>
+        <item>Âm lượng phương tiện</item>
         <item>Âm lượng báo thức</item>
         <item>Âm lượng thông báo</item>
         <item>Âm lượng bluetooth</item>
-        <item>Giữ màn hình luôn bật</item>
+        <item>Không khóa màn hình</item>
         <item>Vị trí</item>
         <item>Vị trí</item>
         <item>Bật/tắt Wi-Fi</item>
@@ -361,7 +361,7 @@
         <item>Bật/tắt dữ liệu</item>
         <item>Gửi MMS</item>
         <item>Đọc MMS</item>
-        <item>Ghi MMS</item>
+        <item>Soạn MMS</item>
         <item>Tự khởi chạy</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
@@ -372,9 +372,9 @@
     <string-array name="captioning_typeface_selector_titles">
         <item>Mặc định</item>
         <item>Sans-serif</item>
-        <item>Sans-serif được cô đọng</item>
+        <item>Sans-serif mật độ cao</item>
         <item>Serif</item>
-        <item>Monospace</item>
+        <item>Đơn cách</item>
     </string-array>
     <string-array name="captioning_font_size_selector_titles">
         <item>Bé</item>
@@ -385,14 +385,20 @@
     </string-array>
     <string-array name="captioning_edge_type_selector_titles">
         <item>Không</item>
-        <item>Phác thảo</item>
+        <item>Viền ngoài</item>
         <item>Tạo bóng</item>
     </string-array>
+    <string-array name="captioning_opacity_selector_titles">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </string-array>
     <string-array name="captioning_preset_selector_titles">
-        <item>Trắng trên nền đen</item>
-        <item>Đen trên nền trắng</item>
-        <item>Vàng trên nền đen</item>
-        <item>Vàng trên nền xanh</item>
+        <item>Chữ trắng trên nền đen</item>
+        <item>Chữ đen trên nền trắng</item>
+        <item>Chữ vàng trên nền đen</item>
+        <item>Chữ vàng trên nền xanh lam</item>
         <item>Tùy chỉnh</item>
     </string-array>
     <string-array name="select_runtime_titles">
@@ -401,102 +407,102 @@
         <item>ART (gỡ lỗi)</item>
     </string-array>
     <string-array name="select_runtime_summaries">
-        <item>Dùng Dalvik</item>
-        <item>Dùng ART</item>
-        <item>Dùng bản gỡ lỗi ART</item>
+        <item>Sử dụng Dalvik</item>
+        <item>Sử dụng ART</item>
+        <item>Sử dụng bản dựng gỡ lỗi ART</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Không bao giờ</item>
         <item>Chỉ kiểm tra nội dung DRM</item>
-        <item>Luôn luôn</item>
+        <item>Luôn kiểm tra</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
-        <item>Không bao giờ dùng kiểm tra HDCP</item>
-        <item>Dùng kiểm tra HDCP chỉ cho nội dung DRM</item>
-        <item>Luôn dùng kiểm tra HDCP</item>
+        <item>Không bao giờ sử dụng kiểm tra HDCP</item>
+        <item>Chỉ sử dụng kiểm tra HDCP cho nội dung DRM</item>
+        <item>Luôn sử dụng kiểm tra HDCP</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
-        <item>Tắt hiệu ứng</item>
-        <item>Tốc độ hiệu ứng 0.5x</item>
-        <item>Tốc độ hiệu ứng 1x</item>
-        <item>Tốc độ hiệu ứng 1.5x</item>
-        <item>Tốc độ hiệu ứng 2x</item>
-        <item>Tốc độ hiệu ứng 5x</item>
-        <item>Tốc độ hiệu ứng 10x</item>
+        <item>Tắt hình động</item>
+        <item>Tỷ lệ hình động 0,5x</item>
+        <item>Tỷ lệ hình động 1x</item>
+        <item>Tỷ lệ hình động 1,5x</item>
+        <item>Tỷ lệ hình động 2x</item>
+        <item>Tỷ lệ hình động 5x</item>
+        <item>Tỷ lệ hình động 10x</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
-        <item>Tắt hiệu ứng</item>
-        <item>Tốc độ hiệu ứng 0.5x</item>
-        <item>Tốc độ hiệu ứng 1x</item>
-        <item>Tốc độ hiệu ứng 1.5x</item>
-        <item>Tốc độ hiệu ứng 2x</item>
-        <item>Tốc độ hiệu ứng 5x</item>
-        <item>Tốc độ hiệu ứng 10x</item>
+        <item>Tắt hình động</item>
+        <item>Tỷ lệ hình động 0,5x</item>
+        <item>Tỷ lệ hình động 1x</item>
+        <item>Tỷ lệ hình động 1,5x</item>
+        <item>Tỷ lệ hình động 2x</item>
+        <item>Tỷ lệ hình động 5x</item>
+        <item>Tỷ lệ hình động 10x</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
-        <item>Tắt hiệu ứng</item>
-        <item>Tốc độ hiệu ứng 0.5x</item>
-        <item>Tốc độ hiệu ứng 1x</item>
-        <item>Tốc độ hiệu ứng 1.5x</item>
-        <item>Tốc độ hiệu ứng 2x</item>
-        <item>Tốc độ hiệu ứng 5x</item>
-        <item>Tốc độ hiệu ứng 10x</item>
+        <item>Tắt hình động</item>
+        <item>Tỷ lệ hình động 0,5x</item>
+        <item>Tỷ lệ hình động 1x</item>
+        <item>Tỷ lệ hình động 1,5x</item>
+        <item>Tỷ lệ hình động 2x</item>
+        <item>Tỷ lệ hình động 5x</item>
+        <item>Tỷ lệ hình động 10x</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
-        <item>Không</item>
+        <item>Không có</item>
         <item>720x480 mdpi</item>
-        <item>720x480 mdpi (bảo mật)</item>
+        <item>720x480 mdpi (an toàn)</item>
         <item>1280x720 tvdpi</item>
-        <item>1280x720 tvdpi (bảo mật)</item>
+        <item>1280x720 tvdpi (an toàn)</item>
         <item>1920x1080 xhdpi</item>
-        <item>1920x1080 xhdpi (bảo mật)</item>
+        <item>1920x1080 xhdpi (an toàn)</item>
         <item>1280x720 tvdpi và 1920x1080 xhdpi</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
-        <item>Không</item>
+        <item>Không có</item>
         <item>Logcat</item>
         <item>Systrace (Đồ họa)</item>
-        <item>Cuộc gọi ngăn xếp trên glGetError</item>
+        <item>Chồng lệnh trên glGetError</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>Tắt</item>
-        <item>Vẽ trong khu vực bằng màu xanh dương</item>
-        <item>Vẽ trong biểu đồ bằng màu xanh lá</item>
+        <item>Vẽ vùng clip khác hình chữ nhật bằng màu lam</item>
+        <item>Đánh dấu lệnh vẽ đã kiểm tra bằng màu lục</item>
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>Tắt</item>
-        <item>Như thanh trên màn hình</item>
-        <item>Như dòng trên màn hình</item>
+        <item>Trên màn hình dưới dạng thanh</item>
+        <item>Trên màn hình dưới dạng đường</item>
         <item>Trong adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Tắt</item>
-        <item>Hiện các khu vực chồng lấp</item>
-        <item>Hiện khu vực cho Deuteranomaly</item>
-        <item>Hiện đối lập chồng lấp</item>
+        <item>Hiển thị các vùng vẽ quá</item>
+        <item>Hiển thị các vùng mô phỏng mù màu lục</item>
+        <item>Hiển thị bộ đo mức vẽ quá</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Giới hạn tiêu chuẩn</item>
-        <item>Không cho chạy nền</item>
-        <item>Nhiều nhất là 1 tiến trình</item>
-        <item>Nhiều nhất là 2 tiến trình</item>
-        <item>Nhiều nhất là 3 tiến trình</item>
-        <item>Nhiều nhất là 4 tiến trình</item>
+        <item>Không có quá trình nền</item>
+        <item>Tối đa 1 quá trình</item>
+        <item>Tối đa 2 quá trình</item>
+        <item>Tối đa 3 quá trình</item>
+        <item>Tối đa 4 quá trình</item>
     </string-array>
     <string-array name="vpn_types_long">
         <item>PPTP VPN</item>
-        <item>L2TP/IPSec VPN với các khóa trước khi chia sẻ</item>
-        <item>L2TP/IPSec VPN với các chứng chỉ</item>
-        <item>IPSec VPN với các khóa trước khi chia sẻ và xác thực Xauth</item>
-        <item>IPSec VPN với các chứng chỉ và xác thực Xauth</item>
-        <item>IPSec VPN với các chứng chỉ và xác thực Hybrid</item>
+        <item>L2TP/IPSec VPN có khóa chia sẻ trước</item>
+        <item>L2TP/IPSec VPN có chứng chỉ</item>
+        <item>IPSec VPN có khóa được chia sẻ trước và xác thực Xauth</item>
+        <item>IPSec VPN có chứng chỉ và xác thực Xauth</item>
+        <item>IPSec VPN có chứng chỉ và xác thực kết hợp</item>
     </string-array>
     <string-array name="vpn_states">
         <item>Đã ngắt kết nối</item>
-        <item>Đang khởi tạo…</item>
+        <item>Đang khởi chạy…</item>
         <item>Đang kết nối…</item>
         <item>Đã kết nối</item>
-        <item>Hết thời gian chờ</item>
+        <item>Thời gian chờ</item>
         <item>Không thành công</item>
     </string-array>
     <string-array name="user_content_ratings_entries">
@@ -507,9 +513,9 @@
         <item>Mù công nghệ</item>
     </string-array>
     <string-array name="security_settings_premium_sms_values">
-        <item>Hỏi lại</item>
+        <item>Hỏi</item>
         <item>Không bao giờ</item>
-        <item>Luôn luôn</item>
+        <item>Luôn cho phép</item>
     </string-array>
     <string-array name="multi_sim_entries">
         <item>Thuê bao 1</item>
@@ -579,9 +585,9 @@
         <item>Đóng ứng dụng hiện tại</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
-        <item>0.5 giây</item>
+        <item>0,5 giây</item>
         <item>1 giây</item>
-        <item>1.5 giây</item>
+        <item>1,5 giây</item>
         <item>2 giây</item>
     </string-array>
     <string-array name="wfd_status">
@@ -600,7 +606,7 @@
     </string-array>
     <string-array name="msd_pc_system_install_start_summary">
         <item>Đối với Windows XP hoặc các phiên bản cũ hơn, driver cần phải được cài đặt bằng tay.</item>
-        <item>Đối với Windows Vista hoặc phiên bản mới hơn, máy nghe nhạc MI-3 sẽ xuất hiện trên máy tính của bạn.</item>
+        <item>@string/msd_pc_system_install_start_summary_vista</item>
         <item>Đối với hệ điều hành Mac OS, driver cần phải được cài đặt bằng tay.</item>
         <item></item>
     </string-array>
@@ -613,20 +619,17 @@ Mở và chọn Setup.exe để cài đặt."</item>
 Mở và chọn AndroidFileTransfer.dmg để cài đặt."</item>
         <item></item>
     </string-array>
-    <string-array name="msd_pc_system_install_step_2_summary">
-        <item>"2. Thiết bị lưu trữ di động MI-3 sẽ xuất hiện trên máy tính của bạn.
-Bây giờ bạn có thể trao đổi dữ liệu"</item>
+    <array name="msd_pc_system_install_step_2_summary">
+        <item>@string/msd_pc_system_install_step_2_summary_xp</item>
         <item></item>
-        <item>"Máy tính sẽ tự động mở và đọc dữ liệu trên điện thoại.
-Bây giờ bạn có thể trao đổi dữ liệu"</item>
+        <item>Sao chép tập tin như sử dụng bất cứ ổ đĩa ngoài nào.</item>
         <item></item>
-    </string-array>
+    </array>
     <string-array name="msd_pc_system_install_finish_summary">
+        <item>@string/msd_pc_system_install_finish_summary_xp</item>
+        <item>@string/msd_pc_system_install_finish_summary_vista</item>
         <item>"Nếu bạn cài đặt driver này.
-Thiết bị lưu trữ di động MI-3 sẽ xuất hiện trên máy tính"</item>
-        <item>Đối với Windows Vista hoặc phiên bản mới hơn, máy nghe nhạc MI-3 sẽ xuất hiện trên máy tính của bạn</item>
-        <item>"Nếu bạn cài đặt driver này.
-Máy tính sẽ tự động mở và đọc dữ liệu trên điện thoại"</item>
+Máy tính sẽ tự động mở và đọc dữ liệu trên điện thoại."</item>
         <item></item>
     </string-array>
     <string-array name="screen_color_title">
@@ -647,12 +650,12 @@ Máy tính sẽ tự động mở và đọc dữ liệu trên điện thoại"<
         <item>Tự nhiên</item>
     </string-array>
     <string-array name="phone_call_noise_suppression_title">
-        <item>Loại bỏ tiếng ồn (Single-mic)</item>
-        <item>Loại bỏ tiếng ồn (Dual-mic)</item>
+        <item>Loại bỏ tiếng ồn (1 micrô)</item>
+        <item>Loại bỏ tiếng ồn (2 micrô)</item>
     </string-array>
     <string-array name="change_security_lock_picker">
         <item>Mở khóa bằng khuôn mặt</item>
-        <item>Hình mở khóa</item>
+        <item>Hình</item>
         <item>Mã PIN</item>
         <item>Mật khẩu</item>
     </string-array>
