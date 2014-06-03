@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hướng dẫn</string>
+    <string name="loading_userbook">Đang tải…</string>
+    <string name="bakc_key_toast_txt">Nhấm phím Back lần nữa để thoát</string>
+    <string name="non_wifi_not_download_data">Không thể sử dụng kết nối dữ liệu của bạn để tải gói này. Hãy thử lại khi bạn đã kết nối với một mạng Wi-Fi</string>
+</resources>
