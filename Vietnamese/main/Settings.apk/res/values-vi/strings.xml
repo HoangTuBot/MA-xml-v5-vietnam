@@ -13,8 +13,6 @@
 Bạn có muốn kích hoạt không?"</string>
     <string name="app_floating_window_dlg_disable">"Vô hiệu hóa hiển thị các cửa sổ bật lên của %1$s sẽ buộc ngừng ứng dụng.
 Bạn có muốn vô hiệu hóa không?"</string>
-    <string name="dlg_ok">OK</string>
-    <string name="dlg_cancel">Hủy</string>
     <string name="cache_manage_title">Xóa %1$d tập tin tạm để làm trống %2$s</string>
     <string name="cache_list_empty_hints">Không có tập tin tạm</string>
     <string name="optimize_title_cache">Tạm</string>
@@ -381,7 +379,6 @@ Bạn cần phải thay đổi cài đặt Pin của bạn trước khi bạn c�
     <string name="menu_item_force_stop">Buộc dừng</string>
     <string name="menu_item_uninstall">Gỡ cài đặt</string>
     <string name="menu_item_app_details">Chi tiết</string>
-    <string name="application_info_label">Thông tin ứng dụng</string>
     <string name="version_text">Phiên bản %1$s</string>
     <string name="security_relative">An ninh liên quan</string>
     <string name="privacy_relative">Bảo mật liên quan</string>
@@ -848,7 +845,6 @@ Lưu ý: ứng dụng có thể gây ra sự mất ổn định hệ thống, th
     <string name="enable_anti_spam_title">Lọc tin nhắn không mong muốn</string>
     <string name="comfirm_exit">Thoát?</string>
     <string name="comfirm">Xác nhận</string>
-    <string name="cancel">Hủy</string>
     <string name="mem_lock">Khóa</string>
     <string name="mem_unlock">Mở khóa</string>
     <string name="last_check_date_today">"Lần quét gần nhất: Hôm nay "</string>
@@ -962,7 +958,6 @@ Lưu ý: ứng dụng có thể gây ra sự mất ổn định hệ thống, th
     <string name="virus_scan_is_cloud_scanning">Quét trên MiCloud…</string>
     <string name="virus_scan_clean_dialog_message">Đang làm sạch…</string>
     <string name="yes">Có</string>
-    <string name="no">Không</string>
     <string name="create">Tạo</string>
     <string name="allow">Cho phép</string>
     <string name="deny">Từ chối</string>
@@ -2099,7 +2094,6 @@ Bạn hiện đã đăng nhập vào các tài khoản sau:
     <string name="computing_size">Đang tính toán…</string>
     <string name="invalid_size_value">Không thể tính toán kích cỡ của gói</string>
     <string name="empty_list_msg">Bạn chưa cài đặt ứng dụng của bên thứ ba nào.</string>
-    <string name="version_text">phiên bản %1$s</string>
     <string name="move_app">Chuyển</string>
     <string name="move_app_to_internal">Chuyển sang điện thoại</string>
     <string name="move_app_to_sdcard">Chuyển sang thẻ SD</string>
