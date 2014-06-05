@@ -29,24 +29,24 @@
         <item quantity="one">1 đã chọn</item>
     </plurals>
     <plurals name="move_conversation">
-        <item quantity="other">Di chuyển %1$d hội thoại</item>
-        <item quantity="one">Di chuyển hội thoại</item>
+        <item quantity="other">Di chuyển %1$d cuộc hội thoại</item>
+        <item quantity="one">Di chuyển cuộc hội thoại</item>
     </plurals>
     <plurals name="draft">
-        <item quantity="other">Nháp</item>
-        <item quantity="one">Nháp</item>
+        <item quantity="other">Bản nháp</item>
+        <item quantity="one">Bản nháp</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Xóa %1$d hội thoại này?</item>
-        <item quantity="one">Xóa hội thoại này?</item>
+        <item quantity="other">Xóa %1$d cuộc hội thoại này?</item>
+        <item quantity="one">Xóa cuộc hội thoại này?</item>
     </plurals>
     <plurals name="confirm_delete_conversation_with_sub">
         <item quantity="other">Những hội thoại này có các mục đã được gộp, bạn có chắc muốn xóa tất cả?</item>
         <item quantity="one">Hội thoại này có các mục đã được gộp, bạn có chắc muốn xóa tất cả?</item>
     </plurals>
     <plurals name="confirm_archive_conversation">
-        <item quantity="other">Lưu trữ %1$d hội thoại này?</item>
-        <item quantity="one">Lưu trữ hội thoại này?</item>
+        <item quantity="other">Lưu trữ %1$d cuộc hội thoại này?</item>
+        <item quantity="one">Lưu trữ cuộc hội thoại này?</item>
     </plurals>
     <plurals name="confirm_discard_drafts_conversation">
         <item quantity="other">Xóa bản nháp từ %1$d hội thoại này?</item>
@@ -57,36 +57,36 @@
         <item quantity="one">Bỏ dấu sao %1$d hội thoại này.</item>
     </plurals>
     <plurals name="conversation_muted">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> được tắt âm.</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> được tắt âm.</item>
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> đã ẩn.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> đã ẩn.</item>
     </plurals>
     <plurals name="conversation_spammed">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> được báo cáo là thư rác.</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> được báo cáo là thư rác.</item>
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> đã báo cáo là thư rác.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> đã báo cáo là thư rác.</item>
     </plurals>
     <plurals name="conversation_not_spam">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> được báo cáo không phải thư rác.</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> được báo cáo không phải thư rác.</item>
+        <item quantity="other">Đã báo cáo &amp;lt;b>%1$d&amp;lt;/b> không phải spam.</item>
+        <item quantity="one">Đã báo cáo &amp;lt;b>%1$d&amp;lt;/b> không phải spam.</item>
     </plurals>
     <plurals name="conversation_not_important">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> được đánh dấu là không quan trọng.</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> được đánh dấu là không quan trọng.</item>
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> được đánh dấu là không quan trọng.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> được đánh dấu là không quan trọng.</item>
     </plurals>
     <plurals name="conversation_phished">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> được báo cáo là lừa đảo.</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> được báo cáo là lừa đảo.</item>
+        <item quantity="other">Đã báo cáo &amp;lt;b>%1$d&amp;lt;/b> là lừa đảo.</item>
+        <item quantity="one">Đã báo cáo &amp;lt;b>%1$d&amp;lt;/b> là lừa đảo.</item>
     </plurals>
     <plurals name="conversation_archived">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> đã lưu trữ.</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> đã lưu trữ.</item>
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> đã lưu trữ.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> đã lưu trữ.</item>
     </plurals>
     <plurals name="conversation_deleted">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> đã xóa.</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> đã xóa.</item>
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> đã xóa.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> đã xóa.</item>
     </plurals>
     <plurals name="conversation_folder_changed">
-        <item quantity="other">Thư mục đã thay đổi.</item>
-        <item quantity="one">Thư mục đã thay đổi.</item>
+        <item quantity="other">Đã thay đổi thư mục.</item>
+        <item quantity="one">Đã thay đổi thư mục.</item>
     </plurals>
     <plurals name="new_incoming_messages_many">
         <item quantity="other">%1$d thư mới. Hiển thị.</item>
