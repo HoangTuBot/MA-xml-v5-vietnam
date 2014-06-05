@@ -71,4 +71,6 @@ Vui lòng tắt chế độ máy bay."</string>
  Thử lại sau %d giây."</string>
     <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Bạn đã mở khóa điện thoại sai %d lần. Sau %d thử sai nữa, điện thoại sẽ được khôi phục lại về cài đặt gốc và tất cả dữ liệu người dùng sẽ bị mất.</string>
     <string name="lockscreen_failed_attempts_now_wiping">Bạn đã mở khóa điện thoại sai %d lần. Điện thoại sẽ được khôi phục lại về cài đặt gốc bây giờ.</string>
+    <string name="miui_keyguard_ble_unlock_succeed_msg">Mở khóa bằng Bluetooth</string>
+    <string name="empty_password_error_msg">Mật khẩu không được để trống</string>
 </resources>
