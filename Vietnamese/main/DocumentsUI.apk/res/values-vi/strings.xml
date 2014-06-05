@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Tài liệu</string>
+    <string name="title_open">Mở từ</string>
+    <string name="title_save">Lưu vào</string>
+    <string name="menu_create_dir">Tạo thư mục</string>
+    <string name="menu_grid">Chế độ xem lưới</string>
+    <string name="menu_list">Chế độ xem danh sách</string>
+    <string name="menu_sort">Sắp xếp theo</string>
+    <string name="menu_search">Tìm kiếm</string>
+    <string name="menu_settings">Cài đặt</string>
+    <string name="menu_open">Mở</string>
+    <string name="menu_save">Lưu</string>
+    <string name="menu_share">Chia sẻ</string>
+    <string name="menu_delete">Xóa</string>
+    <string name="mode_selected_count">Đã chọn %1$d</string>
+    <string name="sort_name">Theo tên</string>
+    <string name="sort_date">Theo ngày sửa đổi</string>
+    <string name="sort_size">Theo kích thước</string>
+    <string name="drawer_open">Hiển thị gốc</string>
+    <string name="drawer_close">Ẩn gốc</string>
+    <string name="save_error">Không lưu tài liệu được</string>
+    <string name="create_error">Không thể tạo thư mục</string>
+    <string name="query_error">Không truy vấn được tài liệu</string>
+    <string name="root_recent">Gần đây</string>
+    <string name="root_available_bytes">%1$s còn trống</string>
+    <string name="root_type_service">Dịch vụ lưu trữ</string>
+    <string name="root_type_shortcut">Lối tắt</string>
+    <string name="root_type_device">Thiết bị</string>
+    <string name="root_type_apps">Các ứng dụng khác</string>
+    <string name="pref_advanced_devices">Hiển thị các thiết bị nâng cao</string>
+    <string name="pref_file_size">Hiển thị kích thước tệp</string>
+    <string name="pref_device_size">Hiển thị kích thước thiết bị</string>
+    <string name="empty">Không có mục nào</string>
+    <string name="toast_no_application">Không thể mở tập tin</string>
+    <string name="toast_failed_delete">Không thể xóa một số tài liệu</string>
+    <string name="share_via">Chia sẻ qua</string>
+</resources>
