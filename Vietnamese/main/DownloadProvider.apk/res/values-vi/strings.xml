@@ -15,7 +15,7 @@
     <string name="permdesc_seeAllExternal">Cho phép ứng dụng xem tất cả các bản tải về thẻ SD, bất kể ứng dụng đã tải về chúng là ứng dụng gì.</string>
     <string name="permlab_downloadCacheNonPurgeable">Giữ lại dung lượng trong bộ nhớ cache tải về</string>
     <string name="permdesc_downloadCacheNonPurgeable">Cho phép ứng dụng tải tập tin xuống bộ nhớ cache, không thể tự động xóa bộ nhớ này khi trình quản lý tải về cần thêm dung lượng.</string>
-    <string name="permlab_downloadWithoutNotification">tải về tập tin không có thông báo</string>
+    <string name="permlab_downloadWithoutNotification">Tải các tập tin mà không cần thông báo</string>
     <string name="permdesc_downloadWithoutNotification">Cho phép ứng dụng tải về tập tin qua trình quản lý tải về mà không hiển thị thông báo cho người dùng.</string>
     <string name="permlab_accessAllDownloads">Truy cập tất cả các bản tải về trong hệ thống</string>
     <string name="permdesc_accessAllDownloads">Cho phép ứng dụng xem và sửa đổi tất cả các bản tải về được khởi tạo bởi bất kỳ ứng dụng nào trên hệ thống.</string>
