@@ -30,20 +30,20 @@
         <item>Cũ hơn</item>
         <item>Danh sách thư</item>
     </string-array>
-    <string-array name="general_preference_auto_advance_summary_array">
-        <item>Hiển thị thư mới hơn sau khi bạn xóa</item>
-        <item>Hiển thị thư cũ hơn sau khi bạn xóa</item>
-        <item>Hiển thị danh sách thư sau khi bạn xóa</item>
-    </string-array>
     <string-array name="prefEntries_removal_action">
-        <item>Chỉ hiện lưu trữ</item>
-        <item>Chỉ hiện đã xóa</item>
-        <item>Hiện lưu trữ &amp;amp; đã xóa</item>
+        <item>Chỉ hiển thị tác vụ lưu trữ</item>
+        <item>Chỉ hiển thị tác vụ xóa</item>
+        <item>Hiển thị tác vụ lưu trữ và xóa</item>
     </string-array>
     <string-array name="prefSummaries_removal_action_summary">
-        <item>Chỉ hiển thị lưu trữ</item>
-        <item>Chỉ hiện đã xóa</item>
-        <item>Hiện lưu trữ &amp;amp; đã xóa</item>
+        <item>Chỉ hiển thị tác vụ lưu trữ</item>
+        <item>Chỉ hiển thị tác vụ xóa</item>
+        <item>Hiển thị tác vụ lưu trữ và xóa</item>
+    </string-array>
+    <string-array name="general_preference_auto_advance_summary_array">
+        <item>Hiển thị cuộc hội thoại mới hơn sau khi bạn xóa</item>
+        <item>Hiển thị cuộc hội thoại cũ hơn sau khi bạn xóa</item>
+        <item>Hiển thị danh sách cuộc hội thoại sau khi bạn xóa</item>
     </string-array>
     <string-array name="menu_att_mgr_sort_string_array">
         <item>Mặc định</item>
