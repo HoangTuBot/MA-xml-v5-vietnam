@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uid_label">Phương tiện</string>
+    <string name="app_label">Bộ nhớ Phương tiện</string>
+    <string name="upgrade_msg">Đang nâng cấp cơ sở dữ liệu Phương tiện.</string>
+    <string name="artist_label">Nghệ sĩ</string>
+    <string name="ringtone_default">Nhạc chuông mặc định</string>
+    <string name="notification_sound_default">Âm thanh thông báo mặc định</string>
+    <string name="alarm_sound_default">Âm thanh báo thức mặc định</string>
+    <string name="root_images">Hình ảnh</string>
+    <string name="root_videos">Video</string>
+    <string name="root_audio">Âm thanh</string>
+</resources>
