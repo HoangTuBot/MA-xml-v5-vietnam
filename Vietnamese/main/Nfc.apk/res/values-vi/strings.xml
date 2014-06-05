@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dịch vụ Nfc</string>
+    <string name="nfcUserLabel">Nfc</string>
+    <string name="inbound_me_profile_title">Thông tin liên hệ đã nhận qua NFC</string>
+    <string name="inbound_me_profile_text">Chạm để thêm người này làm người liên hệ.</string>
+    <string name="outbound_me_profile_title">Hoàn tất tương tác NFC</string>
+    <string name="outbound_me_profile_text">Chạm để gửi cho người này thông tin liên hệ của bạn.</string>
+    <string name="accessibility_nfc_enabled">Đã bật NFC.</string>
+    <string name="touch">Chạm để truyền</string>
+    <string name="beam_progress">Tia đến…</string>
+    <string name="beam_outgoing">Đang chiếu…</string>
+    <string name="beam_complete">Hoàn tất chiếu</string>
+    <string name="beam_failed">Chiếu chưa hoàn tất</string>
+    <string name="beam_canceled">Chiếu bị hủy</string>
+    <string name="cancel">Hủy</string>
+    <string name="beam_touch_to_view">Chạm để xem</string>
+    <string name="beam_handover_not_supported">Thiết bị của người nhận không hỗ trợ truyền tập tin lớn qua quá trình chiếu.</string>
+    <string name="beam_try_again">Nhóm các thiết bị lại với nhau lần nữa</string>
+    <string name="connecting_headset">Đang kết nối</string>
+    <string name="connected_headset">Đã kết nối</string>
+    <string name="connect_headset_failed">Không thể kết nối</string>
+    <string name="disconnecting_headset">Đang ngắt kết nối</string>
+    <string name="disconnected_headset">Đã ngắt kết nối</string>
+    <string name="pairing_headset">Đang ghép nối</string>
+    <string name="pairing_headset_failed">Không thể ghép nối</string>
+    <string name="failed_to_enable_bt">Không thể bật Bluetooth</string>
+    <string name="confirm_pairing">Bạn có chắc chắn muốn ghép nối thiết bị Bluetooth %1$s không?</string>
+    <string name="pair_yes">Có</string>
+    <string name="pair_no">Không</string>
+    <string name="tap_again_to_pay">Nhấn lại để thanh toán bằng %1$s</string>
+    <string name="tap_again_to_complete">Nhấn lại để hoàn tất bằng %1$s</string>
+    <string name="transaction_failure">Không thể hoàn tất giao dịch này bằng %1$s.</string>
+    <string name="could_not_use_app">Không thể sử dụng %1$s.</string>
+    <string name="pay_with">Thanh toán bằng</string>
+    <string name="complete_with">Hoàn tất bằng</string>
+    <string name="default_pay_app_removed">Dịch vụ yêu thích của bạn để nhấn và thanh toán đã bị xóa. Chọn dịch vụ khác?</string>
+</resources>
