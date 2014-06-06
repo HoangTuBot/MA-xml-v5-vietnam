@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">Đã tìm thấy %1$s máy in</item>
+        <item quantity="one">Đã tìm thấy %1$s máy in</item>
+    </plurals>
+    <plurals name="composite_notification_title_template">
+        <item quantity="other">Lệnh in %1$d</item>
+        <item quantity="one">Lệnh in %1$d</item>
+    </plurals>
+</resources>
