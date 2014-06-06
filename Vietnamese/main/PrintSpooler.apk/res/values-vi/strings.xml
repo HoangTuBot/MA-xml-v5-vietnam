@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Print Spooler</string>
+    <string name="advanced_settings_button">Cài đặt máy in</string>
+    <string name="print_button">In</string>
+    <string name="save_button">Lưu</string>
+    <string name="label_destination">Đích</string>
+    <string name="label_copies">Bản sao</string>
+    <string name="label_paper_size">Kích thước trang</string>
+    <string name="label_color">Màu</string>
+    <string name="label_orientation">Hướng</string>
+    <string name="label_pages">Trang (%1$s)</string>
+    <string name="pages_range_example">Ví dụ: 1—5, 8, 11—13</string>
+    <string name="print_preview">Xem trước bản in</string>
+    <string name="install_for_print_preview">Cài đặt trình xem PDF để xem trước</string>
+    <string name="printing_app_crashed">Ứng dụng in gặp lỗi</string>
+    <string name="page_count_unknown">Trang</string>
+    <string name="generating_print_job">Đang tạo lệnh in</string>
+    <string name="save_as_pdf">Lưu dưới dạng PDF</string>
+    <string name="all_printers">Tất cả máy in…</string>
+    <string name="print_dialog">Hộp thoại in</string>
+    <string name="search">Tìm kiếm</string>
+    <string name="all_printers_label">Tất cả máy in</string>
+    <string name="add_print_service_label">Thêm dịch vụ</string>
+    <string name="print_search_box_shown_utterance">Hiển thị hộp tìm kiếm</string>
+    <string name="print_search_box_hidden_utterance">Ẩn hộp tìm kiếm</string>
+    <string name="print_add_printer">Thêm máy in</string>
+    <string name="print_select_printer">Chọn máy in</string>
+    <string name="print_forget_printer">Bỏ qua máy in</string>
+    <string name="choose_print_service">Chọn dịch vụ in</string>
+    <string name="print_searching_for_printers">Đang tìm kiếm máy in</string>
+    <string name="print_no_printers">Không tìm thấy máy in</string>
+    <string name="printing_notification_title_template">In %1$s</string>
+    <string name="cancelling_notification_title_template">Hủy %1$s</string>
+    <string name="failed_notification_title_template">Lỗi máy in %1$s</string>
+    <string name="blocked_notification_title_template">Máy in đã chặn %1$s</string>
+    <string name="cancel">Hủy</string>
+    <string name="restart">Bắt đầu lại</string>
+    <string name="no_connection_to_printer">Không có kết nối nào với máy in</string>
+    <string name="reason_unknown">không xác định</string>
+    <string name="printer_unavailable">%1$s – không khả dụng</string>
+    <string name="print_error_default_message">Không thể tạo lệnh in</string>
+    <string name="permlab_accessAllPrintJobs">Truy cập tất cả lệnh in</string>
+    <string name="permdesc_accessAllPrintJobs">Cho phép chủ sở hữu truy cập lệnh in được tạo bởi ứng dụng khác. Không bao giờ cần thiết cho các ứng dụng thông thường.</string>
+    <string name="permlab_startPrintServiceConfigActivity">Khởi động các hoạt động cấu hình dịch vụ in</string>
+    <string name="permdesc_startPrintServiceConfigActivity">Cho phép chủ sở hữu bắt đầu các hoạt động cấu hình của dịch vụ in. Không bao giờ cần thiết cho các ứng dụng thông thường.</string>
+</resources>
