@@ -26,11 +26,11 @@
     </string-array>
     <string-array name="resent_via_entries_sms">
         <item>Qua tin nhắn</item>
-        <item>Qua tin nhắn miễn phí</item>
+        <item>Qua tin nhắn Cloud</item>
     </string-array>
     <string-array name="resent_via_entries_mms">
         <item>Qua tin nhắn</item>
-        <item>Qua tin nhắn miễn phí</item>
+        <item>Qua tin nhắn Cloud</item>
     </string-array>
     <string-array name="select_dialog_items">
         <item>1 giây</item>
@@ -43,7 +43,7 @@
         <item>8 giây</item>
         <item>9 giây</item>
         <item>10 giây</item>
-        <item>Other</item>
+        <item>Khác</item>
     </string-array>
     <string-array name="prefEntries_vibrateWhen">
         <item>Luôn luôn</item>
