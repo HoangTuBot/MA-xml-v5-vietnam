@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pico TTS</string>
+    <string name="installed">Đã cài đặt</string>
+    <string name="not_installed">Chưa cài đặt</string>
+</resources>
