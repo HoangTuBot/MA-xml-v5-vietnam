@@ -362,7 +362,7 @@
     <string name="not_remind_again">Không nhắc tôi nữa</string>
     <string name="pref_general_exit_setting_title">Cài đặt Thoát</string>
     <string name="pref_confirm_for_exit">Xác nhận thoát</string>
-    <string name="pref_clear_cache_for_exit">Xóa bô đệm khi thoát</string>
+    <string name="pref_clear_cache_for_exit">Xóa bộ nhớ đệm khi thoát</string>
     <string name="pref_clear_history_for_exit">Xóa lịch sử khi thoát</string>
     <string name="recover">Khôi phục</string>
     <string name="pref_autologin_progress_in_background">Signing into Google sites using %s in the background</string>
