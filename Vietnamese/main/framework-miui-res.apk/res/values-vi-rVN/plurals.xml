@@ -33,10 +33,10 @@
         <item quantity="other">Nửa giờ trước</item>
     </plurals>
     <plurals name="in_a_hour">
-        <item quantity="other">trong 1 giờ</item>
+        <item quantity="other">Trong 1 giờ</item>
     </plurals>
     <plurals name="in_half_hour">
-        <item quantity="other">trong nửa giờ</item>
+        <item quantity="other">Trong nửa giờ</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
         <item quantity="other">Vừa tức thì</item>
