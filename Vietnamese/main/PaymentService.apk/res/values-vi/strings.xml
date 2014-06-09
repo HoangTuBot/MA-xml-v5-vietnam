@@ -32,7 +32,7 @@
     <string name="button_reget">Lấy mã xác nhận</string>
     <string name="balance_payment">%1$s MiCredit</string>
     <string name="giftcard_payment">%1$s MiCredit</string>
-    <string name="partner_giftcard_payment">%1$s MiCredit （Chỉ cho %2$s）</string>
+    <string name="partner_giftcard_payment">%1$s MiCredit (Chỉ cho %2$s)</string>
     <string name="balance">Số dư: %1$s MiCredit</string>
     <string name="giftcard_value">(thẻ quà tặng %1$s MiCredit)</string>
     <string name="frozen">(Đóng băng)</string>
@@ -65,7 +65,7 @@
     <string name="account_detail">Tài khoản Xiaomi: %1$s</string>
     <string name="paytool_alipay">Paypal</string>
     <string name="paytool_tenpay">Tenpay</string>
-    <string name="recharge_denomination">%1$s￥</string>
+    <string name="recharge_denomination">%1$sNDT</string>
     <string name="btn_recharge_large">Nạp tiền</string>
     <string name="recharge_other">Chọn phương thức khác</string>
     <string name="btn_recharge_success">Nạp tiền thanh công</string>
@@ -73,10 +73,10 @@
     <string name="btn_prev">Quay lại</string>
     <string name="btn_next">Tiếp theo</string>
     <string name="recharge_grid_picker_hint">Vui lòng chọn số tiền</string>
-    <string name="recharge_grid_edit_hint">Số tiền (￥)</string>
-    <string name="recharge_grid_edit_limit">%1$s~%2$s￥</string>
-    <string name="recharge_grid_edit_upper_limit">Không được vượt quá %1$s￥</string>
-    <string name="recharge_grid_error_denomination">Vui lòng nhập đúng số tiền giữa %1$s~%2$s￥</string>
+    <string name="recharge_grid_edit_hint">Số tiền (NDT)</string>
+    <string name="recharge_grid_edit_limit">%1$s~%2$sNDT</string>
+    <string name="recharge_grid_edit_upper_limit">Không được vượt quá %1$sNDT</string>
+    <string name="recharge_grid_error_denomination">Vui lòng nhập đúng số tiền giữa %1$s~%2$sNDT</string>
     <string name="paytool_error_install">Cài đặt trình bảo mật đi động %1$s không thành công.</string>
     <string name="paytool_error_msp">%1$s thất bại.</string>
     <string name="paytool_msp_not_installed">Bạn chưa cài đặt trình bảo mật đi động %1$s, bạn có muốn cài đặt ngay?</string>
@@ -108,7 +108,7 @@
     <string name="msg_picker_hint_1_1">1.</string>
     <string name="msg_picker_hint_1_2">Nạp tiền qua tin nhắn SMS có thể đắt hơn: &lt;font color=red>%1$dNDT = %2$d MiCredit&lt;/font></string>
     <string name="msg_picker_hint_2_1">2.</string>
-    <string name="msg_picker_hint_2_2">Phí dịch vụ cho nhà mạng là %1$s￥ cho mỗi lần nạp tiền</string>
+    <string name="msg_picker_hint_2_2">Phí dịch vụ cho nhà mạng là %1$sNDT cho mỗi lần nạp tiền</string>
     <string name="msg_denomination_type">MiCredit</string>
     <string name="msg_error">Nạp tiền bằng tin nhắn thất bại</string>
     <string name="progress_msg_creating">Đang tạo tin nhắn nạp tiền…</string>
@@ -118,7 +118,7 @@
     <string name="msg_telecom_order_goods_label">Mô tả sản phẩm:</string>
     <string name="msg_telecom_order_goods">%1s MiCredit</string>
     <string name="msg_telecom_order_denom_label">Số tiền phải trả:</string>
-    <string name="msg_telecom_order_denom">%1s￥ (không bao gồm phí dữ liệu mạng di động)</string>
+    <string name="msg_telecom_order_denom">%1sNDT (không bao gồm phí dữ liệu mạng di động)</string>
     <string name="msg_telecom_sending">Đang liên hệ với nhà cung cấp mạng…</string>
     <string name="btn_recharge_confirm">Xác nhận nạp tiền</string>
     <string name="btn_wait_confirm">Đang chờ xác nhận…</string>
@@ -138,7 +138,7 @@
     <string name="bankcall_denom">Số tiền:</string>
     <string name="bankcall_bank_account">Thẻ tín dụng:</string>
     <string name="bankcall_xiaomi_company">Việt hóa bởi ♋๖ۣۜßεℓ™</string>
-    <string name="bankcall_denom_number">%1$s￥</string>
+    <string name="bankcall_denom_number">%1$sNDT</string>
     <string name="bankcall_card">Thẻ tín dụng</string>
     <string name="bankcall_card_hint">Vui lòng nhập số thẻ tin dụng</string>
     <string name="bankcall_card_type">%1$s-%2$s</string>
@@ -250,7 +250,7 @@ Bạn cần kết nối internet để sử dụng MiCredit."</string>
     <string name="title_change_lockpattern">Thay đổi màn hình khóa</string>
     <string name="title_password">Mật khẩu</string>
     <string name="title_nopassword">Không yêu cầu cho các thanh toán nhỏ</string>
-    <string name="title_password_threshold">Giới hạn ngày = %1$s￥</string>
+    <string name="title_password_threshold">Giới hạn ngày = %1$sNDT</string>
     <string name="title_nopassword_dialog">Giới hạn ngày</string>
     <string name="button_confirm">Xác nhận</string>
     <string name="button_next">Tiếp theo</string>
