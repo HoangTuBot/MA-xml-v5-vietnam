@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="oldman_airplane_mode_text">Chế độ máy bay</string>
+    <string name="oldman_incall_text">Đang gọi…</string>
     <string name="app_label">Giao diện hệ thống</string>
     <string name="status_bar_recent_remove_item_title">Xóa khỏi danh sách</string>
     <string name="status_bar_recent_inspect_item_title">Thông tin ứng dụng</string>
@@ -19,6 +21,8 @@ Hãy sử dụng bộ sạc."</string>
     <string name="status_bar_settings_auto_rotation">Tự động xoay màn hình</string>
     <string name="status_bar_settings_auto_brightness_label">Tự động</string>
     <string name="status_bar_settings_notifications">Thông báo</string>
+    <string name="status_bar_settings_battery_meter_format">%d%%</string>
+    <string name="status_bar_network_name_separator">|</string>
     <string name="bluetooth_tethered">Bluetooth tethered</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Chọn phương thức nhập</string>
     <string name="status_bar_use_physical_keyboard">Sử dụng bàn phím thực</string>
@@ -58,6 +62,7 @@ Hãy sử dụng bộ sạc."</string>
     <string name="accessibility_phone_one_bar">1 vạch.</string>
     <string name="accessibility_phone_two_bars">2 vạch.</string>
     <string name="accessibility_phone_three_bars">3 vạch.</string>
+    <string name="accessibility_phone_four_bars">4 vạch.</string>
     <string name="accessibility_phone_signal_full">Sóng đầy.</string>
     <string name="accessibility_no_data">Không có dữ liệu.</string>
     <string name="accessibility_data_one_bar">1 vạch</string>
@@ -119,7 +124,7 @@ dd MMMM, yyyy"</string>
     <string name="usb_mode_notification">Bộ lưu trữ USB</string>
     <string name="usb_mode_dont_ask">Không hỏi lại</string>
     <string name="usb_mode_mount_storage_title">Mở bộ lưu trữ USB bây giờ?</string>
-    <string name="mount_storage">Đồng ý</string>
+    <string name="mount_storage">Có</string>
     <string name="dismount_storage">Không</string>
     <string name="usb_notification">USB đã kết nối</string>
     <string name="usb_notification_mtp_info">Truy cập tập tin thông qua kết nối máy tính</string>
@@ -134,12 +139,14 @@ dd MMMM, yyyy"</string>
     <string name="user_guide_for_toggle_list">Nhấp vào để tùy chỉnh danh sách phím nhanh</string>
     <string name="return_to_incall_screen">Nhấp vào để quay trở lại cuộc gọi</string>
     <string name="call_status_dialing">Đang quay số…</string>
+    <string name="call_status_ringing">Đang đổ chuông…</string>
+    <string name="reject_call">Từ chối cuộc gọi</string>
     <string name="status_bar_style_settings">Cài đặt thanh trạng thái</string>
     <string name="status_bar_and_notification_bar">Thanh trạng thái và thanh thông báo</string>
-    <string name="settings_toggle_layout_style">Phong cách bố trí phím nhanh</string>
+    <string name="settings_toggle_layout_style">Kiểu bố trí phím nhanh</string>
     <string name="settings_toggle_layout_style_compact">Gọn</string>
     <string name="settings_toggle_layout_style_single_page">Trang</string>
-    <string name="settings_toggle_layout_style_applying">Đang thay đổi phong cách…</string>
+    <string name="settings_toggle_layout_style_applying">Đang đổi…</string>
     <string name="settings_custom_notification">Quản lý thông báo</string>
     <string name="settings_all_app_display_loading">Đang tải…</string>
     <string name="settings_show_notificationBar_notification">Hiện thị trên thanh thông báo</string>
@@ -232,7 +239,7 @@ dd MMMM, yyyy"</string>
     <string name="notification_otg_mouse_out">Chuột đã ngắt kết nối</string>
     <string name="notification_otg_keyboard_out">Bàn phím đã ngắt kết nối</string>
     <string name="notification_otg_gamestick_out">Bộ điều khiển trò chơi đã ngắt kết nối</string>
-    <string name="notification_otg_stylus_out">Stylus  đã ngắt kết nối</string>
+    <string name="notification_otg_stylus_out">Stylus đã ngắt kết nối</string>
     <string name="notification_otg_touchScreen_out">Màn hình cảm ứng đã ngắt kết nối</string>
     <string name="notification_otg_touchPad_out">Touchpad đã ngắt kết nối</string>
     <string name="notification_otg_trackball_out">Trackball đã ngắt kết nối</string>
@@ -249,8 +256,6 @@ dd MMMM, yyyy"</string>
     <string name="headset_settings">Đã cắm tai nghe</string>
     <string name="headset_info">Tùy chỉnh nút chức năng</string>
     <string name="headset_custom">Tùy chỉnh</string>
-    <string name="oldman_airplane_mode_text">Chế độ máy bay</string>
-    <string name="oldman_incall_text">Đang gọi…</string>
     <string name="audio_effect_settings">Chọn loại tai nghe</string>
     <string name="audio_effect_info">Tối ưu âm thanh</string>
     <string name="audio_effect_custom">Cấu hình</string>
