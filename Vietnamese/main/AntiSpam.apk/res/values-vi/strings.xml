@@ -15,7 +15,7 @@
     <string name="st_title_mode_choose_group">Chọn chế độ</string>
     <string name="st_title_adblock_group">Chặn quảng cáo</string>
     <string name="st_title_adblock_setting">Cài đặt chặn quảng cáo</string>
-    <string name="st_antispam_mode_smart">Danh sách chặn thông minh</string>
+    <string name="st_antispam_mode_smart">Chặn thông minh</string>
     <string name="st_antispam_mode_blacklist">Chỉ dùng danh sách chặn</string>
     <string name="st_antispam_mode_only_contacts">Chỉ cho phép danh bạ</string>
     <string name="st_antispam_mode_only_whitelist">Chỉ cho phép danh sách ngoại lệ</string>
@@ -37,7 +37,7 @@
     <string name="st_antispam_mode_denyownself_sum">Chế độ danh sách chặn tùy chỉnh</string>
     <string name="st_antispam_notification_sum">Hiển thị thông báo khi có cuộc gọi hoặc tin nhắn bị chặn</string>
     <string name="st_antispam_des_anti">Chặn</string>
-    <string name="st_antispam_des_smart_anti">Danh sách chặn thông minh</string>
+    <string name="st_antispam_des_smart_anti">Chặn thông minh</string>
     <string name="st_antispam_des_permit">Cho phép</string>
     <string name="st_antispam_des_uesless">Không hiệu quả</string>
     <string name="st_antispam_des_permit_nokeyword">Cho phép (ngoại trừ từ khóa)</string>
@@ -57,10 +57,10 @@
     <string name="block_message_number">Tin nhắn rác: %d</string>
     <string name="block_phone_number">Cuộc gọi quấy rầy: %d</string>
     <string name="app_name">Danh sách chặn</string>
-    <string name="fw_blocked">Đã chặn: </string>
-    <string name="fw_blocked_count">Đã chặn: </string>
+    <string name="fw_blocked">Đã chặn:</string>
+    <string name="fw_blocked_count">Đã chặn:</string>
     <string name="fw_blocked_count_call">%d cuộc gọi</string>
-    <string name="fw_blocked_count_sms">%d tin nhắn</string>
+    <string name="fw_blocked_count_sms">" và %d tin nhắn"</string>
     <string name="tab_title">Danh sách chặn</string>
     <string name="tab_block_log">Nhật ký chặn</string>
     <string name="tab_blacklist">Danh sách chặn</string>
@@ -110,7 +110,9 @@
     <string name="dlg_add_manual_ok">Thêm</string>
     <string name="dlg_add_manual_hint">Nhập số điện thoại</string>
     <string name="dlg_import_blacklist">Đang thêm vào danh sách chặn…</string>
+    <string name="dlg_remove_blacklist_ing">Đang xóa khỏi danh sách chặn…</string>
     <string name="dlg_import_whitelist">Đang thêm vào danh sách ngoại lệ…</string>
+    <string name="dlg_remove_whitelist_ing">Đang xóa khỏi danh sách ngoại lệ…</string>
     <string name="dlg_add_keyword">Thêm từ khóa</string>
     <string name="dlg_edit_keyword">Sửa từ khóa</string>
     <string name="dlg_delete_keyword">Xóa các từ khóa đã chọn?</string>
@@ -209,9 +211,12 @@
     <string name="hint_antispam_mode_edit">Tùy chỉnh chế độ</string>
     <string name="st_title_adress">Chọn vùng</string>
     <string name="st_title_adress_num">%d đã chọn</string>
+    <string name="NACaddnumcontent">Nhập số điện thoại:</string>
+    <string name="ACaddnumcontent">Nhập đầu số (\"*\" sẽ được thêm tự động)</string>
     <string name="SMS_BLACKLIST">Chặn tin nhắn</string>
     <string name="SMS_PREFIX">Chặn theo đầu số</string>
-    <string name="SMS_MODENAME">Chăn mặc định</string>
+    <string name="SMS_DEFAULT">Chặn thông minh</string>
+    <string name="SMS_MODENAME">Chặn mặc định</string>
     <string name="SMS_KEYWORDS">Chặn theo từ khóa</string>
     <string name="SMS_ADRESS">Chặn theo mã vùng</string>
     <string name="Call_BLACKLIST">Chặn cuộc gọi</string>
@@ -219,6 +224,7 @@
     <string name="Call_MODENAME">Chặn mặc định</string>
     <string name="Call_ADRESS">Chặn theo mã vùng</string>
     <string name="Call_PRIVATE_CALL">Cuộc gọi ẩn danh</string>
+    <string name="Call_DEFAULT">Chặn thông minh</string>
     <string name="PAST_BLOCK">Đã chặn trước đây</string>
     <string name="AD_AntiSpam">Chặn quảng cáo</string>
     <string name="AD_SCANNING">Đang quét…</string>
@@ -242,6 +248,7 @@
     <string name="ad_update_title">Tự động cập nhật</string>
     <string name="ad_update_time">Cập nhật lần cuối: %s</string>
     <string name="ad_update_time_unKnown">Cập nhật lần cuối: Không rõ</string>
-    <string name="NACaddnumcontent">Nhập số điện thoại:</string>
-    <string name="ACaddnumcontent">Nhập đầu số (\"*\" sẽ được thêm tự động)</string>
+    <string name="sms_delete_hint">Xóa tất cả tin nhắn bị chặn được gửi từ số đã chọn?</string>
+    <string name="call_delete_hint">Xóa tất cả cuộc gọi bị chặn từ số đã chọn?</string>
+    <string name="backsound_set_hint">Đặt âm báo cho %s?</string>
 </resources>
