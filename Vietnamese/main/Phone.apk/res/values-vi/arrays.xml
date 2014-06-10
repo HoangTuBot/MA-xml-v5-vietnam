@@ -5,18 +5,18 @@
         <item>Video</item>
     </string-array>
     <string-array name="clir_display_values">
-        <item>Mặc định</item>
+        <item>Mặc định mạng</item>
         <item>Ẩn số</item>
         <item>Hiện số</item>
     </string-array>
     <string-array name="list_language_entries">
-        <item>English</item>
-        <item>French</item>
-        <item>Spanish</item>
-        <item>Japanese</item>
-        <item>Korean</item>
-        <item>Chinese</item>
-        <item>Hebrew</item>
+        <item>Tiếng Anh</item>
+        <item>Tiếng Pháp</item>
+        <item>Tiếng Tây Ban Nha</item>
+        <item>Tiếng Nhật</item>
+        <item>Tiếng Hàn</item>
+        <item>Tiếng Trung</item>
+        <item>Tiếng Do Thái</item>
     </string-array>
     <string-array name="cdma_system_select_choices">
         <item>Chỉ trong nước</item>
@@ -27,13 +27,13 @@
         <item>NV</item>
     </string-array>
     <string-array name="tty_mode_entries">
-        <item>TTY Tắt</item>
+        <item>Tắt TTY</item>
         <item>TTY Đầy đủ</item>
         <item>TTY HCO</item>
         <item>TTY VCO</item>
     </string-array>
     <string-array name="dtmf_tone_entries">
-        <item>Vừa</item>
+        <item>Thường</item>
         <item>Dài</item>
     </string-array>
     <string-array name="voicemail_notification_vibrate_when_entries">
