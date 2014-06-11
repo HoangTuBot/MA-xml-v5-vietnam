@@ -139,8 +139,8 @@
     <string name="me">Tôi</string>
     <string name="power_dialog">Tùy chọn điện thoại</string>
     <string name="silent_mode">Chế độ im lặng</string>
-    <string name="turn_on_radio">Bật không dây</string>
-    <string name="turn_off_radio">Tắt không dây</string>
+    <string name="turn_on_radio">Bật sóng</string>
+    <string name="turn_off_radio">Tắt sóng</string>
     <string name="screen_lock">Khóa màn hình</string>
     <string name="power_off">Tắt nguồn</string>
     <string name="silent_mode_silent">Tắt chuông</string>
@@ -518,13 +518,13 @@
     <string name="permlab_performCdmaProvisioning">Trực tiếp bắt đầu thiết lập điện thoại CDMA</string>
     <string name="permdesc_performCdmaProvisioning">Cho phép ứng dụng bắt đầu cấp phép CDMA. Ứng dụng độc hại có thể bắt đầu cấp phép CDMA một cách không cần thiết.</string>
     <string name="permlab_locationUpdates">Kiểm soát thông báo cập nhật vị trí</string>
-    <string name="permdesc_locationUpdates">Cho phép ứng dụng bật/tắt thông báo cập nhật vị trí của radio. Không dành cho ứng dụng thông thường.</string>
+    <string name="permdesc_locationUpdates">Cho phép ứng dụng bật/tắt thông báo cập nhật vị trí của sóng điện thoại. Không dành cho ứng dụng thông thường.</string>
     <string name="permlab_checkinProperties">Truy cập thuộc tính đăng nhập</string>
     <string name="permdesc_checkinProperties">Cho phép ứng dụng có quyền truy cập đọc/ghi đối với các thuộc tính được tải lên bằng dịch vụ đăng ký. Không dành cho ứng dụng thông thường.</string>
     <string name="permlab_bindGadget">Chọn tiện ích</string>
     <string name="permdesc_bindGadget">Cho phép ứng dụng thông báo cho hệ thống biết tiện ích con nào có thể được sử dụng bởi ứng dụng nào. Với quyền này, ứng dụng có thể cấp quyền truy cập vào dữ liệu cá nhân cho các ứng dụng khác. Không dành cho các ứng dụng thông thường.</string>
     <string name="permlab_modifyPhoneState">Sửa đổi trạng thái điện thoại</string>
-    <string name="permdesc_modifyPhoneState">Cho phép ứng dụng kiểm soát các tính năng điện thoại của thiết bị. Ứng dụng có quyền này có thể chuyển đổi mạng, bật và tắt radio điện thoại cũng như thực hiện các tác vụ tương tự mà không cần thông báo cho bạn.</string>
+    <string name="permdesc_modifyPhoneState">Cho phép ứng dụng kiểm soát các tính năng điện thoại của thiết bị. Ứng dụng có quyền này có thể chuyển đổi mạng, bật và tắt sóng điện thoại cũng như thực hiện các tác vụ tương tự mà không cần thông báo cho bạn.</string>
     <string name="permlab_readPhoneState">Đọc trạng thái và nhận dạng của điện thoại</string>
     <string name="permdesc_readPhoneState">Cho phép ứng dụng truy cập vào các tính năng điện thoại của thiết bị. Quyền này cho phép ứng dụng xác định số điện thoại và ID thiết bị, cho dù cuộc gọi có hiện hoạt hay không và số từ xa có được kết nối bằng một cuộc gọi hay không.</string>
     <string name="permlab_wakeLock">Ngăn điện thoại chuyển sang chế độ ngủ</string>
