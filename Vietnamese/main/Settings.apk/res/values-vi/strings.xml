@@ -968,8 +968,8 @@ Lưu ý: ứng dụng có thể gây ra sự mất ổn định hệ thống, th
     <string name="header_category_device">THIẾT BỊ</string>
     <string name="header_category_personal">CÁ NHÂN</string>
     <string name="header_category_system">HỆ THỐNG</string>
-    <string name="turn_on_radio">Bật radio</string>
-    <string name="turn_off_radio">Tắt radio</string>
+    <string name="turn_on_radio">Bật sóng</string>
+    <string name="turn_off_radio">Tắt sóng</string>
     <string name="sms_over_ims_on">Bật SMS qua IMS</string>
     <string name="sms_over_ims_off">Tắt SMS qua IMS</string>
     <string name="ims_reg_required_on">Yêu cầu bật đăng ký IMS</string>
@@ -983,7 +983,7 @@ Lưu ý: ứng dụng có thể gây ra sự mất ổn định hệ thống, th
     <string name="radioInfo_service_in">Đang sử dụng</string>
     <string name="radioInfo_service_out">Không có dịch vụ</string>
     <string name="radioInfo_service_emergency">Chỉ cuộc gọi khẩn</string>
-    <string name="radioInfo_service_off">Tắt radio</string>
+    <string name="radioInfo_service_off">Tắt sóng</string>
     <string name="radioInfo_roaming_in">Chuyển vùng</string>
     <string name="radioInfo_roaming_not">Không chuyển vùng</string>
     <string name="radioInfo_phone_idle">Rảnh</string>
@@ -1146,7 +1146,7 @@ Lưu ý: ứng dụng có thể gây ra sự mất ổn định hệ thống, th
     <string name="radio_info_signal_strength_label">Cường độ tín hiệu:</string>
     <string name="radio_info_call_status_label">Trạng thái cuộc gọi:</string>
     <string name="radio_info_ppp_sent_label">PPP đã gửi:</string>
-    <string name="radio_info_radio_resets_label">Đặt lại radio:</string>
+    <string name="radio_info_radio_resets_label">Đặt lại sóng:</string>
     <string name="radio_info_message_waiting_label">Tin nhắn đang đợi:</string>
     <string name="radio_info_phone_number_label">Số điện thoại:</string>
     <string name="radio_info_band_mode_label">Chọn dải tần số</string>
