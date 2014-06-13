@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_label">Print Spooler</string>
+    <string name="app_label">Dịch vụ in ấn</string>
     <string name="advanced_settings_button">Cài đặt máy in</string>
     <string name="print_button">In</string>
     <string name="save_button">Lưu</string>
