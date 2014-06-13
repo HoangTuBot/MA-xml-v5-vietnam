@@ -239,7 +239,7 @@ Chạm vào màn hình để bật GPS…"</string>
     <string name="cit_batterylight_blue">Lam</string>
     <string name="cit_torch_on">Bật đèn flash</string>
     <string name="cit_torch_off">Tắt đèn flash</string>
-    <string name="cit_button_light_on">Bât đèn của phím</string>
+    <string name="cit_button_light_on">Bật đèn của phím</string>
     <string name="cit_button_light_off">Tắt đèn của phím</string>
     <string name="cit_notificationlight">Đèn LED</string>
     <string name="cit_notificationlight_off">Tắt đèn LED</string>
