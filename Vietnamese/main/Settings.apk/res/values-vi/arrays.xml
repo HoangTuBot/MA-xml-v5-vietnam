@@ -483,7 +483,7 @@
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Giới hạn tiêu chuẩn</item>
-        <item>Không có quá trình nền</item>
+        <item>Không cho chạy nền</item>
         <item>Tối đa 1 quá trình</item>
         <item>Tối đa 2 quá trình</item>
         <item>Tối đa 3 quá trình</item>
@@ -516,6 +516,12 @@
         <item>Hỏi</item>
         <item>Không bao giờ</item>
         <item>Luôn cho phép</item>
+    </string-array>
+    <string-array name="ram_states">
+        <item>bình thường</item>
+        <item>vừa phải</item>
+        <item>thấp</item>
+        <item>thiếu</item>
     </string-array>
     <string-array name="multi_sim_entries">
         <item>Thuê bao 1</item>
