@@ -251,7 +251,7 @@
     <string name="edit_nickname_for_nocontact_by_robot">Bạn cần phải thêm một người nhận trước.</string>
     <string name="nickname_placeholder">Biệt hiệu</string>
     <string name="me">Tôi</string>
-    <string name="to_count">%d trong tất cả</string>
+    <string name="to_count">Tới %d người</string>
     <string name="recipient_editor_count_format">%d</string>
     <string name="new_message_arrived">Bạn có tin nhắn mới</string>
     <string name="festival_sms_category_count_format">(%s)</string>
@@ -259,7 +259,7 @@
     <string name="refresh">Làm mới</string>
     <string name="refresh_failed">Cập nhật thất bại</string>
     <string name="database_corruption">Cơ sở dữ liệu bị hỏng, đang tái tạo lại…</string>
-    <string name="send_to">Tới:</string>
+    <string name="send_to">"Tới: "</string>
     <string name="send_to_count">Đã gửi %1$s tin nhắn</string>
     <string name="send_to_index_contact">Đã gửi %1$s/%2$s</string>
     <string name="message_received">Đã nhận</string>
@@ -427,7 +427,7 @@
     <string name="sim_card1">SIM 1</string>
     <string name="sim_card2">SIM 2</string>
     <string name="sim_card_cloud">%s (Tin nhắn miễn phí)</string>
-    <string name="forward_from">Chuyển tiếp từ:</string>
+    <string name="forward_from">"Chuyển tiếp từ: "</string>
     <string name="pref_forward_title">Chuyển tiếp</string>
     <string name="pref_title_fwd_sender_info">Chuyển tiếp thông tin người gửi</string>
     <string name="saved_to_sim">Đã lưu vào SIM!</string>
