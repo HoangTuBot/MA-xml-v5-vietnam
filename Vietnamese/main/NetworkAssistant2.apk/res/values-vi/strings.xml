@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Sử dụng dữ liệu</string>
     <string name="list_empty_text">Trống</string>
-    <string name="main_button_normal_traffic">Hàng ngày</string>
+    <string name="main_button_normal_traffic">Tối đa</string>
     <string name="main_button_idel_traffic">Miễn phí</string>
     <string name="main_toolbar_firewall">Giới hạn</string>
     <string name="main_toolbar_statistic">Thống kê</string>
@@ -18,7 +18,7 @@
     <string name="main_alert_message_no_mobile_package">Giới hạn dữ liệu di động chưa được thiết lập</string>
     <string name="main_alert_message_no_imsi">Không có thẻ SIM</string>
     <string name="main_alert_message_slot_no_data_connection">Khe cắm thẻ SIM không hỗ trợ kết nối dữ liệu di động</string>
-    <string name="firewall_activity_lable">Giới hạn sử dụng dữ liệu bởi ứng dụng</string>
+    <string name="firewall_activity_lable">Giới hạn sử dụng dữ liệu bằng ứng dụng</string>
     <string name="firewall_applist">Ứng dụng</string>
     <string name="firewall_rule_group_title_mobile">Dữ liệu</string>
     <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
@@ -51,14 +51,14 @@
     <string name="force_stop_dlg_title">Giới hạn dữ liệu nền</string>
     <string name="force_stop_dlg_text">Nếu bạn giới hạn dữ liệu di động nền, một số ứng dụng và dịch vụ sẽ không làm việc trừ khi bạn đang kết nối với một mạng Wi-Fi.</string>
     <string name="pref_about_traffic_title">Cài đặt sử dụng dữ liệu</string>
-    <string name="pref_package_traffic_normal">Hàng ngày: %s</string>
+    <string name="pref_package_traffic_normal">Tối đa: %s</string>
     <string name="pref_package_traffic_overlay">%1$s | Bổ sung: %2$s</string>
     <string name="pref_package_traffic_leisure">%1$s | Miễn phí: %2$s</string>
     <string name="pref_package_traffic_settings">Giới hạn dữ liệu di động</string>
     <string name="pref_adjust_traffic_data">Thiết lập sử dụng dữ liệu</string>
     <string name="pref_app_traffic_managent">Giới hạn sử dụng dữ liệu bởi ứng dụng</string>
     <string name="pref_connect_settings_exceed_limit_hint">Ngắt kết nối dữ liệu khi sử dụng dữ liệu đạt đến giới hạn</string>
-    <string name="pref_connect_settings_exceed_limit">Hạn chế sử dụng dữ liệu hàng ngày</string>
+    <string name="pref_connect_settings_exceed_limit">Hạn chế sử dụng dữ liệu tối đa</string>
     <string name="pref_free_traffic_exceed_limit">Thông báo cho tôi khi sử dụng dữ liệu đạt đến giới hạn</string>
     <string name="pref_free_traffic_limit_warn">Cảnh báo sử dụng dữ liệu miễn phí</string>
     <string name="pref_special_traffic_exceed_limit">Thông báo cho tôi khi sử dụng dữ liệu đạt đến giới hạn</string>
@@ -79,7 +79,7 @@
     <string name="pref_leisure_not_opened">Tắt</string>
     <string name="pref_new_installed_preconfig_title">Thiết lập mặc định cho các ứng dụng mới</string>
     <string name="pref_manual_adjust">Thiết lập số liệu thống kê sử dụng dữ liệu bằng tay</string>
-    <string name="pref_daily_adjust">Thiết lập giới hạn dữ liệu hàng ngày</string>
+    <string name="pref_daily_adjust">Thiết lập giới hạn dữ liệu tối đa</string>
     <string name="pref_free_adjust">Thiết lập giới hạn dữ liệu miễn phí</string>
     <string name="pref_specified_adjust">Thiết lập tùy chỉnh giới hạn dữ liệu</string>
     <string name="pref_automatic_adjust">Tự động đồng bộ số liệu thống kê sử dụng dữ liệu</string>
@@ -97,7 +97,7 @@
     <string name="left_precent">60%</string>
     <string name="right_precent">100%</string>
     <string name="pref_avaible_traffic">Kế hoạch sử dụng dữ liệu</string>
-    <string name="pref_daily_traffic">Giới hạn dữ liệu hàng ngày</string>
+    <string name="pref_daily_traffic">Giới hạn dữ liệu tối đa</string>
     <string name="pref_data_usage_not_set">Thiết lập giới hạn sữ dụng dữ liệu</string>
     <string name="pref_warning_values">Mức độ cảnh báo việc sử dụng dữ liệu</string>
     <string name="pref_pkg_begin_date">Ngày thiết lập lại chu kỳ sử dụng</string>
