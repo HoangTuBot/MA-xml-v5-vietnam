@@ -865,7 +865,7 @@ Lưu ý: ứng dụng có thể gây ra sự mất ổn định hệ thống, th
     <string name="finish_checking_virus">Đang hoàn tất…</string>
     <string name="optimizing_virus">Đang loại bỏ virus…</string>
     <string name="finish_optimizing_virus">Đang hoàn tất…</string>
-    <string name="menu_item_about_title">Giới thiệu</string>
+    <string name="menu_item_about_title">Thông tin</string>
     <string name="menu_item_about_content">Phiên bản: %s</string>
     <string name="menu_item_about_summary">Phiên bản: %s</string>
     <string name="menu_item_shortcut">Tạo lối tắt</string>
