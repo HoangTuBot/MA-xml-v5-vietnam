@@ -13,6 +13,8 @@
 Bạn có muốn kích hoạt không?"</string>
     <string name="app_floating_window_dlg_disable">"Vô hiệu hóa hiển thị các cửa sổ bật lên của %1$s sẽ buộc ngừng ứng dụng.
 Bạn có muốn vô hiệu hóa không?"</string>
+    <string name="dlg_ok">OK</string>
+    <string name="dlg_cancel">Hủy</string>
     <string name="cache_manage_title">Xóa %1$d tập tin tạm để làm trống %2$s</string>
     <string name="cache_list_empty_hints">Không có tập tin tạm</string>
     <string name="optimize_title_cache">Tạm</string>
@@ -28,7 +30,7 @@ Bạn có muốn vô hiệu hóa không?"</string>
     <string name="deep_cleaning">Nâng cao</string>
     <string name="rubbish_cleaning">Dọn dẹp hệ thống</string>
     <string name="storage_size_title">Lưu trữ</string>
-    <string name="storage_size_content">Đã dùng: %1$s | Trống: %2$s </string>
+    <string name="storage_size_content">Đã dùng: %1$s | Trống: %2$s</string>
     <string name="quick_scan_doing_title">Đang quét…</string>
     <string name="quick_scan_done_title">Quét xong</string>
     <string name="quick_scan_cleaning_title">Đang xóa…</string>
@@ -379,6 +381,7 @@ Bạn cần phải thay đổi cài đặt Pin của bạn trước khi bạn c�
     <string name="menu_item_force_stop">Buộc dừng</string>
     <string name="menu_item_uninstall">Gỡ cài đặt</string>
     <string name="menu_item_app_details">Chi tiết</string>
+    <string name="application_info_label">Thông tin về ứng dụng</string>
     <string name="version_text">Phiên bản %1$s</string>
     <string name="security_relative">An ninh liên quan</string>
     <string name="privacy_relative">Bảo mật liên quan</string>
@@ -845,6 +848,7 @@ Lưu ý: ứng dụng có thể gây ra sự mất ổn định hệ thống, th
     <string name="enable_anti_spam_title">Lọc tin nhắn không mong muốn</string>
     <string name="comfirm_exit">Thoát?</string>
     <string name="comfirm">Xác nhận</string>
+    <string name="cancel">Hủy</string>
     <string name="mem_lock">Khóa</string>
     <string name="mem_unlock">Mở khóa</string>
     <string name="last_check_date_today">"Lần quét gần nhất: Hôm nay "</string>
@@ -1062,7 +1066,7 @@ Lưu ý: ứng dụng có thể gây ra sự mất ổn định hệ thống, th
     <string name="bluetooth_disconnect_title">Ngắt kết nối?</string>
     <string name="bluetooth_disconnect_all_profiles">Tác vụ này sẽ kết thúc kết nối của bạn với: &lt;br>&lt;b>%1$s&lt;/b></string>
     <string name="bluetooth_disable_profile_title">Vô hiệu hồ sơ?</string>
-    <string name="bluetooth_disable_profile_message">Điều này sẽ vô hiệu: &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Khỏi:&lt;br>&lt;b>%2$s&lt;/b></string>
+    <string name="bluetooth_disable_profile_message">Điều này sẽ vô hiệu: &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Từ: &lt;br>&lt;b>%2$s&lt;/b></string>
     <string name="bluetooth_connected">Đã kết nối</string>
     <string name="bluetooth_connected_no_headset">Đã kết nối (không có điện thoại)</string>
     <string name="bluetooth_connected_no_a2dp">Đã kết nối (không có phương tiện)</string>
@@ -1188,7 +1192,6 @@ Lưu ý: ứng dụng có thể gây ra sự mất ổn định hệ thống, th
     <string name="phone_info_label">Thông tin điện thoại</string>
     <string name="sd_card_settings_label">Bộ nhớ USB</string>
     <string name="proxy_settings_label">Cài đặt proxy</string>
-    <string name="cancel">Hủy</string>
     <string name="settings_label">Cài đặt</string>
     <string name="settings_label_launcher">Cài đặt</string>
     <string name="settings_shortcut">Lối tắt cài đặt</string>
@@ -1335,7 +1338,7 @@ Quá trình mã hóa mất ít nhất một giờ. Bạn phải bắt đầu khi
     <string name="bluetooth_settings_summary">Quản lý kết nối, đặt tên thiết bị &amp; khả năng phát hiện thiết bị</string>
     <string name="bluetooth_pairing_request">Yêu cầu ghép nối Bluetooth</string>
     <string name="bluetooth_enter_pin_msg">Để ghép nối với: &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Nhập mã PIN bắt buộc của thiết bị:</string>
-    <string name="bluetooth_enter_pin_msg_hs">"Nhập mã PIN để ghép nối với \"%1$s\". [Đã Bật Bảo Mật Cấp Cao: Cần 16 ký tự]"</string>
+    <string name="bluetooth_enter_pin_msg_hs">Nhập mã PIN để ghép nối với \"%1$s\". [Đã Bật Bảo Mật Cấp Cao: Cần 16 ký tự]</string>
     <string name="bluetooth_enter_passkey_msg">Để ghép nối với: &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Nhập mã xác nhận bắt buộc của thiết bị:</string>
     <string name="bluetooth_enable_alphanumeric_pin">Mã PIN chứa các ký tự hoặc biểu tượng</string>
     <string name="bluetooth_pin_values_hint">Thường là 0000 hoặc 1234</string>
@@ -2011,7 +2014,6 @@ Bạn hiện đã đăng nhập vào các tài khoản sau:
     <string name="verify_applications_summary">Không cho phép hoặc cảnh báo trước khi cài đặt ứng dụng có thể gây hại</string>
     <string name="advanced_settings">Cài đặt nâng cao</string>
     <string name="advanced_settings_summary">Bật thêm tùy chọn cài đặt</string>
-    <string name="application_info_label">Thông tin về ứng dụng</string>
     <string name="storage_label">Dung lượng</string>
     <string name="auto_launch_label">Khởi chạy theo mặc định</string>
     <string name="auto_launch_label_generic">Mặc định</string>
@@ -2074,8 +2076,6 @@ Bạn hiện đã đăng nhập vào các tài khoản sau:
     <string name="recompute_size">Đang tính toán lại kích thước…</string>
     <string name="clear_data_dlg_title">Xóa dữ liệu ứng dụng?</string>
     <string name="clear_data_dlg_text">Tất cả dữ liệu của ứng dụng này sẽ bị xóa vĩnh viễn, bao gồm tất cả các tập tin, cài đặt, tài khoản, cơ sở dữ liệu, vv…</string>
-    <string name="dlg_ok">OK</string>
-    <string name="dlg_cancel">Hủy</string>
     <string name="app_not_found_dlg_title" />
     <string name="app_not_found_dlg_text">Không tìm thấy ứng dụng trong danh sách các ứng dụng đã cài đặt.</string>
     <string name="clear_data_failed">Không thể xóa dữ liệu ứng dụng.</string>
@@ -2297,8 +2297,8 @@ Một số ứng dụng có thể không hoạt động cho đến khi được 
     <string name="accessibility_screen_magnification_summary">"Khi tính năng này được bật, bạn có thể phóng to và thu nhỏ bằng cách chạm ba lần vào màn hình.
 
 Trong khi phóng to, bạn có thể:
-"<li><ul>"Xoay: Kéo hai hoặc nhiều ngón tay qua màn hình.
-"<li>Điều chỉnh mức thu phóng: Chụm hai hoặc nhiều ngón tay với nhau hoặc tách chúng ra.</li></ul></li>"
+"<ul><li>"Xoay: Kéo hai hoặc nhiều ngón tay qua màn hình.
+"<li>Điều chỉnh mức thu phóng: Chụm hai hoặc nhiều ngón tay với nhau hoặc tách chúng ra.</li></li></ul>"
 
 Bạn cũng có thể tạm thời thu phóng các mục bên dưới ngón tay bạn bằng cách nhấn ba lần và giữ. Ở trạng thái thu phóng này, bạn có thể kéo ngón tay để khám phá các phần khác nhau của màn hình. Thả ngón tay để trở về trạng thái trước.
 
@@ -2915,7 +2915,6 @@ Quản trị viên của bạn có thể giám sát hoạt động mạng của 
 Điều này có thể xảy ra do một chứng chỉ xác thực đáng tin cậy được cài đặt trên thiết bị của bạn."</string>
     <string name="ssl_ca_cert_settings_button">Kiểm tra chứng chỉ đáng tin cậy</string>
     <string name="tune_away_title">Tune Away</string>
-    <string name="tune_away_Default">Vô hiệu hóa</string>
     <string name="tune_away_enabled">TuneAway đã bật!</string>
     <string name="tune_away_disabled">TuneAway đã tắt!</string>
     <string name="priority_sub_title">Thuê Bao Ưu Tiên</string>
@@ -3471,11 +3470,17 @@ Tải về tại at http://miui.com/mac"</string>
     <string name="internal_format_summary">Xóa tất cả dữ liệu trên bộ nhớ máy, ví dụ như nhạc, hình ảnh, vv…</string>
     <string name="bugreport_tool_log_toast_generate_bugreport">Đang tạo báo cáo lỗi, mất khoảng 1 phút.</string>
     <string name="bugreport_tool_log_toast">Bản ghi lỗi được lưu vào %s</string>
+    <string name="bugreport_tool_log">Thu thập bản ghi lỗi</string>
+    <string name="modem_tool_log">Thu thập bản ghi Modem</string>
+    <string name="modem_tool_log_start">Bắt đầu thu thập</string>
+    <string name="modem_tool_log_stop">Dừng thu thập</string>
+    <string name="modem_tool_log_start_toast">"Bắt đầu đường dẫn để lưu các bản ghi modem %s"</string>
+    <string name="modem_tool_log_stop_toast">"Dừng để lưu các bản ghi modem từ %s"</string>
     <string name="wifi_tether_setting_title">Cài đặt cơ bản</string>
     <string name="audio_profile_settings_title">Cấu hình âm thanh</string>
     <string name="enable_wifi_display">Bật hiển thị Wi-Fi</string>
     <string name="xiaomi_cloud_service">MiCloud</string>
-    <string name="xiaomi_money_service">Trung tâm MiCredit</string>
+    <string name="xiaomi_money_service">MiCredit</string>
     <string name="wifi_auto_connect">Tự động kết nối</string>
     <string name="select_ssid_type_title">Chọn lại giữa các SSID</string>
     <string name="gsm_to_wifi_connect_type_title">Di động -> Wi-Fi</string>
@@ -3619,11 +3624,18 @@ Tải về tại at http://miui.com/mac"</string>
     <string name="bluetooth_unlock_change_matched_device">Chọn thiết bị khác</string>
     <string name="bluetooth_unlock_add_device">Thêm thiết bị</string>
     <string name="bluetooth_unlock_delete_device">Xóa thiết bị này</string>
+    <string name="bluetooth_device_address">Địa chỉ thiết bị:</string>
     <string name="bluetooth_unlock_confirm_device_text">Vui lòng vỗ thiết bị để xác nhận</string>
     <string name="bluetooth_unlock_device_matched_text">Sử dụng thiết bị này để mở khóa phím bảo vệ</string>
     <string name="bluetooth_unlock_delete_device_confirm_msg">Bạn có chắc muốn xóa thiết bị này?</string>
     <string name="bluetooth_unlock_change_device_confirm_msg">Thiết bị phù hợp cũ sẽ được thay thế bằng cái mới, bạn có chắc muốn tiếp tục?</string>
     <string name="wifi_type_approval_title">Kiểu phê duyệt</string>
+    <string name="app_feedback">Báo cáo Lỗi</string>
+    <string name="app_backup">Sao lưu</string>
+    <string name="google_backup_section_title">Sao lưu &amp; khôi phục Google</string>
+    <string name="system_backup_section_title">Sao lưu</string>
+    <string name="local_backup_section_title">Sao lưu trên máy</string>
+    <string name="local_backup_section_summary">Sao lưu cài đặt hệ thống, tài khoản và dữ liệu ứng dụng</string>
     <string name="miracast_settings_category">Cài đặt hiển thị Wi-Fi</string>
     <string name="miracast_display_category">Hiển thị</string>
     <string name="miracast_menu_search">Tìm kiếm</string>
@@ -3635,7 +3647,7 @@ Tải về tại at http://miui.com/mac"</string>
     <string name="miracast_menu_rename">Đổi tên</string>
     <string name="miracast_setup_save">Lưu</string>
     <string name="miracast_setup_cancel">Hủy</string>
-    <string name="miracast_wifi_off">Để sử dụng hiển thị Wi-Fi, hãy bật Wi-Fi</string>
+    <string name="miracast_wifi_off">Để sử dụng mạng Wi-Fi, hãy bật Wi-Fi</string>
     <string name="miracast_no_sinks_found">Không có Wi-Fi khả dụng gần đây</string>
     <string name="miracast_nickname">Vui lòng nhập một tên mới:</string>
     <string name="miracast_connection_failed_generic">Kết nối không thành công</string>
