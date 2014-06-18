@@ -97,7 +97,7 @@ Bạn có chắc bạn muốn di chuyển khỏi trang này?"</string>
     <string name="menu_hv_swap2">Chuyển sang màn hình dọc</string>
     <string name="menu_addtodesk">Thêm vào màn hình chính</string>
     <string name="pref_content_auto_light_mode">Độ sáng tự động</string>
-    <string name="pref_content_fontsize_setting">Cài đặt font</string>
+    <string name="pref_content_fontsize_setting">Cài đặt phông chữ</string>
     <string name="pref_content_brightness_setting">Cài đặt độ sáng</string>
     <string name="readmode_page_loading">Đang tải…</string>
     <string name="readmode_page_load_error">Trang không thể tải, xin vui lòng nhấn vào nút làm mới để thử lại.</string>
@@ -111,7 +111,7 @@ Bạn có chắc bạn muốn di chuyển khỏi trang này?"</string>
     <string name="readmode_refresh">Tải lại</string>
     <string name="readmode_battery">Pin </string>
     <string name="accessibility_button_clear">Xóa văn bản nhập</string>
-    <string name="pref_content_block_float_popups">Chặn pop-up</string>
+    <string name="pref_content_block_float_popups">Chặn cửa sổ nổi</string>
     <string name="local_bookmarks">Trên máy</string>
     <string name="google_bookmarks">"Google: "</string>
     <string name="bookmarks_management">Dấu trang</string>
@@ -466,11 +466,11 @@ Bạn có chắc bạn muốn di chuyển khỏi trang này?"</string>
     <string name="replace">Thay thế</string>
     <string name="menu_preferences">Cài đặt</string>
     <string name="pref_content_title">Nội dung trang</string>
-    <string name="pref_content_block_popups">Chặn pop-up</string>
+    <string name="pref_content_block_popups">Chặn cửa sổ nổi</string>
     <string name="pref_content_cloud_speedup">Tải nội dung nhanh hơn bằng cách sử dụng máy chủ proxy</string>
-    <string name="pref_content_javascript">Kích hoạt JavaScript</string>
+    <string name="pref_content_javascript">Kích hoạt tập lệnh Java</string>
     <string name="pref_content_open_in_background">Mở chạy nền</string>
-    <string name="pref_content_plugins">Kích hoạt plugins</string>
+    <string name="pref_content_plugins">Kích hoạt Plugins</string>
     <string name="pref_content_search_engine_summary">Chọn công cụ tìm kiếm</string>
     <string name="pref_set_homepage_to">Đặt thành</string>
     <string name="pref_content_autofit">Tự động điều chỉnh trang</string>
@@ -582,7 +582,7 @@ Bạn có chắc bạn muốn di chuyển khỏi trang này?"</string>
     <string name="search_label">Trình duyệt</string>
     <string name="search_button_text">Đi tới</string>
     <string name="search_settings_description">Dấu trang và lịch sử web</string>
-    <string name="popup_window_attempt">Cho phép trang web này mở cửa sổ bật pop-up?</string>
+    <string name="popup_window_attempt">Cho phép trang web này mở cửa sổ bật cửa sổ nổi?</string>
     <string name="allow">Cho phép</string>
     <string name="block">Chặn</string>
     <string name="download_no_sdcard_dlg_title">Không có thẻ SD</string>
