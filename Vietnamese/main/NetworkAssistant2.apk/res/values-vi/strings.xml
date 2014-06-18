@@ -110,7 +110,7 @@
     <string name="input_traffic_pkg">Nhập sử dụng dữ liệu</string>
     <string name="begin_date">Ngày thiết lập lại chu kỳ sử dụng</string>
     <string name="tips_dialog_title">Không biết giới hạn của bạn?</string>
-    <string name="tips_message">Nếu bạn không rõ về chi tiết dữ liệu di động của bạn, bạn có thể xem chúng bằng cách quay số %2$s (%1$s).</string>
+    <string name="tips_message">Nếu bạn không rõ về chi tiết dữ liệu di động của bạn, bạn có thể xem chúng bằng cách quay số hoặc liên hệ với nhà mạng.</string>
     <string name="daily_pkg_traffic">Thiết lập giới hạn sử dụng dữ liệu hàng ngày</string>
     <string name="input_aviable_traffic">Thiết lập giới hạn sử dụng dữ liệu</string>
     <string name="pkg_traffic">Thiết lập giới hạn sử dụng dữ liệu</string>
