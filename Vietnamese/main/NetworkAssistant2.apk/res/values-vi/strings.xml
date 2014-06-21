@@ -38,6 +38,7 @@
     <string name="app_version">Phiên bản</string>
     <string name="app_mobile">Dữ liệu di động</string>
     <string name="app_wifi">Wi-Fi</string>
+    <string name="spinner_title">%1$s - Dữ liệu di động: %2$s</string>
     <string name="traffic_none">Không</string>
     <string name="sorted_dialog_title">Sắp xếp theo</string>
     <string name="cancel_button">Hủy</string>
@@ -174,11 +175,24 @@ Sử dụng vượt quá giới hạn dữ liệu có thể dẫn đến chi ph�
     <string name="traffic_protection_text_hint">Đặt giới hạn sử dụng dữ liệu cho %s</string>
     <string name="traffic_protection_next">Tiếp theo</string>
     <string name="traffic_protection_data_usage_summary">Sử dụng vượt quá giới hạn dữ liệu có thể dẫn đến chi phí cao.</string>
-    <string name="traffic_protection_use_data">Dữ liệu đã bật</string>
+    <string name="traffic_protection_use_data">Dữ liệu</string>
     <string name="traffic_correction_start_correction">Trao đổi với máy chủ của nhà cung cấp dịch vụ…</string>
     <string name="traffic_correction_start_correction_failed">Yêu cầu không thành, hãy kiểm tra cài đặt nhà điều hành</string>
     <string name="traffic_correction_success">Sử dụng dữ liệu đã cập nhật</string>
     <string name="traffic_correction_failed">Không thể lấy thông tin sử dụng dữ liệu</string>
+    <string name="traffic_config_alert_title">%s khác</string>
+    <string name="traffic_config_alert_ok">OK</string>
+    <string name="traffic_config_alert_cancel">Hủy</string>
+    <string name="traffic_config_alert_nomore">Không hỏi lại</string>
+    <string name="traffic_config_alert_body">"Bộ đếm sử dụng dữ liệu của nhà mạng cho bạn thấy bạn còn %s.
+Bạn có muốn cập nhật giới hạn sử dụng dữ liệu của bạn?"</string>
+    <string name="traffic_config_alert_body_normal">"
+Bộ đếm sử dụng dữ liệu của nhà mạng cho bạn thấy bạn còn %1$s sử dụng tối đa. Điều này khác với giới hạn %2$s bạn đã đặt."</string>
+    <string name="traffic_config_alert_body_leisure">"
+Bộ đếm sử dụng dữ liệu của nhà mạng cho bạn thấy bạn còn %1$s sử dụng miễn phí. Điều này khác với giới hạn %2$s bạn đã đặt."</string>
+    <string name="traffic_config_alert_body_leisure_notset">"
+Bộ đếm sử dụng dữ liệu của nhà mạng cho bạn thấy bạn còn %1$s sử dụng miễn phí. Bạn đã chưa đặt giới hạn."</string>
+    <string name="traffic_config_alert_setted">Data limit set</string>
     <string name="operator_name_cmcc">China Mobile</string>
     <string name="operator_name_unicom">China Unicom</string>
     <string name="operator_name_telcom">China Telecom</string>
@@ -187,4 +201,27 @@ Sử dụng vượt quá giới hạn dữ liệu có thể dẫn đến chi ph�
     <string name="operator_number_telcom">10000</string>
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
+    <string name="datausage_purchase_title_pkglist">Mua dữ liệu</string>
+    <string name="datausage_purchase_title_confirm">Chi tiết mua</string>
+    <string name="datausage_purchase_title_order">Mua dữ liệu</string>
+    <string name="datausage_purchase_banner_title">Bạn có %s hơn giới hạn của bạn</string>
+    <string name="datausage_purchase_view_detail">Xem chi tiết</string>
+    <string name="datausage_purchase_buy">Mua</string>
+    <string name="datausage_purchase_pay_confirm">Thanh toán</string>
+    <string name="datausage_purchase_pay_hint">Để hủy, vui lòng gọi %s</string>
+    <string name="datausage_purchase_pay_captcha_hint">Nhập mã xác nhận</string>
+    <string name="datausage_purchase_pay_captcha_tips">Sau khi bạn nhập mã xác nhận, nhấn vào "Thanh toán" sẽ mua ngay lập tức. Bạn sẽ nhận được xác nhận trong vòng 10 phút.</string>
+    <string name="datausage_purchase_get_captcha">Lấy mã xác nhận (%d)</string>
+    <string name="datausage_purchase_get_captcha_again">Gửi lại</string>
+    <string name="datausage_purchase_get_captcha_failed">Không thể lấy mã xác nhận. Kiểm tra kết nối dữ liệu của bạn và thử lại.</string>
+    <string name="datausage_purchase_confirm_tip">Đặt mua:</string>
+    <string name="datausage_purchase_ordering">Đang mua…</string>
+    <string name="datausage_purchase_result_ok">"Bạn đã mua %s thành công.
+Xem tin nhắn được gửi bởi nhà mạng của bạn để biết thêm."</string>
+    <string name="datausage_purchase_result_failed">Không thể hoàn tất việc mua</string>
+    <string name="datausage_purchase_backto_ns">Quay lại</string>
+    <string name="datausage_purchase_goto_monthsetting">Điều chỉnh giới hạn dữ liệu</string>
+    <string name="datausage_purchase_pkglist_nodata">Có xung đột với kế hoạch dữ liệu hiện có của bạn và đơn hàng hiện tại của bạn. Liên hệ với nhà mạng của bạn để biết thêm thông tin.</string>
+    <string name="datausage_purchase_pkglist_networkerror">Không thể kết nối vào mạng. Kiểm tra kết nối dữ liệu của bạn và thử lại.</string>
+    <string name="datausage_purchase_pkglist_servererror">Lỗi máy chủ</string>
 </resources>
