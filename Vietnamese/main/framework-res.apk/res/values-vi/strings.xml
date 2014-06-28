@@ -157,7 +157,7 @@
     <string name="global_action_lock">Khóa màn hình</string>
     <string name="global_action_power_off">Tắt nguồn</string>
     <string name="global_action_bug_report">Báo cáo lỗi</string>
-    <string name="bugreport_title">Nhận báo cáo lỗi</string>
+    <string name="bugreport_title">Báo cáo lỗi</string>
     <string name="bugreport_message">Báo cáo này sẽ thu thập thông tin về tình trạng thiết bị hiện tại của bạn, để gửi dưới dạng thông báo qua email. Sẽ mất một chút thời gian kể từ khi bắt đầu báo cáo lỗi cho tới khi báo cáo sẵn sàng để gửi; xin vui lòng kiên nhẫn.</string>
     <string name="global_action_toggle_silent_mode">Chế độ im lặng</string>
     <string name="global_action_silent_mode_on_status">Âm thanh TẮT</string>
@@ -803,7 +803,7 @@ Hãy truy cập "<b>google.com/accounts/recovery</b>.</string>
     <string name="lockscreen_access_pattern_cleared">Đã xóa hình</string>
     <string name="lockscreen_access_pattern_cell_added">Đã thêm ô</string>
     <string name="lockscreen_access_pattern_detected">Đã vẽ xong hình</string>
-    <string name="keyguard_accessibility_widget_changed">%1$s. Tiện ích %2$d trong số %3$d.</string>
+    <string name="keyguard_accessibility_widget_changed">%1$s. Tiện ích %2$d của %3$d.</string>
     <string name="keyguard_accessibility_add_widget">Thêm tiện ích.</string>
     <string name="keyguard_accessibility_widget_empty_slot">Trống</string>
     <string name="keyguard_accessibility_unlock_area_expanded">Đã mở rộng vùng khóa.</string>
@@ -929,7 +929,7 @@ Bạn có chắc chắn muốn điều hướng khỏi trang này không?"</stri
     <string name="Midnight">Nửa đêm</string>
     <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
     <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
-    <string name="replace">Thay thế…</string>
+    <string name="replace">Đang thay thế…</string>
     <string name="delete">Xóa</string>
     <string name="textSelectionCABTitle">Lựa chọn văn bản</string>
     <string name="addToDictionary">Thêm vào từ điển</string>
@@ -1013,7 +1013,7 @@ Bạn có muốn đóng trang không?"</string>
     <string name="wifi_available_sign_in">Đăng nhập vào mạng Wi-Fi</string>
     <string name="network_available_sign_in">Đăng nhập vào mạng</string>
     <string name="wifi_watchdog_network_disabled">Không thể kết nối với Wi-Fi</string>
-    <string name="wifi_watchdog_network_disabled_detailed">" có kết nối Internet không tốt."</string>
+    <string name="wifi_watchdog_network_disabled_detailed">" có kết nối Internet kém."</string>
     <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
     <string name="wifi_p2p_turnon_message">Khởi động Wi-Fi Direct. Việc này sẽ tắt hoạt động của ứng dụng khách/điểm phát sóng Wi-Fi.</string>
     <string name="wifi_p2p_failed_message">Không thể khởi động Wi-Fi Direct.</string>
@@ -1021,8 +1021,8 @@ Bạn có muốn đóng trang không?"</string>
     <string name="wifi_p2p_enabled_notification_message">Chạm để cài đặt</string>
     <string name="accept">Đồng ý</string>
     <string name="decline">Từ chối</string>
-    <string name="wifi_p2p_invitation_sent_title">Đã gửi thư mời</string>
-    <string name="wifi_p2p_invitation_to_connect_title">Thư mời kết nối</string>
+    <string name="wifi_p2p_invitation_sent_title">Đã gửi lời mời</string>
+    <string name="wifi_p2p_invitation_to_connect_title">Lời mời kết nối</string>
     <string name="wifi_p2p_from_message">Người gửi:</string>
     <string name="wifi_p2p_to_message">Người nhận:</string>
     <string name="wifi_p2p_enter_pin_message">Nhập PIN bắt buộc:</string>
@@ -1044,14 +1044,14 @@ Bạn có muốn đóng trang không?"</string>
     <string name="sms_short_code_confirm_never_allow">Không bao giờ cho phép</string>
     <string name="sim_removed_title">Đã xóa thẻ SIM</string>
     <string name="sim_removed_message">Mạng di động sẽ không khả dụng cho đến khi bạn khởi động lại với thẻ SIM hợp lệ được lắp.</string>
-    <string name="sim_done_button">Xong</string>
+    <string name="sim_done_button">Hoàn tất</string>
     <string name="sim_added_title">Đã thêm thẻ SIM</string>
     <string name="sim_added_message">Khởi động lại thiết bị của bạn để truy cập mạng di động.</string>
     <string name="sim_restart_button">Khởi động lại</string>
     <string name="time_picker_dialog_title">Đặt giờ</string>
     <string name="date_picker_dialog_title">Đặt ngày</string>
     <string name="date_time_set">Đặt</string>
-    <string name="date_time_done">Xong</string>
+    <string name="date_time_done">Hoàn tất</string>
     <string name="perms_new_perm_prefix">" "<font size="12" fgcolor="#ff33b5e5">MỚI: </font>" "</string>
     <string name="perms_description_app">Được cung cấp bởi %1$s.</string>
     <string name="no_permissions">Không yêu cầu quyền</string>
@@ -1121,7 +1121,7 @@ Bạn có muốn đóng trang không?"</string>
     <string name="ime_action_search">Tìm kiếm</string>
     <string name="ime_action_send">Gửi</string>
     <string name="ime_action_next">Tiếp theo</string>
-    <string name="ime_action_done">Xong</string>
+    <string name="ime_action_done">Hoàn tất</string>
     <string name="ime_action_previous">Trước</string>
     <string name="ime_action_default">Thực hiện</string>
     <string name="dial_number_using">"Quay số
@@ -1141,7 +1141,7 @@ cho tài khoản %s."</string>
     <string name="accessibility_binding_label">Khả năng truy cập</string>
     <string name="wallpaper_binding_label">Hình nền</string>
     <string name="chooser_wallpaper">Thay đổi hình nền</string>
-    <string name="notification_listener_binding_label">Trình xử lý thông báo</string>
+    <string name="notification_listener_binding_label">Thông báo người nghe</string>
     <string name="vpn_title">Đã kích hoạt VPN</string>
     <string name="vpn_title_long">VPN được %s kích hoạt</string>
     <string name="vpn_text">Chạm để quản lý mạng.</string>
@@ -1167,7 +1167,7 @@ cho tài khoản %s."</string>
     <string name="throttled_notification_message">Chạm để tìm hiểu thêm về việc sử dụng dữ liệu di động.</string>
     <string name="no_matches">Không có kết quả nào phù hợp</string>
     <string name="find_on_page">Tìm kiếm trên trang</string>
-    <string name="action_mode_done">Xong</string>
+    <string name="action_mode_done">Hoàn tất</string>
     <string name="progress_unmounting">Đang ngắt kết nối bộ lưu trữ USB…</string>
     <string name="progress_nomediapresent">Không có phương tiện hiện tại có thể tháo rời…</string>
     <string name="progress_erasing">Đang xóa bộ lưu trữ USB…</string>
@@ -1214,7 +1214,7 @@ cho tài khoản %s."</string>
     <string name="keyboardview_keycode_alt">Alt</string>
     <string name="keyboardview_keycode_cancel">Hủy</string>
     <string name="keyboardview_keycode_delete">Xóa</string>
-    <string name="keyboardview_keycode_done">Xong</string>
+    <string name="keyboardview_keycode_done">Hoàn tất</string>
     <string name="keyboardview_keycode_mode_change">Thay đổi chế độ</string>
     <string name="keyboardview_keycode_shift">Shift</string>
     <string name="keyboardview_keycode_enter">Enter</string>
