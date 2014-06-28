@@ -53,7 +53,7 @@
         <item quantity="one">1 phút trước</item>
     </plurals>
     <plurals name="v5_edit_mode_title">
-        <item quantity="other">%1$d đã chọn</item>
-        <item quantity="one">%1$d đã chọn</item>
+        <item quantity="other">Đã chọn %1$d mục</item>
+        <item quantity="one">Đã chọn %1$d mục</item>
     </plurals>
 </resources>
