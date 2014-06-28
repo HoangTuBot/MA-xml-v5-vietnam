@@ -5,7 +5,7 @@
     <string name="activating">Đang kích hoạt…</string>
     <string name="deprecated_alarm_message_12_hour_formate" />
     <string name="alwaysUsePrompt">Không hỏi lại</string>
-    <string name="android_lockscreen_glogin_instructions">Để mở khóa, đăng nhập với tài khoản của bạn</string>
+    <string name="android_lockscreen_glogin_instructions">Để mở khóa, đăng nhập tài khoản Mi của bạn</string>
     <string name="today">Hôm nay</string>
     <string name="tomorrow">Ngày mai</string>
     <string name="yesterday">Hôm qua</string>
@@ -266,20 +266,20 @@
     <string name="experimental_validate_password">Mật khẩu</string>
     <string name="experimental_validate_progress">Đang xác nhận…</string>
     <string name="experimental_validate_thanks">Cảm ơn!</string>
-    <string name="experimental_validate_username">Xiaomi ID</string>
+    <string name="experimental_validate_username">Tên người dùng</string>
     <string name="experimental_validate_warning">Mỗi báo cáo của bạn giúp MIUI trở nên tốt hơn!</string>
     <string name="find_device_check_sim">Đang kiểm tra SIM…</string>
     <string name="find_device_sim_change_instructions">"Thiết bị của bạn đã bị khóa.
-Vui lòng gắn thẻ SIM của bạn vào hoặc đăng nhập bằng tài khoản của Xiaomi."</string>
+Vui lòng gắn thẻ SIM của bạn vào hoặc đăng nhập bằng tài khoản Mi."</string>
     <string name="find_device_sim_change_instructions_no_network">"Điện thoại của bạn đã bị khóa do SIM.
 Vui lòng gắn thẻ SIM."</string>
     <string name="find_device_turn_off_flight_mode">Tắt chế độ máy bay</string>
     <string name="find_device_turn_off_flight_mode_instructions">"Thiết bị của bạn đã bị khóa.
 Vui lòng tắt chế độ máy bay."</string>
     <string name="firewall_setting">Danh sách chặn</string>
-    <string name="first_back_long_press_message">"Bạn có muốn kích hoạt chức năng giữ phím quay lại một lúc để tắt ứng dụng và ứng dụng chạy nền?
+    <string name="first_back_long_press_message">"Nhấn và giữ phím 'Back' để đóng ứng dụng hiện tại và các tiến trình nền của nó.
 
-Kích hoạt thông qua Cài đặt > Hệ thống > Phím"</string>
+Để bật chức năng này, vào Cài đặt > Hệ thống > Phím"</string>
     <string name="fm_record_smaple_prefix_miui">Ghi âm FM</string>
     <string name="fools_day">Cá Tháng Tư</string>
     <string name="force_exit_message">Đóng thành công \"%1$s\"</string>
@@ -327,7 +327,8 @@ Kích hoạt thông qua Cài đặt > Hệ thống > Phím"</string>
     <string name="lunar_yue" />
     <string name="lunar_zheng" />
     <string name="memory_clear_nothing_result">Không có ứng dụng nào chạy nền</string>
-    <string name="memory_clear_result">%1$s đã xóa | %2$s khả dụng</string>
+    <string name="memory_clear_result">"Xóa: %1$s
+Trống: %2$s"</string>
     <string name="miui_copyright_title">Bản quyền</string>
     <string name="miui_mibi_license_title">Thỏa thuận người dùng với Mi Credit</string>
     <string name="miui_privacy_policy_title">Chính sách bảo mật</string>
@@ -359,25 +360,25 @@ Kích hoạt thông qua Cài đặt > Hệ thống > Phím"</string>
     <string name="perm_payment_lab">Dịch vụ thanh toán Xiaomi</string>
     <string name="perm_send_push_dspt">Cho phép đẩy tin nhắn đến Xiaomi</string>
     <string name="perm_send_push_lab">Gửi tin nhắn đẩy</string>
-    <string name="perm_tigger_toggle_dspt">Cho phép các ứng dụng kích hoạt Phím nhanh được cung cấp bởi thanh trạng thái</string>
+    <string name="perm_tigger_toggle_dspt">Cho phép các ứng dụng kích hoạt Phím nhanh trong thanh trạng thái</string>
     <string name="perm_tigger_toggle_lab">Kích hoạt Phím nhanh từ thanh trạng thái</string>
     <string name="perm_use_find_device">Xác định vị trí thiết bị</string>
     <string name="permdesc_accessNote">Cho phép các ứng dụng để đọc và sửa đổi ghi chú được lưu trữ trên điện thoại của bạn. Ứng dụng độc hại có thể sử dụng để gửi ghi chú của bạn cho người khác hoặc xóa tất cả ghi chú.</string>
     <string name="permlab_accessNote">Truy cập ghi chú</string>
-    <string name="private_num">Số riêng tư</string>
+    <string name="private_num">Số ẩn danh</string>
     <string name="reboot_confirm">Điện thoại sẽ được khởi động lại</string>
     <string name="reboot_progress">Đang khởi động lại…</string>
     <string name="reverse_all">Xóa tất cả</string>
-    <string name="safetylegal_activity_unreachable">Điện thoại của bạn không được kết nối với dịch vụ dữ liệu. Để xem thông tin này bây giờ, đi đến %s từ bất kỳ máy tính kết nối Internet.</string>
-    <string name="screen_button_notification_text">"Nhấn đồng thời phím 'Home'+'Power' để kích hoạt"</string>
+    <string name="safetylegal_activity_unreachable">Không thể kết nối vào mạng. Bạn có thể xem thông tin trực tuyến tại %s.</string>
+    <string name="screen_button_notification_text">"Nhấn đồng thời phím 'Home' và 'Nguồn' để bật lại."</string>
     <string name="screen_button_notification_title">Các nút trên màn hình bị vô hiệu hoá</string>
-    <string name="screen_on_proximity_sensor_hint">"Bắt buộc thoát: bấm đồng thời phím 'Back'+'Volume Up'"</string>
-    <string name="screen_on_proximity_sensor_summary">Chế độ mất điện thoại đang bật. Chức năng điện thoại hiện đang bị vô hiệu hoá!</string>
-    <string name="screen_on_proximity_sensor_title">Ngăn chặn đánh cắp điện thoại</string>
-    <string name="sd_not_available">Thẻ SD đã được tháo hoặc không khả dụng</string>
-    <string name="sd_not_available_low_internal_storage">Thẻ SD đã ngắt kết nối hoặc không khả dụng, bộ nhớ trong đã gần đầy</string>
+    <string name="screen_on_proximity_sensor_hint">"Nhấn đồng thời phím 'Back' và 'Vol+' để tắt."</string>
+    <string name="screen_on_proximity_sensor_summary">Không che phần trên của điện thoại!</string>
+    <string name="screen_on_proximity_sensor_title">Ngăn chặn lạm dụng</string>
+    <string name="sd_not_available">Không có thẻ SD</string>
+    <string name="sd_not_available_low_internal_storage">Thẻ SD đã ngắt kết nối hoặc không khả dụng. Đã lưu vào bộ nhớ trong.</string>
     <string name="sd_not_available_saved_to_internal_storage">Đã lưu vào bộ nhớ trong</string>
-    <string name="sd_not_available_use_internal_storage">Thẻ SD không khả dụng, đã lưu vào bộ nhớ trong</string>
+    <string name="sd_not_available_use_internal_storage">Thẻ SD không khả dụng. Đã lưu vào bộ nhớ trong.</string>
     <string name="select">Chọn</string>
     <string name="select_all">Chọn tất cả</string>
     <string name="send_sms_for_sync_notice">Hệ thống sẽ gửi một tin nhắn SMS để kích hoạt, bạn có muốn tiếp tục?</string>
@@ -454,9 +455,9 @@ Kích hoạt thông qua Cài đặt > Hệ thống > Phím"</string>
     <string name="reboot_confirm_title">Bạn có chắc muốn khởi động lại?</string>
     <string name="err_resource_leak">Thật không may, %1$s đã ngừng do rò rỉ tài nguyên.</string>
     <string name="app_notificaiton_on_statusBar_and_notificationBar">Thanh trạng thái và thông báo</string>
-    <string name="app_no_notification">Không có thông báo</string>
+    <string name="app_no_notification">Ẩn thông báo</string>
     <string name="app_notificaiton_on_notificationBar">Thanh thông báo</string>
-    <string name="device_hongmi">Điện thoại Hongmi</string>
+    <string name="device_hongmi">Điện thoại Redmi</string>
     <string name="volume_ring_description">Nhạc chuông &amp; Thông báo</string>
     <string name="login_website_in_case_forget_password">Vui lòng truy cập http://i.xiaomi.com để thiết lập lại mật khẩu của bạn</string>
     <string name="anti_aggression_day" />
