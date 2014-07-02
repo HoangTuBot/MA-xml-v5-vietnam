@@ -180,7 +180,7 @@
     <string name="attach_slideshow">Trình chiếu</string>
     <string name="select_bottom_text">Văn bản dưới cùng</string>
     <string name="select_top_text">Văn bản ở trên cùng</string>
-    <string name="delivery_toast_body">Tin nhắn được nhận bởi %s.</string>
+    <string name="delivery_toast_body">%s đã nhận được tin nhắn.</string>
     <string name="notification_multiple">%s tin nhắn chưa đọc.</string>
     <string name="notification_multiple_title">Tin nhắn mới</string>
     <string name="notification_failed_multiple">%s tin nhắn không thể gửi.</string>
