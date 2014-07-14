@@ -327,8 +327,7 @@ Vui lòng tắt chế độ máy bay."</string>
     <string name="lunar_yue" />
     <string name="lunar_zheng" />
     <string name="memory_clear_nothing_result">Không có ứng dụng nào chạy nền</string>
-    <string name="memory_clear_result">"Xóa: %1$s
-Trống: %2$s"</string>
+    <string name="memory_clear_result">"Xóa: %1$s | Trống: %2$s"</string>
     <string name="miui_copyright_title">Bản quyền</string>
     <string name="miui_mibi_license_title">Thỏa thuận người dùng với Mi Credit</string>
     <string name="miui_privacy_policy_title">Chính sách bảo mật</string>
@@ -405,8 +404,8 @@ Trống: %2$s"</string>
     <string name="the_spring_festival">Tết nguyên đán</string>
     <string name="unknown">Số không xác định</string>
     <string name="unknown_caller">Người gọi không xác định</string>
-    <string name="user_agreement1">"Bạn sẽ sử dụng hệ thống và dịch vụ trực tuyến cung cấp bởi Xiaomi, xin vui lòng đọc "</string>
-    <string name="user_agreement2">Thỏa thuận người dùng</string>
+    <string name="user_agreement1">"Bằng cách chạm vào OK, bạn đồng ý với các điều khoản và điều kiện được nêu trong"</string>
+    <string name="user_agreement2">" Thỏa thuận người dùng"</string>
     <string name="user_agreement3">" và "</string>
     <string name="user_agreement4">Chính sách bảo mật</string>
     <string name="user_agreement5">. Nhấp vào OK để xác nhận bạn đồng ý và sẵn sàng thực hiện theo các nội dung trên, bấm Hủy để thoát.</string>
@@ -441,7 +440,7 @@ Trống: %2$s"</string>
     <string name="perm_data_update_dspt">Cho phép cập nhật dữ liệu watermark</string>
     <string name="provider_sougou">Việt hóa bởi ♋๖ۣۜßεℓ™</string>
     <string name="provider_114">Việt hóa bởi ♋๖ۣۜßεℓ™</string>
-    <string name="device_xiaomi">Điện thoại Xiaomi</string>
+    <string name="device_xiaomi">Điện thoại Mi</string>
     <string name="miui_device_name">Android</string>
     <string name="sim_unavailable">Thẻ SIM không khả dụng</string>
     <string name="sim_locked">Thẻ SIM đã bị khóa</string>
@@ -457,9 +456,9 @@ Trống: %2$s"</string>
     <string name="app_notificaiton_on_statusBar_and_notificationBar">Thanh trạng thái và thông báo</string>
     <string name="app_no_notification">Ẩn thông báo</string>
     <string name="app_notificaiton_on_notificationBar">Thanh thông báo</string>
-    <string name="device_hongmi">Điện thoại Redmi</string>
+    <string name="device_hongmi">Redmi</string>
     <string name="volume_ring_description">Nhạc chuông &amp; Thông báo</string>
-    <string name="login_website_in_case_forget_password">Vui lòng truy cập http://i.xiaomi.com để thiết lập lại mật khẩu của bạn</string>
+    <string name="login_website_in_case_forget_password">Vui lòng truy cập i.mi.com để thiết lập lại mật khẩu của bạn</string>
     <string name="anti_aggression_day" />
     <string name="tw_youth_day" />
     <string name="tw_childrens_day" />
