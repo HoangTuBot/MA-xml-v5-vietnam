@@ -458,7 +458,7 @@ Vui lòng tắt chế độ máy bay."</string>
     <string name="app_notificaiton_on_notificationBar">Thanh thông báo</string>
     <string name="device_hongmi">Redmi</string>
     <string name="volume_ring_description">Nhạc chuông &amp; Thông báo</string>
-    <string name="login_website_in_case_forget_password">Vui lòng truy cập i.mi.com để thiết lập lại mật khẩu của bạn</string>
+    <string name="login_website_in_case_forget_password">Vui lòng truy cập http://i.mi.com để thiết lập lại mật khẩu của bạn</string>
     <string name="anti_aggression_day" />
     <string name="tw_youth_day" />
     <string name="tw_childrens_day" />
