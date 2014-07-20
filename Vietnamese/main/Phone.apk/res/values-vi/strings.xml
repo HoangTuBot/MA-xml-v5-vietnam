@@ -239,8 +239,8 @@ Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
     <string name="preferred_network_mode_td_scdma_gsm_wcdma_lte_summary">Chế độ mạng ưa thích: TD-SCDMA/GSM/WCDMA/LTE</string>
     <string name="preferred_network_mode_td_scdma_lte_cdma_evdo_gsm_wcdma_summary">Chế độ mạng ưa thích: TD-SCDMA/LTE/CDMA/EvDo/GSM/WCDMA</string>
     <string name="preferred_network_mode_td_scdma_cdma_evdo_gsm_wcdma_summary">Chế độ mạng ưa thích: TD-SCDMA/CDMA/EvDo/GSM/WCDMA</string>
-    <string name="data_enabled">Đã bật dữ liệu</string>
-    <string name="data_enable_summary">Bật truy cập dữ liệu qua mạng Di động</string>
+    <string name="data_enabled">Dữ liệu</string>
+    <string name="data_enable_summary">Truy cập dữ liệu qua mạng Di động</string>
     <string name="roaming">Chuyển vùng dữ liệu</string>
     <string name="roaming_enable">Kết nối với dịch vụ dữ liệu khi chuyển vùng</string>
     <string name="roaming_disable">Kết nối với dịch vụ dữ liệu khi chuyển vùng</string>
@@ -1006,7 +1006,7 @@ Hãy thử lại hoặc gọi cho dịch vụ khách hàng để có tùy chọn
     <string name="mismatch_pin2_miui">Mã PIN2 bạn đã nhập không khớp. Vui lòng thử lại.</string>
     <string name="mismatch_pin_miui">Mã PIN bạn đã nhập không khớp. Vui lòng thử lại.</string>
     <string name="mobile_networks_miui">Thiết lập mạng điện thoại di động</string>
-    <string name="networks_title_miui">Nhà nhà mạng</string>
+    <string name="networks_title_miui">Nhà mạng</string>
     <string name="new_pin2_hint_miui">Mã PIN2 Mới</string>
     <string name="new_pin_hint_miui">Mã PIN Mới</string>
     <string name="not_connected_miui">Không được kết nối</string>
