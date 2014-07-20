@@ -605,7 +605,7 @@
     <string name="permdesc_sdcardRead">Cho phép ứng dụng đọc nội dung của bộ lưu trữ USB.</string>
     <string name="permlab_sdcardWrite">Sửa đổi hoặc xóa nội dung của bộ lưu trữ USB của bạn</string>
     <string name="permdesc_sdcardWrite">Cho phép ứng dụng ghi vào bộ lưu trữ USB.</string>
-    <string name="permlab_mediaStorageWrite">Sửa đổi/xóa nội dung trên bộ nhớ phương tiện cục bộ</string>
+    <string name="permlab_mediaStorageWrite">Sửa/xóa nội dung trên bộ nhớ phương tiện cục bộ</string>
     <string name="permdesc_mediaStorageWrite">Cho phép ứng dụng sửa đổi nội dung của bộ lưu trữ phương tiện nội bộ.</string>
     <string name="permlab_manageDocs">Quản lý bộ nhớ tài liệu</string>
     <string name="permdesc_manageDocs">Cho phép ứng dụng quản lý bộ nhớ tài liệu.</string>
@@ -1015,6 +1015,7 @@ Bạn có muốn đóng trang không?"</string>
     <string name="network_available_sign_in">Đăng nhập vào mạng</string>
     <string name="wifi_watchdog_network_disabled">Không thể kết nối với Wi-Fi</string>
     <string name="wifi_watchdog_network_disabled_detailed">" có kết nối Internet kém."</string>
+    <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
     <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
     <string name="wifi_p2p_turnon_message">Khởi động Wi-Fi Direct. Việc này sẽ tắt hoạt động của ứng dụng khách/điểm phát sóng Wi-Fi.</string>
     <string name="wifi_p2p_failed_message">Không thể khởi động Wi-Fi Direct.</string>
@@ -1034,19 +1035,19 @@ Bạn có muốn đóng trang không?"</string>
     <string name="sms_control_message">&lt;b>%1$s&lt;/b> đang gửi rất nhiều tin nhắn SMS. Bạn có muốn cho phép ứng dụng này tiếp tục gửi tin nhắn không?</string>
     <string name="sms_control_yes">Cho phép</string>
     <string name="sms_control_no">Từ chối</string>
-    <string name="sms_short_code_confirm_message">&lt;b>%1$s&lt;/b> muốn gửi thư đến &lt;b>%2$s&lt;/b>.</string>
+    <string name="sms_short_code_confirm_message">&lt;b>%1$s&lt;/b> muốn gửi tin nhắn đến &lt;b>%2$s&lt;/b>.</string>
     <string name="sms_short_code_details">Điều này <font fgcolor="#ffffb060">có thể gây ra các khoản phí</font> đối với tài khoản di động của bạn.</string>
     <string name="sms_premium_short_code_details"><font fgcolor="#ffffb060">Điều này sẽ gây ra các khoản phí đối với tài khoản di động của bạn.</font></string>
     <string name="sms_short_code_confirm_allow">Gửi</string>
     <string name="sms_short_code_confirm_deny">Hủy</string>
-    <string name="sms_short_code_remember_choice">Nhớ lựa chọn của tôi</string>
+    <string name="sms_short_code_remember_choice">Nhớ lựa chọn này</string>
     <string name="sms_short_code_remember_undo_instruction">Bạn có thể thay đổi cài đặt này sau trong Cài đặt > Ứng dụng</string>
     <string name="sms_short_code_confirm_always_allow">Luôn cho phép</string>
-    <string name="sms_short_code_confirm_never_allow">Không bao giờ cho phép</string>
-    <string name="sim_removed_title">Đã xóa thẻ SIM</string>
+    <string name="sms_short_code_confirm_never_allow">Không bao giờ</string>
+    <string name="sim_removed_title">Đã tháo thẻ SIM</string>
     <string name="sim_removed_message">Mạng di động sẽ không khả dụng cho đến khi bạn khởi động lại với thẻ SIM hợp lệ được lắp.</string>
     <string name="sim_done_button">Hoàn tất</string>
-    <string name="sim_added_title">Đã thêm thẻ SIM</string>
+    <string name="sim_added_title">Đã gắn thẻ SIM</string>
     <string name="sim_added_message">Khởi động lại thiết bị của bạn để truy cập mạng di động.</string>
     <string name="sim_restart_button">Khởi động lại</string>
     <string name="time_picker_dialog_title">Đặt giờ</string>
@@ -1147,9 +1148,9 @@ cho tài khoản %s."</string>
     <string name="vpn_title_long">VPN được %s kích hoạt</string>
     <string name="vpn_text">Chạm để quản lý mạng.</string>
     <string name="vpn_text_long">Đã kết nối với %s. Chạm để quản lý mạng.</string>
-    <string name="vpn_lockdown_connecting">Đang kết nối VPN luôn bật…</string>
-    <string name="vpn_lockdown_connected">Đã kết nối VPN luôn bật</string>
-    <string name="vpn_lockdown_error">Lỗi VPN luôn bật</string>
+    <string name="vpn_lockdown_connecting">Luôn bật VPN đang kết nối…</string>
+    <string name="vpn_lockdown_connected">Luôn bật VPN đã kết nối</string>
+    <string name="vpn_lockdown_error">Luôn bật VPN bị lỗi</string>
     <string name="vpn_lockdown_config">Chạm để định cấu hình</string>
     <string name="upload_file">Chọn tập tin</string>
     <string name="no_file_chosen">Không có tập tin nào được chọn</string>
