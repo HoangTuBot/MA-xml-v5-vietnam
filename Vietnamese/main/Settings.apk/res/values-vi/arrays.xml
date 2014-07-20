@@ -144,12 +144,6 @@
         <item>Đã chặn</item>
         <item>Tạm thời tránh kết nối kém</item>
     </string-array>
-    <string-array name="wifi_eap_method">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
-    </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Nhấn nút</item>
         <item>Mã PIN từ thiết bị thứ hai</item>
@@ -194,12 +188,6 @@
         <item>Số lần sử dụng</item>
         <item>Tên ứng dụng</item>
     </string-array>
-    <string-array name="wifi_eap_entries">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
-    </string-array>
     <string-array name="wifi_peap_phase2_entries">
         <item>Không</item>
         <item>MSCHAPV2</item>
@@ -230,11 +218,6 @@
         <item>PAP</item>
         <item>CHAP</item>
         <item>PAP hoặc CHAP</item>
-    </string-array>
-    <string-array name="apn_protocol_entries">
-        <item>IPv4</item>
-        <item>IPv6</item>
-        <item>IPv4/IPv6</item>
     </string-array>
     <string-array name="bearer_entries">
         <item>LTE</item>
@@ -387,12 +370,6 @@
         <item>Không</item>
         <item>Viền ngoài</item>
         <item>Tạo bóng</item>
-    </string-array>
-    <string-array name="captioning_opacity_selector_titles">
-        <item>25%</item>
-        <item>50%</item>
-        <item>75%</item>
-        <item>100%</item>
     </string-array>
     <string-array name="captioning_preset_selector_titles">
         <item>Chữ trắng trên nền đen</item>
@@ -691,6 +668,10 @@ Máy tính sẽ tự động mở và đọc dữ liệu trên điện thoại."
         <item>Mạng chậm do quá nhiều lưu lượng truy cập</item>
         <item>Mạng chậm do cường độ tín hiệu yếu</item>
         <item>Đang chuyển…</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>Bộ nhớ trong</item>
+        <item>Bộ nhớ ngoài</item>
     </string-array>
     <string-array name="miracast_policies">
         <item>Làm chậm ngắn hơn</item>
