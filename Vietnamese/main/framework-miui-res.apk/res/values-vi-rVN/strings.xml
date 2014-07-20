@@ -327,7 +327,7 @@ Vui lòng tắt chế độ máy bay."</string>
     <string name="lunar_yue" />
     <string name="lunar_zheng" />
     <string name="memory_clear_nothing_result">Không có ứng dụng nào chạy nền</string>
-    <string name="memory_clear_result">"Xóa: %1$s | Trống: %2$s"</string>
+    <string name="memory_clear_result">Xóa: %1$s | Trống: %2$s</string>
     <string name="miui_copyright_title">Bản quyền</string>
     <string name="miui_mibi_license_title">Thỏa thuận người dùng với Mi Credit</string>
     <string name="miui_privacy_policy_title">Chính sách bảo mật</string>
@@ -404,7 +404,7 @@ Vui lòng tắt chế độ máy bay."</string>
     <string name="the_spring_festival">Tết nguyên đán</string>
     <string name="unknown">Số không xác định</string>
     <string name="unknown_caller">Người gọi không xác định</string>
-    <string name="user_agreement1">"Bằng cách chạm vào OK, bạn đồng ý với các điều khoản và điều kiện được nêu trong"</string>
+    <string name="user_agreement1">Bằng cách chạm vào OK, bạn đồng ý với các điều khoản và điều kiện được nêu trong</string>
     <string name="user_agreement2">" Thỏa thuận người dùng"</string>
     <string name="user_agreement3">" và "</string>
     <string name="user_agreement4">Chính sách bảo mật</string>
