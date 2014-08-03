@@ -1,41 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="auto_startup_application_manage">Điều khiển ứng dụng</string>
-    <string name="auto_startup_count">Cho phép %d ứng dụng tự khởi chạy</string>
+    <string name="auto_startup_application_manage">Tự khởi chạy</string>
+    <string name="auto_startup_count">%d ứng dụng được cho phép tự khởi chạy</string>
     <string name="man_add_application">Thêm ứng dụng tự khởi chạy</string>
-    <string name="application_item_disable">Vô hiệu hóa</string>
+    <string name="application_item_disable">Từ chối</string>
     <string name="application_item_permission">Cho phép</string>
     <string name="application_item_already_permission">Đã cho phép</string>
     <string name="application_forbid_auto_startup">Vô hiệu hóa %s chạy nền khi khởi động</string>
-    <string name="floating_window_switch_label">Hiển thị cửa sổ pop-up</string>
-    <string name="floating_window_switch_label_disable">Ẩn cửa sổ pop-up</string>
-    <string name="app_floating_window_dlg_enable">"Kích hoạt hiển thị các cửa sổ bật lên của %1$s sẽ yêu cầu ứng dụng khởi động lại.
-Bạn có muốn kích hoạt không?"</string>
-    <string name="app_floating_window_dlg_disable">"Vô hiệu hóa hiển thị các cửa sổ bật lên của %1$s sẽ buộc ngừng ứng dụng.
-Bạn có muốn vô hiệu hóa không?"</string>
+    <string name="floating_window_switch_label">Bật cửa sổ nổi</string>
+    <string name="floating_window_switch_label_disable">Tắt cửa sổ nổi</string>
+    <string name="app_floating_window_dlg_enable">"Bật cài đặt cửa sổ nổi của %1$s sẽ yêu cầu ứng dụng khởi động lại.
+Bạn có muốn bật không?"</string>
+    <string name="app_floating_window_dlg_disable">"Tắt cài đặt cửa sổ nổi của %1$s sẽ buộc ngừng ứng dụng.
+Bạn có muốn tắt không?"</string>
     <string name="dlg_ok">OK</string>
     <string name="dlg_cancel">Hủy</string>
     <string name="cache_manage_title">Xóa %1$d tập tin tạm để làm trống %2$s</string>
     <string name="cache_list_empty_hints">Không có tập tin tạm</string>
+    <string name="cta_dialog_title">Kết nối Internet</string>
+    <string name="cta_dialog_msg">Trung tâm Bảo mật có thể cần phải kết nối với internet để cập nhật.</string>
+    <string name="cta_checkbox_title">Không hiển thị lại</string>
+    <string name="cta_button_text_cancel">Hủy</string>
+    <string name="cta_button_text_agree">OK</string>
+    <string name="cta_settings">Cho phép kết nối internet</string>
     <string name="optimize_title_cache">Tạm</string>
     <string name="optimize_title_ad">Quảng cáo</string>
     <string name="optimize_title_apk">Ứng dụng</string>
     <string name="optimize_title_residual">Rác</string>
-    <string name="button_text_quick_scan">Bắt đầu quét</string>
+    <string name="button_text_quick_scan">Quét</string>
     <string name="button_text_a_key_clean_up">Dọn dẹp</string>
-    <string name="button_text_a_key_optimize">Tối ưu ngay</string>
+    <string name="button_text_a_key_optimize">Tối ưu</string>
     <string name="button_text_a_key_uninstall">Gỡ cài đặt</string>
-    <string name="button_text_done">Xong</string>
+    <string name="button_text_done">Hoàn tất</string>
     <string name="button_text_cancel">Hủy</string>
     <string name="deep_cleaning">Nâng cao</string>
-    <string name="rubbish_cleaning">Dọn dẹp hệ thống</string>
+    <string name="rubbish_cleaning">Dọn dẹp</string>
     <string name="storage_size_title">Lưu trữ</string>
     <string name="storage_size_content">Đã dùng: %1$s | Trống: %2$s</string>
     <string name="quick_scan_doing_title">Đang quét…</string>
     <string name="quick_scan_done_title">Quét xong</string>
     <string name="quick_scan_cleaning_title">Đang xóa…</string>
     <string name="quick_scan_result_title">%s mục được tìm thấy</string>
-    <string name="quick_scan_result_summary">Làm sạch sẽ bắt đầu trong %d giây</string>
+    <string name="quick_scan_result_summary">Bắt đầu trong %d giây</string>
     <string name="optimize_cache_header_left">Tập tin tạm: %d</string>
     <string name="optimize_ad_header_left">Tập tin quảng cáo: %d</string>
     <string name="optimize_apk_header_left">Các gói cài đặt: %d</string>
@@ -143,7 +149,7 @@ Bạn có muốn vô hiệu hóa không?"</string>
     <string name="toast_backup_uninstall_success">Sao lưu và gỡ hoàn tất!</string>
     <string name="notification_title_of_garbage_cleanup">Hãy xem xét dọn sạch thùng rác</string>
     <string name="notification_summary_of_garbage_cleanup">Kích thước thùng rác hơn %s.</string>
-    <string name="item_garbage_time_daily">Mỗi ngày</string>
+    <string name="item_garbage_time_daily">Hàng ngày</string>
     <string name="item_garbage_time_3d">Mỗi 3 ngày</string>
     <string name="item_garbage_time_7d">Mỗi 7 ngày</string>
     <string name="item_garbage_time_never">Không bao giờ</string>
@@ -153,8 +159,8 @@ Bạn có muốn vô hiệu hóa không?"</string>
     <string name="item_garbage_size_1000m">1G</string>
     <string name="item_title_garbage_time">Thời gian cảnh báo</string>
     <string name="item_title_garbage_size">Kích thước cảnh báo</string>
-    <string name="tab_title_internal_storage">Lưu trữ máy</string>
-    <string name="tab_title_external_storage">Lưu trữ ngoài</string>
+    <string name="tab_title_internal_storage">Bộ nhớ trong</string>
+    <string name="tab_title_external_storage">Bộ nhớ ngoài</string>
     <string name="tab_title_sdcard_storage">Thẻ SD</string>
     <string name="internal_available_memory_hint">Trống: Đang tính…</string>
     <string name="internal_available_memory">Trống: %s</string>
@@ -234,10 +240,10 @@ Bạn có muốn vô hiệu hóa không?"</string>
     <string name="power_center_custom_summary_default">Tối ưu hóa cài đặt, tiết kiệm Pin</string>
     <string name="power_center_low_battery_title">Tự động đổi</string>
     <string name="power_center_low_battery_summary_default">Đổi chế độ khi Pin yếu</string>
-    <string name="power_center_low_battery_summary_dynamic">Khi Pin thấp hơn %1$d%% chuyển sang %2$s</string>
+    <string name="power_center_low_battery_summary_dynamic">Khi Pin thấp hơn %1$d%% chuyển sang chế độ %2$s</string>
     <string name="power_center_on_time_title">Đổi dự kiến</string>
     <string name="power_center_on_time_summary_default">Đổi chế độ ở thời gian dự kiến</string>
-    <string name="power_center_on_time_summary_dynamic">Từ %1$s tới %2$s chuyển sang %3$s</string>
+    <string name="power_center_on_time_summary_dynamic">Từ %1$s tới %2$s chuyển sang chế độ %3$s</string>
     <string name="power_center_state_on">Bật</string>
     <string name="power_center_state_off">Tắt</string>
     <string name="power_center_consume_time">Còn lại %1$s</string>
@@ -246,19 +252,19 @@ Bạn có muốn vô hiệu hóa không?"</string>
     <string name="power_chooser_title">Cấu hình Pin</string>
     <string name="power_chooser_check_box_title">Áp dụng cấu hình</string>
     <string name="power_chooser_check_box_summary">Chọn một cấu hình cài đặt Pin để kéo dài tuổi thọ Pin</string>
-    <string name="power_chooser_smart_title">Chế độ thông minh</string>
+    <string name="power_chooser_smart_title">Mặc định</string>
     <string name="power_chooser_smart_summary">Chế độ tiết kiệm điện thông minh, xóa các tiến trình ở màn hình khóa</string>
-    <string name="power_chooser_standby_title">Chế độ chờ lâu</string>
+    <string name="power_chooser_standby_title">Chờ lâu</string>
     <string name="power_chooser_standby_summary">Tắt chức năng Internet</string>
-    <string name="power_chooser_sleep_title">Chế độ ngủ</string>
+    <string name="power_chooser_sleep_title">Ngủ</string>
     <string name="power_chooser_sleep_summary">Tắt tất cả các chức năng (điện thoại, tin nhắn, Internet) ngoại trừ đồng hồ báo thức</string>
     <string name="power_chooser_mine_title">Tùy chỉnh</string>
     <string name="power_chooser_mine_summary">Tùy chỉnh cấu hình cho Pin</string>
     <string name="power_chooser_user_define_title">Thêm cấu hình tùy chỉnh</string>
     <string name="power_chooser_user_define_summary">Tạo một cấu hình tùy chỉnh cho Pin</string>
-    <string name="power_customizer_smart_mode">Chế độ thông minh</string>
-    <string name="power_customizer_standby_mode">Chế độ chờ lâu</string>
-    <string name="power_customizer_sleep_mode">Chế độ ngủ</string>
+    <string name="power_customizer_smart_mode">Mặc định</string>
+    <string name="power_customizer_standby_mode">Chờ lâu</string>
+    <string name="power_customizer_sleep_mode">Ngủ</string>
     <string name="power_customizer_my_mode">Tùy chỉnh</string>
     <string name="power_customizer_user_define_mode">Tên cấu hình:</string>
     <string name="power_customizer_user_define_name">Tùy chỉnh</string>
@@ -268,9 +274,9 @@ Bạn có muốn vô hiệu hóa không?"</string>
     <string name="power_customizer_cancel">Hủy</string>
     <string name="power_customizer_ok">OK</string>
     <string name="power_mode_cpu_state">Sử dụng CPU</string>
-    <string name="power_mode_cpu_state_performance">Hiệu suất cao</string>
+    <string name="power_mode_cpu_state_performance">Hiệu suất</string>
     <string name="power_mode_cpu_state_performance_desc">Làm cho hiệu suất ưu tiên hơn tuổi thọ pin</string>
-    <string name="power_mode_cpu_state_balance">Cân bằng</string>
+    <string name="power_mode_cpu_state_balance">Bình thường</string>
     <string name="power_mode_cpu_state_balance_desc">Chỉ tăng hiệu suất CPU khi cần thiết</string>
     <string name="power_mode_cpu_state_save">Tiết kiệm Pin</string>
     <string name="power_mode_cpu_state_save_desc">Làm cho tuổi thọ Pin ưu tiên hơn hiệu suất</string>
@@ -302,9 +308,9 @@ Bạn có muốn vô hiệu hóa không?"</string>
     <string name="power_mode_switch_on">Bật</string>
     <string name="power_mode_switch_off">Tắt</string>
     <string name="power_dialog_cpu_state_title">Sử dụng CPU</string>
-    <string name="power_dialog_cpu_state_performance">Hiệu suất cao</string>
+    <string name="power_dialog_cpu_state_performance">Hiệu suất</string>
     <string name="power_dialog_cpu_state_performance_desc">Làm cho hiệu suất ưu tiên hơn tuổi thọ pin</string>
-    <string name="power_dialog_cpu_state_balance">Cân bằng</string>
+    <string name="power_dialog_cpu_state_balance">Bình thường</string>
     <string name="power_dialog_cpu_state_balance_desc">Chỉ tăng hiệu suất CPU khi cần thiết</string>
     <string name="power_dialog_cpu_state_save">Tiết kiệm Pin</string>
     <string name="power_dialog_cpu_state_save_desc">Làm cho tuổi thọ pin ưu tiên hơn hiệu suất</string>
@@ -319,9 +325,9 @@ Bạn có muốn vô hiệu hóa không?"</string>
     <string name="power_dialog_cancel">Hủy</string>
     <string name="power_dialog_ok">OK</string>
     <string name="power_dialog_delete_dialog_title">Xóa cấu hình tùy chỉnh</string>
-    <string name="power_dialog_delete_dialog_delete">Xóa cấu hình tùy chỉnh Pin? Bạn không thể đảo ngược hành động này!</string>
+    <string name="power_dialog_delete_dialog_delete">Xóa cấu hình tùy chỉnh Pin?</string>
     <string name="power_dialog_delete_dialog_cannot_delete_default">Không thể xóa: Bạn đang sử dụng cấu hình này!</string>
-    <string name="power_dialog_delete_dialog_cannot_delete_low_battery">"Không thể xóa: Điện thoại của bạn được thiết lập để chuyển sang cấu hình này khi pin yếu, 
+    <string name="power_dialog_delete_dialog_cannot_delete_low_battery">"Không thể xóa: Điện thoại của bạn được thiết lập để chuyển sang cấu hình này khi Pin yếu.
 Bạn phải thay đổi cài đặt Pin của bạn trước khi bạn có thể xóa cấu hình này."</string>
     <string name="power_dialog_delete_dialog_cannot_delete_on_time">"Không thể xóa: Cấu hình này có thể được sử dụng. 
 Bạn phải thay đổi cài đặt Pin của bạn trước khi bạn có thể xóa cấu hình này."</string>
@@ -329,8 +335,8 @@ Bạn phải thay đổi cài đặt Pin của bạn trước khi bạn có th�
     <string name="power_save_low_battery_title">Tự động đổi</string>
     <string name="power_save_low_battery_auto_save_title">Tự động đổi</string>
     <string name="power_save_low_battery_seekbar_title">Tự động đổi chế độ khi Pin thấp hơn %1$d%%</string>
-    <string name="power_save_low_battery_option_title">Khi Pin yếu chuyển sang</string>
-    <string name="power_save_low_battery_option_summary">Khi pin cao hơn mức yếu, thiết bị sẽ lại sử dụng cấu hình gần đây nhất</string>
+    <string name="power_save_low_battery_option_title">Khi Pin yếu chuyển sang chế độ</string>
+    <string name="power_save_low_battery_option_summary">Khi Pin cao hơn mức yếu, thiết bị sẽ lại sử dụng cấu hình gần đây nhất</string>
     <string name="power_save_low_battery_percentage_ten">10%</string>
     <string name="power_save_low_battery_percentage_twenty">20%</string>
     <string name="power_save_low_battery_percentage_thirty">30%</string>
@@ -357,11 +363,11 @@ Bạn phải thay đổi cài đặt Pin của bạn trước khi bạn có th�
     <string name="power_settings_shape">Đồ họa</string>
     <string name="power_settings_number">Phần trăm</string>
     <string name="power_settings_top">Thanh trên cùng</string>
-    <string name="power_save_on_time_goout_title">Khôi phục lại</string>
+    <string name="power_save_on_time_goout_title">Khôi phục lại chế độ</string>
     <string name="power_save_choose_recovery_mode">Chọn một cấu hình</string>
     <string name="power_new_choose_mode">Chọn một cấu hình</string>
-    <string name="power_save_low_battery_option_recovery_title">Nếu Pin hồi phục, chuyển sang</string>
-    <string name="power_save_on_time_option_recovery_title">Giai đoạn này kết thúc, chuyển sang</string>
+    <string name="power_save_low_battery_option_recovery_title">Nếu Pin hồi phục, chuyển sang chế độ</string>
+    <string name="power_save_on_time_option_recovery_title">Giai đoạn này kết thúc, chuyển sang chế độ</string>
     <string name="power_dialog_delete_dialog_cannot_delete_low_out_battery">"Không thể xóa: Điện thoại của bạn được thiết lập để chuyển sang cấu hình này khi Pin hồi phục.
 Bạn cần phải thay đổi cài đặt Pin của bạn trước khi bạn có thể xóa cấu hình này."</string>
     <string name="power_dialog_delete_dialog_cannot_delete_on_out_time">"Không thể xóa: Điện thoại của bạn được thiết lập để chuyển sang cấu hình này khi đến khoảng thời gian dự kiến.
@@ -409,8 +415,8 @@ Bạn cần phải thay đổi cài đặt Pin của bạn trước khi bạn c�
     <string name="perm_summary_enabled">Bật</string>
     <string name="perm_summary_disabled">Tắt</string>
     <string name="perm_enable">Kích hoạt Quyền ROOT</string>
-    <string name="perm_disable">Vô hiệu hóa</string>
-    <string name="perm_optimize">Tối ưu hóa</string>
+    <string name="perm_disable">Tắt</string>
+    <string name="perm_optimize">Tối ưu</string>
     <string name="perm_check">Kiểm tra</string>
     <string name="perm_clean">Dọn dẹp</string>
     <string name="perm_good">Tốt</string>
@@ -430,7 +436,7 @@ Bạn cần phải thay đổi cài đặt Pin của bạn trước khi bạn c�
     <string name="perm_hips_mobile_network_hint">%1$s ứng dụng được cho phép truy cập Internet thông qua mạng di động</string>
     <string name="perm_hips_wifi_network">Mạng Wi-Fi</string>
     <string name="perm_hips_wifi_network_desc">Mạng Wi-Fi</string>
-    <string name="perm_hips_wifi_network_hint">%1$s ứng dụng đã được cho phép truy cập Internet thông qua mạng Wifi</string>
+    <string name="perm_hips_wifi_network_hint">%1$s ứng dụng đã được cho phép truy cập Internet thông qua mạng Wi-Fi</string>
     <string name="perm_hips_network_unknown_addr">Không rõ địa chỉ</string>
     <string name="perm_hips_network_mobile_event">sử dụng mạng di động</string>
     <string name="perm_hips_network_wifi_event">bằng cách sử dụng mạng Wi-Fi</string>
@@ -488,29 +494,29 @@ Bạn cần phải thay đổi cài đặt Pin của bạn trước khi bạn c�
     <string name="perm_hips_security_prompt_root_caption">Cảnh báo quan trọng</string>
     <string name="perm_hips_security_prompt_root_step1">Bạn có muốn cho phép %1$s lấy quyền ROOT?</string>
     <string name="perm_hips_security_prompt_root_step2">Quyền ROOT có thể gây ra sự mất ổn định hệ thống</string>
-    <string name="perm_hips_security_prompt_root_step3">Dữ liệu riêng tư của bạn như tài khoản, mật khẩu và tin nhắn có thể bị tổn hại</string>
+    <string name="perm_hips_security_prompt_root_step3">Bảo mật dữ liệu của bạn có thể bị tổn hại</string>
     <string name="perm_hips_security_prompt_root_step4">Phần cứng cũng có thể bị hư hại</string>
-    <string name="perm_hips_security_prompt_root_step5">Sử dụng thận trọng!</string>
+    <string name="perm_hips_security_prompt_root_step5">Hãy cẩn thận: Chỉ cho phép các ứng dụng từ các nguồn mà bạn tin tưởng có quyền ROOT.</string>
     <string name="perm_hips_security_prompt_root_step6">Cho phép %1$s lấy quyền ROOT?</string>
     <string name="perm">Quyền</string>
     <string name="perm_app">Ứng dụng</string>
-    <string name="perm_log">Bản ghi</string>
+    <string name="perm_log">Nhật ký</string>
     <string name="perm_header">Đang theo dõi %1$d ứng dụng</string>
     <string name="perm_header_disabled">Tắt Giám sát Quyền</string>
     <string name="perm_su_switch">Quyền ROOT</string>
     <string name="perm_su">Quản lý Quyền ROOT</string>
-    <string name="perm_su_desc">Đang theo dõi %1$d ứng dụng để cấp quyền ROOT</string>
+    <string name="perm_su_desc">Đang theo dõi %1$d ứng dụng đã cấp quyền ROOT</string>
     <string name="perm_su_desc1">Quản lý Quyền ROOT</string>
     <string name="perm_su_disabled">Đã tắt Quyền ROOT</string>
-    <string name="perm_su_disabled_in_stable">ROOT không khả dụng với phiên bản MIUI Stable</string>
-    <string name="perm_su_disabled_in_stable_desc">"Trao quyền ROOT cho ứng dụng bên thứ ba có thể gây ra sự mất ổn định hệ thống, thậm chí dẫn tới mất liệu cá nhân, tổn hại hệ thống và phần cứng.
+    <string name="perm_su_disabled_in_stable">ROOT không có sẵn trên phiên bản MIUI Ổn Định</string>
+    <string name="perm_su_disabled_in_stable_desc">"Cấp quyền ROOT cho ứng dụng bên thứ ba có thể gây ra sự mất ổn định hệ thống, thậm chí dẫn tới mất liệu cá nhân, tổn hại hệ thống và phần cứng.
 
-Hãy chắc chắn bạn nắm rõ về quyền ROOT."</string>
-    <string name="perm_su_disabled_desc">"Trao quyền ROOT cho ứng dụng bên thứ ba có thể gây ra sự mất ổn định hệ thống, thậm chí dẫn tới mất liệu cá nhân, tổn hại hệ thống và phần cứng.
-Hãy chắc chắn bạn nắm rõ về quyền ROOT."</string>
+Tải các bản Miui Phát Triển để kích hoạt quyền ROOT."</string>
+    <string name="perm_su_disabled_desc">"Cấp quyền ROOT cho ứng dụng bên thứ ba có thể gây ra sự mất ổn định hệ thống, thậm chí dẫn tới mất liệu cá nhân, tổn hại hệ thống và phần cứng.
+Tải các bản Miui Phát Triển để kích hoạt quyền ROOT."</string>
     <string name="perm_su_disabled_in_stable_download">Tải ROM MIUI</string>
-    <string name="perm_hips_switch">Giám sát Quyền</string>
-    <string name="perm_hips">Quản lý quyền truy cập của ứng dụng</string>
+    <string name="perm_hips_switch">Quản lý Quyền</string>
+    <string name="perm_hips">Quản lý quyền của ứng dụng</string>
     <string name="perm_hips_desc">Đang giám sát %1$d ứng dụng về bảo mật và riêng tư</string>
     <string name="perm_hips_desc1">Đang giám sát ứng dụng về bảo mật và riêng tư</string>
     <string name="perm_hips_desc2">Đang giám sát %1$d ứng dụng về bảo mật và riêng tư</string>
@@ -519,52 +525,52 @@ Hãy chắc chắn bạn nắm rõ về quyền ROOT."</string>
     <string name="perm_auto_start">Quản lý tự khởi động ứng dụng</string>
     <string name="perm_auto_start_desc">Quản lý tính năng tự khởi động ứng dụng</string>
     <string name="perm_hips_disable_title">Quản lý Quyền</string>
-    <string name="perm_hips_disable_content">Vô hiệu hóa sẽ khiến điện thoại của bạn không được bảo vệ. Bạn có muốn tiếp tục?</string>
+    <string name="perm_hips_disable_content">MIUI sẽ ngừng theo dõi các yêu cầu của ứng dụng và bảo mật của nội dung ứng dụng liên quan.</string>
     <string name="perm_su_enable_title">Quyền ROOT</string>
-    <string name="perm_su_enable_summary">Cho phép ứng dụng quyền ROOT</string>
-    <string name="perm_su_enable_content">"Kích hoạt sẽ cho phép ứng dụng lấy quyền ROOT.
+    <string name="perm_su_enable_summary">Cho phép ứng dụng lấy quyền ROOT</string>
+    <string name="perm_su_enable_content">"Cho phép ứng dụng lấy quyền ROOT.
 
 Lưu ý: ứng dụng có thể gây ra sự mất ổn định hệ thống, thậm chí dẫn tới mất liệu cá nhân, tổn hại hệ thống và phần cứng, hãy cẩn trọng. Bạn có muốn kích hoạt?"</string>
     <string name="perm_log_clear_title">Xóa bản ghi</string>
-    <string name="perm_log_clear_content">Tất cả các bản ghi sẽ bị xóa. Bạn có muốn kích hoạt?</string>
+    <string name="perm_log_clear_content">Xóa nhật ký Quyền?</string>
     <string name="perm_privacy_count">Đã cho phép: %1$d | Đã từ chối: %2$d</string>
-    <string name="perm_privacy_app_trust_summary">Đáng tin cậy</string>
+    <string name="perm_privacy_app_trust_summary">Đã tin tưởng</string>
     <string name="perm_privacy_app_count">%1$d quyền</string>
-    <string name="perm_privacy_app_trust">Tôi tin tưởng ứng dụng này</string>
-    <string name="perm_privacy_app_trust_summary_off">MIUI sẽ không theo dõi ứng dụng này</string>
-    <string name="perm_privacy_app_trust_summary_on">MIUI sẽ tin tưởng ứng dụng này</string>
+    <string name="perm_privacy_app_trust">Tin tưởng ứng dụng này</string>
+    <string name="perm_privacy_app_trust_summary_off">Thông báo cho tôi khi ứng dụng này yêu cầu quyền để thực hiện một hành động</string>
+    <string name="perm_privacy_app_trust_summary_on">Tự động chấp nhận yêu cầu quyền của ứng dụng này</string>
     <string name="perm_privacy_app_manage">Chi tiết</string>
     <string name="perm_privacy_app_uninstall">Gỡ cài đặt</string>
     <string name="perm_privacy_app_log">Nhật ký</string>
-    <string name="perm_privacy_app_installed">Cài đặt thành công</string>
+    <string name="perm_privacy_app_installed">Cài đặt thành công!</string>
     <string name="perm_privacy_app_finish">Hoàn tất</string>
     <string name="perm_privacy_app_launch">Mở</string>
     <string name="perm_privacy_app_trust_dialog_title">Tin tưởng ứng dụng này</string>
-    <string name="perm_privacy_app_trust_dialog_content">MIUI sẽ không yêu cầu bạn xác nhận bất kỳ vấn đề an ninh và bảo mật liên quan đến các hoạt động từ ứng dụng này.</string>
+    <string name="perm_privacy_app_trust_dialog_content">Bạn sẽ không được thông báo khi ứng dụng này thực hiện các hoạt động liên quan đến bảo mật hoặc riêng tư.</string>
     <string name="perm_sysopt_boost_boot">Khởi động</string>
     <string name="perm_sysopt_boost_receiver">Nền</string>
     <string name="perm_sysopt_boost_auto_start_group">Tự khởi chạy</string>
-    <string name="perm_sysopt_boost_auto_start">Quyền tự khởi chạy</string>
+    <string name="perm_sysopt_boost_auto_start">Tự khởi chạy</string>
     <string name="perm_sysopt_boost_auto_start_summary">Cho phép ứng dụng tự khởi chạy</string>
-    <string name="perm_su_enable_dialog">Ứng dụng %1$s đang cố gắng để được hệ thống cho phép quyền ROOT đang được tắt theo mặc định để đảm bảo an ninh hệ thống. Nếu bạn cần phải kích hoạt nó, hãy vào các thiết lập trong Quản lý Quyền.</string>
+    <string name="perm_su_enable_dialog">Ứng dụng %1$s đang yêu cầu hệ thống cho phép quyền ROOT đang được tắt theo mặc định để đảm bảo an ninh hệ thống.</string>
     <string name="perm_notice">Chú ý</string>
-    <string name="trust_switch_dialog_msg">MIUI sẽ không yêu cầu bạn xác nhận bất kỳ an ninh và bảo mật liên quan đến các hoạt động từ ứng dụng này. Tin tưởng ứng dụng này?</string>
-    <string name="auto_startup_dialog_msg">Miui sẽ cho phép ứng dụng tự khởi chạy mà không phải hỏi trước. Điều này có thể dẫn đến hao Pin và dung lượng mạng. Cho phép tự khởi chạy?</string>
+    <string name="trust_switch_dialog_msg">Bạn sẽ không được thông báo khi ứng dụng này thực hiện các hoạt động liên quan đến bảo mật hoặc riêng tư.</string>
+    <string name="auto_startup_dialog_msg">Miui sẽ cho phép ứng dụng tự khởi chạy mà không phải hỏi trước. Điều này có thể dẫn đến hao Pin và lưu lượng mạng.</string>
     <string name="auto_start_summary">%1$d ứng dụng được kích hoạt tự khởi chạy</string>
     <string name="auto_start_title">Quản lý tự khởi chạy</string>
     <string name="perm_app_enable">Giám sát yêu cầu quyền</string>
     <string name="perm_app_header">Quản lý Quyền</string>
     <string name="perm_app_title">Quản lý Quyền Ứng dụng</string>
-    <string name="perm_log_empty">Bản ghi trống</string>
+    <string name="perm_log_empty">Không có nhật ký</string>
     <string name="perm_root_manage_empty">Không có ứng dụng nào của bạn có quyền ROOT</string>
     <string name="perm_app_manage_empty">Bạn không theo dõi bất kỳ ứng dụng nào</string>
     <string name="perm_support_hints">Việt hóa bởi ♋๖ۣۜßεℓ™</string>
     <string name="power_autorun_control_title">Tự khởi chạy</string>
-    <string name="power_autorun_control_desc">Tăng số lượng chương trình tự khởi chạy có thể làm tăng tiêu thụ Pin của điện thoại.</string>
+    <string name="power_autorun_control_desc">Tăng số lượng chương trình tự khởi chạy có thể làm tăng tiêu thụ Pin.</string>
     <string name="power_usage_sort_title">Xem mức tiêu thụ Pin</string>
     <string name="power_usage_sort_desc">Sắp xếp chương trình theo mức tiêu thụ Pin</string>
     <string name="power_mode_select_title">Chế độ Pin</string>
-    <string name="power_mode_select_desc">Chọn chế độ đáp ứng nhu cầu cá nhân của bạn</string>
+    <string name="power_mode_select_desc">Chọn một cấu hình Pin đáp ứng nhu cầu cá nhân của bạn</string>
     <string name="power_used_prefix">Pin đã dùng</string>
     <string name="power_used_hours">giờ</string>
     <string name="power_used_mins">phút</string>
@@ -572,9 +578,9 @@ Lưu ý: ứng dụng có thể gây ra sự mất ổn định hệ thống, th
     <string name="power_battery_history_hours">%1$d giờ %2$d phút</string>
     <string name="power_battery_history_minutes">%1$d phút</string>
     <string name="power_battery_history_zero_minutes">0 phút</string>
-    <string name="power_autorun_empty">Không có ứng dụng</string>
+    <string name="power_autorun_empty">Không có ứng dụng nào</string>
     <string name="power_autorun_apps_empty">Không có ứng dụng tự khởi chạy</string>
-    <string name="power_perm_logs_empty">Không có bản ghi</string>
+    <string name="power_perm_logs_empty">Không có nhật ký</string>
     <string name="dialog_title_auto_start_tips">Thông tin tự khởi chạy</string>
     <string name="dialog_message_auto_start_tips">Một số ứng dụng bảo mật có thể chỉ ra rằng MIUI đã ngăn cản chúng khởi chạy. Để kiểm tra các quyền đã được cấp cho các ứng dụng cá nhân, hãy vào Cài đặt > Ứng dụng.</string>
     <string name="button_text_known">Tôi biết</string>
@@ -583,28 +589,28 @@ Lưu ý: ứng dụng có thể gây ra sự mất ổn định hệ thống, th
     <string name="protection_category_dangerous_title">Các mục nguy hiểm (%d)</string>
     <string name="protection_category_recommend_title">Tối ưu hóa được đề nghị (%d)</string>
     <string name="protection_category_security_title">Xóa (%d)</string>
-    <string name="title_virus_no">Virus được phát hiện</string>
-    <string name="title_virus_yes">Không có virus được phát hiện</string>
+    <string name="title_virus_no">Phát hiện virus</string>
+    <string name="title_virus_yes">Không phát hiện virus nào</string>
     <string name="summary_virus">Tìm thấy %2$d virus</string>
     <string name="title_permission_no">Tắt giám sát quyền</string>
     <string name="title_permission_yes">Bật giám sát quyền</string>
     <string name="summary_permission">Bảo vệ sự riêng tư của tôi khỏi các ứng dụng của bên thứ ba</string>
-    <string name="title_mms_no">Vô hiệu hóa Bộ lọc Tin nhắn</string>
-    <string name="title_mms_yes">Kích hoạt Bộ lọc Tin nhắn</string>
+    <string name="title_mms_no">Tắt Bộ lọc Tin nhắn</string>
+    <string name="title_mms_yes">Bật Bộ lọc Tin nhắn</string>
     <string name="summary_mms">Lọc tin nhắn không mong muốn (bán hàng, quảng cáo, vv…)</string>
     <string name="title_usb_no">Gỡ lỗi USB bật</string>
     <string name="title_usb_yes">Gỡ lỗi USB tắt</string>
     <string name="summary_usb">Tránh virus lây lan thông qua kết nối USB</string>
-    <string name="title_virus_update_no">Tắt tự động cập nhật cơ sở dữ liệu virus</string>
-    <string name="title_virus_update_yes">Bật tự động cập nhật cơ sở dữ liệu virus</string>
-    <string name="summary_virus_update">Tự động cập nhật cơ sở dữ liệu virus khi kết nối với Wi-Fi</string>
+    <string name="title_virus_update_no">Tắt tự động cập nhật định nghĩa virus</string>
+    <string name="title_virus_update_yes">Bật tự động cập nhật định nghĩa virus</string>
+    <string name="summary_virus_update">Tự động cập nhật định nghĩa virus khi kết nối với Wi-Fi</string>
     <string name="title_install_virus_no">Tắt giám sát cài đặt</string>
     <string name="title_install_virus_yes">Bật giám sát cài đặt</string>
     <string name="summary_install_virus">Kiểm tra virus các ứng dụng trước khi cài đặt</string>
     <string name="title_miui_update_no">Tìm thấy bản cập nhật MIUI: %s</string>
     <string name="title_miui_update_yes">Hệ thống MIUI là phiên bản mới nhất</string>
     <string name="title_app_update_no">%d ứng dụng có bản cập nhật</string>
-    <string name="title_app_update_yes">Tất cả các ứng dụng đã được cập nhật mới nhất</string>
+    <string name="title_app_update_yes">Tất cả ứng dụng đã được cập nhật mới nhất</string>
     <string name="title_data_flow_no">Tắt giám sát sử dụng dữ liệu</string>
     <string name="title_data_flow_yes">Bật giám sát sử dụng dữ liệu</string>
     <string name="title_show_notification_yes">Bật hiển thị trong thanh thông báo</string>
@@ -614,18 +620,18 @@ Lưu ý: ứng dụng có thể gây ra sự mất ổn định hệ thống, th
     <string name="button_text_security">Bảo mật</string>
     <string name="item_virus">Virus</string>
     <string name="item_usb_debug">Gỡ lỗi USB</string>
-    <string name="item_virus_lib">Tự động cập nhật cơ sở dữ liệu virus</string>
+    <string name="item_virus_lib">Tự động cập nhật định nghĩa virus</string>
     <string name="item_install_monitor">Giám sát cài đặt</string>
     <string name="item_app_permission">Quyền ứng dụng</string>
     <string name="item_mms">Lọc tin nhắn không mong muốn</string>
-    <string name="score_good_state">Điện thoại đã được tối ưu</string>
-    <string name="score_need_optimize">Đề nghị tối ưu hóa</string>
+    <string name="score_good_state">Thiết bị đã được tối ưu</string>
+    <string name="score_need_optimize">Đề nghị tối ưu</string>
     <string name="app_name">Bảo mật</string>
     <string name="action_settings">Cài đặt</string>
     <string name="hello_world">Việt hóa bởi ♋๖ۣۜßεℓ™!</string>
     <string name="optimize_now">Bắt đầu</string>
     <string name="score">Điểm</string>
-    <string name="valuation">Làm sạch được đề nghị</string>
+    <string name="valuation">Đề nghị làm sạch</string>
     <string name="virus_scan">Quét Virus</string>
     <string name="network_assistant">Sử dụng dữ liệu</string>
     <string name="anti_spam">Danh sách chặn</string>
@@ -653,20 +659,20 @@ Lưu ý: ứng dụng có thể gây ra sự mất ổn định hệ thống, th
     <string name="virus_scanner_title">Quét Virus</string>
     <string name="virus_scanner_scanning">Đang quét…</string>
     <string name="virus_scanner_scan">Quét</string>
-    <string name="virus_scanner_select_lib">Cơ sở dữ liệu virus</string>
-    <string name="virus_scanner_select_trust_lib">Chọn cơ sở dữ liệu virus đáng tin cậy</string>
-    <string name="virus_scanner_update_lib">Cập nhật dữ liệu</string>
-    <string name="virus_scanner_select_multi">Chọn thêm một hoặc nhiều cơ sở dữ liệu virus có thể làm chậm cài đặt và quét</string>
-    <string name="virus_scanner_select_single">Chỉ dùng một cơ sở dữ liệu virus từ nguồn đáng tin cậy nhất</string>
-    <string name="virus_scanner_provider">Dữ liệu được cung cấp bởi %s</string>
+    <string name="virus_scanner_select_lib">Định nghĩa virus</string>
+    <string name="virus_scanner_select_trust_lib">Chọn định nghĩa virus đáng tin cậy</string>
+    <string name="virus_scanner_update_lib">Cập nhật định nghĩa</string>
+    <string name="virus_scanner_select_multi">Chọn thêm một hoặc nhiều định nghĩa virus có thể làm chậm cài đặt và quét</string>
+    <string name="virus_scanner_select_single">Chỉ dùng một định nghĩa virus từ nguồn đáng tin cậy nhất</string>
+    <string name="virus_scanner_provider">Định nghĩa được cung cấp bởi %s</string>
     <string name="virus_scanner_module">Tencent</string>
     <string name="virus_scanner_auto_update">Tự động cập nhật</string>
     <string name="virus_scanner_date_formater">d/M/yyyy</string>
     <string name="virus_scanner_manual_update">Cập nhật lúc %s</string>
-    <string name="virus_scanner_lib_updating">Đang nâng cấp cơ sở dữ liệu virus…</string>
-    <string name="virus_scanner_lib_already_latest">Bạn đã sử dụng cơ sở dữ liệu mới nhất</string>
+    <string name="virus_scanner_lib_updating">Đang cập nhật định nghĩa virus…</string>
+    <string name="virus_scanner_lib_already_latest">Bạn đã sử dụng định nghĩa mới nhất</string>
     <string name="virus_scan_app_safe_scanning">Đang quét…</string>
-    <string name="virus_scan_app_multi_engines">Bạn đang sử dụng nhiều hơn một tập hợp cơ sở dữ liệu, thời gian quét sẽ lâu hơn.</string>
+    <string name="virus_scan_app_multi_engines">Bạn đang sử dụng nhiều hơn một định nghĩa virus, thời gian quét sẽ lâu hơn.</string>
     <string name="virus_scan_app_scanning">Đang quét…</string>
     <string name="virus_scan_app_waiting">Đang chờ…</string>
     <string name="virus_scan_app_passed">Quét virus hoàn tất!</string>
@@ -820,14 +826,14 @@ Lưu ý: ứng dụng có thể gây ra sự mất ổn định hệ thống, th
     <string name="button_start_optimize">Kiểm tra</string>
     <string name="cancel_scan">Hủy</string>
     <string name="cancel_optimize">Hủy</string>
-    <string name="quick_optimize">Tối ưu hóa</string>
+    <string name="quick_optimize">Tối ưu</string>
     <string name="restore_default_settings">Khôi phục cài đặt mặc định</string>
     <string name="quick_clean">Dọn dẹp</string>
     <string name="realtime_protection">Bảo vệ hệ thống</string>
     <string name="free_ram">Bộ nhớ được sử dụng</string>
     <string name="cache_garbage">Tập tin đệm</string>
     <string name="optimize_done">Tối ưu hóa hoàn tất!</string>
-    <string name="work_done">Xong</string>
+    <string name="work_done">Hoàn tất</string>
     <string name="last_checked_date">Khuyến cáo: Lần quét gần nhất là hơn 30 ngày trước</string>
     <string name="last_checked_date_mark">điểm</string>
     <string name="last_checked_date2">Lần quét gần nhất là %d ngày trước</string>
@@ -871,7 +877,7 @@ Lưu ý: ứng dụng có thể gây ra sự mất ổn định hệ thống, th
     <string name="menu_item_shortcut">Tạo lối tắt</string>
     <string name="menu_item_shortcut_uninstall">Xóa lối tắt</string>
     <string name="menu_item_shortcut_title">Quản lý lối tắt</string>
-    <string name="menu_item_shortcut_summary">Đặt các tính năng thường xuyên được sử dụng trên màn hình chính của bạn</string>
+    <string name="menu_item_shortcut_summary">Đặt các tính năng thường xuyên được sử dụng trên màn hình chính</string>
     <string name="menu_item_settings_title">Cài đặt</string>
     <string name="activity_title_create_shortcut">Quản lý lối tắt</string>
     <string name="activity_title_settings">Cài đặt</string>
@@ -913,7 +919,7 @@ Lưu ý: ứng dụng có thể gây ra sự mất ổn định hệ thống, th
     <string name="virus_scan_parpare">Chuẩn bị công cụ chống virus…</string>
     <string name="virus_scan_is_scanning">Đang quét…</string>
     <string name="virus_scan_stop">Tạm dừng</string>
-    <string name="virus_scan_finish">Xong</string>
+    <string name="virus_scan_finish">Hoàn tất</string>
     <string name="virus_scan_clear">Làm sạch</string>
     <string name="virus_scan_never_scaned">Đề nghị quét</string>
     <string name="virus_scan_file_type_virus_installed">Virus (ứng dụng đã cài)</string>
@@ -997,7 +1003,7 @@ Lưu ý: ứng dụng có thể gây ra sự mất ổn định hệ thống, th
     <string name="radioInfo_data_connecting">Đang kết nối…</string>
     <string name="radioInfo_data_connected">Đã kết nối</string>
     <string name="radioInfo_data_suspended">Đã tạm ngưng</string>
-    <string name="radioInfo_unknown">không xác định</string>
+    <string name="radioInfo_unknown">không rõ</string>
     <string name="radioInfo_display_packets">pkts</string>
     <string name="radioInfo_display_bytes">byte</string>
     <string name="radioInfo_display_dbm">dBm</string>
@@ -1012,8 +1018,8 @@ Lưu ý: ứng dụng có thể gây ra sự mất ổn định hệ thống, th
     <string name="font_size_preview_text">Bạn đang sử dụng Miui đa ngôn ngữ (Việt hóa bởi ♋๖ۣۜßεℓ™).</string>
     <string name="font_size_save">OK</string>
     <string name="sdcard_setting">Thẻ SD</string>
-    <string name="battery_info_status_label">Tình trạng Pin:</string>
-    <string name="battery_info_power_label">Phích nguồn:</string>
+    <string name="battery_info_status_label">Trạng thái Pin:</string>
+    <string name="battery_info_power_label">Cắm sạc:</string>
     <string name="battery_info_scale_label">Tỷ lệ Pin:</string>
     <string name="battery_info_level_label">Mức Pin:</string>
     <string name="battery_info_health_label">Tình trạng Pin:</string>
@@ -1117,11 +1123,11 @@ Lưu ý: ứng dụng có thể gây ra sự mất ổn định hệ thống, th
     <string name="intent_sender_account_label">"Tài khoản: "</string>
     <string name="proxy_settings_title">Proxy</string>
     <string name="proxy_clear_text">Xóa</string>
-    <string name="proxy_port_label">Cổng proxy</string>
+    <string name="proxy_port_label">Cổng</string>
     <string name="proxy_exclusionlist_label">Bỏ qua proxy cho</string>
     <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
     <string name="proxy_defaultView_text">Khôi phục mặc định</string>
-    <string name="proxy_action_text">Xong</string>
+    <string name="proxy_action_text">Hoàn tất</string>
     <string name="proxy_hostname_label">Tên máy chủ proxy</string>
     <string name="proxy_hostname_hint">proxy.example.com</string>
     <string name="proxy_error">Chú ý</string>
@@ -1392,7 +1398,7 @@ Quá trình mã hóa mất ít nhất một giờ. Bạn phải bắt đầu khi
     <string name="bluetooth_device_advanced_rename_device">Đổi tên</string>
     <string name="bluetooth_device_advanced_enable_opp_title">Cho phép truyền tập tin đến</string>
     <string name="bluetooth_a2dp_profile_summary_connected">Đã kết nối với âm thanh phương tiện</string>
-    <string name="bluetooth_headset_profile_summary_connected">Đã kết nối với âm thanh điện thoại</string>
+    <string name="bluetooth_headset_profile_summary_connected">Đã kết nối với âm thanh thiết bị</string>
     <string name="bluetooth_opp_profile_summary_connected">Đã kết nối với máy chủ chuyển tập tin</string>
     <string name="bluetooth_map_profile_summary_connected">Đã kết nối với bản đồ</string>
     <string name="bluetooth_sap_profile_summary_connected">Đã kết nối tới Máy Chủ Truy Cập Thẻ SIM</string>
@@ -1402,7 +1408,7 @@ Quá trình mã hóa mất ít nhất một giờ. Bạn phải bắt đầu khi
     <string name="bluetooth_pan_user_profile_summary_connected">Đã kết nối với thiết bị</string>
     <string name="bluetooth_pan_nap_profile_summary_connected">Chia sẻ kết nối Internet</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">Sử dụng cho âm thanh phương tiện</string>
-    <string name="bluetooth_headset_profile_summary_use_for">Sử dụng cho âm thanh điện thoại</string>
+    <string name="bluetooth_headset_profile_summary_use_for">Sử dụng cho âm thanh thiết bị</string>
     <string name="bluetooth_opp_profile_summary_use_for">Dùng để truyền tải tập tin</string>
     <string name="bluetooth_sap_profile_summary_use_for">Dùng để Truy Cập Thẻ SIM</string>
     <string name="bluetooth_dun_profile_summary_use_for">Dùng để Truy Cập Mạng Quay Số</string>
@@ -1424,7 +1430,7 @@ Quá trình mã hóa mất ít nhất một giờ. Bạn phải bắt đầu khi
     <string name="wifi_display_details">Cài đặt hiển thị</string>
     <string name="wifi_display_options_title">Tùy chọn hiển thị Wi-Fi</string>
     <string name="wifi_display_options_forget">Quên</string>
-    <string name="wifi_display_options_done">Xong</string>
+    <string name="wifi_display_options_done">Hoàn tất</string>
     <string name="wifi_display_options_name">Tên</string>
     <string name="wifi_display_certification_heading">Chứng chỉ</string>
     <string name="wifi_display_session_info">Thông tin phiên</string>
@@ -1442,9 +1448,7 @@ Quá trình mã hóa mất ít nhất một giờ. Bạn phải bắt đầu khi
     <string name="android_beam_off_summary">Tắt</string>
     <string name="android_beam_disabled_summary">Không khả dụng vì NFC bị tắt</string>
     <string name="android_beam_label">Android Beam</string>
-    <string name="android_beam_explained">"Khi tính năng này được bật, bạn có thể truyền nội dung ứng dụng vào thiết bị có khả năng NFC khác bằng cách giữ các thiết bị gần nhau. Ví dụ: bạn có thể truyền các trang Trình duyệt, video trên YouTube, danh sách liên hệ Người và nhiều thứ khác.
-
-Chỉ cần đưa thiết bị gần nhau (thường quay lưng lại với nhau) rồi chạm vào màn hình của bạn. Ứng dụng xác định nội dung nào được truyền."</string>
+    <string name="android_beam_explained">Bạn có thể gửi một trang web, một đoạn video hoặc nội dung khác từ màn hình của bạn với thiết bị khác, bằng cách chạm các thiết bị với nhau (thường quay lưng vào nhau).</string>
     <string name="nsd_quick_toggle_title">Khám phá dịch vụ mạng</string>
     <string name="nsd_quick_toggle_summary">Cho phép ứng dụng trên các thiết bị khác khám phá ứng dụng trên thiết bị này.</string>
     <string name="wifi_quick_toggle_title">Wi-Fi</string>
@@ -1978,7 +1982,9 @@ Bạn hiện đã đăng nhập vào các tài khoản sau:
     <string name="lockpattern_change_lock_pattern_label">Thay đổi hình mở khóa</string>
     <string name="lockpattern_change_lock_pin_label">Thay đổi mã PIN mở khóa</string>
     <string name="lockpattern_need_to_unlock">Xác nhận hình đã lưu</string>
+    <string name="lockpattern_need_to_unlock_footer" />
     <string name="lockpattern_need_to_unlock_wrong">Thử lại:</string>
+    <string name="lockpattern_need_to_unlock_wrong_footer" />
     <string name="lockpattern_recording_intro_header">Vẽ hình mở khóa</string>
     <string name="lockpattern_recording_intro_footer">Nhấn vào Trình đơn để được trợ giúp.</string>
     <string name="lockpattern_recording_inprogress">Thả ngón tay khi xong.</string>
@@ -2297,8 +2303,8 @@ Một số ứng dụng có thể không hoạt động cho đến khi được 
     <string name="accessibility_screen_magnification_summary">"Khi tính năng này được bật, bạn có thể phóng to và thu nhỏ bằng cách chạm ba lần vào màn hình.
 
 Trong khi phóng to, bạn có thể:
-"<ul><li>"Xoay: Kéo hai hoặc nhiều ngón tay qua màn hình.
-"<li>Điều chỉnh mức thu phóng: Chụm hai hoặc nhiều ngón tay với nhau hoặc tách chúng ra.</li></li></ul>"
+"<li><ul>"Xoay: Kéo hai hoặc nhiều ngón tay qua màn hình.
+"<li>Điều chỉnh mức thu phóng: Chụm hai hoặc nhiều ngón tay với nhau hoặc tách chúng ra.</li></ul></li>"
 
 Bạn cũng có thể tạm thời thu phóng các mục bên dưới ngón tay bạn bằng cách nhấn ba lần và giữ. Ở trạng thái thu phóng này, bạn có thể kéo ngón tay để khám phá các phần khác nhau của màn hình. Thả ngón tay để trở về trạng thái trước.
 
@@ -2546,7 +2552,7 @@ Nếu thiết bị có nhiều người dùng, việc sử dụng lối tắt n�
     <string name="gadget_wifi">Wi-Fi</string>
     <string name="gadget_bluetooth">Bluetooth</string>
     <string name="gadget_location">Vị trí</string>
-    <string name="gadget_sync">Đồng bộ hóa</string>
+    <string name="gadget_sync">Đồng bộ</string>
     <string name="gadget_brightness_template">Độ sáng %1$s</string>
     <string name="gadget_brightness_state_auto">tự động</string>
     <string name="gadget_brightness_state_full">tối đa</string>
@@ -2902,7 +2908,7 @@ Không thể truy cập Trình đơn"</string>
     <string name="selinux_status_permissive">Cho phép</string>
     <string name="selinux_status_enforcing">Thực thi</string>
     <string name="ssl_ca_cert_warning">Mạng có thể bị giám sát</string>
-    <string name="done_button">Xong</string>
+    <string name="done_button">Hoàn tất</string>
     <string name="ssl_ca_cert_dialog_title">Theo dõi mạng</string>
     <string name="ssl_ca_cert_info_message">"Thiết bị này được quản lý bởi: 
 %s 
@@ -2915,6 +2921,7 @@ Quản trị viên của bạn có thể giám sát hoạt động mạng của 
 Điều này có thể xảy ra do một chứng chỉ xác thực đáng tin cậy được cài đặt trên thiết bị của bạn."</string>
     <string name="ssl_ca_cert_settings_button">Kiểm tra chứng chỉ đáng tin cậy</string>
     <string name="tune_away_title">Tune Away</string>
+    <string name="tune_away_Default">Tắt</string>
     <string name="tune_away_enabled">TuneAway đã bật!</string>
     <string name="tune_away_disabled">TuneAway đã tắt!</string>
     <string name="priority_sub_title">Thuê Bao Ưu Tiên</string>
@@ -3128,6 +3135,8 @@ Bất kỳ người dùng nào cũng có thể chấp nhận các quyền của 
     <string name="preferred_sms_warning_use_system">Không dùng</string>
     <string name="preferred_sms_settings">Ứng dụng này sẽ được thiết lập như là ứng dụng mặc định của bạn để đọc và soạn tin nhắn văn bản.</string>
     <string name="preferred_sms_title">Ứng dụng tin nhắn mặc định</string>
+    <string name="title_font">Phông chữ</string>
+    <string name="title_font_current">Đang dùng</string>
     <string name="key_settings_title">Phím</string>
     <string name="key_settings">Cài đặt phím</string>
     <string name="screen_key_long_press">Bấm và giữ phím</string>
@@ -3336,15 +3345,15 @@ Lưu ý: Thao tác này không thể khôi phục lại."</string>
     <string name="dirac_switch_title">Sử dụng bộ tăng cường MiSound</string>
     <string name="dirac_switch_summary">Luôn sử dụng bộ tăng cường MiSound khi sử dụng loa</string>
     <string name="dirac_mode_off">Dirac tắt</string>
-    <string name="dirac_mode_in_ear">Tai nghe Xiaomi</string>
-    <string name="dirac_mode_earbuds">Tai nghe</string>
+    <string name="dirac_mode_in_ear">Tai nghe trong Mi (nhỏ)</string>
+    <string name="dirac_mode_earbuds">Tai nghe Mi</string>
     <string name="dirac_mode_piston_100">Tai nghe Piston Xiaomi</string>
     <string name="dirac_mode_general">Chung</string>
     <string name="dirac_mode_general_earbuds">Tai nghe chung</string>
     <string name="dirac_mode_general_inear">Tai nghe trong chung</string>
-    <string name="dirac_mode_piston_1">Xiaomi piston-1</string>
-    <string name="dirac_mode_piston_2">Xiaomi piston-2</string>
-    <string name="dirac_mode_piston_youth">Xiaomi piston-youth</string>
+    <string name="dirac_mode_piston_1">Mi piston-1</string>
+    <string name="dirac_mode_piston_2">Mi piston-2</string>
+    <string name="dirac_mode_piston_youth">Mi piston-youth</string>
     <string name="equalizer">Bộ chỉnh âm thanh</string>
     <string name="wifi_menu_wfd">Hiển thị Wi-Fi</string>
     <string name="wfd_settings_title">Cài đặt hiển thị Wi-Fi</string>
@@ -3358,9 +3367,12 @@ Lưu ý: Thao tác này không thể khôi phục lại."</string>
     <string name="wfd_disconnect_diag_title">Ngắt kết nối Wi-Fi?</string>
     <string name="wfd_disconnect_diag_msg">Nếu kết nối Wi-Fi bị gián đoạn, kết nối của bạn với %1$s sẽ chấm dứt.</string>
     <string name="wfd_disconnect_multiple_diag_message">Nếu kết nối Wi-Fi bị gián đoạn, kết nối của bạn với %1$s và %2$s thiết bị khác sẽ chấm dứt.</string>
-    <string name="wfd_wps_keypad">Nhấn nút</string>
+    <string name="wfd_wps_keypad">Nút nhấn ưa thích</string>
     <string name="wfd_wps_pbc">Nhập mã PIN</string>
     <string name="power_mode">Chế độ Pin</string>
+    <string name="high_performance_title">"Có vẻ như bạn đang muốn chay Antutu Benchmark. Chọn \"Hiệu suất\" để có kết quả tốt nhất."</string>
+    <string name="high_performance_notif_title">Cảnh báo việc sử dụng Pin</string>
+    <string name="high_performance_notif_summary">Chết độ Hiệu Suất đang bật.</string>
     <string name="skip_step">Bỏ qua bước này</string>
     <string name="msd_help_title">Trợ giúp</string>
     <string name="msd_help_summary">"Gặp vấn đề khi truy cập vào điện thoại của bạn qua PC?
@@ -3474,8 +3486,8 @@ Tải về tại at http://miui.com/mac"</string>
     <string name="modem_tool_log">Thu thập bản ghi Modem</string>
     <string name="modem_tool_log_start">Bắt đầu thu thập</string>
     <string name="modem_tool_log_stop">Dừng thu thập</string>
-    <string name="modem_tool_log_start_toast">"Bắt đầu đường dẫn để lưu các bản ghi modem %s"</string>
-    <string name="modem_tool_log_stop_toast">"Dừng để lưu các bản ghi modem từ %s"</string>
+    <string name="modem_tool_log_start_toast">Bắt đầu đường dẫn để lưu các bản ghi modem %s</string>
+    <string name="modem_tool_log_stop_toast">Dừng để lưu các bản ghi modem từ %s</string>
     <string name="wifi_tether_setting_title">Cài đặt cơ bản</string>
     <string name="audio_profile_settings_title">Cấu hình âm thanh</string>
     <string name="enable_wifi_display">Bật hiển thị Wi-Fi</string>
@@ -3612,7 +3624,7 @@ Tải về tại at http://miui.com/mac"</string>
     <string name="preferred_app_settings_reset">Khôi phục lại mặc định</string>
     <string name="preferred_app_settings_reset_message">Bạn có chắc để khôi phục lại cài đặt ứng dụng mặc định?</string>
     <string name="translation_contributors_title">Người đóng góp dịch thuật</string>
-    <string name="security_keyguard_category_name">Phím bảo vệ</string>
+    <string name="security_keyguard_category_name">Khóa màn hình</string>
     <string name="security_password_category_name">Mật khẩu</string>
     <string name="bluetooth_unlock_title">Mở khóa bằng thiết bị Bluetooth</string>
     <string name="bluetooth_unlock_turned_off">Đã tắt</string>
@@ -3628,7 +3640,8 @@ Tải về tại at http://miui.com/mac"</string>
     <string name="bluetooth_unlock_confirm_device_text">Vui lòng vỗ thiết bị để xác nhận</string>
     <string name="bluetooth_unlock_device_matched_text">Sử dụng thiết bị này để mở khóa phím bảo vệ</string>
     <string name="bluetooth_unlock_delete_device_confirm_msg">Bạn có chắc muốn xóa thiết bị này?</string>
-    <string name="bluetooth_unlock_change_device_confirm_msg">Thiết bị phù hợp cũ sẽ được thay thế bằng cái mới, bạn có chắc muốn tiếp tục?</string>
+    <string name="bluetooth_unlock_change_device_confirm_msg">Thiết bị cũ sẽ được thay thế bằng thiết bị hiện tại</string>
+    <string name="bluetooth_preference_connected_devices">Đã kết nối thiết bị</string>
     <string name="wifi_type_approval_title">Kiểu phê duyệt</string>
     <string name="app_feedback">Báo cáo Lỗi</string>
     <string name="app_backup">Sao lưu</string>
@@ -3636,6 +3649,14 @@ Tải về tại at http://miui.com/mac"</string>
     <string name="system_backup_section_title">Sao lưu</string>
     <string name="local_backup_section_title">Sao lưu trên máy</string>
     <string name="local_backup_section_summary">Sao lưu cài đặt hệ thống, tài khoản và dữ liệu ứng dụng</string>
+    <string name="use_network_warning">Bạn cần kết nối internet để thiết lập và đồng bộ hóa tài khoản Mi của bạn</string>
+    <string name="accessibility_service_no_apps_prompt">TalkBack cung cấp phản hồi bằng giọng nói để giúp đỡ người mù và thị lực thấp. Tải dịch vụ này miễn phí từ cửa hàng chơi Google.</string>
+    <string name="accessibility_service_no_apps_confirm">OK</string>
+    <string name="priority_storage_title">Cài đặt lưu trữ</string>
+    <string name="priority_storage_summary">Chọn vị trí mặc định để lưu dữ liệu người dùng</string>
+    <string name="priority_storage_settings_summary">"Nếu không phát hiện thẻ SD phát hiện, dữ liệu người dùng sẽ tự động được lưu vào bộ nhớ trong của thiết bị."</string>
+    <string name="priority_storage_app_settings">Dữ liệu người dùng sẽ được lưu vào %1$s</string>
+    <string name="enable_mobile_data_when_opening_hotspot">Bật kết nối dữ liệu di động?</string>
     <string name="miracast_settings_category">Cài đặt hiển thị Wi-Fi</string>
     <string name="miracast_display_category">Hiển thị</string>
     <string name="miracast_menu_search">Tìm kiếm</string>
