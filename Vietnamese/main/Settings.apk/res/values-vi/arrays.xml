@@ -10,9 +10,8 @@
         <item>Từ chối</item>
     </string-array>
     <string-array name="power_mode_entries">
-        <item>Hiệu suất cao</item>
-        <item>Cân bằng</item>
-        <item>Tiết kiệm Pin</item>
+        <item>Hiệu suất</item>
+        <item>Bình thường</item>
     </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Sau 1 phút</item>
@@ -30,9 +29,8 @@
         <item>Không bao giờ</item>
     </string-array>
     <string-array name="power_dialog_cpu_state_items">
-        <item>Hiệu suất cao</item>
-        <item>Cân bằng</item>
-        <item>Tiết kiệm Pin</item>
+        <item>Hiệu suất</item>
+        <item>Bình thường</item>
     </string-array>
     <string-array name="power_dialog_vibration_items">
         <item>Không rung</item>
@@ -43,14 +41,14 @@
         <item>Tắt Danh sách chặn</item>
         <item>Tắt Quản lý Quyền</item>
         <item>Thùng rác đầy</item>
-        <item>Cơ sở dữ liệu virus đã lỗi thời</item>
+        <item>Định nghĩa virus đã lỗi thời</item>
         <item>Có quá nhiều tiến trình nền</item>
     </string-array>
     <string-array name="score_suggests">
         <item>Bật Danh sách chặn</item>
         <item>Bật Quản lý Quyền</item>
         <item>Làm sạch thùng rác</item>
-        <item>Cập nhật thư viện virus</item>
+        <item>Cập nhật định nghĩa virus</item>
         <item>Bạn đang dùng rất nhiều ứng dụng trong nền…</item>
     </string-array>
     <string-array name="timezone_filters">
@@ -210,7 +208,7 @@
     </string-array>
     <string-array name="emergency_tone_entries">
         <item>Tắt</item>
-        <item>Thông báo</item>
+        <item>Cảnh báo</item>
         <item>Rung</item>
     </string-array>
     <string-array name="apn_auth_entries">
@@ -574,10 +572,10 @@
         <item>2 giây</item>
     </string-array>
     <string-array name="wfd_status">
-        <item>Thiết bị đã kết nối, đang tạo phiên…</item>
-        <item>Phiên đã được tạo</item>
+        <item>Đang khởi động phiên…</item>
+        <item>Phiên đã khởi động</item>
         <item>Phiên đang sụp…</item>
-        <item>Phiên đã thất bại</item>
+        <item>Không thể khởi động phiên</item>
         <item>Hết thời gian, đang thử lại…</item>
         <item>Thiết bị đã kết nối</item>
     </string-array>
@@ -590,7 +588,7 @@
     <string-array name="msd_pc_system_install_start_summary">
         <item>Đối với Windows XP hoặc các phiên bản cũ hơn, driver cần phải được cài đặt bằng tay.</item>
         <item>@string/msd_pc_system_install_start_summary_vista</item>
-        <item>Đối với hệ điều hành Mac OS, driver cần phải được cài đặt bằng tay.</item>
+        <item>Đối với Mac OS, driver cần phải được cài đặt bằng tay.</item>
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_install_step_1_summary">
