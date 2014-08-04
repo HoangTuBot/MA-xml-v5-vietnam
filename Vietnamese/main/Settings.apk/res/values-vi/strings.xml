@@ -1032,7 +1032,7 @@ Lưu ý: ứng dụng có thể gây ra sự mất ổn định hệ thống, th
     <string name="battery_info_awake_battery">Thời gian thức trên Pin:</string>
     <string name="battery_info_awake_plugged">Thời gian thức khi sạc:</string>
     <string name="battery_info_screen_on">Thời gian màn hình BẬT:</string>
-    <string name="battery_info_status_unknown">Không xác định</string>
+    <string name="battery_info_status_unknown">Không rõ</string>
     <string name="battery_info_status_charging">Đang sạc</string>
     <string name="battery_info_status_charging_ac">(AC)</string>
     <string name="battery_info_status_charging_usb">(USB)</string>
@@ -1736,7 +1736,7 @@ Số lần thử còn lại: "</string>
     <string name="firmware_version">Phiên bản Android</string>
     <string name="model_number">Số kiểu</string>
     <string name="fcc_equipment_id">ID thiết bị</string>
-    <string name="baseband_version">Phiên bản dải tần cơ sở</string>
+    <string name="baseband_version">Phiên bản băng tần</string>
     <string name="kernel_version">Phiên bản Kernel</string>
     <string name="build_number">Số phiên bản</string>
     <string name="selinux_status">Trạng thái SELinux</string>
