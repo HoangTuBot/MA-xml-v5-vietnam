@@ -498,4 +498,6 @@ Vui lòng tắt chế độ máy bay."</string>
     <string name="sync_data_msg_seperate">, </string>
     <string name="sync_data_loading">Đang lấy thông tin từ máy chủ…</string>
     <string name="sync_data_merge_warning_title">Cảnh Báo Sát Nhập Dữ Liệu</string>
+    <string name="softap_notifif_title">Điểm phát sóng \"%s\" đã bật</string>
+    <string name="softap_notifif_summary">%d đã kết nối</string>
 </resources>
