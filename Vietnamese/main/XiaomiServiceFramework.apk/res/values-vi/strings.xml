@@ -15,7 +15,7 @@
     <string name="captcha">Nhập mã captcha</string>
     <string name="vcode">Mã xác minh</string>
     <string name="bad_authentication">Tên đăng nhập hoặc mật khẩu không hợp lệ</string>
-    <string name="int_phone_user_notice">Thêm mã quốc gia của bạn khi sử dụng một điện thoại di động để đăng nhập.</string>
+    <string name="int_phone_user_notice">Thêm mã quốc gia của bạn khi sử dụng số điện thoại di động để đăng nhập.</string>
     <string name="micloud_welcome_skip_login"><u>Bỏ qua bước này</u></string>
     <string name="micloud_account_name">Mi Cloud</string>
     <string name="micloud_use_existing">Đăng nhập</string>
