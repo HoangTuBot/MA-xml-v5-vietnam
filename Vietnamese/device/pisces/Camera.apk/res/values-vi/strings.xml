@@ -147,7 +147,7 @@
     <string name="video_reach_size_limit">Đã đạt tới kích thước giới hạn.</string>
     <string name="pref_camera_hfr_title">Tốc độ khung hình cao (quay chậm)</string>
     <string name="pref_camera_hfr_entry_off">Tắt</string>
-    <string name="pref_video_speed_title">Quay tốc độ cao</string>
+    <string name="pref_video_speed_title">Tốc độ quay video</string>
     <string name="pref_video_speed_entry_normal">Chuẩn</string>
     <string name="pref_video_speed_entry_fast">Nhanh</string>
     <string name="pref_video_speed_entry_slow">Chậm</string>
