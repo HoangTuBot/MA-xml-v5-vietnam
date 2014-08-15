@@ -303,13 +303,13 @@
     <string name="flash">Flash</string>
     <string name="description">Mô tả</string>
     <string name="duration">Thời lượng</string>
-    <string name="file_size">Kích thước tập tin</string>
+    <string name="file_size">Kích thước</string>
     <string name="height">Chiều cao</string>
     <string name="loading_video">Đang tải video…</string>
     <string name="location">Vị trí</string>
-    <string name="maker">Người chụp</string>
+    <string name="maker">Thiết bị</string>
     <string name="mimetype">Loại MIME</string>
-    <string name="model">Người mẫu</string>
+    <string name="model">Đời máy</string>
     <string name="orientation">Định hướng</string>
     <string name="path">Đường dẫn</string>
     <string name="time">Thời gian</string>
